@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: nl\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2020-02-17 01:51\n"
+"PO-Revision-Date: 2024-04-18 03:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -81,7 +83,7 @@ msgstr "Je account is nu geactiveerd. <a href=\"%1$s\">Log in</a> of ga terug na
 #: wp-admin/about.php:15
 msgctxt "page title"
 msgid "About"
-msgstr "Over"
+msgstr "Over ons"
 
 #: wp-admin/about.php:20 wp-admin/credits.php:18 wp-admin/freedoms.php:21
 #: wp-admin/includes/dashboard.php:1349
@@ -1276,7 +1278,7 @@ msgstr "Besturing verbergen"
 #: wp-admin/customize.php:224
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
-msgstr "Verbergen"
+msgstr "Besturing verbergen"
 
 #: wp-admin/edit-comments.php:14
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:130
@@ -1813,7 +1815,7 @@ msgstr "Goedgekeurd"
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
 msgid "Pending"
-msgstr "Wachtend"
+msgstr "Wachtend op review"
 
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
@@ -1937,7 +1939,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentati
 #: wp-admin/menu.php:69
 msgctxt "link"
 msgid "Add New"
-msgstr "Nieuwe link"
+msgstr "Nieuw bestand"
 
 #: wp-admin/edit-link-form.php:82
 msgid "Link added."
@@ -2779,7 +2781,7 @@ msgstr "Gepubliceerd"
 #: wp-admin/includes/meta-boxes.php:94 wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/template.php:1765
 msgid "Scheduled"
-msgstr "Gepland"
+msgstr "Ingepland"
 
 #: wp-admin/includes/ajax-actions.php:1801
 #: wp-admin/includes/class-wp-posts-list-table.php:1650
@@ -4820,7 +4822,7 @@ msgstr "Sociaal"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:416
 msgctxt "Plugin installer group title"
 msgid "Tools"
-msgstr "Hulpmiddelen"
+msgstr "Extra"
 
 #. translators: 1: Plugin name and version.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:470
@@ -4869,7 +4871,7 @@ msgstr "Netwerk activeren %s"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:509
 msgctxt "plugin"
 msgid "Installed"
-msgstr "Ge&#239;nstalleerd"
+msgstr "Geïnstalleerd"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:519
 msgid "More Details"
@@ -8466,7 +8468,7 @@ msgstr "Exporteer persoonlijke gegevens"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "Over"
+msgstr "Over ons"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -12658,7 +12660,7 @@ msgstr "Ge&#239;nstalleerde plugins"
 #: wp-admin/menu.php:212 wp-admin/network/menu.php:62 wp-admin/plugins.php:526
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Nieuwe plugin"
+msgstr "Nieuw bestand"
 
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
@@ -12678,7 +12680,7 @@ msgstr "Alle gebruikers"
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr "Nieuwe toevoegen"
+msgstr "Nieuw bestand"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12694,7 +12696,7 @@ msgstr "Nieuwe gebruiker"
 
 #: wp-admin/menu.php:243 wp-admin/tools.php:22
 msgid "Tools"
-msgstr "Hulpmiddelen"
+msgstr "Extra"
 
 #: wp-admin/menu.php:244
 msgid "Available Tools"
@@ -12827,7 +12829,7 @@ msgstr "Instellingen opgeslagen."
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr "Nieuwe toevoegen"
+msgstr "Nieuw bestand"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13114,7 +13116,7 @@ msgstr "Locatie tonen"
 #: wp-admin/nav-menus.php:822
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
-msgstr "(Nu ingesteld op: %s)"
+msgstr "(Huidige ingesteld op: %s)"
 
 #: wp-admin/nav-menus.php:840 wp-includes/class-wp-customize-nav-menus.php:960
 msgid "Delete Menu"
@@ -13200,7 +13202,7 @@ msgstr "Ge&iuml;nstalleerde thema&#39;s"
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr "Nieuwe toevoegen"
+msgstr "Nieuw bestand"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -15976,7 +15978,7 @@ msgstr ""
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr "Nieuwe toevoegen"
+msgstr "Nieuw bestand"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -22118,7 +22120,7 @@ msgstr "Galerij aanmaken"
 
 #: wp-includes/media.php:3557
 msgid "Edit Gallery"
-msgstr "Galerij bewerken"
+msgstr "Galerij wijzigen"
 
 #: wp-includes/media.php:3558
 msgid "&#8592; Cancel Gallery"
@@ -22183,7 +22185,7 @@ msgstr "Audiodetails"
 
 #: wp-includes/media.php:3584
 msgid "Replace Audio"
-msgstr "Audio vervangen"
+msgstr "Audiobestand vervangen"
 
 #: wp-includes/media.php:3585
 msgid "Add Audio Source"
@@ -22195,7 +22197,7 @@ msgstr "Videodetails"
 
 #: wp-includes/media.php:3590
 msgid "Replace Video"
-msgstr "Video vervangen"
+msgstr "Videobestand vervangen"
 
 #: wp-includes/media.php:3591
 msgid "Add Video Source"
@@ -23045,7 +23047,7 @@ msgstr ""
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr "Nieuwe toevoegen"
+msgstr "Nieuw bestand"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"
@@ -23227,7 +23229,7 @@ msgstr "Afgerond"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr "In behandeling"
+msgstr "Wachtend op review"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"

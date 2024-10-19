@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-02-17 01:51\n"
+"PO-Revision-Date: 2024-06-21 03:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -96,16 +98,16 @@ msgstr "Bienvenue sur ClassicPress !"
 #: wp-admin/includes/class-wp-plugins-list-table.php:767
 #: wp-admin/includes/update.php:189 wp-admin/includes/update.php:214
 msgid "Version %s"
-msgstr ""
+msgstr "Version %s"
 
 #. translators: link to "business-focused CMS" article
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr ""
+msgstr "Merci d'utiliser ClassicPress, le CMS <a href=\"%s\">orienté business</a>."
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
-msgstr ""
+msgstr "Puissant. Polyvalent. Prévisible."
 
 #: wp-admin/about.php:38 wp-admin/credits.php:37 wp-admin/freedoms.php:40
 msgid "What&#8217;s New"
@@ -128,59 +130,59 @@ msgstr "Confidentialité"
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Aidez-nous à traduire ClassicPress dans votre langue ! <a href=\"%s\">En savoir plus</a>."
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
-msgstr ""
+msgstr "Présentation de ClassicPress"
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "ClassicPress est un fork de la branche 4.9 de WordPress, comprenant l'interface classique testée et éprouvée utilisant TinyMCE."
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "Cela a été une base solide pour des millions de sites depuis de nombreuses années, et nous pensons que cela sera aussi une excellente base pour l'avenir."
 
 #: wp-admin/about.php:68
 msgid "Join our growing community"
-msgstr ""
+msgstr "Rejoignez notre communauté grandissante"
 
 #. translators: 1: link with instructions to join ClassicPress Slack, 2: link
 #. to community forums
 #: wp-admin/about.php:72
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Slack group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "Pour une discussion générale sur ClassicPress, <a href=\"%1$s\"><strong>rejoignez notre groupe Slack</strong></a> ou notre forum communautaire <a href=\"%2$s\"><strong></strong></a>."
 
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80
 msgid "Suggestions for improvements to future versions of ClassicPress are welcome at <a href=\"%s\"><strong>our petitions site</strong></a>."
-msgstr ""
+msgstr "Les suggestions d'améliorations pour les futures versions de ClassicPress sont les bienvenues sur <a href=\"%s\"><strong>notre site</strong></a>."
 
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress
 #. support forum
 #: wp-admin/about.php:87
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Si vous avez besoin d'aide, regardez notre <a href=\"%1$s\"><strong>FAQ</strong></a>. Si toutefois vous ne trouvez pas de réponses, vous pouvez créer un sujet sur notre <a href=\"%2$s\"><strong>page de support</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub
 #. issues list
 #: wp-admin/about.php:95
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%1$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr ""
+msgstr "ClassicPress est développé <a href=\"%1$s\"><strong>sur GitHub</strong></a>. Pour des rapports de bogues spécifiques ou des suggestions techniques, voir la liste <a href=\"%1$s\"><strong>des fiches</strong></a> et ajouter votre rapport s'il n'est pas déjà présent."
 
 #: wp-admin/about.php:101
 msgid "WordPress Maintenance and Security Releases"
-msgstr ""
+msgstr "Mises à jour de maintenance et de sécurité"
 
 #: wp-admin/about.php:103
 msgid "ClassicPress currently includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "ClassicPress inclut actuellement toutes les modifications des versions suivantes de WordPress :"
 
 #. translators: %s: WordPress version number
 #: wp-admin/about.php:109
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "La <strong>version %s</strong> a corrigé quelques problèmes de sécurité."
 
 #. translators: %s: Codex URL
 #: wp-admin/about.php:113 wp-admin/about.php:132 wp-admin/about.php:152
@@ -195,7 +197,7 @@ msgstr "Pour plus d’informations, consultez les <a href=\"%s\">notes de public
 #: wp-admin/about.php:213
 msgid "<strong>WordPress version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "La <strong>version %1$s</strong> a corrigé %2$s bug."
 msgstr[1] ""
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
@@ -203,7 +205,7 @@ msgstr[1] ""
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "La <strong>version %1$s</strong> a corrigé quelques problèmes de sécurité et %2$s bug."
 msgstr[1] ""
 
 #: wp-admin/about.php:272
@@ -282,7 +284,7 @@ msgstr "Tableau de bord de l’utilisateur : %s"
 #. translators: Admin screen title. 1: Admin screen name
 #: wp-admin/admin-header.php:47
 msgid "%1$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &#8212; ClassicPress"
 
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site
 #. name
@@ -290,7 +292,7 @@ msgstr ""
 #. name
 #: wp-admin/admin-header.php:50 wp-login.php:62
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #: wp-admin/admin-header.php:230
 msgid "Main content"
@@ -475,7 +477,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\">
 #: wp-admin/upload.php:67 wp-admin/upload.php:213 wp-admin/user-edit.php:62
 #: wp-admin/user-new.php:221 wp-admin/users.php:69 wp-admin/widgets.php:77
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support</a>"
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:255
 #: wp-admin/edit-comments.php:234 wp-includes/class-wp-xmlrpc-server.php:3312
@@ -697,12 +699,12 @@ msgstr "Action inconnue."
 #. translators: %s: https://www.classicpress.net/contributors/
 #: wp-admin/credits.php:48
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr ""
+msgstr "ClassicPress est créée par une équipe <a href=\"%1$s\">mondiale</a> de passionnés."
 
 #. translators: %s: https://www.classicpress.net/get-involved/
 #: wp-admin/credits.php:54
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "Vous voulez aider au développement ? <a href=\"%s\">Participez à ClassicPress</a>."
 
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
@@ -901,7 +903,7 @@ msgstr "Remplir l’écran"
 #: wp-admin/custom-background.php:399 wp-admin/custom-background.php:400
 msgctxt "Background Repeat"
 msgid "Repeat"
-msgstr "Répétition"
+msgstr "Répéter"
 
 #: wp-admin/custom-background.php:402
 #: wp-includes/class-wp-customize-manager.php:5180
@@ -1008,7 +1010,7 @@ msgstr "N’oubliez pas de cliquer sur « Enregistrer les modifications » qua
 
 #: wp-admin/custom-header.php:123
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation sur l’arrière-plan personnalisé</a>"
 
 #: wp-admin/custom-header.php:275
 msgid "<strong>Random:</strong> Show a different image on each page."
@@ -1276,7 +1278,7 @@ msgstr "Masquer les contrôles"
 #: wp-admin/customize.php:224
 msgctxt "short (~12 characters) label for hide controls button"
 msgid "Hide Controls"
-msgstr "Masquer les controles"
+msgstr "Masquer les contrôles"
 
 #: wp-admin/edit-comments.php:14
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:130
@@ -2457,7 +2459,7 @@ msgstr "État :"
 #: wp-includes/widgets/class-wp-widget-pages.php:30
 #: wp-includes/widgets/class-wp-widget-pages.php:43
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #: wp-admin/export.php:261 wp-admin/includes/media.php:2250
 #: wp-admin/includes/misc.php:1810 wp-admin/includes/plugin-install.php:351
@@ -3571,7 +3573,7 @@ msgstr "Mise à jour vers ClassicPress %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:301
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:307
 msgid "Updating theme: %s"
@@ -3816,8 +3818,8 @@ msgstr[1] "Tous <span class=\"count\">(%s)</span> "
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "En attente <span class=\"count\">(%s)</span>"
-msgstr[1] "En attente <span class=\"count\">(%s)</span>"
+msgstr[0] "En attente de relecture <span class=\"count\">(%s)</span>"
+msgstr[1] "En attente de relecture <span class=\"count\">(%s)</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -3840,8 +3842,8 @@ msgstr[1] "Indésirables <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Trash <span class=\"count\">(%s)</span>"
 msgid_plural "Trash <span class=\"count\">(%s)</span>"
-msgstr[0] "Mis à la corbeille <span class=\"count\">(%s)</span>"
-msgstr[1] "Mis à la corbeille <span class=\"count\">(%s)</span>"
+msgstr[0] "Corbeille <span class=\"count\">(%s)</span>"
+msgstr[1] "Corbeille <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:296
 #: wp-admin/includes/class-wp-comments-list-table.php:563
@@ -4453,7 +4455,7 @@ msgstr "Afficher « %s »"
 #: wp-admin/includes/class-wp-users-list-table.php:428
 #: wp-admin/includes/dashboard.php:647
 msgid "View"
-msgstr "Afficher"
+msgstr "Voir"
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4804,7 +4806,7 @@ msgstr "Aucune extension trouvée. Veuillez essayer une recherche différente."
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:414
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Performances"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:415
 msgctxt "Plugin installer group title"
@@ -4863,7 +4865,7 @@ msgstr "Activation réseau de %s"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:509
 msgctxt "plugin"
 msgid "Installed"
-msgstr "Installée"
+msgstr "Installé"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:519
 msgid "More Details"
@@ -5259,7 +5261,7 @@ msgstr "Nombre d’éléments par page :"
 
 #: wp-admin/includes/class-wp-screen.php:1171
 msgid "Pagination"
-msgstr ""
+msgstr "Pagination"
 
 #: wp-admin/includes/class-wp-screen.php:1220
 msgid "View Mode"
@@ -5526,11 +5528,11 @@ msgstr "Afrique"
 
 #: wp-admin/includes/continents-cities.php:13
 msgid "Abidjan"
-msgstr ""
+msgstr "Abidjan"
 
 #: wp-admin/includes/continents-cities.php:14
 msgid "Accra"
-msgstr ""
+msgstr "Accra"
 
 #: wp-admin/includes/continents-cities.php:15
 msgid "Addis Ababa"
@@ -5542,7 +5544,7 @@ msgstr "Alger"
 
 #: wp-admin/includes/continents-cities.php:17
 msgid "Asmara"
-msgstr ""
+msgstr "Asmara"
 
 #: wp-admin/includes/continents-cities.php:18
 msgid "Asmera"
@@ -5550,31 +5552,31 @@ msgstr "Asmara"
 
 #: wp-admin/includes/continents-cities.php:19
 msgid "Bamako"
-msgstr ""
+msgstr "Bamako"
 
 #: wp-admin/includes/continents-cities.php:20
 msgid "Bangui"
-msgstr ""
+msgstr "Bangui"
 
 #: wp-admin/includes/continents-cities.php:21
 msgid "Banjul"
-msgstr ""
+msgstr "Banjul"
 
 #: wp-admin/includes/continents-cities.php:22
 msgid "Bissau"
-msgstr ""
+msgstr "Bissau"
 
 #: wp-admin/includes/continents-cities.php:23
 msgid "Blantyre"
-msgstr ""
+msgstr "Blantyre"
 
 #: wp-admin/includes/continents-cities.php:24
 msgid "Brazzaville"
-msgstr ""
+msgstr "Brazzaville"
 
 #: wp-admin/includes/continents-cities.php:25
 msgid "Bujumbura"
-msgstr ""
+msgstr "Bujumbura"
 
 #: wp-admin/includes/continents-cities.php:26
 msgid "Cairo"
@@ -5582,31 +5584,31 @@ msgstr "Le Caire"
 
 #: wp-admin/includes/continents-cities.php:27
 msgid "Casablanca"
-msgstr ""
+msgstr "Casablanca"
 
 #: wp-admin/includes/continents-cities.php:28
 msgid "Ceuta"
-msgstr ""
+msgstr "Ceuta"
 
 #: wp-admin/includes/continents-cities.php:29
 msgid "Conakry"
-msgstr ""
+msgstr "Conakry"
 
 #: wp-admin/includes/continents-cities.php:30
 msgid "Dakar"
-msgstr ""
+msgstr "Dakar"
 
 #: wp-admin/includes/continents-cities.php:31
 msgid "Dar es Salaam"
-msgstr ""
+msgstr "Dar es Salaam"
 
 #: wp-admin/includes/continents-cities.php:32
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #: wp-admin/includes/continents-cities.php:33
 msgid "Douala"
-msgstr ""
+msgstr "Douala"
 
 #: wp-admin/includes/continents-cities.php:34
 msgid "El Aaiun"
@@ -5614,19 +5616,19 @@ msgstr "Laâyoune"
 
 #: wp-admin/includes/continents-cities.php:35
 msgid "Freetown"
-msgstr ""
+msgstr "Freetown"
 
 #: wp-admin/includes/continents-cities.php:36
 msgid "Gaborone"
-msgstr ""
+msgstr "Gaborone"
 
 #: wp-admin/includes/continents-cities.php:37
 msgid "Harare"
-msgstr ""
+msgstr "Harare"
 
 #: wp-admin/includes/continents-cities.php:38
 msgid "Johannesburg"
-msgstr ""
+msgstr "Johannesburg"
 
 #: wp-admin/includes/continents-cities.php:39
 msgid "Juba"
@@ -5634,27 +5636,27 @@ msgstr "Djouba"
 
 #: wp-admin/includes/continents-cities.php:40
 msgid "Kampala"
-msgstr ""
+msgstr "Kampala"
 
 #: wp-admin/includes/continents-cities.php:41
 msgid "Khartoum"
-msgstr ""
+msgstr "Khartoum"
 
 #: wp-admin/includes/continents-cities.php:42
 msgid "Kigali"
-msgstr ""
+msgstr "Kigali"
 
 #: wp-admin/includes/continents-cities.php:43
 msgid "Kinshasa"
-msgstr ""
+msgstr "Kinshasa"
 
 #: wp-admin/includes/continents-cities.php:44
 msgid "Lagos"
-msgstr ""
+msgstr "Lagos"
 
 #: wp-admin/includes/continents-cities.php:45
 msgid "Libreville"
-msgstr ""
+msgstr "Libreville"
 
 #: wp-admin/includes/continents-cities.php:46
 msgid "Lome"
@@ -5662,31 +5664,31 @@ msgstr "Lomé"
 
 #: wp-admin/includes/continents-cities.php:47
 msgid "Luanda"
-msgstr ""
+msgstr "Luanda"
 
 #: wp-admin/includes/continents-cities.php:48
 msgid "Lubumbashi"
-msgstr ""
+msgstr "Lubumbashi"
 
 #: wp-admin/includes/continents-cities.php:49
 msgid "Lusaka"
-msgstr ""
+msgstr "Lusaka"
 
 #: wp-admin/includes/continents-cities.php:50
 msgid "Malabo"
-msgstr ""
+msgstr "Malabo"
 
 #: wp-admin/includes/continents-cities.php:51
 msgid "Maputo"
-msgstr ""
+msgstr "Maputo"
 
 #: wp-admin/includes/continents-cities.php:52
 msgid "Maseru"
-msgstr ""
+msgstr "Maseru"
 
 #: wp-admin/includes/continents-cities.php:53
 msgid "Mbabane"
-msgstr ""
+msgstr "Mbabane"
 
 #: wp-admin/includes/continents-cities.php:54
 msgid "Mogadishu"
@@ -5694,11 +5696,11 @@ msgstr "Mogadiscio"
 
 #: wp-admin/includes/continents-cities.php:55
 msgid "Monrovia"
-msgstr ""
+msgstr "Monrovia"
 
 #: wp-admin/includes/continents-cities.php:56
 msgid "Nairobi"
-msgstr ""
+msgstr "Nairobi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"
@@ -5706,19 +5708,19 @@ msgstr "N'Djamena"
 
 #: wp-admin/includes/continents-cities.php:58
 msgid "Niamey"
-msgstr ""
+msgstr "Niamey"
 
 #: wp-admin/includes/continents-cities.php:59
 msgid "Nouakchott"
-msgstr ""
+msgstr "Nouakchott"
 
 #: wp-admin/includes/continents-cities.php:60
 msgid "Ouagadougou"
-msgstr ""
+msgstr "Ouagadougou"
 
 #: wp-admin/includes/continents-cities.php:61
 msgid "Porto-Novo"
-msgstr ""
+msgstr "Porto-Novo"
 
 #: wp-admin/includes/continents-cities.php:62
 msgid "Sao Tome"
@@ -5730,15 +5732,15 @@ msgstr "Tombouctou"
 
 #: wp-admin/includes/continents-cities.php:64
 msgid "Tripoli"
-msgstr ""
+msgstr "Tripoli"
 
 #: wp-admin/includes/continents-cities.php:65
 msgid "Tunis"
-msgstr ""
+msgstr "Tunis"
 
 #: wp-admin/includes/continents-cities.php:66
 msgid "Windhoek"
-msgstr ""
+msgstr "Windhoek"
 
 #: wp-admin/includes/continents-cities.php:68
 msgid "America"
@@ -5746,7 +5748,7 @@ msgstr "Amériques"
 
 #: wp-admin/includes/continents-cities.php:69
 msgid "Adak"
-msgstr ""
+msgstr "Adak"
 
 #: wp-admin/includes/continents-cities.php:70
 msgid "Anchorage"
@@ -5771,12 +5773,12 @@ msgstr "Argentine"
 #: wp-admin/includes/continents-cities.php:75
 #: wp-admin/includes/continents-cities.php:101
 msgid "Buenos Aires"
-msgstr ""
+msgstr "Buenos Aires"
 
 #: wp-admin/includes/continents-cities.php:76
 #: wp-admin/includes/continents-cities.php:106
 msgid "Catamarca"
-msgstr ""
+msgstr "Catamarca"
 
 #: wp-admin/includes/continents-cities.php:77
 msgid "ComodRivadavia"
@@ -5794,28 +5796,28 @@ msgstr "San Salvador de Jujuy"
 
 #: wp-admin/includes/continents-cities.php:80
 msgid "La Rioja"
-msgstr ""
+msgstr "La Rioja"
 
 #: wp-admin/includes/continents-cities.php:81
 #: wp-admin/includes/continents-cities.php:174
 msgid "Mendoza"
-msgstr ""
+msgstr "Mendoza"
 
 #: wp-admin/includes/continents-cities.php:82
 msgid "Rio Gallegos"
-msgstr ""
+msgstr "Rio Gallegos"
 
 #: wp-admin/includes/continents-cities.php:83
 msgid "Salta"
-msgstr ""
+msgstr "Salta"
 
 #: wp-admin/includes/continents-cities.php:84
 msgid "San Juan"
-msgstr ""
+msgstr "San Juan"
 
 #: wp-admin/includes/continents-cities.php:85
 msgid "San Luis"
-msgstr ""
+msgstr "San Luis"
 
 #: wp-admin/includes/continents-cities.php:86
 msgid "Tucuman"
@@ -5827,7 +5829,7 @@ msgstr "Ushuaïa"
 
 #: wp-admin/includes/continents-cities.php:88
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #: wp-admin/includes/continents-cities.php:89
 msgid "Asuncion"
@@ -5835,15 +5837,15 @@ msgstr "Asunción"
 
 #: wp-admin/includes/continents-cities.php:90
 msgid "Atikokan"
-msgstr ""
+msgstr "Atikokan"
 
 #: wp-admin/includes/continents-cities.php:91
 msgid "Atka"
-msgstr ""
+msgstr "Atka"
 
 #: wp-admin/includes/continents-cities.php:92
 msgid "Bahia"
-msgstr ""
+msgstr "Bahia"
 
 #: wp-admin/includes/continents-cities.php:93
 msgid "Bahia Banderas"
@@ -5859,15 +5861,15 @@ msgstr "Belém"
 
 #: wp-admin/includes/continents-cities.php:96
 msgid "Belize"
-msgstr ""
+msgstr "Bélize"
 
 #: wp-admin/includes/continents-cities.php:97
 msgid "Blanc-Sablon"
-msgstr ""
+msgstr "Blanc-Sablon"
 
 #: wp-admin/includes/continents-cities.php:98
 msgid "Boa Vista"
-msgstr ""
+msgstr "Boa Vista"
 
 #: wp-admin/includes/continents-cities.php:99
 msgid "Bogota"
@@ -5875,7 +5877,7 @@ msgstr "Bogotá"
 
 #: wp-admin/includes/continents-cities.php:100
 msgid "Boise"
-msgstr ""
+msgstr "Boise"
 
 #: wp-admin/includes/continents-cities.php:102
 msgid "Cambridge Bay"
@@ -5883,7 +5885,7 @@ msgstr "Ikaluktutiak"
 
 #: wp-admin/includes/continents-cities.php:103
 msgid "Campo Grande"
-msgstr ""
+msgstr "Campo Grande"
 
 #: wp-admin/includes/continents-cities.php:104
 msgid "Cancun"
@@ -5891,7 +5893,7 @@ msgstr "Cancún"
 
 #: wp-admin/includes/continents-cities.php:105
 msgid "Caracas"
-msgstr ""
+msgstr "Caracas"
 
 #: wp-admin/includes/continents-cities.php:107
 msgid "Cayenne"
@@ -8460,7 +8462,7 @@ msgstr "Export de données personnelles"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "À propos"
+msgstr "À propos de"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -10936,12 +10938,12 @@ msgstr "j F \\à G \\h i \\m\\i\\n "
 #: wp-admin/includes/revision.php:325
 msgctxt "Button label for a previous revision"
 msgid "Previous"
-msgstr "Précédente"
+msgstr "Précédent"
 
 #: wp-admin/includes/revision.php:329
 msgctxt "Button label for a next revision"
 msgid "Next"
-msgstr "Suivante"
+msgstr "Suivant"
 
 #: wp-admin/includes/revision.php:343
 msgid "Compare any two revisions"
@@ -11278,7 +11280,7 @@ msgstr "Icône du site"
 #: wp-admin/includes/template.php:1856
 #: wp-includes/class-wp-customize-manager.php:4923
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-admin/includes/template.php:2008 wp-admin/nav-menus.php:659
 #: wp-admin/options.php:355
@@ -11447,7 +11449,7 @@ msgstr "Vacances"
 
 #: wp-admin/includes/theme.php:244
 msgid "News"
-msgstr "Nouvelles"
+msgstr "Actualités"
 
 #: wp-admin/includes/theme.php:245
 msgid "Photography"
@@ -13500,7 +13502,7 @@ msgstr "Nouveau site créé par %1$s\n\n"
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Administrateur du site"
+msgstr "Admin. du site"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -17182,11 +17184,11 @@ msgstr "Documentation "
 
 #: wp-includes/admin-bar.php:160
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
-msgstr ""
+msgstr "Assistance"
 
 #: wp-includes/admin-bar.php:168
 msgid "https://docs.classicpress.net/faq-support/"
@@ -17677,7 +17679,7 @@ msgstr "Personnalisé"
 
 #: wp-includes/class-wp-customize-manager.php:5167
 msgid "Original"
-msgstr "Originale"
+msgstr "Taille d’origine"
 
 #: wp-includes/class-wp-customize-manager.php:5213
 msgid "Homepage Settings"
@@ -18180,12 +18182,12 @@ msgstr "Bloc de citation"
 #: wp-includes/class-wp-editor.php:1017
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1018
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1019
 msgctxt "HTML tag"
@@ -18200,7 +18202,7 @@ msgstr "Adresse"
 #: wp-includes/class-wp-editor.php:1022
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1023
 msgid "Underline"
@@ -18232,7 +18234,7 @@ msgstr "Italique"
 
 #: wp-includes/class-wp-editor.php:1030 wp-includes/script-loader.php:153
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: wp-includes/class-wp-editor.php:1031
 msgid "Source code"
@@ -19342,7 +19344,7 @@ msgstr "Décembre"
 #: wp-includes/class-wp-locale.php:184
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:185
@@ -19354,7 +19356,7 @@ msgstr "Fév"
 #: wp-includes/class-wp-locale.php:186
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:187
@@ -19390,19 +19392,19 @@ msgstr "Août"
 #: wp-includes/class-wp-locale.php:192
 msgctxt "September abbreviation"
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:193
 msgctxt "October abbreviation"
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:194
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:195
@@ -19560,7 +19562,7 @@ msgstr "Vert"
 
 #: wp-includes/class-wp-theme.php:781
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: wp-includes/class-wp-theme.php:782
 msgid "Pink"
@@ -19612,7 +19614,7 @@ msgstr "Mise en page responsive"
 
 #: wp-includes/class-wp-theme.php:786
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:787
 msgid "Photoblogging"
@@ -22068,7 +22070,7 @@ msgstr "Créer une galerie"
 
 #: wp-includes/media.php:3557
 msgid "Edit Gallery"
-msgstr "Modifier la galerie"
+msgstr "Ajouter"
 
 #: wp-includes/media.php:3558
 msgid "&#8592; Cancel Gallery"
@@ -22872,7 +22874,7 @@ msgstr "Lien"
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
@@ -23166,7 +23168,7 @@ msgstr "En attente"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
-msgstr "Confirmée"
+msgstr "Terminée"
 
 #: wp-includes/post.php:786
 msgid "Failed"
@@ -23380,7 +23382,7 @@ msgstr "Liste des pages"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"

@@ -9,15 +9,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: pt\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2020-02-17 02:02\n"
+"PO-Revision-Date: 2024-04-18 03:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
-msgstr "Foi detectada uma discrepância no valor duma chave. Por favor, siga a ligação fornecida no seu email de activação. "
+msgstr "Foi detectada uma discrepância no valor duma chave. Por favor, siga a ligação fornecida no seu email de activação."
 
 #: wp-activate.php:30 wp-activate.php:165
 msgid "An error occurred during the activation"
@@ -1936,7 +1938,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentaç
 #: wp-admin/menu.php:69
 msgctxt "link"
 msgid "Add New"
-msgstr "Adicionar nova"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/edit-link-form.php:82
 msgid "Link added."
@@ -3964,7 +3966,7 @@ msgstr "Mover este comentário para o lixo"
 #: wp-includes/media-template.php:438 wp-includes/media-template.php:541
 msgctxt "verb"
 msgid "Trash"
-msgstr "Mover para o lixo"
+msgstr "No lixo"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:637
@@ -4309,7 +4311,7 @@ msgstr "Meus"
 #: wp-admin/includes/class-wp-media-list-table.php:135
 msgctxt "attachment filter"
 msgid "Trash"
-msgstr "Lixo"
+msgstr "No lixo"
 
 #: wp-admin/includes/class-wp-media-list-table.php:160
 #: wp-admin/includes/class-wp-media-list-table.php:513
@@ -4962,7 +4964,7 @@ msgstr[1] "Obrigatórios <span class=\"count\">(%s)</span>"
 msgid "Drop-ins <span class=\"count\">(%s)</span>"
 msgid_plural "Drop-ins <span class=\"count\">(%s)</span>"
 msgstr[0] "Drop-in <span class=\"count\">(%s)</span>"
-msgstr[1] ""
+msgstr[1] "Drop-in <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:460
 #: wp-admin/includes/class-wp-plugins-list-table.php:601
@@ -12578,7 +12580,7 @@ msgstr "Biblioteca"
 #: wp-admin/menu.php:67
 msgctxt "admin menu"
 msgid "All Links"
-msgstr "Todas as ligações"
+msgstr "Todos as ligações"
 
 #: wp-admin/menu.php:70 wp-includes/taxonomy.php:111
 msgid "Link Categories"
@@ -12620,7 +12622,7 @@ msgstr "Plugins instalados"
 #: wp-admin/menu.php:212 wp-admin/network/menu.php:62 wp-admin/plugins.php:526
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
@@ -12640,7 +12642,7 @@ msgstr "Todos os utilizadores"
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12778,7 +12780,7 @@ msgstr "Opções guardadas."
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13150,7 +13152,7 @@ msgstr "Temas instalados"
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -13500,7 +13502,7 @@ msgstr "Novo site criado por %1$s\n\n"
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Administrador do site"
+msgstr "Administração"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -15846,7 +15848,7 @@ msgstr "Anterior"
 #: wp-admin/theme-install.php:284
 msgctxt "Button label for a theme"
 msgid "Next"
-msgstr "Próximo"
+msgstr "Seguinte"
 
 #: wp-admin/theme-install.php:310
 msgid "This theme has not been rated yet."
@@ -15926,7 +15928,7 @@ msgstr ""
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -22980,7 +22982,7 @@ msgstr "Multimédia"
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr "Adicionar"
+msgstr "Adicionar ficheiro"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"

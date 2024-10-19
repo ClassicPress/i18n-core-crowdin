@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2024-05-06 14:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -21,7 +23,7 @@ msgstr "È stata rilevata una mancata corrispondenza del valore della chiave. Vi
 
 #: wp-activate.php:30 wp-activate.php:165
 msgid "An error occurred during the activation"
-msgstr "Si è verificato un errore durante l'attivazione."
+msgstr "Si è verificato un errore durante l'attivazione"
 
 #: wp-activate.php:125
 msgid "Activation Key Required"
@@ -56,7 +58,7 @@ msgstr "Il tuo account è stato attivato. Ora puoi <a href=\"%1$s\">accedere</a>
 #. translators: 1: site URL, 2: username, 3: user email, 4: lost password URL
 #: wp-activate.php:155
 msgid "Your site at %1$s is active. You may now log in to your site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr "Il sito <a href=\"%1$s\">%2$s</a> è attivo. Ora puoi accedere al sito utilizzando il nome utente scelto &#8220;%2$s&#8221;. Controlla la tua email %3$s per la password e le istruzioni di login. Se non ricevi alcuna email controlla la cartella di spam o junk. Se entro un'ora non hai ancora ricevuto l'email, puoi <a href=\"%4$s\">reimpostare la password</a>."
+msgstr "Il sito %1$s\" è attivo. Ora puoi accedere al sito utilizzando il nome utente scelto &#8220;%2$s&#8221;. Controlla la tua email %3$s per la password e le istruzioni di login. Se non ricevi alcuna email controlla la cartella di spam o junk. Se entro un'ora non hai ancora ricevuto l'email, puoi <a href=\"%4$s\">reimpostare la password</a>."
 
 #: wp-activate.php:177 wp-signup.php:230
 msgid "Username:"
@@ -265,7 +267,7 @@ msgstr[1] "<strong>La versione %1$s</strong> corregge alcuni problemi di sicurez
 
 #: wp-admin/admin-footer.php:34
 msgid "Thank you for creating with <a href=\"%s\">ClassicPress</a>."
-msgstr "Grazie per aver creato con  <a href=\"%s\">ClassicPress</a>."
+msgstr "Grazie per aver creato con <a href=\"%s\">ClassicPress</a>."
 
 #. translators: Network admin screen title. 1: Network name
 #. translators: %s: site name
@@ -307,7 +309,7 @@ msgstr "Contenuto principale"
 #: wp-admin/options-general.php:299 wp-admin/update-core.php:671
 #: wp-includes/class-wp-locale.php:383 wp-includes/media.php:3112
 msgid "F j, Y"
-msgstr "j F Y"
+msgstr "F j, Y"
 
 #. translators: default time format, see https://secure.php.net/date
 #. translators: localized time format, see https://secure.php.net/date
@@ -321,11 +323,11 @@ msgstr "j F Y"
 #: wp-admin/options-general.php:336 wp-admin/update-core.php:671
 #: wp-includes/class-wp-locale.php:385
 msgid "g:i a"
-msgstr "G:i"
+msgstr "g:i a"
 
 #: wp-admin/admin.php:227
 msgid "Invalid plugin page."
-msgstr "Pagina del plugin non valida"
+msgstr "Pagina del plugin non valida."
 
 #: wp-admin/admin.php:231
 msgid "Cannot load %s."
@@ -2778,7 +2780,7 @@ msgstr "Pubblicato"
 #: wp-admin/includes/meta-boxes.php:94 wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/template.php:1765
 msgid "Scheduled"
-msgstr "Pianificato"
+msgstr "Programmato"
 
 #: wp-admin/includes/ajax-actions.php:1801
 #: wp-admin/includes/class-wp-posts-list-table.php:1650
@@ -3460,7 +3462,7 @@ msgstr "Nel tema manca il file %s."
 #: wp-includes/class-wp-customize-nav-menus.php:375
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr ""
+msgstr "Homepage"
 
 #: wp-admin/includes/class-walker-nav-menu-checklist.php:98
 msgctxt "nav menu front page title"
@@ -3815,8 +3817,8 @@ msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "In attesa <span class=\"count\">(%s)</span>"
-msgstr[1] "In attesa <span class=\"count\">(%s)</span>"
+msgstr[0] "In sospeso <span class=\"count\">(%s)</span>"
+msgstr[1] "In sospeso <span class=\"count\">(%s)</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -3963,7 +3965,7 @@ msgstr "Sposta questo commento nel cestino."
 #: wp-includes/media-template.php:438 wp-includes/media-template.php:541
 msgctxt "verb"
 msgid "Trash"
-msgstr "Cestina"
+msgstr "Cestinato"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:637
@@ -4308,7 +4310,7 @@ msgstr "I miei elementi"
 #: wp-admin/includes/class-wp-media-list-table.php:135
 msgctxt "attachment filter"
 msgid "Trash"
-msgstr "Cestino"
+msgstr "Cestinato"
 
 #: wp-admin/includes/class-wp-media-list-table.php:160
 #: wp-admin/includes/class-wp-media-list-table.php:513
@@ -4783,7 +4785,7 @@ msgstr "Popolari"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "Categorie"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -4818,7 +4820,7 @@ msgstr "Strumenti"
 #. translators: 1: Plugin name and version.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:470
 msgid "Install %s now"
-msgstr "Installa %s ora"
+msgstr "Installa il plugin %s ora"
 
 #. translators: 1: Plugin name and version
 #. translators: %s: theme name
@@ -4828,7 +4830,7 @@ msgstr "Installa %s ora"
 #: wp-admin/includes/theme.php:214 wp-admin/includes/update.php:409
 #: wp-admin/includes/update.php:554
 msgid "Update %s now"
-msgstr "Aggiorna %s ora"
+msgstr "Aggiorna il plugin %s ora"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:477
 #: wp-admin/update-core.php:51 wp-includes/script-loader.php:820
@@ -4847,7 +4849,7 @@ msgstr "Attivo"
 #: wp-includes/script-loader.php:879
 msgctxt "plugin"
 msgid "Activate %s"
-msgstr "Attiva il plugin %s"
+msgstr "Attiva il tema %s"
 
 #. translators: %s: Plugin name
 #. translators: %s: plugin name
@@ -5517,7 +5519,7 @@ msgstr[1] "%s articoli di questo autore"
 #: wp-admin/includes/class-wp-users-list-table.php:570
 msgctxt "no user roles"
 msgid "None"
-msgstr "Nessuno"
+msgstr "Nessuna"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -8459,7 +8461,7 @@ msgstr "Esportazione dati personali"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "Info"
+msgstr "Chi siamo"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -12672,7 +12674,7 @@ msgstr "Tutti gli utenti"
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr "Aggiungi utente"
+msgstr "Aggiungi nuovo"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12710,7 +12712,7 @@ msgstr "Impostazioni %s"
 #: wp-admin/menu.php:259
 msgctxt "settings screen"
 msgid "General"
-msgstr "Generali"
+msgstr "Generale"
 
 #: wp-admin/menu.php:260
 msgid "Writing"
@@ -12820,7 +12822,7 @@ msgstr "Impostazioni salvate."
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr "Aggiungi nuovo sito"
+msgstr "Aggiungi nuovo"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13192,7 +13194,7 @@ msgstr "Temi installati"
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr "Aggiungi tema"
+msgstr "Aggiungi nuovo"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -13542,7 +13544,7 @@ msgstr "Nuovo sito creato da %1$s\n\n"
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Amministratore del sito"
+msgstr "Amministra sito"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -15969,7 +15971,7 @@ msgstr ""
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr "Aggiungi nuovo tema"
+msgstr "Aggiungi nuovo"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -17209,7 +17211,7 @@ msgstr "Aggiungi un widget"
 
 #: wp-comments-post.php:29
 msgid "Comment Submission Failure"
-msgstr "Inserimento commento fallito."
+msgstr "Invio Commento Fallito"
 
 #: wp-includes/admin-bar.php:123 wp-includes/admin-bar.php:142
 msgid "About ClassicPress"
@@ -22137,7 +22139,7 @@ msgstr "Dettagli Immagine"
 
 #: wp-includes/media.php:3567
 msgid "Replace Image"
-msgstr "Sostituisci Immagine"
+msgstr "Sostituisci immagine"
 
 #: wp-includes/media.php:3568 wp-includes/media.php:3586
 #: wp-includes/media.php:3592
@@ -23037,7 +23039,7 @@ msgstr ""
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr "Aggiungi media"
+msgstr "Aggiungi nuovo"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"
@@ -23227,7 +23229,7 @@ msgstr "Confermato"
 
 #: wp-includes/post.php:786
 msgid "Failed"
-msgstr "Fallito"
+msgstr "Mancato"
 
 #: wp-includes/post.php:787
 msgid "Completed"
@@ -25792,7 +25794,7 @@ msgstr "Impossibile caricare l'immagine di anteprima. Ricarica la pagina e ripro
 
 #: wp-includes/script-loader.php:923
 msgid "Use as featured image"
-msgstr "Utilizza come immagine in evidenza"
+msgstr "Usa come immagine in evidenza"
 
 #: wp-includes/script-loader.php:924
 msgid "Saving..."

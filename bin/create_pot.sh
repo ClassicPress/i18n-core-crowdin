@@ -12,6 +12,8 @@ else
 	exit 1
 fi
 
+CP_VERSION="$1"
+
 for gh_repo in ClassicPress/ClassicPress; do
 	user="$(echo "$gh_repo" | cut -d/ -f1)"
 	repo="$(echo "$gh_repo" | cut -d/ -f2)"
@@ -42,7 +44,9 @@ pushd ClassicPress/
 
 	# Get version numbers for substitution later
 	WP_VERSION=$(grep '$wp_version =' build/wp-includes/version.php | head -n 1 | grep -Eo -m1 '[[:digit:]]+\.[[:digit:]]+\.?[[:digit:]]*')
-	CP_VERSION=$(grep '$cp_version =' build/wp-includes/version.php | head -n 1 | grep -Eo -m1 '[[:digit:]]+\.[[:digit:]]+\.?[[:digit:]]*')
+	if [ -z "$CP_VERSION" ]; then
+		CP_VERSION=$(grep '$cp_version =' build/wp-includes/version.php | head -n 1 | grep -Eo -m1 '[[:digit:]]+\.[[:digit:]]+\.?[[:digit:]]*')
+	fi
 popd
 
 # Clean up POT files first

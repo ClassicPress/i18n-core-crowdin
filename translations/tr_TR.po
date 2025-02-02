@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: tr\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2024-04-18 03:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -81,7 +83,7 @@ msgstr "Hesabınız etkinleştirildi. <a href=\"%1$s\">Giriş yapın</a> ya da <
 #: wp-admin/about.php:15
 msgctxt "page title"
 msgid "About"
-msgstr "Hakkında"
+msgstr "Hakkımızda"
 
 #: wp-admin/about.php:20 wp-admin/credits.php:18 wp-admin/freedoms.php:21
 #: wp-admin/includes/dashboard.php:1349
@@ -901,7 +903,7 @@ msgstr "Ekranı doldur"
 #: wp-admin/custom-background.php:399 wp-admin/custom-background.php:400
 msgctxt "Background Repeat"
 msgid "Repeat"
-msgstr "Tekrarlama"
+msgstr "Tekrarla"
 
 #: wp-admin/custom-background.php:402
 #: wp-includes/class-wp-customize-manager.php:5180
@@ -1812,7 +1814,7 @@ msgstr "Onaylanmış"
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
 msgid "Pending"
-msgstr "Bekleyen"
+msgstr "Onay bekliyor"
 
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
@@ -1946,7 +1948,7 @@ msgstr "Bağlantı eklendi."
 #: wp-admin/includes/class-wp-links-list-table.php:126
 msgctxt "link name"
 msgid "Name"
-msgstr "Bağlantı ismi"
+msgstr "İsim"
 
 #: wp-admin/edit-link-form.php:103
 msgid "Example: Nifty blogging software"
@@ -2778,7 +2780,7 @@ msgstr "Yayımlanmış"
 #: wp-admin/includes/meta-boxes.php:94 wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/template.php:1765
 msgid "Scheduled"
-msgstr "Zamanlanmış"
+msgstr "Zamanlandı"
 
 #: wp-admin/includes/ajax-actions.php:1801
 #: wp-admin/includes/class-wp-posts-list-table.php:1650
@@ -3816,8 +3818,8 @@ msgstr[1] "Tümü <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "Bekleyen <span class=\"count\">(%s)</span>"
-msgstr[1] "Bekleyen <span class=\"count\">(%s)</span>"
+msgstr[0] "Kontrol bekleyen <span class=\"count\">(%s)</span>"
+msgstr[1] "Kontrol bekleyen <span class=\"count\">(%s)</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -4453,7 +4455,7 @@ msgstr "&#8220;%s&#8221; Görüntüle"
 #: wp-admin/includes/class-wp-users-list-table.php:428
 #: wp-admin/includes/dashboard.php:647
 msgid "View"
-msgstr "Görüntüle"
+msgstr "Görünüm"
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4708,7 +4710,7 @@ msgstr "İstenmeyen olarak işaretle"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:114
 msgctxt "user"
 msgid "Not Spam"
-msgstr "İstenmeyen Değil"
+msgstr "İstenmeyen değil"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:122
 #: wp-admin/includes/class-wp-users-list-table.php:149
@@ -4784,7 +4786,7 @@ msgstr "Popüler"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "Kategoriler"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -4819,7 +4821,7 @@ msgstr "Araçlar"
 #. translators: 1: Plugin name and version.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:470
 msgid "Install %s now"
-msgstr "Şimdi %s yükle"
+msgstr "%s eklentisini yükle"
 
 #. translators: 1: Plugin name and version
 #. translators: %s: theme name
@@ -4829,7 +4831,7 @@ msgstr "Şimdi %s yükle"
 #: wp-admin/includes/theme.php:214 wp-admin/includes/update.php:409
 #: wp-admin/includes/update.php:554
 msgid "Update %s now"
-msgstr "Şimdi %s güncelle"
+msgstr "%s eklentisini güncelle"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:477
 #: wp-admin/update-core.php:51 wp-includes/script-loader.php:820
@@ -4848,7 +4850,7 @@ msgstr "Etkinleştir"
 #: wp-includes/script-loader.php:879
 msgctxt "plugin"
 msgid "Activate %s"
-msgstr "%s eklentisini etkinleştir"
+msgstr "%s temasını etkinleştir"
 
 #. translators: %s: Plugin name
 #. translators: %s: plugin name
@@ -4863,7 +4865,7 @@ msgstr "%s eklentisini ağda etkinleştir"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:509
 msgctxt "plugin"
 msgid "Installed"
-msgstr "Yüklenenler"
+msgstr "Yüklü"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:519
 msgid "More Details"
@@ -5518,7 +5520,7 @@ msgstr[1] "Bu yazara ait %s yazı"
 #: wp-admin/includes/class-wp-users-list-table.php:570
 msgctxt "no user roles"
 msgid "None"
-msgstr "Hiç biri"
+msgstr "Hiçbiri"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -8460,7 +8462,7 @@ msgstr "Kişisel verilerin dışa aktarımı"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "Hakkında"
+msgstr "Hakkımızda"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -9066,7 +9068,7 @@ msgstr "Tarih/Zaman"
 
 #: wp-admin/includes/media.php:2296
 msgid "Random"
-msgstr "Rasgele"
+msgstr "Rastgele"
 
 #: wp-admin/includes/media.php:2304
 msgid "Order:"
@@ -10617,7 +10619,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:536
 msgctxt "Plugin installer section title"
 msgid "Description"
-msgstr "Açıklama"
+msgstr "Tanım"
 
 #: wp-admin/includes/plugin-install.php:537
 msgctxt "Plugin installer section title"
@@ -11447,7 +11449,7 @@ msgstr "Tatil"
 
 #: wp-admin/includes/theme.php:244
 msgid "News"
-msgstr "Haber"
+msgstr "Haberler"
 
 #: wp-admin/includes/theme.php:245
 msgid "Photography"
@@ -12606,7 +12608,7 @@ msgstr "Menüler"
 #: wp-admin/menu.php:196 wp-admin/network/menu.php:54
 msgctxt "theme editor"
 msgid "Editor"
-msgstr "Düzenleyici"
+msgstr "Editör"
 
 #: wp-admin/menu.php:206 wp-admin/network/menu.php:57
 msgid "Plugins %s"
@@ -12625,7 +12627,7 @@ msgstr "Yeni ekle"
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
 msgid "Editor"
-msgstr "Düzenleyici"
+msgstr "Editör"
 
 #: wp-admin/menu.php:221 wp-admin/user/menu.php:14 wp-admin/user-edit.php:29
 msgid "Profile"
@@ -13064,7 +13066,7 @@ msgstr "Tema konumları"
 #: wp-admin/nav-menus.php:822
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
-msgstr "(Mevcut: %s)"
+msgstr "(Şu anki: %s)"
 
 #: wp-admin/nav-menus.php:840 wp-includes/class-wp-customize-nav-menus.php:960
 msgid "Delete Menu"
@@ -13498,7 +13500,7 @@ msgstr ""
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Site yöneticisi"
+msgstr "Site yönetimi"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -22094,7 +22096,7 @@ msgstr "Görsel detayları"
 
 #: wp-includes/media.php:3567
 msgid "Replace Image"
-msgstr "Görseli değiştir"
+msgstr "Görsel değiştir"
 
 #: wp-includes/media.php:3568 wp-includes/media.php:3586
 #: wp-includes/media.php:3592
@@ -22131,7 +22133,7 @@ msgstr "Ses detayları"
 
 #: wp-includes/media.php:3584
 msgid "Replace Audio"
-msgstr "Sesi değiştir"
+msgstr "Ses dosyasını değiştir"
 
 #: wp-includes/media.php:3585
 msgid "Add Audio Source"
@@ -23017,7 +23019,7 @@ msgstr "Değişim kümesi"
 #: wp-includes/post.php:157
 msgctxt "admin menu"
 msgid "Changesets"
-msgstr "Değişim kümeleri"
+msgstr "Değişim kümelerl"
 
 #: wp-includes/post.php:158
 msgctxt "add new on admin bar"
@@ -23160,7 +23162,7 @@ msgstr "Tamamlandı"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr "Bekleyen"
+msgstr "Onay bekliyor"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
@@ -23168,7 +23170,7 @@ msgstr "Onaylandı"
 
 #: wp-includes/post.php:786
 msgid "Failed"
-msgstr "Başarısız"
+msgstr "Başarısız oldu"
 
 #: wp-includes/post.php:787
 msgid "Completed"
@@ -25733,7 +25735,7 @@ msgstr "Görsel ön izlemesi yüklenemiyor. Lütfen sayfayı yeniden yükleyip t
 
 #: wp-includes/script-loader.php:923
 msgid "Use as featured image"
-msgstr "Öne çıkarılmış görsel olarak kullan"
+msgstr "Öne çıkan görsel olarak kullan"
 
 #: wp-includes/script-loader.php:924
 msgid "Saving..."

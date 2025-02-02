@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: pl\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2020-02-17 01:52\n"
+"PO-Revision-Date: 2024-04-18 03:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -251,7 +253,7 @@ msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "W <strong>wersji %1$s</strong> naprawiono %2$s błąd."
 msgstr[1] "W <strong>wersji %1$s</strong> naprawiono %2$s błędy."
 msgstr[2] "W <strong>wersji %1$s</strong> naprawiono %2$s błędów."
-msgstr[3] ""
+msgstr[3] "W <strong>wersji %1$s</strong> naprawiono %2$s błędów."
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs.
 #. Singular security issue.
@@ -261,7 +263,7 @@ msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed
 msgstr[0] "W <strong>wersji %1$s</strong> naprawiono błąd w zabezpieczeniach i %2$s inny błąd."
 msgstr[1] "W <strong>wersji %1$s</strong> naprawiono błąd w zabezpieczeniach i %2$s inne błędy."
 msgstr[2] "W <strong>wersji %1$s</strong> naprawiono błąd w zabezpieczeniach i %2$s innych błędów."
-msgstr[3] ""
+msgstr[3] "W <strong>wersji %1$s</strong> naprawiono błąd w zabezpieczeniach i %2$s innych błędów."
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs. More
 #. than one security issue.
@@ -271,7 +273,7 @@ msgid_plural "<strong>Version %1$s</strong> addressed some security issues and f
 msgstr[0] "W <strong>wersji %1$s</strong> naprawiono pewne błędy w zabezpieczeniach i %2$s inny błąd."
 msgstr[1] "W <strong>wersji %1$s</strong> naprawiono pewne błędy w zabezpieczeniach i %2$s inne błędy."
 msgstr[2] "W <strong>wersji %1$s</strong> naprawiono pewne błędy w zabezpieczeniach i %2$s innych błędów."
-msgstr[3] ""
+msgstr[3] "W <strong>wersji %1$s</strong> naprawiono pewne błędy w zabezpieczeniach i %2$s innych błędów."
 
 #: wp-admin/admin-footer.php:34
 msgid "Thank you for creating with <a href=\"%s\">ClassicPress</a>."
@@ -911,7 +913,7 @@ msgstr "Pełen ekran"
 #: wp-admin/custom-background.php:399 wp-admin/custom-background.php:400
 msgctxt "Background Repeat"
 msgid "Repeat"
-msgstr "Powtarzaj"
+msgstr "Powtórz"
 
 #: wp-admin/custom-background.php:402
 #: wp-includes/class-wp-customize-manager.php:5180
@@ -1391,7 +1393,7 @@ msgid_plural "%s comments approved"
 msgstr[0] "%s komentarz został zatwierdzony"
 msgstr[1] "%s komentarze zostały zatwierdzone"
 msgstr[2] "%s komentarzy zostało zatwierdzonych"
-msgstr[3] ""
+msgstr[3] "%s komentarzy zostało zatwierdzonych"
 
 #. translators: %s: number of comments marked as spam
 #: wp-admin/edit-comments.php:262
@@ -1400,7 +1402,7 @@ msgid_plural "%s comments marked as spam."
 msgstr[0] "%s komentarz został oznaczony jako spam."
 msgstr[1] "%s komentarze zostały oznaczone jako spam."
 msgstr[2] "%s komentarzy zostało oznaczonych jako spam."
-msgstr[3] ""
+msgstr[3] "%s komentarzy zostało oznaczonych jako spam."
 
 #: wp-admin/edit-comments.php:262 wp-admin/edit-comments.php:273
 #: wp-admin/edit.php:334 wp-admin/includes/image-edit.php:203
@@ -1417,7 +1419,7 @@ msgid_plural "%s comments restored from the spam"
 msgstr[0] "Cofnięto oznaczenie %s komentarza jako spam"
 msgstr[1] "Cofnięto oznaczenie %s komentarzy jako spam"
 msgstr[2] "Cofnięto oznaczenie %s komentarzy jako spam"
-msgstr[3] ""
+msgstr[3] "Cofnięto oznaczenie %s komentarzy jako spam"
 
 #. translators: %s: number of comments moved to the Trash
 #: wp-admin/edit-comments.php:273
@@ -1426,7 +1428,7 @@ msgid_plural "%s comments moved to the Trash."
 msgstr[0] "%s komentarz został przeniesiony do kosza."
 msgstr[1] "%s komentarze zostały przeniesione do kosza."
 msgstr[2] "%s komentarzy zostało przeniesionych do kosza."
-msgstr[3] ""
+msgstr[3] "%s komentarzy zostało przeniesionych do kosza."
 
 #. translators: %s: number of comments restored from the Trash
 #: wp-admin/edit-comments.php:278
@@ -1435,7 +1437,7 @@ msgid_plural "%s comments restored from the Trash"
 msgstr[0] "%s komentarz został przywrócony z kosza"
 msgstr[1] "%s komentarze zostały przywrócone z kosza"
 msgstr[2] "%s komentarzy zostało przywróconych z kosza"
-msgstr[3] ""
+msgstr[3] "%s komentarzy zostało przywróconych z kosza"
 
 #. translators: %s: number of comments permanently deleted
 #: wp-admin/edit-comments.php:283
@@ -1444,7 +1446,7 @@ msgid_plural "%s comments permanently deleted"
 msgstr[0] "%s komentarz został usunięty na zawsze"
 msgstr[1] "%s komentarze zostały usunięte na zawsze"
 msgstr[2] "%s komentarzy zostało usuniętych na zawsze"
-msgstr[3] ""
+msgstr[3] "%s komentarzy zostało usuniętych na zawsze"
 
 #: wp-admin/edit-comments.php:289
 msgid "This comment is already approved."
@@ -1814,13 +1816,13 @@ msgstr "Adres URL:"
 
 #: wp-admin/edit-form-comment.php:71 wp-admin/includes/template.php:412
 msgid "Comment"
-msgstr "komentarz"
+msgstr "Komentarz"
 
 #: wp-admin/edit-form-comment.php:80 wp-admin/includes/ajax-actions.php:1786
 #: wp-admin/includes/class-wp-posts-list-table.php:1638
 #: wp-admin/includes/user.php:1024
 msgid "Status"
-msgstr "Stan"
+msgstr "Informacja o stanie"
 
 #: wp-admin/edit-form-comment.php:88
 msgid "Comment status"
@@ -1834,12 +1836,12 @@ msgstr "Zatwierdzony"
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
 msgid "Pending"
-msgstr "Oczekujący"
+msgstr "Oczekujący na przegląd"
 
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Oznacz jako spam"
 
 #. translators: %s: comment date
 #: wp-admin/edit-form-comment.php:102
@@ -1958,7 +1960,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Dokumentacj
 #: wp-admin/menu.php:69
 msgctxt "link"
 msgid "Add New"
-msgstr "Dodaj nowy"
+msgstr "Dodaj nowe"
 
 #: wp-admin/edit-link-form.php:82
 msgid "Link added."
@@ -2318,7 +2320,7 @@ msgid_plural "%s posts updated."
 msgstr[0] "%s wpis został zaktualizowany."
 msgstr[1] "%s wpisy zostały zaktualizowane."
 msgstr[2] "%s wpisów zostało zaktualizowanych."
-msgstr[3] ""
+msgstr[3] "%s wpisów zostało zaktualizowanych."
 
 #: wp-admin/edit.php:274
 msgid "1 post not updated, somebody is editing it."
@@ -2330,7 +2332,7 @@ msgid_plural "%s posts not updated, somebody is editing them."
 msgstr[0] "%s wpis nie został zaktualizowany, ponieważ ktoś go edytuje."
 msgstr[1] "%s wpisy nie zostały zaktualizowane, ponieważ ktoś je edytuje."
 msgstr[2] "%s wpisów nie zostało zaktualizowanych, ponieważ ktoś je edytuje."
-msgstr[3] ""
+msgstr[3] "%s wpisów nie zostało zaktualizowanych, ponieważ ktoś je edytuje."
 
 #: wp-admin/edit.php:276
 msgid "%s post permanently deleted."
@@ -2338,7 +2340,7 @@ msgid_plural "%s posts permanently deleted."
 msgstr[0] "%s wpis został usunięty na zawsze."
 msgstr[1] "%s wpisy zostały usunięte na zawsze."
 msgstr[2] "%s wpisów zostało usuniętych na zawsze."
-msgstr[3] ""
+msgstr[3] "%s wpisów zostało usuniętych na zawsze."
 
 #: wp-admin/edit.php:277
 msgid "%s post moved to the Trash."
@@ -2346,7 +2348,7 @@ msgid_plural "%s posts moved to the Trash."
 msgstr[0] "%s wpis został przeniesiony do kosza."
 msgstr[1] "%s wpisy zostały przeniesione do kosza."
 msgstr[2] "%s wpisów zostało przeniesionych do kosza."
-msgstr[3] ""
+msgstr[3] "%s wpisów zostało przeniesionych do kosza."
 
 #: wp-admin/edit.php:278
 msgid "%s post restored from the Trash."
@@ -2354,7 +2356,7 @@ msgid_plural "%s posts restored from the Trash."
 msgstr[0] "%s wpis został przywrócony z kosza."
 msgstr[1] "%s wpisy zostały przywrócone z kosza."
 msgstr[2] "%s wpisów zostało przywróconych z kosza."
-msgstr[3] ""
+msgstr[3] "%s wpisów zostało przywróconych z kosza."
 
 #: wp-admin/edit.php:281
 msgid "%s page updated."
@@ -2362,7 +2364,7 @@ msgid_plural "%s pages updated."
 msgstr[0] "%s strona została zaktualizowana."
 msgstr[1] "%s strony zostały zaktualizowane."
 msgstr[2] "%s stron zostało zaktualizowanych."
-msgstr[3] ""
+msgstr[3] "%s stron zostało zaktualizowanych."
 
 #: wp-admin/edit.php:282
 msgid "1 page not updated, somebody is editing it."
@@ -2374,7 +2376,7 @@ msgid_plural "%s pages not updated, somebody is editing them."
 msgstr[0] "%s strona nie została zaktualizowana, ponieważ ktoś ją edytuje."
 msgstr[1] "%s strony nie zostały zaktualizowane, ponieważ ktoś je edytuje."
 msgstr[2] "%s stron nie zostało zaktualizowanych, ponieważ ktoś je edytuje."
-msgstr[3] ""
+msgstr[3] "%s stron nie zostało zaktualizowanych, ponieważ ktoś je edytuje."
 
 #: wp-admin/edit.php:284
 msgid "%s page permanently deleted."
@@ -2382,7 +2384,7 @@ msgid_plural "%s pages permanently deleted."
 msgstr[0] "%s strona została usunięta na zawsze."
 msgstr[1] "%s strony zostały usunięte na zawsze."
 msgstr[2] "%s stron zostało usuniętych na zawsze."
-msgstr[3] ""
+msgstr[3] "%s stron zostało usuniętych na zawsze."
 
 #: wp-admin/edit.php:285
 msgid "%s page moved to the Trash."
@@ -2390,7 +2392,7 @@ msgid_plural "%s pages moved to the Trash."
 msgstr[0] "%s strona została przeniesiona do kosza."
 msgstr[1] "%s strony zostały przeniesione do kosza."
 msgstr[2] "%s stron zostało przeniesionych do kosza."
-msgstr[3] ""
+msgstr[3] "%s stron zostało przeniesionych do kosza."
 
 #: wp-admin/edit.php:286
 msgid "%s page restored from the Trash."
@@ -2398,7 +2400,7 @@ msgid_plural "%s pages restored from the Trash."
 msgstr[0] "%s strona została przywrócona z kosza."
 msgstr[1] "%s strony zostały przywrócone z kosza."
 msgstr[2] "%s stron zostało przywróconych z kosza."
-msgstr[3] ""
+msgstr[3] "%s stron zostało przywróconych z kosza."
 
 #: wp-admin/export.php:13
 msgid "Sorry, you are not allowed to export the content of this site."
@@ -2506,7 +2508,7 @@ msgstr "Strony"
 #: wp-admin/menu.php:53 wp-admin/menu.php:263
 #: wp-includes/class-wp-editor.php:1101 wp-includes/media.php:4022
 msgid "Media"
-msgstr ""
+msgstr "Medium"
 
 #: wp-admin/export.php:290
 msgid "Download Export File"
@@ -2677,7 +2679,7 @@ msgid_plural "%s in moderation"
 msgstr[0] "%s w moderacji"
 msgstr[1] "%s w moderacji"
 msgstr[2] "%s w moderacji"
-msgstr[3] ""
+msgstr[3] "%s w moderacji"
 
 #: wp-admin/includes/ajax-actions.php:436
 #: wp-admin/includes/class-wp-list-table.php:727
@@ -2688,7 +2690,7 @@ msgid_plural "%s items"
 msgstr[0] "%s pozycja"
 msgstr[1] "%s pozycji"
 msgstr[2] "%s pozycji"
-msgstr[3] ""
+msgstr[3] "%s pozycji"
 
 #: wp-admin/includes/ajax-actions.php:758
 msgid "Comment %d does not exist"
@@ -2826,7 +2828,7 @@ msgstr "Opublikowany"
 #: wp-admin/includes/meta-boxes.php:94 wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/template.php:1765
 msgid "Scheduled"
-msgstr "Zaplanowano"
+msgstr "Zaplanowany"
 
 #: wp-admin/includes/ajax-actions.php:1801
 #: wp-admin/includes/class-wp-posts-list-table.php:1650
@@ -3577,7 +3579,7 @@ msgstr "Opis zostanie wyświetlony w menu, jeśli używany motyw posiada taką f
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:201
 msgid "Move"
-msgstr "Przenieś"
+msgstr "Przesuń"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:202
 msgid "Up one"
@@ -3866,10 +3868,10 @@ msgstr[3] "Wszystkie <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "Oczekujące <span class=\"count\">(%s)</span>"
-msgstr[1] "Oczekujące <span class=\"count\">(%s)</span>"
-msgstr[2] "Oczekujące <span class=\"count\">(%s)</span>"
-msgstr[3] "Oczekujące na przegląd <span class=\"count\">(%s)</span>"
+msgstr[0] "Oczekujące na przegląd <span class=\"count\">(%s)</span>"
+msgstr[1] "Oczekujące na przegląd <span class=\"count\">(%s)</span>"
+msgstr[2] "Oczekujące na przegląd <span class=\"count\">(%s)</span>"
+msgstr[3] "Oczekujące <span class=\"count\">(%s)</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -3879,7 +3881,7 @@ msgid_plural "Approved <span class=\"count\">(%s)</span>"
 msgstr[0] "Zatwierdzone <span class=\"count\">(%s)</span>"
 msgstr[1] "Zatwierdzone <span class=\"count\">(%s)</span>"
 msgstr[2] "Zatwierdzone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Zatwierdzone <span class=\"count\">(%s)</span>"
 
 #. translators: %s: spam comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:227
@@ -4022,7 +4024,7 @@ msgstr "Przenieś komentarz do kosza"
 #: wp-includes/media-template.php:438 wp-includes/media-template.php:541
 msgctxt "verb"
 msgid "Trash"
-msgstr "Do kosza"
+msgstr "W koszu"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:637
@@ -4280,7 +4282,7 @@ msgid_plural "%s comments"
 msgstr[0] "%s komentarz"
 msgstr[1] "%s komentarze"
 msgstr[2] "%s komentarzy"
-msgstr[3] ""
+msgstr[3] "%s komentarzy"
 
 #: wp-admin/includes/class-wp-list-table.php:622
 msgid "%s approved comment"
@@ -4288,7 +4290,7 @@ msgid_plural "%s approved comments"
 msgstr[0] "%s zaakceptowany komentarz"
 msgstr[1] "%s zaakceptowane komentarze"
 msgstr[2] "%s zaakceptowanych komentarzy"
-msgstr[3] ""
+msgstr[3] "%s zaakceptowanych komentarzy"
 
 #: wp-admin/includes/class-wp-list-table.php:623
 msgid "%s pending comment"
@@ -4296,7 +4298,7 @@ msgid_plural "%s pending comments"
 msgstr[0] "%s oczekujący komentarz"
 msgstr[1] "%s oczekujące komentarze"
 msgstr[2] "%s oczekujących komentarzy"
-msgstr[3] ""
+msgstr[3] "%s oczekujących komentarzy"
 
 #: wp-admin/includes/class-wp-list-table.php:628
 #: wp-admin/includes/class-wp-list-table.php:640
@@ -4517,7 +4519,7 @@ msgstr "Zobacz &#8222;%s&#8221;"
 #: wp-admin/includes/class-wp-users-list-table.php:428
 #: wp-admin/includes/dashboard.php:647
 msgid "View"
-msgstr "Zobacz"
+msgstr "Widok"
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4536,7 +4538,7 @@ msgstr "Zarchiwizowana"
 #: wp-admin/network/site-info.php:174
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Oznacz jako spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:41
 #: wp-admin/network/site-info.php:175
@@ -4657,7 +4659,7 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wszystkie <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:290
 msgid "Enabled <span class=\"count\">(%s)</span>"
@@ -4665,7 +4667,7 @@ msgid_plural "Enabled <span class=\"count\">(%s)</span>"
 msgstr[0] "Włączone <span class=\"count\">(%s)</span>"
 msgstr[1] "Włączone <span class=\"count\">(%s)</span>"
 msgstr[2] "Włączone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Włączone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:293
 msgid "Disabled <span class=\"count\">(%s)</span>"
@@ -4673,7 +4675,7 @@ msgid_plural "Disabled <span class=\"count\">(%s)</span>"
 msgstr[0] "Wyłączone <span class=\"count\">(%s)</span>"
 msgstr[1] "Wyłączone <span class=\"count\">(%s)</span>"
 msgstr[2] "Wyłączone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wyłączone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:296
 #: wp-admin/includes/class-wp-plugins-list-table.php:430
@@ -4682,7 +4684,7 @@ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
 msgstr[1] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
 msgstr[2] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Dostępne aktualizacje <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:299
 msgid "Broken <span class=\"count\">(%s)</span>"
@@ -4690,7 +4692,7 @@ msgid_plural "Broken <span class=\"count\">(%s)</span>"
 msgstr[0] "Uszkodzone <span class=\"count\">(%s)</span>"
 msgstr[1] "Uszkodzone <span class=\"count\">(%s)</span>"
 msgstr[2] "Uszkodzone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Uszkodzone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:330
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:418
@@ -4755,7 +4757,7 @@ msgstr "Uszkodzony motyw:"
 #: wp-admin/theme-install.php:297 wp-admin/themes.php:282
 #: wp-admin/themes.php:423 wp-admin/themes.php:478
 msgid "By %s"
-msgstr "Autor: %s"
+msgstr "stworzone przez %s"
 
 #. translators: %s: theme name
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:545
@@ -4798,7 +4800,7 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "Wszyscy <span class=\"count\">(%s)</span>"
 msgstr[1] "Wszyscy <span class=\"count\">(%s)</span>"
 msgstr[2] "Wszyscy <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wszystkie <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:141
 msgid "Super Admin <span class=\"count\">(%s)</span>"
@@ -4806,7 +4808,7 @@ msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
 msgstr[0] "Super administrator <span class=\"count\">(%s)</span>"
 msgstr[1] "Super administratorzy <span class=\"count\">(%s)</span>"
 msgstr[2] "Super administratorzy <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Super administratorzy <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:168
 #: wp-admin/includes/class-wp-users-list-table.php:320
@@ -4862,7 +4864,7 @@ msgstr "Popularne"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "Kategorie"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -4941,7 +4943,7 @@ msgstr "Włącz w sieci wtyczkę %s"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:509
 msgctxt "plugin"
 msgid "Installed"
-msgstr "Zainstalowana"
+msgstr "Zainstalowano"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:519
 msgid "More Details"
@@ -5012,7 +5014,7 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wszystkie <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:415
 msgid "Active <span class=\"count\">(%s)</span>"
@@ -5020,7 +5022,7 @@ msgid_plural "Active <span class=\"count\">(%s)</span>"
 msgstr[0] "Włączone <span class=\"count\">(%s)</span>"
 msgstr[1] "Włączone <span class=\"count\">(%s)</span>"
 msgstr[2] "Włączone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Włączone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:418
 msgid "Recently Active <span class=\"count\">(%s)</span>"
@@ -5028,7 +5030,7 @@ msgid_plural "Recently Active <span class=\"count\">(%s)</span>"
 msgstr[0] "Ostatnio wyłączone <span class=\"count\">(%s)</span>"
 msgstr[1] "Ostatnio wyłączone <span class=\"count\">(%s)</span>"
 msgstr[2] "Ostatnio wyłączone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Ostatnio wyłączone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:421
 msgid "Inactive <span class=\"count\">(%s)</span>"
@@ -5036,7 +5038,7 @@ msgid_plural "Inactive <span class=\"count\">(%s)</span>"
 msgstr[0] "Wyłączone <span class=\"count\">(%s)</span>"
 msgstr[1] "Wyłączone <span class=\"count\">(%s)</span>"
 msgstr[2] "Wyłączone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wyłączone <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:424
 msgid "Must-Use <span class=\"count\">(%s)</span>"
@@ -5044,7 +5046,7 @@ msgid_plural "Must-Use <span class=\"count\">(%s)</span>"
 msgstr[0] "Wymuszane <span class=\"count\">(%s)</span>"
 msgstr[1] "Wymuszane <span class=\"count\">(%s)</span>"
 msgstr[2] "Wymuszane <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wymuszane <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:427
 msgid "Drop-ins <span class=\"count\">(%s)</span>"
@@ -5052,7 +5054,7 @@ msgid_plural "Drop-ins <span class=\"count\">(%s)</span>"
 msgstr[0] "Zamienniki <span class=\"count\">(%s)</span>"
 msgstr[1] "Zamienniki <span class=\"count\">(%s)</span>"
 msgstr[2] "Zamienniki <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Zamienniki <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:460
 #: wp-admin/includes/class-wp-plugins-list-table.php:601
@@ -5124,7 +5126,7 @@ msgid_plural "Mine <span class=\"count\">(%s)</span>"
 msgstr[0] "Moje <span class=\"count\">(%s)</span>"
 msgstr[1] "Moje <span class=\"count\">(%s)</span>"
 msgstr[2] "Moje <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Moje <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:314
 msgctxt "posts"
@@ -5133,7 +5135,7 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[1] "Wszystkie <span class=\"count\">(%s)</span>"
 msgstr[2] "Wszystkie <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Wszystkie <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:363
 msgctxt "posts"
@@ -5142,7 +5144,7 @@ msgid_plural "Sticky <span class=\"count\">(%s)</span>"
 msgstr[0] "Przyklejone <span class=\"count\">(%s)</span>"
 msgstr[1] "Przyklejone <span class=\"count\">(%s)</span>"
 msgstr[2] "Przyklejone <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Przyklejone <span class=\"count\">(%s)</span>"
 
 #. translators: manage posts column name
 #: wp-admin/includes/class-wp-posts-list-table.php:536
@@ -5349,7 +5351,7 @@ msgid_plural "%s columns"
 msgstr[0] "%s kolumna"
 msgstr[1] "%s kolumny"
 msgstr[2] "%s kolumn"
-msgstr[3] ""
+msgstr[3] "%s kolumn"
 
 #: wp-admin/includes/class-wp-screen.php:1131
 msgid "Number of items per page:"
@@ -5613,7 +5615,7 @@ msgid_plural "%s posts by this author"
 msgstr[0] "%s wpis tego autora"
 msgstr[1] "%s wpisy tego autora"
 msgstr[2] "%s wpisów tego autora"
-msgstr[3] ""
+msgstr[3] "%s wpisów tego autora"
 
 #: wp-admin/includes/class-wp-users-list-table.php:570
 msgctxt "no user roles"
@@ -7776,7 +7778,7 @@ msgid_plural "%s Posts"
 msgstr[0] "%s wpis"
 msgstr[1] "%s wpisy"
 msgstr[2] "%s wpisów"
-msgstr[3] ""
+msgstr[3] "%s wpisów"
 
 #: wp-admin/includes/dashboard.php:263
 msgid "%s Page"
@@ -7784,7 +7786,7 @@ msgid_plural "%s Pages"
 msgstr[0] "%s strona"
 msgstr[1] "%s strony"
 msgstr[2] "%s stron"
-msgstr[3] ""
+msgstr[3] "%s stron"
 
 #. translators: %s: number of comments in moderation
 #: wp-admin/includes/dashboard.php:286
@@ -7794,7 +7796,7 @@ msgid_plural "%s comments in moderation"
 msgstr[0] "%s komentarz do moderacji"
 msgstr[1] "%s komentarze do moderacji"
 msgstr[2] "%s komentarzy do moderacji"
-msgstr[3] ""
+msgstr[3] "%s komentarzy do moderacji"
 
 #: wp-admin/includes/dashboard.php:344
 msgid "Search Engines Discouraged"
@@ -7815,7 +7817,7 @@ msgid_plural "%s users"
 msgstr[0] "%s użytkownik"
 msgstr[1] "%s użytkowników"
 msgstr[2] "%s użytkowników"
-msgstr[3] ""
+msgstr[3] "%s użytkowników"
 
 #. translators: %s: number of sites on the network
 #: wp-admin/includes/dashboard.php:401
@@ -8570,7 +8572,7 @@ msgstr "Eksport danych osobistych"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "Na temat"
+msgstr "O nas"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -9176,7 +9178,7 @@ msgstr "Data/Czas"
 
 #: wp-admin/includes/media.php:2296
 msgid "Random"
-msgstr "Losowa"
+msgstr "Losowy"
 
 #: wp-admin/includes/media.php:2304
 msgid "Order:"
@@ -10285,7 +10287,7 @@ msgstr "Brak elementów."
 
 #: wp-admin/includes/nav-menu.php:363 wp-admin/includes/nav-menu.php:651
 msgid "Page"
-msgstr "strona"
+msgstr "Strona"
 
 #: wp-admin/includes/nav-menu.php:398
 msgid "Most Recent"
@@ -10812,7 +10814,7 @@ msgid_plural "(based on %s ratings)"
 msgstr[0] "(na podstawie %s głosu)"
 msgstr[1] "(na podstawie %s głosów)"
 msgstr[2] "(na podstawie %s głosów)"
-msgstr[3] ""
+msgstr[3] "(na podstawie %s głosów)"
 
 #: wp-admin/includes/plugin-install.php:668
 msgid "Reviews"
@@ -10830,7 +10832,7 @@ msgid_plural "Reviews with %1$d stars: %2$s. Opens in a new window."
 msgstr[0] "Recenzje z %1$d gwiazdką: %2$s. Otwórz w nowym oknie."
 msgstr[1] "Recenzje z %1$d gwiazdkami: %2$s. Otwórz w nowym oknie."
 msgstr[2] "Recenzje z %1$d gwiazdkami: %2$s. Otwórz w nowym oknie."
-msgstr[3] ""
+msgstr[3] "Recenzje z %1$d gwiazdkami: %2$s. Otwórz w nowym oknie."
 
 #: wp-admin/includes/plugin-install.php:682
 msgid "%d star"
@@ -10838,7 +10840,7 @@ msgid_plural "%d stars"
 msgstr[0] "%d gwiazdka"
 msgstr[1] "%d gwiazdki"
 msgstr[2] "%d gwiazdek"
-msgstr[3] ""
+msgstr[3] "%d gwiazdek"
 
 #: wp-admin/includes/plugin-install.php:692
 msgid "Contributors"
@@ -11052,12 +11054,12 @@ msgstr "j M \\o H:i"
 #: wp-admin/includes/revision.php:325
 msgctxt "Button label for a previous revision"
 msgid "Previous"
-msgstr "Poprzednia"
+msgstr "Poprzedni"
 
 #: wp-admin/includes/revision.php:329
 msgctxt "Button label for a next revision"
 msgid "Next"
-msgstr "Następna"
+msgstr "Następny"
 
 #: wp-admin/includes/revision.php:343
 msgid "Compare any two revisions"
@@ -11426,7 +11428,7 @@ msgid_plural "%1$s rating based on %2$s ratings"
 msgstr[0] "Ocena %1$s na podstawie %2$s głosu"
 msgstr[1] "Ocena %1$s na podstawie %2$s głosów"
 msgstr[2] "Ocena %1$s na podstawie %2$s głosów"
-msgstr[3] ""
+msgstr[3] "Ocena %1$s na podstawie %2$s głosów"
 
 #. translators: 1: The rating
 #: wp-admin/includes/template.php:2173
@@ -11565,7 +11567,7 @@ msgstr "Wakacje"
 
 #: wp-admin/includes/theme.php:244
 msgid "News"
-msgstr "Wiadomości"
+msgstr "Nowości"
 
 #: wp-admin/includes/theme.php:245
 msgid "Photography"
@@ -12114,7 +12116,7 @@ msgid_plural "Deleted %d requests"
 msgstr[0] "Skasowano %d prośbę"
 msgstr[1] "Skasowano %d prośby"
 msgstr[2] "Skasowano %d próśb"
-msgstr[3] ""
+msgstr[3] "Skasowano %d próśb"
 
 #. translators: %d: number of requests
 #: wp-admin/includes/user.php:1173
@@ -12123,7 +12125,7 @@ msgid_plural "Re-sent %d requests"
 msgstr[0] "Ponownie wysłano %d prośbę"
 msgstr[1] "Ponownie wysłano %d prośby"
 msgstr[2] "Ponownie wysłano %d próśb"
-msgstr[3] ""
+msgstr[3] "Ponownie wysłano %d próśb"
 
 #: wp-admin/includes/user.php:1409
 msgid "Download Personal Data"
@@ -12475,7 +12477,7 @@ msgid_plural "%s links deleted"
 msgstr[0] "%s odnośnik został usunięty."
 msgstr[1] "%s odnośniki zostały usunięte."
 msgstr[2] "%s odnośników zostało usuniętych."
-msgstr[3] ""
+msgstr[3] "%s odnośników zostało usuniętych."
 
 #: wp-admin/link-manager.php:109
 msgid "Search Links"
@@ -12728,7 +12730,7 @@ msgstr "Menu"
 #: wp-admin/menu.php:196 wp-admin/network/menu.php:54
 msgctxt "theme editor"
 msgid "Editor"
-msgstr "Edytor"
+msgstr "Redaktor"
 
 #: wp-admin/menu.php:206 wp-admin/network/menu.php:57
 msgid "Plugins %s"
@@ -12742,12 +12744,12 @@ msgstr "Zainstalowane wtyczki"
 #: wp-admin/menu.php:212 wp-admin/network/menu.php:62 wp-admin/plugins.php:526
 msgctxt "plugin"
 msgid "Add New"
-msgstr "Dodaj nową"
+msgstr "Dodaj nowe"
 
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
 msgid "Editor"
-msgstr "Edytor"
+msgstr "Redaktor"
 
 #: wp-admin/menu.php:221 wp-admin/user/menu.php:14 wp-admin/user-edit.php:29
 msgid "Profile"
@@ -12762,7 +12764,7 @@ msgstr "Wszyscy użytkownicy"
 #: wp-admin/users.php:493
 msgctxt "user"
 msgid "Add New"
-msgstr "Dodaj nowego"
+msgstr "Dodaj nowe"
 
 #: wp-admin/menu.php:232 wp-admin/menu.php:235
 msgid "Your Profile"
@@ -12800,7 +12802,7 @@ msgstr "Ustawienia %s"
 #: wp-admin/menu.php:259
 msgctxt "settings screen"
 msgid "General"
-msgstr "Ogólne"
+msgstr "Ustawienia główne"
 
 #: wp-admin/menu.php:260
 msgid "Writing"
@@ -12900,7 +12902,7 @@ msgstr "Ustawienia zostały zapisane."
 #: wp-admin/network/sites.php:336
 msgctxt "site"
 msgid "Add New"
-msgstr "Dodaj nową"
+msgstr "Dodaj nowe"
 
 #: wp-admin/my-sites.php:71
 msgid "You must be a member of at least one site to use this page."
@@ -13097,7 +13099,7 @@ msgid_plural "Your theme supports %s menus. Select which menu appears in each lo
 msgstr[0] "Twój motyw posiada %s miejsce na menu. Wybierz, które menu w nim wyświetlić."
 msgstr[1] "Twój motyw posiada %s miejsca na menu. Wybierz, w którym miejscu wyświetlić które menu."
 msgstr[2] "Twój motyw posiada %s miejsc na menu. Wybierz, w którym miejscu wyświetlić które menu."
-msgstr[3] ""
+msgstr[3] "Twój motyw posiada %s miejsc na menu. Wybierz, w którym miejscu wyświetlić które menu."
 
 #: wp-admin/nav-menus.php:622
 msgid "Theme Location"
@@ -13188,7 +13190,7 @@ msgstr "Wyświetl lokalizację"
 #: wp-admin/nav-menus.php:822
 msgctxt "menu location"
 msgid "(Currently set to: %s)"
-msgstr "(Obecne ustawienie: %s)"
+msgstr "(Aktualnie ustawione na: %s)"
 
 #: wp-admin/nav-menus.php:840 wp-includes/class-wp-customize-nav-menus.php:960
 msgid "Delete Menu"
@@ -13274,7 +13276,7 @@ msgstr "Zainstalowane motywy"
 #: wp-admin/network/menu.php:53 wp-admin/network/themes.php:253
 msgctxt "theme"
 msgid "Add New"
-msgstr "Dodaj nowy"
+msgstr "Dodaj nowe"
 
 #: wp-admin/network/menu.php:59 wp-admin/network/settings.php:417
 #: wp-admin/plugins.php:445 wp-admin/update-core.php:253
@@ -13624,7 +13626,7 @@ msgstr "Nowa witryna utworzona przez: %1$s\n\n"
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "Administrator Witryny"
+msgstr "Administracja witryną"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -13685,7 +13687,7 @@ msgid_plural "%s themes enabled."
 msgstr[0] "Włączono %s motyw."
 msgstr[1] "Włączono %s motywy."
 msgstr[2] "Włączono %s motywów."
-msgstr[3] ""
+msgstr[3] "Włączono %s motywów."
 
 #: wp-admin/network/site-themes.php:181 wp-admin/network/themes.php:277
 msgid "Theme disabled."
@@ -13697,7 +13699,7 @@ msgid_plural "%s themes disabled."
 msgstr[0] "Wyłączono %s motyw."
 msgstr[1] "Wyłączono %s motywy."
 msgstr[2] "Wyłączono %s motywów."
-msgstr[3] ""
+msgstr[3] "Wyłączono %s motywów."
 
 #: wp-admin/network/site-themes.php:187 wp-admin/network/themes.php:291
 msgid "No theme selected."
@@ -14045,7 +14047,7 @@ msgid_plural "%s themes deleted."
 msgstr[0] "Usunięto %s motyw."
 msgstr[1] "Usunięto %s motywy."
 msgstr[2] "Usunięto %s motywów."
-msgstr[3] ""
+msgstr[3] "Usunięto %s motywów."
 
 #: wp-admin/network/themes.php:293
 msgid "You cannot delete a theme while it is active on the main site."
@@ -15971,12 +15973,12 @@ msgstr "Włącz %s"
 #: wp-admin/theme-install.php:283
 msgctxt "Button label for a theme"
 msgid "Previous"
-msgstr "Poprzednie"
+msgstr "Poprzedni"
 
 #: wp-admin/theme-install.php:284
 msgctxt "Button label for a theme"
 msgid "Next"
-msgstr "Następne"
+msgstr "Następny"
 
 #: wp-admin/theme-install.php:310
 msgid "This theme has not been rated yet."
@@ -16056,7 +16058,7 @@ msgstr ""
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
 msgid "Add New"
-msgstr "Dodaj nowy"
+msgstr "Dodaj nowe"
 
 #: wp-admin/themes.php:167
 msgid "The active theme is broken. Reverting to the default theme."
@@ -16531,7 +16533,7 @@ msgid_plural "%s media files attached."
 msgstr[0] "%s plik został załączony."
 msgstr[1] "%s pliki zostały załączone."
 msgstr[2] "%s plików zostało załączonych."
-msgstr[3] ""
+msgstr[3] "%s pliki zostały załączone."
 
 #: wp-admin/upload.php:261
 msgid "Media file detached."
@@ -16544,7 +16546,7 @@ msgid_plural "%s media files detached."
 msgstr[0] "%s plik został odłączony."
 msgstr[1] "%s pliki zostały odłączone."
 msgstr[2] "%s plików zostało odłączonych."
-msgstr[3] ""
+msgstr[3] "%s plików zostało odłączonych."
 
 #: wp-admin/upload.php:272 wp-admin/upload.php:305
 msgid "Media file permanently deleted."
@@ -16557,7 +16559,7 @@ msgid_plural "%s media files permanently deleted."
 msgstr[0] "%s plik został trwale usunięty."
 msgstr[1] "%s pliki zostały trwale usunięte."
 msgstr[2] "%s plików zostało trwale usuniętych."
-msgstr[3] ""
+msgstr[3] "%s plików zostało trwale usuniętych."
 
 #: wp-admin/upload.php:283 wp-admin/upload.php:307
 msgid "Media file moved to the trash."
@@ -16570,7 +16572,7 @@ msgid_plural "%s media files moved to the trash."
 msgstr[0] "Przeniesiono %s plik do kosza."
 msgstr[1] "Przeniesiono %s pliki do kosza."
 msgstr[2] "Przeniesiono %s plików do kosza."
-msgstr[3] ""
+msgstr[3] "Przeniesiono %s plików do kosza."
 
 #: wp-admin/upload.php:295 wp-admin/upload.php:308
 msgid "Media file restored from the trash."
@@ -16583,7 +16585,7 @@ msgid_plural "%s media files restored from the trash."
 msgstr[0] "Przywrócono %s plik z kosza."
 msgstr[1] "Przywrócono %s pliki z kosza."
 msgstr[2] "Przywrócono %s plików z kosza."
-msgstr[3] ""
+msgstr[3] "Przywrócono %s plików z kosza."
 
 #: wp-admin/upload.php:306
 msgid "Error saving media file."
@@ -17161,7 +17163,7 @@ msgid_plural "%s users deleted."
 msgstr[0] "%s użytkownik został usunięty."
 msgstr[1] "%s użytkowników zostało usuniętych."
 msgstr[2] "%s użytkowników zostało usuniętych."
-msgstr[3] ""
+msgstr[3] "%s użytkowników zostało usuniętych."
 
 #. translators: %s: edit page url
 #: wp-admin/users.php:442
@@ -17400,7 +17402,7 @@ msgid_plural "%s comments awaiting moderation"
 msgstr[0] "%s komentarz oczekuje na moderację"
 msgstr[1] "%s komentarze oczekują na moderację"
 msgstr[2] "%s komentarzy oczekuje na moderację"
-msgstr[3] ""
+msgstr[3] "%s komentarzy oczekuje na moderację"
 
 #. translators: %s: get_the_author()
 #. translators: %s: get_trackback_url()
@@ -17575,7 +17577,7 @@ msgid_plural "Unable to save due to %s invalid settings."
 msgstr[0] "Zapisywanie nie powiodło się z powodu %s nieprawidłowego ustawienia."
 msgstr[1] "Zapisywanie nie powiodło się z powodu %s nieprawidłowych ustawień."
 msgstr[2] "Zapisywanie nie powiodło się z powodu %s nieprawidłowych ustawień."
-msgstr[3] ""
+msgstr[3] "Zapisywanie nie powiodło się z powodu %s nieprawidłowych ustawień."
 
 #: wp-includes/class-wp-customize-manager.php:2997
 msgid "There was an authentication problem. Please reload and try again."
@@ -17823,7 +17825,7 @@ msgstr "Własny"
 
 #: wp-includes/class-wp-customize-manager.php:5167
 msgid "Original"
-msgstr "Oryginał"
+msgstr "Oryginalna"
 
 #: wp-includes/class-wp-customize-manager.php:5213
 msgid "Homepage Settings"
@@ -17935,7 +17937,7 @@ msgid_plural "Your theme can display menus in %s locations."
 msgstr[0] "Motyw może wyświetlać menu w %s lokacji."
 msgstr[1] "Motyw może wyświetlać menu w %s lokacjach."
 msgstr[2] "Motyw może wyświetlać menu w %s lokacjach."
-msgstr[3] ""
+msgstr[3] "Motyw może wyświetlać menu w %s lokacjach."
 
 #: wp-includes/class-wp-customize-nav-menus.php:427
 #: wp-includes/script-loader.php:935
@@ -18063,7 +18065,7 @@ msgid_plural "Your theme can display menus in %s locations. Select which menu ap
 msgstr[0] "Twój motyw posiada %s miejsce na menu. Wybierz, które menu chcesz użyć."
 msgstr[1] "Twój motyw posiada %s miejsca na menu. Wybierz, które menu chcesz użyć."
 msgstr[2] "Twój motyw posiada %s miejsc na menu. Wybierz, które menu chcesz użyć."
-msgstr[3] ""
+msgstr[3] "Twój motyw posiada %s miejsc na menu. Wybierz, które menu chcesz użyć."
 
 #. translators: URL to the widgets panel of the customizer
 #: wp-includes/class-wp-customize-nav-menus.php:600
@@ -18202,7 +18204,7 @@ msgid_plural "Your theme has %s other widget areas, but this particular page doe
 msgstr[0] "Twój motyw ma %s dodatkowy obszar widgetów, ale ta strona nie wyświetla jej."
 msgstr[1] "Twój motyw ma %s dodatkowe obszary widgetów, ale ta strona nie wyświetla jej."
 msgstr[2] "Twój motyw ma %s dodatkowych obszarów widgetów, ale ta strona nie wyświetla jej."
-msgstr[3] ""
+msgstr[3] "Twój motyw ma %s dodatkowych obszarów widgetów, ale ta strona nie wyświetla jej."
 
 #: wp-includes/class-wp-customize-widgets.php:732
 msgid "Your theme has 1 widget area, but this particular page doesn&#8217;t display it."
@@ -18215,7 +18217,7 @@ msgid_plural "Your theme has %s widget areas, but this particular page doesn&#82
 msgstr[0] "Twój motyw ma %s obszar widgetów, ale ta strona nie wyświetla jej."
 msgstr[1] "Twój motyw ma %s obszary widgetów, ale ta strona nie wyświetla jej."
 msgstr[2] "Twój motyw ma %s obszarów widgetów, ale ta strona nie wyświetla jej."
-msgstr[3] ""
+msgstr[3] "Twój motyw ma %s obszarów widgetów, ale ta strona nie wyświetla jej."
 
 #: wp-includes/class-wp-customize-widgets.php:752
 msgid "Save and preview changes before publishing them."
@@ -20314,7 +20316,7 @@ msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
 msgstr[0] "%1$s komentarz<span class=\"screen-reader-text\"> do %2$s</span>"
 msgstr[1] "%1$s komentarze<span class=\"screen-reader-text\"> do %2$s</span>"
 msgstr[2] "%1$s komentarzy<span class=\"screen-reader-text\"> do %2$s</span>"
-msgstr[3] ""
+msgstr[3] "%1$s komentarzy<span class=\"screen-reader-text\"> do %2$s</span>"
 
 #. translators: %s: post title
 #: wp-includes/comment-template.php:1516
@@ -20969,7 +20971,7 @@ msgid_plural "%s <span class=\"screen-reader-text\">Comments</span>"
 msgstr[0] "%s <span class=\"screen-reader-text\">Komentarz</span>"
 msgstr[1] "%s <span class=\"screen-reader-text\">Komentarze</span>"
 msgstr[2] "%s <span class=\"screen-reader-text\">Komentarzy</span>"
-msgstr[3] ""
+msgstr[3] "%s <span class=\"screen-reader-text\">Komentarzy</span>"
 
 #: wp-includes/embed.php:981
 msgid "Open sharing dialog"
@@ -21114,7 +21116,7 @@ msgid_plural "%s mins"
 msgstr[0] "%s minutę"
 msgstr[1] "%s minuty"
 msgstr[2] "%s minut"
-msgstr[3] ""
+msgstr[3] "%s minut"
 
 #. translators: Time difference between two dates, in hours. 1: Number of hours
 #: wp-includes/formatting.php:3250
@@ -21123,7 +21125,7 @@ msgid_plural "%s hours"
 msgstr[0] "%s godzinę"
 msgstr[1] "%s godziny"
 msgstr[2] "%s godzin"
-msgstr[3] ""
+msgstr[3] "%s godzin"
 
 #. translators: Time difference between two dates, in days. 1: Number of days
 #: wp-includes/formatting.php:3256
@@ -21132,7 +21134,7 @@ msgid_plural "%s days"
 msgstr[0] "%s dzień"
 msgstr[1] "%s dni"
 msgstr[2] "%s dni"
-msgstr[3] ""
+msgstr[3] "%s dni"
 
 #. translators: Time difference between two dates, in weeks. 1: Number of weeks
 #: wp-includes/formatting.php:3262
@@ -21141,7 +21143,7 @@ msgid_plural "%s weeks"
 msgstr[0] "%s tydzień"
 msgstr[1] "%s tygodnie"
 msgstr[2] "%s tygodni"
-msgstr[3] ""
+msgstr[3] "%s tygodni"
 
 #. translators: Time difference between two dates, in months. 1: Number of
 #. months
@@ -21151,7 +21153,7 @@ msgid_plural "%s months"
 msgstr[0] "%s miesiąc"
 msgstr[1] "%s miesiące"
 msgstr[2] "%s miesięcy"
-msgstr[3] ""
+msgstr[3] "%s miesięcy"
 
 #. translators: Time difference between two dates, in years. 1: Number of years
 #: wp-includes/formatting.php:3274
@@ -21160,7 +21162,7 @@ msgid_plural "%s years"
 msgstr[0] "%s rok"
 msgstr[1] "%s lata"
 msgstr[2] "%s lat"
-msgstr[3] ""
+msgstr[3] "%s lat"
 
 #. translators: If your word count is based on single characters (e.g. East
 #. Asian characters), enter 'characters_excluding_spaces' or
@@ -22303,7 +22305,7 @@ msgstr "Szczegóły pliku dźwiękowego"
 
 #: wp-includes/media.php:3584
 msgid "Replace Audio"
-msgstr "Zastąp plik dźwiękowy"
+msgstr "Zastąp audio"
 
 #: wp-includes/media.php:3585
 msgid "Add Audio Source"
@@ -22492,7 +22494,7 @@ msgid_plural "Site name must be at least %s characters."
 msgstr[0] "Nazwa witryny musi składać się z co najmniej %s znaku."
 msgstr[1] "Nazwa witryny musi składać się z co najmniej %s znaków."
 msgstr[2] "Nazwa witryny musi składać się z co najmniej %s znaków."
-msgstr[3] ""
+msgstr[3] "Nazwa witryny musi składać się z co najmniej %s znaków."
 
 #: wp-includes/ms-functions.php:621
 msgid "Sorry, you may not use that site name."
@@ -22974,7 +22976,7 @@ msgid_plural "Currently %s comments are waiting for approval. Please visit the m
 msgstr[0] "Na zatwierdzenie oczekuje w sumie %s komentarz. Proszę odwiedzić ekran moderacji:"
 msgstr[1] "Na zatwierdzenie oczekują w sumie %s komentarze. Proszę odwiedzić ekran moderacji:"
 msgstr[2] "Na zatwierdzenie oczekuje w sumie %s komentarzy. Proszę odwiedzić ekran moderacji:"
-msgstr[3] ""
+msgstr[3] "Na zatwierdzenie oczekuje w sumie %s komentarzy. Proszę odwiedzić ekran moderacji:"
 
 #. translators: Comment moderation notification email subject. 1: Site name, 2:
 #. Post title
@@ -23161,7 +23163,7 @@ msgstr "Medium"
 #: wp-includes/post.php:66
 msgctxt "add new media"
 msgid "Add New"
-msgstr "Dodaj"
+msgstr "Dodaj nowe"
 
 #: wp-includes/post.php:68
 msgid "View Attachment Page"
@@ -23271,7 +23273,7 @@ msgid_plural "Published <span class=\"count\">(%s)</span>"
 msgstr[0] "Opublikowane <span class=\"count\">(%s)</span>"
 msgstr[1] "Opublikowane <span class=\"count\">(%s)</span>"
 msgstr[2] "Opublikowane <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Opublikowane <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:236
 msgctxt "post status"
@@ -23284,7 +23286,7 @@ msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
 msgstr[0] "Zaplanowane <span class=\"count\">(%s)</span>"
 msgstr[1] "Zaplanowane <span class=\"count\">(%s)</span>"
 msgstr[2] "Zaplanowane <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Zaplanowane <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:243
 msgctxt "post status"
@@ -23297,7 +23299,7 @@ msgid_plural "Drafts <span class=\"count\">(%s)</span>"
 msgstr[0] "Szkice <span class=\"count\">(%s)</span>"
 msgstr[1] "Szkice <span class=\"count\">(%s)</span>"
 msgstr[2] "Szkice <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Szkice <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:253
 msgid "Pending <span class=\"count\">(%s)</span>"
@@ -23318,7 +23320,7 @@ msgid_plural "Private <span class=\"count\">(%s)</span>"
 msgstr[0] "Prywatne <span class=\"count\">(%s)</span>"
 msgstr[1] "Prywatne <span class=\"count\">(%s)</span>"
 msgstr[2] "Prywatne <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Prywatne <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:264
 msgctxt "post status"
@@ -23355,7 +23357,7 @@ msgstr "Ukończono"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr "Oczekuje"
+msgstr "Oczekujący na przegląd"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
@@ -23367,7 +23369,7 @@ msgstr "Niepowodzenie"
 
 #: wp-includes/post.php:787
 msgid "Completed"
-msgstr "Zrealizowane"
+msgstr "Ukończono"
 
 #: wp-includes/post.php:1190 wp-includes/post.php:1191
 msgid "Post type names must be between 1 and 20 characters in length."
@@ -23585,7 +23587,7 @@ msgid_plural "Images <span class=\"count\">(%s)</span>"
 msgstr[0] "Obrazki <span class=\"count\">(%s)</span>"
 msgstr[1] "Obrazki <span class=\"count\">(%s)</span>"
 msgstr[2] "Obrazki <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Obrazki <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
@@ -23602,7 +23604,7 @@ msgid_plural "Audio <span class=\"count\">(%s)</span>"
 msgstr[0] "Pliki dżwiękowe <span class=\"count\">(%s)</span>"
 msgstr[1] "Pliki dżwiękowe <span class=\"count\">(%s)</span>"
 msgstr[2] "Pliki dźwiękowe <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Pliki dźwiękowe <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
@@ -23619,7 +23621,7 @@ msgid_plural "Video <span class=\"count\">(%s)</span>"
 msgstr[0] "Filmy <span class=\"count\">(%s)</span>"
 msgstr[1] "Filmy <span class=\"count\">(%s)</span>"
 msgstr[2] "Filmy <span class=\"count\">(%s)</span>"
-msgstr[3] ""
+msgstr[3] "Filmy <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:3046
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
@@ -25440,7 +25442,7 @@ msgid_plural "There are %d errors which must be fixed before you can update this
 msgstr[0] "Istnieje %d błąd, który musisz naprawić zanim będzie można zaktualizować ten plik."
 msgstr[1] "Istnieją %d błędy, które musisz naprawić zanim będzie można zaktualizować ten plik."
 msgstr[2] "Istnieje %d błędów, które musisz naprawić zanim będzie można zaktualizować ten plik."
-msgstr[3] ""
+msgstr[3] "Istnieje %d błędów, które musisz naprawić zanim będzie można zaktualizować ten plik."
 
 #: wp-includes/script-loader.php:531
 msgctxt "password strength"
@@ -25578,7 +25580,7 @@ msgid_plural "There are %d errors which must be fixed before you can save."
 msgstr[0] "Wystąpił %d błąd, który należy poprawić zanim będzie można zapisać."
 msgstr[1] "Wystąpił %d błędy, który należy poprawić zanim będzie można zapisać."
 msgstr[2] "Wystąpił %d błędów, który należy poprawić zanim będzie można zapisać."
-msgstr[3] ""
+msgstr[3] "Wystąpił %d błędów, który należy poprawić zanim będzie można zapisać."
 
 #: wp-includes/script-loader.php:626
 msgid "Homepage and posts page must be different."
@@ -25938,7 +25940,7 @@ msgstr "Nie można było wczytać podglądu obrazka. Proszę odświeżyć stron�
 
 #: wp-includes/script-loader.php:923
 msgid "Use as featured image"
-msgstr "Użyj jako obrazka wyróżniającego"
+msgstr "Użyj jako obrazek wyróżniający"
 
 #: wp-includes/script-loader.php:924
 msgid "Saving..."
@@ -26256,7 +26258,7 @@ msgid_plural "%1$s responses to %2$s"
 msgstr[0] "%1$s odpowiedź na %2$s"
 msgstr[1] "%1$s odpowiedzi na %2$s"
 msgstr[2] "%1$s odpowiedzi na %2$s"
-msgstr[3] ""
+msgstr[3] "%1$s odpowiedzi na %2$s"
 
 #: wp-includes/theme-compat/comments.php:66
 msgid "Comments are closed."
@@ -26547,7 +26549,7 @@ msgid_plural "%d Plugin Updates"
 msgstr[0] "%d aktualizacja wtyczki"
 msgstr[1] "%d aktualizacje wtyczek"
 msgstr[2] "%d aktualizacji wtyczek"
-msgstr[3] ""
+msgstr[3] "%d aktualizacji wtyczek"
 
 #. translators: 1: Number of updates available to themes
 #: wp-includes/update.php:636
@@ -26556,7 +26558,7 @@ msgid_plural "%d Theme Updates"
 msgstr[0] "%d aktualizacja motywu"
 msgstr[1] "%d aktualizacje motywów"
 msgstr[2] "%d aktualizacji motywów"
-msgstr[3] ""
+msgstr[3] "%d aktualizacji motywów"
 
 #: wp-includes/update.php:639
 msgid "Translation Updates"
@@ -27102,7 +27104,7 @@ msgid_plural "Audio Widget (%d)"
 msgstr[0] "Widget audio (%d)"
 msgstr[1] "Widgety audio (%d)"
 msgstr[2] "Widgety audio (%d)"
-msgstr[3] ""
+msgstr[3] "Widgety audio (%d)"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:42
 msgid "Audio Widget"
@@ -27177,7 +27179,7 @@ msgid_plural "Image Widget (%d)"
 msgstr[0] "Widget obrazek (%d)"
 msgstr[1] "Widgety obrazek (%d)"
 msgstr[2] "Widgety obrazek (%d)"
-msgstr[3] ""
+msgstr[3] "Widgety obrazek (%d)"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:42
 msgid "Image Widget"
@@ -27223,7 +27225,7 @@ msgid_plural "Video Widget (%d)"
 msgstr[0] "Widget film (%d)"
 msgstr[1] "Widgety film (%d)"
 msgstr[2] "Widgety film (%d)"
-msgstr[3] ""
+msgstr[3] "Widgety film (%d)"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:42
 msgid "Video Widget"
@@ -27278,7 +27280,7 @@ msgid_plural "Media Widget (%d)"
 msgstr[0] "Widget media (%d)"
 msgstr[1] "Widgety media (%d)"
 msgstr[2] "Widgety media (%d)"
-msgstr[3] ""
+msgstr[3] "Widgety media (%d)"
 
 #: wp-includes/widgets/class-wp-widget-media.php:78
 msgid "Media Widget"

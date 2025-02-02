@@ -9,11 +9,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
+"X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: /master/en_US.pot\n"
+"X-Crowdin-File: /v1/en_US.pot\n"
+"X-Crowdin-File-ID: 14\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-02-17 02:02\n"
+"PO-Revision-Date: 2024-04-18 03:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -81,7 +83,7 @@ msgstr "アカウントを有効化しました。<a href=\"%1$s\">ログイン<
 #: wp-admin/about.php:15
 msgctxt "page title"
 msgid "About"
-msgstr "ClassicPress について"
+msgstr "会社概要"
 
 #: wp-admin/about.php:20 wp-admin/credits.php:18 wp-admin/freedoms.php:21
 #: wp-admin/includes/dashboard.php:1349
@@ -1802,7 +1804,7 @@ msgstr "承認済み"
 #: wp-admin/edit-form-comment.php:90
 msgctxt "comment status"
 msgid "Pending"
-msgstr "承認待ち"
+msgstr "レビュー待ち"
 
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
@@ -1936,7 +1938,7 @@ msgstr "リンクを追加しました。"
 #: wp-admin/includes/class-wp-links-list-table.php:126
 msgctxt "link name"
 msgid "Name"
-msgstr "名称"
+msgstr "名前"
 
 #: wp-admin/edit-link-form.php:103
 msgid "Example: Nifty blogging software"
@@ -3792,7 +3794,7 @@ msgstr[0] "すべて <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Pending <span class=\"count\">(%s)</span>"
 msgid_plural "Pending <span class=\"count\">(%s)</span>"
-msgstr[0] "承認待ち <span class=\"count\">(%s)</span>"
+msgstr[0] "保留中 <span class=\"count\">(%s)</span>"
 
 #. translators: %s: approved comments count
 #: wp-admin/includes/class-wp-comments-list-table.php:220
@@ -3936,7 +3938,7 @@ msgstr "このコメントをゴミ箱へ移動"
 #: wp-includes/media-template.php:438 wp-includes/media-template.php:541
 msgctxt "verb"
 msgid "Trash"
-msgstr "ゴミ箱へ移動"
+msgstr "ゴミ箱"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:637
@@ -4746,7 +4748,7 @@ msgstr "人気"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:107
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "カテゴリー"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:111
 #: wp-admin/plugin-install.php:122 wp-admin/update.php:151
@@ -4825,7 +4827,7 @@ msgstr "%s をサイトネットワークで有効化"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:509
 msgctxt "plugin"
 msgid "Installed"
-msgstr "インストール済み"
+msgstr "インストール完了"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:519
 msgid "More Details"
@@ -8406,7 +8408,7 @@ msgstr "個人データのエクスポート"
 #: wp-admin/includes/file.php:1955
 msgctxt "personal data group label"
 msgid "About"
-msgstr "このサイトについて"
+msgstr "会社概要"
 
 #: wp-admin/includes/file.php:1959
 msgctxt "email address"
@@ -9236,7 +9238,7 @@ msgstr "この下書きができるのは、<a href=\"%s\">未公開のカスタ
 #: wp-includes/script-loader.php:737
 msgctxt "post action/button label"
 msgid "Schedule"
-msgstr "予約投稿"
+msgstr "予約公開"
 
 #: wp-admin/includes/meta-boxes.php:299 wp-admin/includes/meta-boxes.php:300
 msgid "Submit for Review"
@@ -10879,7 +10881,7 @@ msgstr "n月j日 @ H:i"
 #: wp-admin/includes/revision.php:325
 msgctxt "Button label for a previous revision"
 msgid "Previous"
-msgstr "前へ"
+msgstr "前"
 
 #: wp-admin/includes/revision.php:329
 msgctxt "Button label for a next revision"
@@ -12544,7 +12546,7 @@ msgstr "メニュー"
 #: wp-admin/menu.php:196 wp-admin/network/menu.php:54
 msgctxt "theme editor"
 msgid "Editor"
-msgstr "テーマの編集"
+msgstr "編集者"
 
 #: wp-admin/menu.php:206 wp-admin/network/menu.php:57
 msgid "Plugins %s"
@@ -12563,7 +12565,7 @@ msgstr "新規追加"
 #: wp-admin/menu.php:213 wp-admin/network/menu.php:63
 msgctxt "plugin editor"
 msgid "Editor"
-msgstr "プラグイン編集"
+msgstr "編集者"
 
 #: wp-admin/menu.php:221 wp-admin/user/menu.php:14 wp-admin/user-edit.php:29
 msgid "Profile"
@@ -13437,7 +13439,7 @@ msgstr "%1$s が新規サイトを作成しました。\n\n"
 #: wp-admin/network/site-new.php:158
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr "サイト管理者"
+msgstr "サイト管理"
 
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:175
@@ -15775,7 +15777,7 @@ msgstr "%s を有効化"
 #: wp-admin/theme-install.php:283
 msgctxt "Button label for a theme"
 msgid "Previous"
-msgstr "前へ"
+msgstr "前"
 
 #: wp-admin/theme-install.php:284
 msgctxt "Button label for a theme"
@@ -17602,7 +17604,7 @@ msgstr "カスタム"
 
 #: wp-includes/class-wp-customize-manager.php:5167
 msgid "Original"
-msgstr "元のサイズ"
+msgstr "オリジナル"
 
 #: wp-includes/class-wp-customize-manager.php:5213
 msgid "Homepage Settings"
@@ -18116,7 +18118,7 @@ msgstr "整形済みテキスト"
 #: wp-includes/class-wp-editor.php:1020
 msgctxt "HTML tag"
 msgid "Address"
-msgstr ""
+msgstr "住所"
 
 #: wp-includes/class-wp-editor.php:1022
 msgctxt "HTML elements"
@@ -23067,11 +23069,11 @@ msgstr "完了"
 
 #: wp-includes/post.php:784
 msgid "Pending"
-msgstr "保留中"
+msgstr "レビュー待ち"
 
 #: wp-includes/post.php:785
 msgid "Confirmed"
-msgstr "確認済み"
+msgstr "失敗"
 
 #: wp-includes/post.php:786
 msgid "Failed"

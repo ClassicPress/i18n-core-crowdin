@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-02-03 14:34\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -917,7 +917,7 @@ msgstr "Onbekende actie."
 
 #: wp-admin/credits.php:52
 msgid "ClassicPress is created by a worldwide team of passionate individuals."
-msgstr ""
+msgstr "ClassicPress wordt gemaakt door een wereldwijd team van gepassioneerde individuen."
 
 #. translators: %s: https://www.classicpress.net/community
 #: wp-admin/credits.php:58
@@ -2586,39 +2586,39 @@ msgstr "ClassicPress is gratis en open source software, gebouwd door een gedistr
 
 #: wp-admin/freedoms.php:76
 msgid "The Four Freedoms"
-msgstr ""
+msgstr "De vier vrijheden"
 
 #: wp-admin/freedoms.php:77
 msgid "The 1st Freedom"
-msgstr ""
+msgstr "De eerste vrijheid"
 
 #: wp-admin/freedoms.php:77
 msgid "To run the program for any purpose."
-msgstr ""
+msgstr "Om het programma voor elk doel uit te voeren."
 
 #: wp-admin/freedoms.php:78
 msgid "The 2nd Freedom"
-msgstr ""
+msgstr "De tweede vrijheid"
 
 #: wp-admin/freedoms.php:78
 msgid "To study how the program works and change it to make it do what you wish."
-msgstr ""
+msgstr "Om te leren hoe het programma werkt en aan te passen om het te laten werken zoals jij dat wilt."
 
 #: wp-admin/freedoms.php:79
 msgid "The 3rd Freedom"
-msgstr ""
+msgstr "De derde vrijheid"
 
 #: wp-admin/freedoms.php:79
 msgid "To redistribute."
-msgstr ""
+msgstr "Om verder te verspreiden."
 
 #: wp-admin/freedoms.php:80
 msgid "The 4th Freedom"
-msgstr ""
+msgstr "De vierde vrijheid"
 
 #: wp-admin/freedoms.php:80
 msgid "To distribute copies of your modified versions to others."
-msgstr ""
+msgstr "Om kopieën van je gewijzigde versies met anderen te delen."
 
 #: wp-admin/freedoms.php:86
 #: wp-admin/includes/plugin-install.php:731
@@ -3423,7 +3423,7 @@ msgstr "Kon de link niet invoegen in de database."
 #. translators: %s: A link to install the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:351
 msgid "If you are looking to use the link manager, please enable it in the <a href=\"%s\">General Settings</a>."
-msgstr ""
+msgstr "Als je gebruik wilt maken van link manager, schakel deze dan in via de <a href=\"%s\">Algemene instellingen</a>."
 
 #. translators: %s: A link to activate the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:366
@@ -4961,7 +4961,13 @@ msgid "BETA TESTING?\n"
 " * Open a thread in the support forums: https://forums.classicpress.net/c/support/\n"
 " * Or, if you're comfortable writing a bug report: https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
 "Thanks! -- The ClassicPress Team"
-msgstr ""
+msgstr "BETA TESTING?\n"
+"=============\n\n"
+"Deze debug e-mail wordt verzonden wanneer je een ontwikkelversie gebruikt van ClassicPress.\n\n"
+"Wanneer je van mening bent dat deze fouten worden veroorzaakt door een bug in ClassicPress, wil je deze dan rapporteren?\n"
+" * Open een nieuwe discussie op de ondersteuningsforums: https://forums.classicpress.net/c/support/\n"
+" * Of, wanneer je bekend met het schrijven van bug rapporten: https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
+"Bedankt! -- Het ClassicPress team"
 
 #. translators: Background update failed notification email subject. %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1455

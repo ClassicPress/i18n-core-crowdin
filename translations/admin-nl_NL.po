@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-03 14:34\n"
+"PO-Revision-Date: 2025-02-04 02:30\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -151,7 +151,7 @@ msgstr "ClassicPress 1.0.1 - %s"
 #. translators: link to ClassicPress release announcements subforum
 #: wp-admin/about.php:136
 msgid "The changes and new features included in recent versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "De wijzigingen en nieuwe functies in recente versies van ClassicPress kunnen worden gevonden in ons <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
 
 #: wp-admin/about.php:141
 msgid "ClassicPress 1.0.0"
@@ -8377,99 +8377,99 @@ msgstr "Je site heeft mogelijk problemen met het automatisch updaten van plugins
 
 #: wp-admin/includes/class-wp-site-health.php:1880
 msgid "Disk space available to safely perform updates"
-msgstr ""
+msgstr "Schijfruimte beschikbaar om veilig updates uit te voeren"
 
 #. translators: %s: Available disk space in MB or GB.
 #: wp-admin/includes/class-wp-site-health.php:1888
 msgid "%s available disk space was detected, update routines can be performed safely."
-msgstr ""
+msgstr "%s beschikbare schijfruimte is gedetecteerd, update routines kunnen veilig worden uitgevoerd."
 
 #: wp-admin/includes/class-wp-site-health.php:1896
 msgid "Could not determine available disk space for updates."
-msgstr ""
+msgstr "Kon de beschikbare schijfruimte voor updates niet bepalen."
 
 #: wp-admin/includes/class-wp-site-health.php:1899
 msgid "Available disk space is critically low, less than 20 MB available. Proceed with caution, updates may fail."
-msgstr ""
+msgstr "Beschikbare schijfruimte is kritiek laag, minder dan 20 MB beschikbaar. Ga voorzichtig te werk, updates kunnen mislukken."
 
 #: wp-admin/includes/class-wp-site-health.php:1902
 msgid "Available disk space is low, less than 100 MB available."
-msgstr ""
+msgstr "Beschikbare schijfruimte is laag, minder dan 100 MB beschikbaar."
 
 #: wp-admin/includes/class-wp-site-health.php:1922
 msgid "Plugin and theme temporary backup directory is writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder voor plugins en thema's is beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:1930
 msgid "The %s directory used to improve the stability of plugin and theme updates is writable."
-msgstr ""
+msgstr "De folder %s, die wordt gebruikt om de stabiliteit van plugin en thema updates te verbeteren, is beschrijfbaar."
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1948
 msgid "Unable to locate WordPress content directory (%s)"
-msgstr ""
+msgstr "Kan de WordPress content folder niet lokaliseren (%s)"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1953
 msgid "The %s directory cannot be located."
-msgstr ""
+msgstr "De folder %s kan niet worden gevonden."
 
 #: wp-admin/includes/class-wp-site-health.php:1971
 msgid "Plugin and theme temporary backup directories exist but are not writable"
-msgstr ""
+msgstr "Plugin en thema tijdelijke back-up folders bestaan, maar zijn niet beschrijfbaar"
 
 #. translators: 1: wp-content/upgrade-temp-backup/plugins, 2: wp-content/upgrade-temp-backup/themes.
 #: wp-admin/includes/class-wp-site-health.php:1974
 msgid "The %1$s and %2$s directories exist but are not writable. These directories are used to improve the stability of plugin updates. Please make sure the server has write permissions to these directories."
-msgstr ""
+msgstr "De folders %1$s en %2$s bestaan, maar zijn niet beschrijfbaar. Deze folders worden gebruikt om de stabiliteit van plugin updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folders."
 
 #: wp-admin/includes/class-wp-site-health.php:1983
 msgid "Plugin temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder van de plugin bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup/plugins
 #: wp-admin/includes/class-wp-site-health.php:1986
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van plugin updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze map."
 
 #: wp-admin/includes/class-wp-site-health.php:1994
 msgid "Theme temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up thema folder bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup/themes
 #: wp-admin/includes/class-wp-site-health.php:1997
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van thema updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #: wp-admin/includes/class-wp-site-health.php:2005
 msgid "The temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder bestaat wel, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:2008
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De %s folder bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van plugin en thema updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2018
 msgid "The %s directory exists but is not writable"
-msgstr ""
+msgstr "De %s folder bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade
 #: wp-admin/includes/class-wp-site-health.php:2023
 msgid "The %s directory exists but is not writable. This directory is used for plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze folder wordt gebruikt voor het updaten van plugins en thema's. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2033
 msgid "The %s directory cannot be created"
-msgstr ""
+msgstr "De %s folder kan niet worden gemaakt"
 
 #. translators: 1: wp-content/upgrade, 2: wp-content.
 #: wp-admin/includes/class-wp-site-health.php:2038
 msgid "The %1$s directory does not exist, and the server does not have write permissions in %2$s to create it. This directory is used for plugin and theme updates. Please make sure the server has write permissions in %2$s."
-msgstr ""
+msgstr "De folder %1$s bestaat niet en de server heeft geen schrijfrechten in %2$s om deze aan te maken. Deze folder wordt gebruikt voor het updaten van plugins en thema's. Zorg ervoor dat de server schrijfrechten heeft in %2$s."
 
 #: wp-admin/includes/class-wp-site-health.php:2061
 msgid "Your site can perform loopback requests"
@@ -8791,11 +8791,11 @@ msgstr "Auto-updates voor plugins en thema's"
 
 #: wp-admin/includes/class-wp-site-health.php:2721
 msgid "Plugin and theme temporary backup directory access"
-msgstr ""
+msgstr "Toegang tot tijdelijke back-up folder voor plugins en thema's"
 
 #: wp-admin/includes/class-wp-site-health.php:2725
 msgid "Available disk space"
-msgstr ""
+msgstr "Beschikbare schijfruimte"
 
 #: wp-admin/includes/class-wp-site-health.php:2731
 msgid "Communication with ClassicPress.net"
@@ -9085,22 +9085,22 @@ msgstr "Onderhoudsmodus uitschakelen&#8230;"
 #. translators: %s: upgrade-temp-backup
 #: wp-admin/includes/class-wp-upgrader.php:210
 msgid "Could not create the %s directory."
-msgstr ""
+msgstr "Kon de %s folder niet aanmaken."
 
 #. translators: %s: upgrade-temp-backup
 #: wp-admin/includes/class-wp-upgrader.php:212
 msgid "Could not move the old version to the %s directory."
-msgstr ""
+msgstr "Kon de oude versie niet verplaatsen naar de %s folder."
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:214
 msgid "Could not restore the original version of %s."
-msgstr ""
+msgstr "Kon de oorspronkelijke versie van %s niet terugzetten."
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:216
 msgid "Could not delete the temporary backup directory for %s."
-msgstr ""
+msgstr "Kon de tijdelijke back-up folder voor %s niet verwijderen."
 
 #: wp-admin/includes/class-wp-users-list-table.php:158
 #: wp-admin/includes/deprecated.php:578
@@ -9525,7 +9525,7 @@ msgstr "Het waarschuwingspaneel van de browser negeren"
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1651
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
-msgstr ""
+msgstr "Je site draait op een verouderde versie van PHP (%s), die geen beveiligingsupdates ontvangt en binnenkort niet meer door ClassicPress wordt ondersteund. Zorg ervoor dat PHP zo snel mogelijk wordt geüpdatet op je server. Anders zal je ClassicPress niet kunnen upgraden."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1657
@@ -9535,7 +9535,7 @@ msgstr "Je site draait op een verouderde versie van PHP (%s), die geen beveiligi
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1664
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
-msgstr ""
+msgstr "Je site draait op een verouderde versie van PHP (%s), die binnenkort niet meer door ClassicPress wordt ondersteund. Zorg ervoor dat PHP op je server zo snel mogelijk wordt geüpdatet. Anders kan je ClassicPress niet upgraden."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1670
@@ -13633,7 +13633,7 @@ msgstr "Bericht:"
 
 #: wp-admin/includes/user.php:556
 msgid "You are using the auto-generated password for your account. Would you like to change it?"
-msgstr ""
+msgstr "Je maakt gebruikt van het automatisch gegenereerde wachtwoord voor je account. Wil je dit wijzigen?"
 
 #: wp-admin/includes/user.php:561
 msgid "Yes, take me to my profile page"
@@ -15322,11 +15322,11 @@ msgstr "XML-RPC server uitgeschakeld"
 #: wp-admin/options-general.php:673
 #: wp-admin/options-general.php:677
 msgid "Enable Link Manager"
-msgstr ""
+msgstr "Link manager inschakelen"
 
 #: wp-admin/options-general.php:681
 msgid "Link Manager enabled"
-msgstr ""
+msgstr "Link manager ingeschakeld"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:354
@@ -16074,11 +16074,11 @@ msgstr "Je hebt geen toestemming om ongeregistreerde instellingen voor deze site
 #. translators: 1: The option/setting, 2: Documentation URL.
 #: wp-admin/options.php:315
 msgid "The %1$s setting is unregistered. Unregistered settings are deprecated. See <a href=\"%2$s\">documentation on the Settings API</a>."
-msgstr ""
+msgstr "De %1$s instelling is niet geregistreerd. Niet geregistreerde instellingen zijn verouderd. Zie <a href=\"%2$s\">documentatie over de Instellingen API</a>."
 
 #: wp-admin/options.php:317
 msgid "https://developer.wordpress.org/plugins/settings/settings-api/"
-msgstr ""
+msgstr "https://developer.wordpress.org/plugins/settings/settings-api/"
 
 #: wp-admin/options.php:345
 msgid "Settings save failed."
@@ -16236,7 +16236,7 @@ msgstr "Plugins toevoegen"
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/plugin-install.php:97
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by developers all over the world. All plugins in the <a href=\"%s\">WordPress Plugin Directory</a> are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Plugins haken in op ClassicPress om de functionaliteit uit te breiden met maatwerk. Plugins worden onafhankelijk van de ClassicPress applicatie zelf ontwikkeld door duizenden ontwikkelaars van over de hele wereld. Alle plugins in de officiële <a href=\"%s\">WordPress plugin directory</a> zijn compatibel met de licentie die WordPress gebruikt."
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -16255,7 +16255,7 @@ msgstr "Plugins toevoegen"
 
 #: wp-admin/plugin-install.php:109
 msgid "If you know what you are looking for, Search is your best bet. The Search screen has options to search the WordPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr ""
+msgstr "Als je weet waar je naar op zoek bent, dan is de Zoek optie de beste keuze om het te vinden. Het Zoek scherm biedt opties om in de WordPress plugin directory op een specifieke term, auteur of tag te zoeken. Je kunt de directory ook doorzoeken door het selecteren van populaire tags. Tags die groter in beeld verschijnen betekent dat meerdere plugins met die tag gelabeld zijn."
 
 #: wp-admin/plugin-install.php:110
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
@@ -16395,7 +16395,7 @@ msgstr "Het zoeken naar geïnstalleerde plugins vindt plaats op basis van termen
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:549
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer plugins wil zien om uit te kiezen, klik dan op de &#8220;Nieuwe toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra plugins in de <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in de WordPress Plugin Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/plugins.php:557
 msgid "Troubleshooting"
@@ -17159,7 +17159,7 @@ msgstr "Eén of meerdere themafuncties selecteren om op te filteren"
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:113
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">WordPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Extra thema's voor je site kun je vinden door gebruik te maken van de Thema browser/installer op dit scherm. Deze laat de thema's zien van de <a href=\"%s\">WordPress Thema Directory</a>. Deze thema's zijn vormgegeven en ontwikkeld door derden en zijn gratis beschikbaar en compatibel met de licentie die WordPress gebruikt."
 
 #: wp-admin/theme-install.php:116
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
@@ -17298,7 +17298,7 @@ msgstr "Thema's"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Dit scherm wordt gebruikt om je geïnstalleerde thema's te beheren. Anders dan de standaard thema's die geleverd worden bij je ClassicPress installatie, worden de thema's ontworpen en ontwikkeld door andere partijen."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17327,7 +17327,7 @@ msgstr "Thema's voor een multisite kunnen alleen via de Netwerk beheer-sectie wo
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:156
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">WordPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer thema's wil zien om uit te kiezen, klik dan op de &#8220;Nieuwe toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra thema's uit de <a href=\"%s\">WordPress Thema Directory</a>. Thema's in de WordPress Thema Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/themes.php:164
 msgid "Adding Themes"
@@ -17638,7 +17638,7 @@ msgstr "Voor de volgende plugins zijn nieuwe versies beschikbaar. Vink degene aa
 
 #: wp-admin/update-core.php:351
 msgid "Potentially compatible with ClassicPress %1$s."
-msgstr ""
+msgstr "Mogelijk compatibel met ClassicPress %1$s."
 
 #: wp-admin/update-core.php:352
 #: wp-admin/update-core.php:355
@@ -17654,7 +17654,7 @@ msgstr "Verwachte compatibiliteit met ClassicPress %1$s: Onbekend."
 
 #: wp-admin/update-core.php:360
 msgid "Potentially compatible with ClassicPress %1$s"
-msgstr ""
+msgstr "Mogelijk compatibel met ClassicPress %1$s"
 
 #: wp-admin/update-core.php:372
 msgid "This update doesn&#8217;t work with your version of PHP."
@@ -18059,7 +18059,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-scre
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "De raster weergave voor de mediabibliotheek vereist JavaScript. <a href=\"%s\">Naar lijstweergave omschakelen</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -18111,7 +18111,7 @@ msgstr "Bijlagevoorbeeld"
 
 #: wp-admin/upload.php:547
 msgid "Media Navigation"
-msgstr ""
+msgstr "Media navigatie"
 
 #: wp-admin/upload.php:578
 msgid "Uploaded on:"

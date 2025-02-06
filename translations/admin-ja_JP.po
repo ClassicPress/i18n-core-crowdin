@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-02-02T12:17:05+00:00\n"
+"POT-Creation-Date: 2025-02-06T17:08:29+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-02-03 00:21\n"
+"PO-Revision-Date: 2025-02-06 17:12\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -386,7 +386,7 @@ msgstr "無効な投稿形式。"
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3308
-#: wp-admin/upload.php:626
+#: wp-admin/upload.php:627
 msgid "Copy URL to clipboard"
 msgstr ""
 
@@ -397,7 +397,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3309
 #: wp-admin/options.php:428
 #: wp-admin/site-health-info.php:59
-#: wp-admin/upload.php:627
+#: wp-admin/upload.php:628
 msgid "Copied!"
 msgstr ""
 
@@ -567,7 +567,7 @@ msgstr "コメントの編集"
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:834
 #: wp-admin/upload.php:155
-#: wp-admin/upload.php:808
+#: wp-admin/upload.php:809
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -621,7 +621,7 @@ msgstr "この画面の状態ボックスを使ってコメントをモデレー
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:855
 #: wp-admin/upload.php:175
-#: wp-admin/upload.php:840
+#: wp-admin/upload.php:841
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -667,7 +667,7 @@ msgstr ""
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
 #: wp-admin/upload.php:177
-#: wp-admin/upload.php:842
+#: wp-admin/upload.php:843
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -1176,7 +1176,7 @@ msgstr "コメント一覧"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:739
-#: wp-admin/upload.php:876
+#: wp-admin/upload.php:877
 #: wp-admin/users.php:716
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1826,7 +1826,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3225
 #: wp-admin/includes/nav-menu.php:1139
 #: wp-admin/themes.php:670
-#: wp-admin/upload.php:619
+#: wp-admin/upload.php:620
 msgid "Description"
 msgstr "説明"
 
@@ -1912,7 +1912,7 @@ msgstr "このタクソノミーではタームを作成する権限がありま
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:772
+#: wp-admin/upload.php:773
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "この項目を削除する権限がありません。"
 
@@ -1936,7 +1936,7 @@ msgstr ""
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:724
+#: wp-admin/upload.php:725
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "この項目を編集する権限がありません。"
 
@@ -2032,31 +2032,31 @@ msgstr "この投稿タイプの投稿を編集する権限がありません。
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:736
+#: wp-admin/upload.php:737
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "この項目をゴミ箱へ移動する権限がありません。 "
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:740
+#: wp-admin/upload.php:741
 msgid "Error in moving the item to Trash."
 msgstr ""
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:757
+#: wp-admin/upload.php:758
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "この項目をゴミ箱から復元する権限がありません。 "
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:761
+#: wp-admin/upload.php:762
 msgid "Error in restoring the item from Trash."
 msgstr ""
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:776
+#: wp-admin/upload.php:777
 msgid "Error in deleting the attachment."
 msgstr ""
 
@@ -2095,7 +2095,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "特定のカテゴリーのみ、特定の月のみの投稿を表示するよう、上部にあるドロップダウンメニューから一覧の範囲を絞り込むことができます。選択したあと、「絞り込み検索」ボタンをクリックしてください。また、投稿一覧内の投稿作成者、カテゴリー、タグを選択して範囲を絞り込むこともできます。"
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:818
+#: wp-admin/upload.php:819
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "可能な操作"
@@ -2712,7 +2712,7 @@ msgstr "%s についての詳しい情報..."
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
-#: wp-admin/upload.php:577
+#: wp-admin/upload.php:578
 msgid "Details"
 msgstr "説明"
 
@@ -2862,7 +2862,7 @@ msgstr "項目は見つかりませんでした。"
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2596
 #: wp-admin/includes/media.php:2919
-#: wp-admin/upload.php:608
+#: wp-admin/upload.php:609
 msgid "Title"
 msgstr "タイトル"
 
@@ -2992,7 +2992,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:3409
 #: wp-admin/includes/class-wp-media-list-table.php:1027
 #: wp-admin/includes/media.php:3313
-#: wp-admin/upload.php:664
+#: wp-admin/upload.php:665
 msgid "Download file"
 msgstr ""
 
@@ -3047,7 +3047,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:1303
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3208
-#: wp-admin/upload.php:615
+#: wp-admin/upload.php:616
 msgid "Caption"
 msgstr "キャプション"
 
@@ -5054,7 +5054,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3988
 #: wp-admin/includes/meta-boxes.php:365
 #: wp-admin/includes/meta-boxes.php:474
-#: wp-admin/upload.php:666
+#: wp-admin/upload.php:667
 msgid "Delete permanently"
 msgstr ""
 
@@ -6206,7 +6206,7 @@ msgstr "日付"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3316
-#: wp-admin/upload.php:583
+#: wp-admin/upload.php:584
 msgid "File name:"
 msgstr "ファイル名:"
 
@@ -7124,7 +7124,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3199
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "(opens in a new tab)"
 msgstr "(新しいタブで開く)"
 
@@ -10361,7 +10361,7 @@ msgstr "ギャラリー"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:181
-#: wp-admin/upload.php:798
+#: wp-admin/upload.php:799
 msgid "Media Library"
 msgstr "メディアライブラリ"
 
@@ -10437,7 +10437,7 @@ msgstr "サイズ"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
-#: wp-admin/upload.php:623
+#: wp-admin/upload.php:624
 msgid "File URL"
 msgstr "ファイルの URL"
 
@@ -10461,7 +10461,7 @@ msgstr "アップロードされたファイルの場所。"
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2928
 #: wp-admin/includes/media.php:3185
-#: wp-admin/upload.php:603
+#: wp-admin/upload.php:604
 msgid "Alternative Text"
 msgstr "代替テキスト"
 
@@ -10492,13 +10492,13 @@ msgstr "隠す"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3096
-#: wp-admin/upload.php:559
+#: wp-admin/upload.php:560
 msgid "Edit Image"
 msgstr "画像を編集"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3319
-#: wp-admin/upload.php:584
+#: wp-admin/upload.php:585
 msgid "File type:"
 msgstr "ファイルタイプ:"
 
@@ -10508,7 +10508,7 @@ msgstr "アップロード日:"
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3441
-#: wp-admin/upload.php:586
+#: wp-admin/upload.php:587
 msgid "Dimensions:"
 msgstr "サイズ:"
 
@@ -10726,7 +10726,7 @@ msgstr "(作成者なし)"
 
 #: wp-admin/includes/media.php:3279
 #: wp-admin/includes/media.php:3281
-#: wp-admin/upload.php:580
+#: wp-admin/upload.php:581
 msgid "Uploaded by:"
 msgstr ""
 
@@ -10740,7 +10740,7 @@ msgid "File URL:"
 msgstr "ファイルの URL:"
 
 #: wp-admin/includes/media.php:3352
-#: wp-admin/upload.php:585
+#: wp-admin/upload.php:586
 msgid "File size:"
 msgstr "ファイルサイズ:"
 
@@ -14086,7 +14086,7 @@ msgstr ""
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
 #: wp-admin/upload.php:239
-#: wp-admin/upload.php:862
+#: wp-admin/upload.php:863
 msgctxt "file"
 msgid "Add New"
 msgstr "新規追加"
@@ -17845,7 +17845,7 @@ msgid "pixels"
 msgstr ""
 
 #: wp-admin/upload.php:125
-#: wp-admin/upload.php:487
+#: wp-admin/upload.php:488
 msgid "Deselect"
 msgstr ""
 
@@ -17895,7 +17895,7 @@ msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with
 msgstr "アップロードしたすべてのファイルは「メディアライブラリ」に新しいものから順に一覧表示されます。"
 
 #: wp-admin/upload.php:158
-#: wp-admin/upload.php:812
+#: wp-admin/upload.php:813
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "メディアをシンプルなグリッド形式またはリスト形式で閲覧できます。表示の切り替えはメディアの上の左側のアイコンを使います。"
 
@@ -17920,7 +17920,7 @@ msgid "You can also delete individual items and access the extended edit screen 
 msgstr "詳細ダイアログから個々の項目を削除することや、拡張された編集にアクセスすることもできます。"
 
 #: wp-admin/upload.php:176
-#: wp-admin/upload.php:841
+#: wp-admin/upload.php:842
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr ""
 
@@ -17947,117 +17947,117 @@ msgid "of"
 msgstr ""
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
-#: wp-admin/upload.php:501
+#: wp-admin/upload.php:502
 msgid "Showing %s of %s media items"
 msgstr ""
 
-#: wp-admin/upload.php:506
+#: wp-admin/upload.php:507
 msgid "No media items found."
 msgstr ""
 
-#: wp-admin/upload.php:529
-#: wp-admin/upload.php:549
+#: wp-admin/upload.php:530
+#: wp-admin/upload.php:550
 msgid "Edit previous media item"
 msgstr ""
 
-#: wp-admin/upload.php:533
-#: wp-admin/upload.php:553
+#: wp-admin/upload.php:534
+#: wp-admin/upload.php:554
 msgid "Edit next media item"
 msgstr ""
 
-#: wp-admin/upload.php:537
+#: wp-admin/upload.php:538
 msgid "Close dialog"
 msgstr ""
 
-#: wp-admin/upload.php:541
+#: wp-admin/upload.php:542
 msgid "Attachment details"
 msgstr ""
 
-#: wp-admin/upload.php:546
+#: wp-admin/upload.php:547
 msgid "Attachment Preview"
 msgstr ""
 
-#: wp-admin/upload.php:547
+#: wp-admin/upload.php:548
 msgid "Media Navigation"
 msgstr ""
 
-#: wp-admin/upload.php:578
+#: wp-admin/upload.php:579
 msgid "Uploaded on:"
 msgstr ""
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
 msgstr ""
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid ". Leave empty if the image is purely decorative."
 msgstr ""
 
-#: wp-admin/upload.php:612
+#: wp-admin/upload.php:613
 msgid "Saved!"
 msgstr ""
 
-#: wp-admin/upload.php:644
+#: wp-admin/upload.php:645
 msgid "Taxonomy updated successfully!"
 msgstr ""
 
-#: wp-admin/upload.php:660
+#: wp-admin/upload.php:661
 msgid "View attachment page"
 msgstr ""
 
-#: wp-admin/upload.php:662
+#: wp-admin/upload.php:663
 msgid "Edit more details"
 msgstr ""
 
-#: wp-admin/upload.php:810
+#: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
 msgstr "アップロードしたすべてのファイルは「メディアライブラリ」に新しいものから順に一覧表示されます。この画面の表示を「表示オプション」タブを使ってカスタマイズできます。"
 
-#: wp-admin/upload.php:811
+#: wp-admin/upload.php:812
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
 msgstr "メディアテーブルの上にあるドロップダウンメニューから、ファイルの種類や状態、もしくは日時で絞り込むことができます。"
 
-#: wp-admin/upload.php:820
+#: wp-admin/upload.php:821
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
 msgstr ""
 
-#: wp-admin/upload.php:822
+#: wp-admin/upload.php:823
 msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
 msgstr ""
 
-#: wp-admin/upload.php:823
+#: wp-admin/upload.php:824
 msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
 msgstr ""
 
-#: wp-admin/upload.php:824
+#: wp-admin/upload.php:825
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr ""
 
-#: wp-admin/upload.php:825
+#: wp-admin/upload.php:826
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr ""
 
-#: wp-admin/upload.php:826
+#: wp-admin/upload.php:827
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr ""
 
-#: wp-admin/upload.php:833
+#: wp-admin/upload.php:834
 msgid "Attaching Files"
 msgstr "ファイルの添付"
 
-#: wp-admin/upload.php:835
+#: wp-admin/upload.php:836
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "もしどの投稿にも添付されていないメディアファイルがある場合、そのファイルの「アップロード先」項目に「投稿に添付」のリンクが表示され、そのリンクをクリックすると添付する投稿を探すためのポップアップウインドウが表示されます。"
 
-#: wp-admin/upload.php:847
+#: wp-admin/upload.php:848
 msgid "Filter media items list"
 msgstr "メディア項目一覧の絞り込み"
 
-#: wp-admin/upload.php:848
+#: wp-admin/upload.php:849
 msgid "Media items list navigation"
 msgstr "メディア項目一覧ナビゲーション"
 
-#: wp-admin/upload.php:849
+#: wp-admin/upload.php:850
 msgid "Media items list"
 msgstr "メディア項目一覧"
 

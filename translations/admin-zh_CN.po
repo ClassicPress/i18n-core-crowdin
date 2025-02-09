@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-02-06 17:13\n"
+"PO-Revision-Date: 2025-02-09 21:23\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -6354,7 +6354,7 @@ msgstr "08-八月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1222
 msgid "09-Sep"
-msgstr "9-九月"
+msgstr "09-九月"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1223
 msgid "10-Oct"

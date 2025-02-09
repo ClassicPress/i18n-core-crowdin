@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-02-02T12:17:05+00:00\n"
+"POT-Creation-Date: 2025-02-06T17:08:29+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-03 14:34\n"
+"PO-Revision-Date: 2025-02-06 17:12\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -151,7 +151,7 @@ msgstr "ClassicPress 1.0.1 - %s"
 #. translators: link to ClassicPress release announcements subforum
 #: wp-admin/about.php:136
 msgid "The changes and new features included in recent versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "De wijzigingen en nieuwe functies in recente versies van ClassicPress kunnen worden gevonden in ons <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
 
 #: wp-admin/about.php:141
 msgid "ClassicPress 1.0.0"
@@ -390,7 +390,7 @@ msgstr "Ongeldig berichttype."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3308
-#: wp-admin/upload.php:626
+#: wp-admin/upload.php:627
 msgid "Copy URL to clipboard"
 msgstr "URL naar klembord kopiëren"
 
@@ -401,7 +401,7 @@ msgstr "URL naar klembord kopiëren"
 #: wp-admin/includes/media.php:3309
 #: wp-admin/options.php:428
 #: wp-admin/site-health-info.php:59
-#: wp-admin/upload.php:627
+#: wp-admin/upload.php:628
 msgid "Copied!"
 msgstr "Gekopieerd!"
 
@@ -573,7 +573,7 @@ msgstr "Reactie bewerken"
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:834
 #: wp-admin/upload.php:155
-#: wp-admin/upload.php:808
+#: wp-admin/upload.php:809
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -627,7 +627,7 @@ msgstr "Je kunt de reactie modereren vanaf dit scherm via de Status box, waar je
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:855
 #: wp-admin/upload.php:175
-#: wp-admin/upload.php:840
+#: wp-admin/upload.php:841
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -673,7 +673,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/comments-screen/\"
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
 #: wp-admin/upload.php:177
-#: wp-admin/upload.php:842
+#: wp-admin/upload.php:843
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -1182,7 +1182,7 @@ msgstr "Reacties lijst"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:739
-#: wp-admin/upload.php:876
+#: wp-admin/upload.php:877
 #: wp-admin/users.php:716
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1837,7 +1837,7 @@ msgstr "Voorbeeld: <code>https://www.classicpress.net</code> &#8212; vergeet <co
 #: wp-admin/includes/media.php:3225
 #: wp-admin/includes/nav-menu.php:1139
 #: wp-admin/themes.php:670
-#: wp-admin/upload.php:619
+#: wp-admin/upload.php:620
 msgid "Description"
 msgstr "Omschrijving"
 
@@ -1923,7 +1923,7 @@ msgstr "Je hebt geen toestemming om termen aan te maken in deze taxonomie."
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:772
+#: wp-admin/upload.php:773
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "Je hebt geen toestemming om dit item te verwijderen."
 
@@ -1947,7 +1947,7 @@ msgstr "Je probeerde een item te bewerken dat niet bestaat. Misschien is het ver
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:724
+#: wp-admin/upload.php:725
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "Je hebt geen toestemming om dit item te bewerken."
 
@@ -2043,31 +2043,31 @@ msgstr "Je hebt geen toestemming om berichten van dit berichttype te bewerken."
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:736
+#: wp-admin/upload.php:737
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "Je hebt geen toestemming om dit item naar de prullenbak te verplaatsen."
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:740
+#: wp-admin/upload.php:741
 msgid "Error in moving the item to Trash."
 msgstr "Fout bij het verplaatsen van het item naar de prullenbak."
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:757
+#: wp-admin/upload.php:758
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "Je hebt geen toestemming om dit item te herstellen uit de prullenbak."
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:761
+#: wp-admin/upload.php:762
 msgid "Error in restoring the item from Trash."
 msgstr "Fout bij het terugzetten van het item uit de prullenbak."
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:776
+#: wp-admin/upload.php:777
 msgid "Error in deleting the attachment."
 msgstr "Fout bij het verwijderen van de bijlage."
 
@@ -2106,7 +2106,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "Je kunt de lijst verfijnen om enkel berichten in een specifieke categorie of van een specifieke maand te tonen door gebruik te maken van de dropdown-menu's boven de lijst van berichten. Klik op de Filteren knop nadat je je selectie hebt gemaakt. Je kunt ook de lijst verfijnen door op de bericht auteur, categorie of tag in de lijst te klikken."
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:818
+#: wp-admin/upload.php:819
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "Beschikbare acties"
@@ -2733,7 +2733,7 @@ msgstr "Meer informatie over %s"
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
-#: wp-admin/upload.php:577
+#: wp-admin/upload.php:578
 msgid "Details"
 msgstr "Details"
 
@@ -2886,7 +2886,7 @@ msgstr "Niets gevonden."
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2596
 #: wp-admin/includes/media.php:2919
-#: wp-admin/upload.php:608
+#: wp-admin/upload.php:609
 msgid "Title"
 msgstr "Titel"
 
@@ -3016,7 +3016,7 @@ msgstr "Kopieer URL"
 #: wp-admin/includes/ajax-actions.php:3409
 #: wp-admin/includes/class-wp-media-list-table.php:1027
 #: wp-admin/includes/media.php:3313
-#: wp-admin/upload.php:664
+#: wp-admin/upload.php:665
 msgid "Download file"
 msgstr "Download bestand"
 
@@ -3071,7 +3071,7 @@ msgstr "Alt-tekst"
 #: wp-admin/includes/class-wp-media-list-table.php:1303
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3208
-#: wp-admin/upload.php:615
+#: wp-admin/upload.php:616
 msgid "Caption"
 msgstr "Onderschrift"
 
@@ -5090,7 +5090,7 @@ msgstr "Geen spam"
 #: wp-admin/includes/media.php:3988
 #: wp-admin/includes/meta-boxes.php:365
 #: wp-admin/includes/meta-boxes.php:474
-#: wp-admin/upload.php:666
+#: wp-admin/upload.php:667
 msgid "Delete permanently"
 msgstr "Permanent verwijderen"
 
@@ -6245,7 +6245,7 @@ msgstr "Datum"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3316
-#: wp-admin/upload.php:583
+#: wp-admin/upload.php:584
 msgid "File name:"
 msgstr "Bestandsnaam:"
 
@@ -7177,7 +7177,7 @@ msgstr "Privacybeleid gids bekijken."
 #: wp-admin/includes/media.php:3199
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "(opens in a new tab)"
 msgstr "(opent in een nieuw tabblad)"
 
@@ -8377,99 +8377,99 @@ msgstr "Je site heeft mogelijk problemen met het automatisch updaten van plugins
 
 #: wp-admin/includes/class-wp-site-health.php:1880
 msgid "Disk space available to safely perform updates"
-msgstr ""
+msgstr "Schijfruimte beschikbaar om veilig updates uit te voeren"
 
 #. translators: %s: Available disk space in MB or GB.
 #: wp-admin/includes/class-wp-site-health.php:1888
 msgid "%s available disk space was detected, update routines can be performed safely."
-msgstr ""
+msgstr "%s beschikbare schijfruimte is gedetecteerd, update routines kunnen veilig worden uitgevoerd."
 
 #: wp-admin/includes/class-wp-site-health.php:1896
 msgid "Could not determine available disk space for updates."
-msgstr ""
+msgstr "Kon de beschikbare schijfruimte voor updates niet bepalen."
 
 #: wp-admin/includes/class-wp-site-health.php:1899
 msgid "Available disk space is critically low, less than 20 MB available. Proceed with caution, updates may fail."
-msgstr ""
+msgstr "Beschikbare schijfruimte is kritiek laag, minder dan 20 MB beschikbaar. Ga voorzichtig te werk, updates kunnen mislukken."
 
 #: wp-admin/includes/class-wp-site-health.php:1902
 msgid "Available disk space is low, less than 100 MB available."
-msgstr ""
+msgstr "Beschikbare schijfruimte is laag, minder dan 100 MB beschikbaar."
 
 #: wp-admin/includes/class-wp-site-health.php:1922
 msgid "Plugin and theme temporary backup directory is writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder voor plugins en thema's is beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:1930
 msgid "The %s directory used to improve the stability of plugin and theme updates is writable."
-msgstr ""
+msgstr "De folder %s, die wordt gebruikt om de stabiliteit van plugin en thema updates te verbeteren, is beschrijfbaar."
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1948
 msgid "Unable to locate WordPress content directory (%s)"
-msgstr ""
+msgstr "Kan de WordPress content folder niet lokaliseren (%s)"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1953
 msgid "The %s directory cannot be located."
-msgstr ""
+msgstr "De folder %s kan niet worden gevonden."
 
 #: wp-admin/includes/class-wp-site-health.php:1971
 msgid "Plugin and theme temporary backup directories exist but are not writable"
-msgstr ""
+msgstr "Plugin en thema tijdelijke back-up folders bestaan, maar zijn niet beschrijfbaar"
 
 #. translators: 1: wp-content/upgrade-temp-backup/plugins, 2: wp-content/upgrade-temp-backup/themes.
 #: wp-admin/includes/class-wp-site-health.php:1974
 msgid "The %1$s and %2$s directories exist but are not writable. These directories are used to improve the stability of plugin updates. Please make sure the server has write permissions to these directories."
-msgstr ""
+msgstr "De folders %1$s en %2$s bestaan, maar zijn niet beschrijfbaar. Deze folders worden gebruikt om de stabiliteit van plugin updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folders."
 
 #: wp-admin/includes/class-wp-site-health.php:1983
 msgid "Plugin temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder van de plugin bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup/plugins
 #: wp-admin/includes/class-wp-site-health.php:1986
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van plugin updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze map."
 
 #: wp-admin/includes/class-wp-site-health.php:1994
 msgid "Theme temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up thema folder bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup/themes
 #: wp-admin/includes/class-wp-site-health.php:1997
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van thema updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #: wp-admin/includes/class-wp-site-health.php:2005
 msgid "The temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "De tijdelijke back-up folder bestaat wel, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:2008
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De %s folder bestaat, maar is niet beschrijfbaar. Deze map wordt gebruikt om de stabiliteit van plugin en thema updates te verbeteren. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2018
 msgid "The %s directory exists but is not writable"
-msgstr ""
+msgstr "De %s folder bestaat, maar is niet beschrijfbaar"
 
 #. translators: %s: wp-content/upgrade
 #: wp-admin/includes/class-wp-site-health.php:2023
 msgid "The %s directory exists but is not writable. This directory is used for plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "De folder %s bestaat, maar is niet beschrijfbaar. Deze folder wordt gebruikt voor het updaten van plugins en thema's. Zorg ervoor dat de server schrijfrechten heeft voor deze folder."
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2033
 msgid "The %s directory cannot be created"
-msgstr ""
+msgstr "De %s folder kan niet worden gemaakt"
 
 #. translators: 1: wp-content/upgrade, 2: wp-content.
 #: wp-admin/includes/class-wp-site-health.php:2038
 msgid "The %1$s directory does not exist, and the server does not have write permissions in %2$s to create it. This directory is used for plugin and theme updates. Please make sure the server has write permissions in %2$s."
-msgstr ""
+msgstr "De folder %1$s bestaat niet en de server heeft geen schrijfrechten in %2$s om deze aan te maken. Deze folder wordt gebruikt voor het updaten van plugins en thema's. Zorg ervoor dat de server schrijfrechten heeft in %2$s."
 
 #: wp-admin/includes/class-wp-site-health.php:2061
 msgid "Your site can perform loopback requests"
@@ -8791,11 +8791,11 @@ msgstr "Auto-updates voor plugins en thema's"
 
 #: wp-admin/includes/class-wp-site-health.php:2721
 msgid "Plugin and theme temporary backup directory access"
-msgstr ""
+msgstr "Toegang tot tijdelijke back-up folder voor plugins en thema's"
 
 #: wp-admin/includes/class-wp-site-health.php:2725
 msgid "Available disk space"
-msgstr ""
+msgstr "Beschikbare schijfruimte"
 
 #: wp-admin/includes/class-wp-site-health.php:2731
 msgid "Communication with ClassicPress.net"
@@ -9085,22 +9085,22 @@ msgstr "Onderhoudsmodus uitschakelen&#8230;"
 #. translators: %s: upgrade-temp-backup
 #: wp-admin/includes/class-wp-upgrader.php:210
 msgid "Could not create the %s directory."
-msgstr ""
+msgstr "Kon de %s folder niet aanmaken."
 
 #. translators: %s: upgrade-temp-backup
 #: wp-admin/includes/class-wp-upgrader.php:212
 msgid "Could not move the old version to the %s directory."
-msgstr ""
+msgstr "Kon de oude versie niet verplaatsen naar de %s folder."
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:214
 msgid "Could not restore the original version of %s."
-msgstr ""
+msgstr "Kon de oorspronkelijke versie van %s niet terugzetten."
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:216
 msgid "Could not delete the temporary backup directory for %s."
-msgstr ""
+msgstr "Kon de tijdelijke back-up folder voor %s niet verwijderen."
 
 #: wp-admin/includes/class-wp-users-list-table.php:158
 #: wp-admin/includes/deprecated.php:578
@@ -9525,7 +9525,7 @@ msgstr "Het waarschuwingspaneel van de browser negeren"
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1651
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
-msgstr ""
+msgstr "Je site draait op een verouderde versie van PHP (%s), die geen beveiligingsupdates ontvangt en binnenkort niet meer door ClassicPress wordt ondersteund. Zorg ervoor dat PHP zo snel mogelijk wordt geüpdatet op je server. Anders zal je ClassicPress niet kunnen upgraden."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1657
@@ -9535,7 +9535,7 @@ msgstr "Je site draait op een verouderde versie van PHP (%s), die geen beveiligi
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1664
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade WordPress."
-msgstr ""
+msgstr "Je site draait op een verouderde versie van PHP (%s), die binnenkort niet meer door ClassicPress wordt ondersteund. Zorg ervoor dat PHP op je server zo snel mogelijk wordt geüpdatet. Anders kan je ClassicPress niet upgraden."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1670
@@ -10437,7 +10437,7 @@ msgstr "Galerij"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:181
-#: wp-admin/upload.php:798
+#: wp-admin/upload.php:799
 msgid "Media Library"
 msgstr "Mediabibliotheek"
 
@@ -10513,7 +10513,7 @@ msgstr "Afmeting"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
-#: wp-admin/upload.php:623
+#: wp-admin/upload.php:624
 msgid "File URL"
 msgstr "Bestand URL"
 
@@ -10537,7 +10537,7 @@ msgstr "Locatie van het geüploade bestand."
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2928
 #: wp-admin/includes/media.php:3185
-#: wp-admin/upload.php:603
+#: wp-admin/upload.php:604
 msgid "Alternative Text"
 msgstr "Alternatieve tekst"
 
@@ -10568,13 +10568,13 @@ msgstr "Verbergen"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3096
-#: wp-admin/upload.php:559
+#: wp-admin/upload.php:560
 msgid "Edit Image"
 msgstr "Afbeelding bewerken"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3319
-#: wp-admin/upload.php:584
+#: wp-admin/upload.php:585
 msgid "File type:"
 msgstr "Bestandstype:"
 
@@ -10584,7 +10584,7 @@ msgstr "Uploaddatum:"
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3441
-#: wp-admin/upload.php:586
+#: wp-admin/upload.php:587
 msgid "Dimensions:"
 msgstr "Afmetingen:"
 
@@ -10802,7 +10802,7 @@ msgstr "(geen auteur)"
 
 #: wp-admin/includes/media.php:3279
 #: wp-admin/includes/media.php:3281
-#: wp-admin/upload.php:580
+#: wp-admin/upload.php:581
 msgid "Uploaded by:"
 msgstr "Geüpload door:"
 
@@ -10816,7 +10816,7 @@ msgid "File URL:"
 msgstr "Bestand-URL:"
 
 #: wp-admin/includes/media.php:3352
-#: wp-admin/upload.php:585
+#: wp-admin/upload.php:586
 msgid "File size:"
 msgstr "Bestandsgrootte:"
 
@@ -13633,7 +13633,7 @@ msgstr "Bericht:"
 
 #: wp-admin/includes/user.php:556
 msgid "You are using the auto-generated password for your account. Would you like to change it?"
-msgstr ""
+msgstr "Je maakt gebruikt van het automatisch gegenereerde wachtwoord voor je account. Wil je dit wijzigen?"
 
 #: wp-admin/includes/user.php:561
 msgid "Yes, take me to my profile page"
@@ -14203,7 +14203,7 @@ msgstr "Je kunt deze bijlage niet bewerken, omdat het in de prullenbak zit. Zet 
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
 #: wp-admin/upload.php:239
-#: wp-admin/upload.php:862
+#: wp-admin/upload.php:863
 msgctxt "file"
 msgid "Add New"
 msgstr "Nieuwe toevoegen"
@@ -15322,11 +15322,11 @@ msgstr "XML-RPC server uitgeschakeld"
 #: wp-admin/options-general.php:673
 #: wp-admin/options-general.php:677
 msgid "Enable Link Manager"
-msgstr ""
+msgstr "Link manager inschakelen"
 
 #: wp-admin/options-general.php:681
 msgid "Link Manager enabled"
-msgstr ""
+msgstr "Link manager ingeschakeld"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:354
@@ -16074,11 +16074,11 @@ msgstr "Je hebt geen toestemming om ongeregistreerde instellingen voor deze site
 #. translators: 1: The option/setting, 2: Documentation URL.
 #: wp-admin/options.php:315
 msgid "The %1$s setting is unregistered. Unregistered settings are deprecated. See <a href=\"%2$s\">documentation on the Settings API</a>."
-msgstr ""
+msgstr "De %1$s instelling is niet geregistreerd. Niet geregistreerde instellingen zijn verouderd. Zie <a href=\"%2$s\">documentatie over de Instellingen API</a>."
 
 #: wp-admin/options.php:317
 msgid "https://developer.wordpress.org/plugins/settings/settings-api/"
-msgstr ""
+msgstr "https://developer.wordpress.org/plugins/settings/settings-api/"
 
 #: wp-admin/options.php:345
 msgid "Settings save failed."
@@ -16236,7 +16236,7 @@ msgstr "Plugins toevoegen"
 #. translators: %s: https://wordpress.org/plugins
 #: wp-admin/plugin-install.php:97
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by developers all over the world. All plugins in the <a href=\"%s\">WordPress Plugin Directory</a> are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Plugins haken in op ClassicPress om de functionaliteit uit te breiden met maatwerk. Plugins worden onafhankelijk van de ClassicPress applicatie zelf ontwikkeld door duizenden ontwikkelaars van over de hele wereld. Alle plugins in de officiële <a href=\"%s\">WordPress plugin directory</a> zijn compatibel met de licentie die WordPress gebruikt."
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -16255,7 +16255,7 @@ msgstr "Plugins toevoegen"
 
 #: wp-admin/plugin-install.php:109
 msgid "If you know what you are looking for, Search is your best bet. The Search screen has options to search the WordPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr ""
+msgstr "Als je weet waar je naar op zoek bent, dan is de Zoek optie de beste keuze om het te vinden. Het Zoek scherm biedt opties om in de WordPress plugin directory op een specifieke term, auteur of tag te zoeken. Je kunt de directory ook doorzoeken door het selecteren van populaire tags. Tags die groter in beeld verschijnen betekent dat meerdere plugins met die tag gelabeld zijn."
 
 #: wp-admin/plugin-install.php:110
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
@@ -16395,7 +16395,7 @@ msgstr "Het zoeken naar geïnstalleerde plugins vindt plaats op basis van termen
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:549
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer plugins wil zien om uit te kiezen, klik dan op de &#8220;Nieuwe toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra plugins in de <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in de WordPress Plugin Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/plugins.php:557
 msgid "Troubleshooting"
@@ -17159,7 +17159,7 @@ msgstr "Eén of meerdere themafuncties selecteren om op te filteren"
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:113
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">WordPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Extra thema's voor je site kun je vinden door gebruik te maken van de Thema browser/installer op dit scherm. Deze laat de thema's zien van de <a href=\"%s\">WordPress Thema Directory</a>. Deze thema's zijn vormgegeven en ontwikkeld door derden en zijn gratis beschikbaar en compatibel met de licentie die WordPress gebruikt."
 
 #: wp-admin/theme-install.php:116
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
@@ -17298,7 +17298,7 @@ msgstr "Thema's"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Dit scherm wordt gebruikt om je geïnstalleerde thema's te beheren. Anders dan de standaard thema's die geleverd worden bij je ClassicPress installatie, worden de thema's ontworpen en ontwikkeld door andere partijen."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17327,7 +17327,7 @@ msgstr "Thema's voor een multisite kunnen alleen via de Netwerk beheer-sectie wo
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:156
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">WordPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Als je meer thema's wil zien om uit te kiezen, klik dan op de &#8220;Nieuwe toevoegen&#8221; knop en je kunt bladeren of zoeken naar extra thema's uit de <a href=\"%s\">WordPress Thema Directory</a>. Thema's in de WordPress Thema Directory zijn ontworpen en ontwikkeld door derden en zijn compatibel met de licentie die WordPress gebruikt. Oh, en ze zijn gratis!"
 
 #: wp-admin/themes.php:164
 msgid "Adding Themes"
@@ -17638,7 +17638,7 @@ msgstr "Voor de volgende plugins zijn nieuwe versies beschikbaar. Vink degene aa
 
 #: wp-admin/update-core.php:351
 msgid "Potentially compatible with ClassicPress %1$s."
-msgstr ""
+msgstr "Mogelijk compatibel met ClassicPress %1$s."
 
 #: wp-admin/update-core.php:352
 #: wp-admin/update-core.php:355
@@ -17654,7 +17654,7 @@ msgstr "Verwachte compatibiliteit met ClassicPress %1$s: Onbekend."
 
 #: wp-admin/update-core.php:360
 msgid "Potentially compatible with ClassicPress %1$s"
-msgstr ""
+msgstr "Mogelijk compatibel met ClassicPress %1$s"
 
 #: wp-admin/update-core.php:372
 msgid "This update doesn&#8217;t work with your version of PHP."
@@ -17973,7 +17973,7 @@ msgid "pixels"
 msgstr "pixels"
 
 #: wp-admin/upload.php:125
-#: wp-admin/upload.php:487
+#: wp-admin/upload.php:488
 msgid "Deselect"
 msgstr "Deselecteren"
 
@@ -18027,7 +18027,7 @@ msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with
 msgstr "Alle bestanden die je hebt geüpload bevinden zich in de mediabibliotheek, met de laatste uploads als eerste getoond."
 
 #: wp-admin/upload.php:158
-#: wp-admin/upload.php:812
+#: wp-admin/upload.php:813
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "Je kunt je media bekijken in een eenvoudig visueel raster of een lijst met kolommen. Schakel tussen deze weergaven met de iconen links boven de media."
 
@@ -18052,14 +18052,14 @@ msgid "You can also delete individual items and access the extended edit screen 
 msgstr "Je kunt ook individuele items verwijderen en het uitgebreide bewerkingsscherm openen vanuit het detailvenster."
 
 #: wp-admin/upload.php:176
-#: wp-admin/upload.php:841
+#: wp-admin/upload.php:842
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentatie over de mediabibliotheek</a>"
 
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "De raster weergave voor de mediabibliotheek vereist JavaScript. <a href=\"%s\">Naar lijstweergave omschakelen</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -18079,117 +18079,117 @@ msgid "of"
 msgstr "van"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
-#: wp-admin/upload.php:501
+#: wp-admin/upload.php:502
 msgid "Showing %s of %s media items"
 msgstr "Toont %s van %s media items"
 
-#: wp-admin/upload.php:506
+#: wp-admin/upload.php:507
 msgid "No media items found."
 msgstr "Geen media items gevonden."
 
-#: wp-admin/upload.php:529
-#: wp-admin/upload.php:549
+#: wp-admin/upload.php:530
+#: wp-admin/upload.php:550
 msgid "Edit previous media item"
 msgstr "Vorig media-item bewerken"
 
-#: wp-admin/upload.php:533
-#: wp-admin/upload.php:553
+#: wp-admin/upload.php:534
+#: wp-admin/upload.php:554
 msgid "Edit next media item"
 msgstr "Volgend media-item bewerken"
 
-#: wp-admin/upload.php:537
+#: wp-admin/upload.php:538
 msgid "Close dialog"
 msgstr "Dialoogvenster sluiten"
 
-#: wp-admin/upload.php:541
+#: wp-admin/upload.php:542
 msgid "Attachment details"
 msgstr "Bijlagedetails"
 
-#: wp-admin/upload.php:546
+#: wp-admin/upload.php:547
 msgid "Attachment Preview"
 msgstr "Bijlagevoorbeeld"
 
-#: wp-admin/upload.php:547
+#: wp-admin/upload.php:548
 msgid "Media Navigation"
-msgstr ""
+msgstr "Media navigatie"
 
-#: wp-admin/upload.php:578
+#: wp-admin/upload.php:579
 msgid "Uploaded on:"
 msgstr "Geüpload op:"
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
 msgstr "Leer hoe het doel van de afbeelding te beschrijven"
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid ". Leave empty if the image is purely decorative."
 msgstr ". Laat leeg als de afbeelding louter decoratief is."
 
-#: wp-admin/upload.php:612
+#: wp-admin/upload.php:613
 msgid "Saved!"
 msgstr "Opgeslagen!"
 
-#: wp-admin/upload.php:644
+#: wp-admin/upload.php:645
 msgid "Taxonomy updated successfully!"
 msgstr "Taxonomie succesvol geüpdatet!"
 
-#: wp-admin/upload.php:660
+#: wp-admin/upload.php:661
 msgid "View attachment page"
 msgstr "Pagina met bijlage bekijken"
 
-#: wp-admin/upload.php:662
+#: wp-admin/upload.php:663
 msgid "Edit more details"
 msgstr "Overige details bewerken"
 
-#: wp-admin/upload.php:810
+#: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
 msgstr "Alle bestanden die geüpload zijn bevinden zich in de mediabibliotheek, met de laatst geüploade bovenaan. Je kunt de Schermopties tab gebruiken om het uiterlijk van het scherm te wijzigen."
 
-#: wp-admin/upload.php:811
+#: wp-admin/upload.php:812
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
 msgstr "Het is mogelijk de lijst te verkleinen door te filteren op type/status of op datum door gebruik te maken van de dropdown boven de mediatabel."
 
-#: wp-admin/upload.php:820
+#: wp-admin/upload.php:821
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
 msgstr "Hoveren over een rij toont actie links waarmee je media-items kunt beheren. Je kunt de volgende acties uitvoeren:"
 
-#: wp-admin/upload.php:822
+#: wp-admin/upload.php:823
 msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
 msgstr "<strong>Bewerken</strong> brengt je naar een eenvoudig scherm waar je de metagegevens van dat afzonderlijke bestand kunt bewerken. Je kunt dit scherm ook bereiken door op de naam van het mediabestand of de thumbnail te klikken."
 
-#: wp-admin/upload.php:823
+#: wp-admin/upload.php:824
 msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
 msgstr "<strong>Permanent verwijderen</strong> zal het bestand verwijderen uit de mediabibliotheek (evenals uit alle berichten waaraan het momenteel is gekoppeld)."
 
-#: wp-admin/upload.php:824
+#: wp-admin/upload.php:825
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr "<strong>Weergave</strong> brengt je naar een publieke weergavepagina voor dat bestand."
 
-#: wp-admin/upload.php:825
+#: wp-admin/upload.php:826
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr "<strong>Kopieer URL</strong> kopieert de URL voor het mediabestand naar je klembord."
 
-#: wp-admin/upload.php:826
+#: wp-admin/upload.php:827
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr "<strong>Bestand downloaden</strong> downloadt het originele mediabestand naar je apparaat."
 
-#: wp-admin/upload.php:833
+#: wp-admin/upload.php:834
 msgid "Attaching Files"
 msgstr "Bestanden toevoegen"
 
-#: wp-admin/upload.php:835
+#: wp-admin/upload.php:836
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "Als een mediabestand aan geen enkele inhoud is toegevoegd, zie je dat in de kolom Geüpload naar en kan je op Bijvoegen klikken om een ​​kleine pop-up te openen waarmee je naar bestaande inhoud kunt zoeken en het bestand kunt bijvoegen."
 
-#: wp-admin/upload.php:847
+#: wp-admin/upload.php:848
 msgid "Filter media items list"
 msgstr "Filter media items lijst"
 
-#: wp-admin/upload.php:848
+#: wp-admin/upload.php:849
 msgid "Media items list navigation"
 msgstr "Media items lijst navigatie"
 
-#: wp-admin/upload.php:849
+#: wp-admin/upload.php:850
 msgid "Media items list"
 msgstr "Media items lijst"
 

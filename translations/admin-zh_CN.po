@@ -7,7 +7,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-02-02T12:17:05+00:00\n"
+"POT-Creation-Date: 2025-02-06T17:08:29+00:00\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-02-03 00:21\n"
+"PO-Revision-Date: 2025-02-06 17:13\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -386,7 +386,7 @@ msgstr "无效的文章类型。"
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3308
-#: wp-admin/upload.php:626
+#: wp-admin/upload.php:627
 msgid "Copy URL to clipboard"
 msgstr "复制 URL 到剪贴板"
 
@@ -397,7 +397,7 @@ msgstr "复制 URL 到剪贴板"
 #: wp-admin/includes/media.php:3309
 #: wp-admin/options.php:428
 #: wp-admin/site-health-info.php:59
-#: wp-admin/upload.php:627
+#: wp-admin/upload.php:628
 msgid "Copied!"
 msgstr "已复制！"
 
@@ -567,7 +567,7 @@ msgstr "编辑评论"
 #: wp-admin/themes.php:143
 #: wp-admin/update-core.php:834
 #: wp-admin/upload.php:155
-#: wp-admin/upload.php:808
+#: wp-admin/upload.php:809
 #: wp-admin/user-edit.php:70
 #: wp-admin/user-new.php:279
 #: wp-admin/users.php:34
@@ -621,7 +621,7 @@ msgstr "您也可以使用状态栏来管理此屏幕上的评论，在这里您
 #: wp-admin/tools.php:55
 #: wp-admin/update-core.php:855
 #: wp-admin/upload.php:175
-#: wp-admin/upload.php:840
+#: wp-admin/upload.php:841
 #: wp-admin/user-edit.php:76
 #: wp-admin/user-new.php:300
 #: wp-admin/users.php:81
@@ -667,7 +667,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/comments-screen/\"
 #: wp-admin/themes.php:210
 #: wp-admin/tools.php:57
 #: wp-admin/upload.php:177
-#: wp-admin/upload.php:842
+#: wp-admin/upload.php:843
 #: wp-admin/user-edit.php:78
 #: wp-admin/user-new.php:302
 #: wp-admin/users.php:84
@@ -1176,7 +1176,7 @@ msgstr "评论列表"
 #: wp-admin/edit.php:407
 #: wp-admin/link-manager.php:111
 #: wp-admin/plugins.php:739
-#: wp-admin/upload.php:876
+#: wp-admin/upload.php:877
 #: wp-admin/users.php:716
 #: wp-admin/js/updates.js:2665
 msgid "Search results for: %s"
@@ -1825,7 +1825,7 @@ msgstr "例如：<code>https://www.classicpress.net</code> &#8212; 不要忘记 
 #: wp-admin/includes/media.php:3225
 #: wp-admin/includes/nav-menu.php:1139
 #: wp-admin/themes.php:670
-#: wp-admin/upload.php:619
+#: wp-admin/upload.php:620
 msgid "Description"
 msgstr "描述"
 
@@ -1911,7 +1911,7 @@ msgstr "对不起，您无权在该分类上创建条目。"
 #: wp-admin/edit.php:176
 #: wp-admin/post.php:319
 #: wp-admin/themes.php:63
-#: wp-admin/upload.php:772
+#: wp-admin/upload.php:773
 msgid "Sorry, you are not allowed to delete this item."
 msgstr "对不起，您无权删除此项目。"
 
@@ -1935,7 +1935,7 @@ msgstr "你正试图编辑一个不存在的项目。或许它已被删除？"
 #: wp-admin/post.php:47
 #: wp-admin/post.php:139
 #: wp-admin/term.php:43
-#: wp-admin/upload.php:724
+#: wp-admin/upload.php:725
 msgid "Sorry, you are not allowed to edit this item."
 msgstr "对不起，您无权编辑此项目。"
 
@@ -2031,31 +2031,31 @@ msgstr "对不起，您无权编辑这种类型的文章。"
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
-#: wp-admin/upload.php:736
+#: wp-admin/upload.php:737
 msgid "Sorry, you are not allowed to move this item to the Trash."
 msgstr "对不起，您无权将此项目移动到回收站。"
 
 #: wp-admin/edit.php:132
 #: wp-admin/post.php:264
-#: wp-admin/upload.php:740
+#: wp-admin/upload.php:741
 msgid "Error in moving the item to Trash."
 msgstr "移动项目到回收站时出错。"
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
-#: wp-admin/upload.php:757
+#: wp-admin/upload.php:758
 msgid "Sorry, you are not allowed to restore this item from the Trash."
 msgstr "对不起，您无权将此项目从回收站中恢复。"
 
 #: wp-admin/edit.php:160
 #: wp-admin/post.php:294
-#: wp-admin/upload.php:761
+#: wp-admin/upload.php:762
 msgid "Error in restoring the item from Trash."
 msgstr "从回收站恢复项目时出错。"
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
-#: wp-admin/upload.php:776
+#: wp-admin/upload.php:777
 msgid "Error in deleting the attachment."
 msgstr "删除附件时出错。"
 
@@ -2094,7 +2094,7 @@ msgid "You can refine the list to show only posts in a specific category or from
 msgstr "您可以通过使用文章列表上方的下拉菜单来调整列表以只显示特定分类或特定月份的文章。进行选择后单击筛选按钮。 您也可以通过点击文章作者、分类或文章列表中的标签来进一步调整列表。"
 
 #: wp-admin/edit.php:269
-#: wp-admin/upload.php:818
+#: wp-admin/upload.php:819
 #: wp-admin/users.php:74
 msgid "Available Actions"
 msgstr "可用操作"
@@ -2711,7 +2711,7 @@ msgstr "关于 %s 的更多信息"
 #: wp-admin/import.php:204
 #: wp-admin/includes/class-wp-theme-install-list-table.php:379
 #: wp-admin/includes/class-wp-themes-list-table.php:270
-#: wp-admin/upload.php:577
+#: wp-admin/upload.php:578
 msgid "Details"
 msgstr "详情"
 
@@ -2861,7 +2861,7 @@ msgstr "未找到项目。"
 #: wp-admin/includes/media.php:1413
 #: wp-admin/includes/media.php:2596
 #: wp-admin/includes/media.php:2919
-#: wp-admin/upload.php:608
+#: wp-admin/upload.php:609
 msgid "Title"
 msgstr "标题"
 
@@ -2991,7 +2991,7 @@ msgstr "复制 URL"
 #: wp-admin/includes/ajax-actions.php:3409
 #: wp-admin/includes/class-wp-media-list-table.php:1027
 #: wp-admin/includes/media.php:3313
-#: wp-admin/upload.php:664
+#: wp-admin/upload.php:665
 msgid "Download file"
 msgstr "下载文件"
 
@@ -3046,7 +3046,7 @@ msgstr "替代文字"
 #: wp-admin/includes/class-wp-media-list-table.php:1303
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3208
-#: wp-admin/upload.php:615
+#: wp-admin/upload.php:616
 msgid "Caption"
 msgstr "标题"
 
@@ -5054,7 +5054,7 @@ msgstr "不是垃圾"
 #: wp-admin/includes/media.php:3988
 #: wp-admin/includes/meta-boxes.php:365
 #: wp-admin/includes/meta-boxes.php:474
-#: wp-admin/upload.php:666
+#: wp-admin/upload.php:667
 msgid "Delete permanently"
 msgstr "永久删除"
 
@@ -6206,7 +6206,7 @@ msgstr "日期"
 #: wp-admin/includes/class-wp-media-list-table.php:534
 #: wp-admin/includes/media.php:1658
 #: wp-admin/includes/media.php:3316
-#: wp-admin/upload.php:583
+#: wp-admin/upload.php:584
 msgid "File name:"
 msgstr "文件名："
 
@@ -7124,7 +7124,7 @@ msgstr "查看隐私政策指南。"
 #: wp-admin/includes/media.php:3199
 #: wp-admin/includes/meta-boxes.php:80
 #: wp-admin/includes/theme.php:845
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "(opens in a new tab)"
 msgstr "（在新标签页中打开）"
 
@@ -10361,7 +10361,7 @@ msgstr "相册"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:181
-#: wp-admin/upload.php:798
+#: wp-admin/upload.php:799
 msgid "Media Library"
 msgstr "媒体库"
 
@@ -10437,7 +10437,7 @@ msgstr "尺寸"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
-#: wp-admin/upload.php:623
+#: wp-admin/upload.php:624
 msgid "File URL"
 msgstr "文件 URL"
 
@@ -10461,7 +10461,7 @@ msgstr "已上传文件的位置。"
 #: wp-admin/includes/media.php:1498
 #: wp-admin/includes/media.php:2928
 #: wp-admin/includes/media.php:3185
-#: wp-admin/upload.php:603
+#: wp-admin/upload.php:604
 msgid "Alternative Text"
 msgstr "替代文本"
 
@@ -10492,13 +10492,13 @@ msgstr "隐藏"
 
 #: wp-admin/includes/media.php:1640
 #: wp-admin/includes/media.php:3096
-#: wp-admin/upload.php:559
+#: wp-admin/upload.php:560
 msgid "Edit Image"
 msgstr "编辑图像"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3319
-#: wp-admin/upload.php:584
+#: wp-admin/upload.php:585
 msgid "File type:"
 msgstr "文件类型："
 
@@ -10508,7 +10508,7 @@ msgstr "上传日期："
 
 #: wp-admin/includes/media.php:1663
 #: wp-admin/includes/media.php:3441
-#: wp-admin/upload.php:586
+#: wp-admin/upload.php:587
 msgid "Dimensions:"
 msgstr "分辨率："
 
@@ -10726,7 +10726,7 @@ msgstr "（无作者）"
 
 #: wp-admin/includes/media.php:3279
 #: wp-admin/includes/media.php:3281
-#: wp-admin/upload.php:580
+#: wp-admin/upload.php:581
 msgid "Uploaded by:"
 msgstr "上传者："
 
@@ -10740,7 +10740,7 @@ msgid "File URL:"
 msgstr "文件 URL："
 
 #: wp-admin/includes/media.php:3352
-#: wp-admin/upload.php:585
+#: wp-admin/upload.php:586
 msgid "File size:"
 msgstr "文件大小："
 
@@ -14116,7 +14116,7 @@ msgstr "您不能编辑此附件，因为它在回收站中。请将其移出回
 #: wp-admin/media.php:130
 #: wp-admin/menu.php:69
 #: wp-admin/upload.php:239
-#: wp-admin/upload.php:862
+#: wp-admin/upload.php:863
 msgctxt "file"
 msgid "Add New"
 msgstr "新增文件"
@@ -17876,7 +17876,7 @@ msgid "pixels"
 msgstr "像素"
 
 #: wp-admin/upload.php:125
-#: wp-admin/upload.php:487
+#: wp-admin/upload.php:488
 msgid "Deselect"
 msgstr "取消选择"
 
@@ -17930,7 +17930,7 @@ msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with
 msgstr "您已上传的所有文件都将显示在媒体库中，并且会先列出最近上传的文件。"
 
 #: wp-admin/upload.php:158
-#: wp-admin/upload.php:812
+#: wp-admin/upload.php:813
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
 msgstr "您可以在简单的网格或列表视图中查看您的媒体。可使用媒体上方左侧的图标以在这些视图之间切换。"
 
@@ -17955,7 +17955,7 @@ msgid "You can also delete individual items and access the extended edit screen 
 msgstr "您也可以从详情对话框中删除个别项目并访问扩展编辑屏幕。"
 
 #: wp-admin/upload.php:176
-#: wp-admin/upload.php:841
+#: wp-admin/upload.php:842
 msgid "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">Documentation on Media Library</a>"
 msgstr "<a href=\"https://wordpress.org/documentation/article/media-library-screen/\">媒体库文档</a>"
 
@@ -17982,117 +17982,117 @@ msgid "of"
 msgstr "中的"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
-#: wp-admin/upload.php:501
+#: wp-admin/upload.php:502
 msgid "Showing %s of %s media items"
 msgstr "显示 %s 中的第 %s 个媒体项目"
 
-#: wp-admin/upload.php:506
+#: wp-admin/upload.php:507
 msgid "No media items found."
 msgstr "未找到媒体项目。"
 
-#: wp-admin/upload.php:529
-#: wp-admin/upload.php:549
+#: wp-admin/upload.php:530
+#: wp-admin/upload.php:550
 msgid "Edit previous media item"
 msgstr "编辑上一个媒体项目"
 
-#: wp-admin/upload.php:533
-#: wp-admin/upload.php:553
+#: wp-admin/upload.php:534
+#: wp-admin/upload.php:554
 msgid "Edit next media item"
 msgstr "编辑下一个媒体项目"
 
-#: wp-admin/upload.php:537
+#: wp-admin/upload.php:538
 msgid "Close dialog"
 msgstr "关闭对话框"
 
-#: wp-admin/upload.php:541
+#: wp-admin/upload.php:542
 msgid "Attachment details"
 msgstr "附件详情"
 
-#: wp-admin/upload.php:546
+#: wp-admin/upload.php:547
 msgid "Attachment Preview"
 msgstr "附件预览"
 
-#: wp-admin/upload.php:547
+#: wp-admin/upload.php:548
 msgid "Media Navigation"
 msgstr ""
 
-#: wp-admin/upload.php:578
+#: wp-admin/upload.php:579
 msgid "Uploaded on:"
 msgstr "上传于："
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
 msgstr "学习如何描述图像的目的"
 
-#: wp-admin/upload.php:606
+#: wp-admin/upload.php:607
 msgid ". Leave empty if the image is purely decorative."
 msgstr "如果图像纯粹用作装饰，则留空。"
 
-#: wp-admin/upload.php:612
+#: wp-admin/upload.php:613
 msgid "Saved!"
 msgstr "已保存！"
 
-#: wp-admin/upload.php:644
+#: wp-admin/upload.php:645
 msgid "Taxonomy updated successfully!"
 msgstr "类别更新成功！"
 
-#: wp-admin/upload.php:660
+#: wp-admin/upload.php:661
 msgid "View attachment page"
 msgstr "查看附件页面"
 
-#: wp-admin/upload.php:662
+#: wp-admin/upload.php:663
 msgid "Edit more details"
 msgstr "编辑更多详情"
 
-#: wp-admin/upload.php:810
+#: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
 msgstr "您已上传的所有文件都将显示在媒体库中，并且会先列出最近上传的文件。您可以通过「屏幕选项」选项卡来自定义此屏幕的显示方式。"
 
-#: wp-admin/upload.php:811
+#: wp-admin/upload.php:812
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
 msgstr "您可以通过使用媒体表上方的下拉菜单以按文件类型、状态、或日期来缩短列表。"
 
-#: wp-admin/upload.php:820
+#: wp-admin/upload.php:821
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
 msgstr "在媒体列表中的一行上悬停将显示允许您管理您的媒体的操作链接。您可以执行以下操作："
 
-#: wp-admin/upload.php:822
+#: wp-admin/upload.php:823
 msgid "<strong>Edit</strong> takes you to a simple screen to edit that individual file&#8217;s metadata. You can also reach that screen by clicking on the media file name or thumbnail."
 msgstr "<strong>编辑</strong>将转到一个简单的屏幕，并允许您编辑对应文件的元数据。您还可以通过单击媒体的文件名或缩略图以转到此屏幕。"
 
-#: wp-admin/upload.php:823
+#: wp-admin/upload.php:824
 msgid "<strong>Delete Permanently</strong> will delete the file from the media library (as well as from any posts to which it is currently attached)."
 msgstr "<strong>永久删除</strong>将从媒体库中（以及从它目前所附加到的任何文章中）删除文件。"
 
-#: wp-admin/upload.php:824
+#: wp-admin/upload.php:825
 msgid "<strong>View</strong> will take you to a public display page for that file."
 msgstr "<strong>查看</strong>将转到该文件的公开显示页面。"
 
-#: wp-admin/upload.php:825
+#: wp-admin/upload.php:826
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
 msgstr "<strong>复制 URL</strong> 将会复制媒体文件的 URL 到您的剪贴板。"
 
-#: wp-admin/upload.php:826
+#: wp-admin/upload.php:827
 msgid "<strong>Download file</strong> downloads the original media file to your device."
 msgstr "<strong>下载文件</strong>将会将媒体的原始版本下载至您的设备。"
 
-#: wp-admin/upload.php:833
+#: wp-admin/upload.php:834
 msgid "Attaching Files"
 msgstr "附加文件"
 
-#: wp-admin/upload.php:835
+#: wp-admin/upload.php:836
 msgid "If a media file has not been attached to any content, you will see that in the Uploaded To column, and can click on Attach to launch a small popup that will allow you to search for existing content and attach the file."
 msgstr "如果媒体文件没有附加到任何内容，您将会在上传到列中看到，并且可以点击「附加」来打开一个小的弹出窗口，让您能够搜索现有内容并附加文件。"
 
-#: wp-admin/upload.php:847
+#: wp-admin/upload.php:848
 msgid "Filter media items list"
 msgstr "筛选媒体项目列表"
 
-#: wp-admin/upload.php:848
+#: wp-admin/upload.php:849
 msgid "Media items list navigation"
 msgstr "媒体项目列表导航"
 
-#: wp-admin/upload.php:849
+#: wp-admin/upload.php:850
 msgid "Media items list"
 msgstr "媒体项目列表"
 

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-02-04 02:30\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -6695,7 +6695,7 @@ msgstr "%1$s accepteert alleen een niet-lege pad string, ontvangen %2$s."
 #. translators: %s: The "type" key.
 #: wp-includes/functions.php:8663
 msgid "The %s key must be a string without spaces."
-msgstr ""
+msgstr "De %s sleutel moet een string zonder spaties zijn."
 
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
@@ -7789,7 +7789,7 @@ msgstr "Als app-icoon"
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5791
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
-msgstr ""
+msgstr "Een afbeelding mag niet tegelijkertijd lazy-loaded zijn en als hoge prioriteit worden gemarkeerd."
 
 #. translators: %s: Playlist item title.
 #: wp-includes/media.php:2759
@@ -8622,7 +8622,7 @@ msgstr "Home"
 
 #: wp-includes/post-template.php:1778
 msgid "Invalid password."
-msgstr ""
+msgstr "Ongeldig wachtwoord."
 
 #: wp-includes/post-template.php:1785
 msgid "This content is password protected. To view it please enter your password below:"
@@ -13045,7 +13045,7 @@ msgstr "Vertalingsupdates"
 
 #: wp-includes/update.php:1061
 msgid "Unable to locate WordPress content directory (wp-content)."
-msgstr ""
+msgstr "Kan de WordPress content folder niet lokaliseren (wp-content)."
 
 #: wp-includes/user.php:148
 msgid "<strong>Error:</strong> The username field is empty."
@@ -13260,7 +13260,7 @@ msgstr "[%s] Wachtwoord resetten"
 
 #: wp-includes/user.php:3278
 msgid "<strong>Error:</strong> The email could not be sent. The site may not be correctly configured to send emails."
-msgstr ""
+msgstr "<strong>Fout:</strong> De e-mail kon niet worden verzonden. De site is mogelijk niet correct geconfigureerd om e-mails te versturen."
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> Please enter a username."

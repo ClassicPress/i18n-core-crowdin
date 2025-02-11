@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-10 18:44\n"
+"PO-Revision-Date: 2025-02-11 06:40\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -29,7 +29,7 @@ msgstr ""
 #: wp-admin/credits.php:22
 #: wp-admin/freedoms.php:36
 msgid "Welcome to ClassicPress!"
-msgstr ""
+msgstr "Vítejte v ClassicPressu!"
 
 #. translators: %s: Plugin version.
 #. translators: %s: Plugin version number.
@@ -47,7 +47,7 @@ msgstr ""
 #: wp-admin/includes/update.php:232
 #: wp-admin/includes/update.php:264
 msgid "Version %s"
-msgstr ""
+msgstr "Verze %s"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -55,13 +55,13 @@ msgstr ""
 #: wp-admin/credits.php:32
 #: wp-admin/freedoms.php:46
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">CMS for Creators</a>."
-msgstr ""
+msgstr "Děkujeme, že používáte ClassicPress, <a href=\"%s\">CMS pro tvůrce</a>."
 
 #: wp-admin/about.php:35
 #: wp-admin/credits.php:37
 #: wp-admin/freedoms.php:51
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr ""
+msgstr "Stabilní. Lehký. Okamžitě povědomý."
 
 #: wp-admin/about.php:40
 #: wp-admin/credits.php:43
@@ -100,7 +100,7 @@ msgstr ""
 
 #: wp-admin/about.php:60
 msgid "About ClassicPress"
-msgstr ""
+msgstr "O ClassicPressu"
 
 #. translators: link to ClassicPress site
 #: wp-admin/about.php:67
@@ -113,7 +113,7 @@ msgstr ""
 
 #: wp-admin/about.php:80
 msgid "Join our growing community"
-msgstr ""
+msgstr "Přidejte se k naší rostoucí komunitě"
 
 #. translators: 1: link with instructions to join ClassicPress Zulip, 2: link to community forums
 #: wp-admin/about.php:85

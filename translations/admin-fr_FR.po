@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-02-06 17:12\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -175,7 +175,7 @@ msgstr ""
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "La <strong>version %s</strong> a corrigé quelques problèmes de sécurité."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -2556,7 +2556,7 @@ msgstr "Date de fin :"
 
 #: wp-admin/export.php:247
 msgid "Pages"
-msgstr ""
+msgstr "Pages"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/export.php:308
@@ -2663,7 +2663,7 @@ msgstr ""
 #: wp-admin/upload.php:127
 #: wp-admin/users.php:329
 msgid "Error:"
-msgstr ""
+msgstr "Erreur :"
 
 #. translators: %s: Importer slug.
 #: wp-admin/import.php:67
@@ -2992,7 +2992,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "Fichier"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3044,7 +3044,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
-msgstr ""
+msgstr "Image mise en avant"
 
 #: wp-admin/includes/ajax-actions.php:3426
 msgid "Used In"
@@ -3052,7 +3052,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3428
 msgid "Uploaded to"
-msgstr ""
+msgstr "Téléversé sur "
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3433
@@ -3065,7 +3065,7 @@ msgstr "Aucun commentaire"
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "Texte alternatif"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -4629,7 +4629,7 @@ msgstr "Mise à jour vers ClassicPress %s"
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:407
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-automatic-updater.php:419
@@ -6043,7 +6043,7 @@ msgstr "Toutes les dates"
 #. translators: 1: Month name, 2: 4-digit year.
 #: wp-admin/includes/class-wp-list-table.php:748
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s dans %2$d"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-list-table.php:805
@@ -6202,7 +6202,7 @@ msgstr "Fichier"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "Image mise en avant"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
@@ -6218,12 +6218,12 @@ msgstr "Téléversé sur "
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Texte alternatif"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "Légende"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
@@ -6335,7 +6335,7 @@ msgstr "Modifications groupées"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Séparez les étiquettes par des virgules"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -6451,7 +6451,7 @@ msgstr "Aucune extension trouvée. Veuillez essayer une recherche différente."
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:451
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Performances"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:452
 msgctxt "Plugin installer group title"
@@ -7644,7 +7644,7 @@ msgstr "Nombre d’éléments par page :"
 
 #: wp-admin/includes/class-wp-screen.php:1271
 msgid "Pagination"
-msgstr ""
+msgstr "Pagination"
 
 #: wp-admin/includes/class-wp-screen.php:1324
 msgid "View mode"
@@ -7774,7 +7774,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:2443
 #: wp-admin/includes/class-wp-site-health.php:2568
 msgid "Performance"
-msgstr ""
+msgstr "Performances"
 
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
@@ -9295,7 +9295,7 @@ msgstr[1] "%s utilisateurs"
 msgid "%s site"
 msgid_plural "%s sites"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "les sites de %s"
 
 #. translators: 1: Text indicating the number of sites on the network, 2: Text indicating the number of users on the network.
 #: wp-admin/includes/dashboard.php:474
@@ -9730,7 +9730,7 @@ msgstr "Modèle pour la page d’accueil"
 
 #: wp-admin/includes/file.php:26
 msgid "Archives"
-msgstr ""
+msgstr "Archives "
 
 #: wp-admin/includes/file.php:27
 msgid "Author Template"
@@ -10458,12 +10458,12 @@ msgstr ""
 #. translators: %s: Audio track title.
 #: wp-admin/includes/media.php:340
 msgid "\"%s\"."
-msgstr ""
+msgstr "\"%s \"."
 
 #. translators: 1: Audio album title, 2: Artist name.
 #: wp-admin/includes/media.php:346
 msgid "%1$s by %2$s."
-msgstr ""
+msgstr "%1$s par %2$s."
 
 #. translators: Audio file track information. %d: Year of audio track release.
 #: wp-admin/includes/media.php:358
@@ -10996,7 +10996,7 @@ msgstr "Ajouter"
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:707
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s "
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:776
@@ -11405,7 +11405,7 @@ msgstr "Aucune entrée."
 #: wp-admin/includes/nav-menu.php:465
 #: wp-admin/includes/nav-menu.php:767
 msgid "Page"
-msgstr ""
+msgstr "page"
 
 #: wp-admin/includes/nav-menu.php:513
 #: wp-admin/includes/nav-menu.php:528
@@ -12801,7 +12801,7 @@ msgstr "Icône du site"
 
 #: wp-admin/includes/template.php:2345
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2570
@@ -13564,11 +13564,11 @@ msgstr ""
 
 #: wp-admin/includes/user.php:215
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "<strong>Erreur :</strong> Ce nom d'utilisateur est invalide car il utilise des caractères non autorisés. Veuillez entrer un nom d'utilisateur valide."
 
 #: wp-admin/includes/user.php:219
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>Erreur :</strong> cet identifiant est déjà utilisé. Veuillez en choisir un autre."
 
 #: wp-admin/includes/user.php:226
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
@@ -15112,7 +15112,7 @@ msgstr ""
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:645
 msgid "Learn more."
-msgstr ""
+msgstr "En savoir plus."
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
@@ -15528,7 +15528,7 @@ msgstr "Numérique"
 #: wp-admin/options-permalink.php:266
 msgctxt "sample permalink base"
 msgid "archives"
-msgstr ""
+msgstr "archives "
 
 #: wp-admin/options-permalink.php:270
 msgid "Post name"
@@ -16052,7 +16052,7 @@ msgstr ""
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Copier"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -17256,7 +17256,7 @@ msgstr "Thèmes"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Cet écran est utilisé pour gérer vos thèmes installés. En dehors des thèmes par défaut inclus dans votre installation de ClassicPress, les thèmes sont conçus et développés par des tiers."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17933,7 +17933,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "Désélectionner"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -18013,7 +18013,7 @@ msgstr ""
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "La vue en grille de la Bibliothèque de Médias nécessite JavaScript. <a href=\"%s\">Passer à la vue en liste</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -18030,7 +18030,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "sur"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -18044,16 +18044,16 @@ msgstr ""
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Modifier l’élément média précédent"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "Modifier l’élément média suivant"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "Fermez la boîte de dialogue"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
@@ -18069,7 +18069,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Téléversé le :"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18089,11 +18089,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "Voir la page du fichier joint"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr " Indiquer plus de détails"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
@@ -19330,8 +19330,8 @@ msgstr[1] ""
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s mise à jour disponible"
+msgstr[1] "%s mises à jour disponibles"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/js/updates.js:467

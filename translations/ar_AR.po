@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7339,7 +7339,7 @@ msgstr ""
 #: wp-admin/includes/continents-cities.php:429 wp-admin/options-general.php:217
 #: wp-includes/functions.php:4751 wp-includes/functions.php:4755
 msgid "UTC"
-msgstr ""
+msgstr "أوتسي"
 
 #: wp-admin/includes/continents-cities.php:430
 msgid "Universal"
@@ -12603,7 +12603,7 @@ msgstr "ملحق الـ XML للغة الـ PHP غير موجود. الرجاء 
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "خطأ XML: %1$s في السطر %2$s"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -18594,7 +18594,7 @@ msgstr "مربع"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "الإفتراضي"
+msgstr "افتراضي"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -18634,7 +18634,7 @@ msgstr "أحرف رومانية صغيرة"
 #: wp-includes/class-wp-editor.php:1067
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr "اسم"
+msgstr "الاسم"
 
 #: wp-includes/class-wp-editor.php:1068
 msgctxt "Link anchor (TinyMCE)"
@@ -18987,7 +18987,7 @@ msgstr "خلايا الترويسة"
 #: wp-includes/class-wp-editor.php:1180
 msgctxt "table header"
 msgid "Header"
-msgstr "الترويسة"
+msgstr "ترويسة"
 
 #: wp-includes/class-wp-editor.php:1181
 msgctxt "table body"
@@ -19055,7 +19055,7 @@ msgstr "محاذاة أفقية"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "لا شيء"
+msgstr "بدون"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -19187,7 +19187,7 @@ msgstr "جدول"
 #: wp-includes/class-wp-editor.php:1247
 msgctxt "TinyMCE menu"
 msgid "Format"
-msgstr "التنسيق"
+msgstr "بنية المقالة"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Toolbar Toggle"
@@ -19449,7 +19449,7 @@ msgstr "أرب"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "خ"
+msgstr "ث"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19461,7 +19461,7 @@ msgstr "ج"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "س"
+msgstr "د"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -21582,7 +21582,7 @@ msgstr "بحث &hellip;"
 #: wp-includes/general-template.php:215 wp-includes/general-template.php:222
 msgctxt "submit button"
 msgid "Search"
-msgstr "بحث"
+msgstr "البحث"
 
 #: wp-includes/general-template.php:260 wp-login.php:605 wp-login.php:675
 #: wp-login.php:734 wp-login.php:829
@@ -21720,7 +21720,7 @@ msgstr "الإقتباسات"
 #: wp-includes/general-template.php:1496
 msgctxt "post format archive title"
 msgid "Links"
-msgstr "الروابط"
+msgstr "روابط"
 
 #: wp-includes/general-template.php:1498
 msgctxt "post format archive title"
@@ -21822,17 +21822,17 @@ msgstr "التالي &raquo;"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "الافتراضي"
+msgstr "افتراضي"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "الفاتح"
+msgstr "فاتح"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "الأزرق"
+msgstr "أزرق"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21862,7 +21862,7 @@ msgstr "القهوة"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "مُثبت"
+msgstr "منصّب"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22167,7 +22167,7 @@ msgstr "تحرير الأصل"
 
 #: wp-includes/media-template.php:892 wp-includes/media.php:3500
 msgid "Replace"
-msgstr "استبدال"
+msgstr "استبدل"
 
 #: wp-includes/media-template.php:912
 msgid "Display Settings"
@@ -23207,7 +23207,7 @@ msgstr "فيديو"
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr "صوت"
+msgstr "الصوتيات"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
@@ -23285,12 +23285,12 @@ msgstr "صفحة"
 #: wp-includes/post.php:64
 msgctxt "post type general name"
 msgid "Media"
-msgstr "الوسائط"
+msgstr "وسائط"
 
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "ملف وسائط"
+msgstr "وسائط"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23344,7 +23344,7 @@ msgstr "حزمة تغييرات"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "أضف جديد"
+msgstr "أضف جديداً"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23671,7 +23671,7 @@ msgstr "تعيين الصورة البارزة للمقالة"
 #: wp-includes/post.php:1462
 msgctxt "page"
 msgid "Set featured image"
-msgstr "تعيين الصورة البارزة للصفحة"
+msgstr "تعيين الصورة البارزة للمقالة"
 
 #: wp-includes/post.php:1463
 msgctxt "post"
@@ -23681,7 +23681,7 @@ msgstr "إزالة الصورة البارزة من المقالة"
 #: wp-includes/post.php:1463
 msgctxt "page"
 msgid "Remove featured image"
-msgstr "إزالة الصورة البارزة من الصفحة"
+msgstr "إزالة الصورة البارزة من المقالة"
 
 #: wp-includes/post.php:1464
 msgctxt "post"
@@ -23691,7 +23691,7 @@ msgstr "استخدام كصورة بارزة للمقالة"
 #: wp-includes/post.php:1464
 msgctxt "page"
 msgid "Use as featured image"
-msgstr "استخدام كصورة بارزة للصفحة"
+msgstr "استخدام كصورة بارزة للمقالة"
 
 #: wp-includes/post.php:1465
 msgid "Filter posts list"
@@ -23719,7 +23719,7 @@ msgstr "قائمة الصفحات"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr "صور"
+msgstr "الصور"
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"
@@ -23738,7 +23738,7 @@ msgstr[5] "صور <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr "صوت"
+msgstr "الصوتيات"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -25653,7 +25653,7 @@ msgstr "جاري التحديث"
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr "مجدول"
+msgstr "مجدولة"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
@@ -26491,7 +26491,7 @@ msgstr "ابحث عنا"
 #: wp-includes/theme.php:1946
 msgctxt "Theme starter content"
 msgid "Address"
-msgstr "العنوان"
+msgstr "عنوان"
 
 #: wp-includes/theme.php:1947
 msgctxt "Theme starter content"
@@ -26531,7 +26531,7 @@ msgstr "قد يكون هذا مكانًا جيدًا لتقديم نفسك وم�
 #: wp-includes/theme.php:1961
 msgctxt "Theme starter content"
 msgid "Archives"
-msgstr "الآرشيفات"
+msgstr "الأرشيف"
 
 #: wp-includes/theme.php:1964
 msgctxt "Theme starter content"
@@ -26541,7 +26541,7 @@ msgstr "التقويم"
 #: wp-includes/theme.php:1967
 msgctxt "Theme starter content"
 msgid "Categories"
-msgstr "التصنيفات"
+msgstr "تصنيفات"
 
 #: wp-includes/theme.php:1970
 msgctxt "Theme starter content"
@@ -26561,7 +26561,7 @@ msgstr "أحدث المقالات"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "بحث"
+msgstr "البحث"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
@@ -26948,7 +26948,7 @@ msgstr "وصف المستخدم"
 
 #: wp-includes/user.php:2834
 msgid "User"
-msgstr "مستخدم"
+msgstr "عضو"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL,
 #. SITEURL; those are placeholders.
@@ -27135,7 +27135,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:39
 msgid "Calendar"
-msgstr "تقويم"
+msgstr "التقويم"
 
 #: wp-includes/widgets/class-wp-widget-categories.php:27
 msgid "A list or dropdown of categories."
@@ -27415,7 +27415,7 @@ msgstr "لايوجد ملف وسائط تمّ تحديده"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "أضف ملف وسائط"
+msgstr "أضف ملفات وسائط"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
@@ -27425,7 +27425,7 @@ msgstr "تبديل ملف الوسائط"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "تحرير ملف وسائط"
+msgstr "تحرير ملف الوسائط"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27550,7 +27550,7 @@ msgstr "نموذج بحث لموقعك."
 #: wp-includes/widgets/class-wp-widget-search.php:30
 msgctxt "Search widget"
 msgid "Search"
-msgstr "بحث"
+msgstr "البحث"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 msgid "A cloud of your most used tags."

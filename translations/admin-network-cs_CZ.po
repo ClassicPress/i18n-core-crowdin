@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:22\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -148,11 +148,11 @@ msgstr "Registrace"
 #: wp-admin/network/users.php:221
 #: wp-admin/network/users.php:287
 msgid "Users"
-msgstr ""
+msgstr "Uživatelé"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:365
 msgid "Actions"
-msgstr ""
+msgstr "Akce"
 
 #. translators: %s: Site URL.
 #. translators: Hidden accessibility text. %s: Theme name
@@ -172,7 +172,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
 #: wp-admin/includes/class-wp-ms-users-list-table.php:342
 msgid "Y/m/d"
-msgstr ""
+msgstr "j. n. Y"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:476
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:497
@@ -192,7 +192,7 @@ msgstr "Hlavní"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:404
 #: wp-admin/includes/class-wp-ms-users-list-table.php:527
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 #. translators: Network menu item.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:703
@@ -204,11 +204,11 @@ msgstr ""
 #: wp-admin/network/site-themes.php:179
 #: wp-admin/network/site-users.php:225
 msgid "Dashboard"
-msgstr ""
+msgstr "Nástěnka"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:706
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovat"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:708
 msgid "Deactivate"
@@ -251,11 +251,11 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:331
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:335
 msgid "Automatic Updates"
-msgstr ""
+msgstr "Automatická aktualizace"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:378
@@ -311,18 +311,18 @@ msgstr[3] ""
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:423
 msgid "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Automatická aktualizace povolena <span class=\"count\">(%s)</span>"
+msgstr[1] "Automatické aktualizace povoleny <span class=\"count\">(%s)</span>"
+msgstr[2] "Automatických aktualizací povoleno <span class=\"count\">(%s)</span>"
 msgstr[3] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Automatická aktualizace zakázána <span class=\"count\">(%s)</span>"
+msgstr[1] "Automatické aktualizace zakázány <span class=\"count\">(%s)</span>"
+msgstr[2] "Automatických aktualizací zakázáno <span class=\"count\">(%s)</span>"
 msgstr[3] ""
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
@@ -347,15 +347,15 @@ msgstr "Zakázat v síti webů"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:474
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:483
 msgid "Enable Auto-updates"
-msgstr ""
+msgstr "Povolení automatických aktualizací"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:487
 msgid "Disable Auto-updates"
-msgstr ""
+msgstr "Zakázání automatických aktualizací"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:576
@@ -395,7 +395,7 @@ msgstr ""
 #. translators: %s: Theme author.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:726
 msgid "By %s"
-msgstr ""
+msgstr "Autor: %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:730
@@ -413,19 +413,19 @@ msgstr "Odvozená šablona z %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:794
 msgid "Auto-updates enabled"
-msgstr ""
+msgstr "Automatické aktualizace povoleny"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:796
 msgid "Auto-updates disabled"
-msgstr ""
+msgstr "Automatické aktualizace zakázány"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:805
 msgid "Disable auto-updates"
-msgstr ""
+msgstr "Zakázání automatických aktualizací"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:809
 msgid "Enable auto-updates"
-msgstr ""
+msgstr "Povolení automatických aktualizací"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:931
 msgid "Active Theme"
@@ -473,17 +473,17 @@ msgstr[3] ""
 #: wp-admin/network/site-users.php:372
 #: wp-admin/network/user-new.php:140
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:194
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:195
 #: wp-admin/network/site-users.php:376
 #: wp-admin/network/user-new.php:144
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:196
 msgctxt "user"
@@ -496,7 +496,7 @@ msgstr "Registrace"
 #: wp-admin/network/sites.php:21
 #: wp-admin/network/sites.php:374
 msgid "Sites"
-msgstr ""
+msgstr "Weby"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:285
 msgid "Super Admin"
@@ -516,32 +516,32 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:420
 msgid "View"
-msgstr ""
+msgstr "Zobrazení"
 
 #. translators: %s: Allowed space allocation.
 #: wp-admin/includes/ms-deprecated.php:35
 #: wp-admin/includes/ms.php:239
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "Vyčerpali jste své přidělené místo %s. Před nahráním nových souborů, musíte nějaké staré smazat."
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-admin/includes/ms.php:36
 msgid "Not enough space to upload. %s KB needed."
-msgstr ""
+msgstr "Není dostatek místa pro nahrávání. Vyžadováno: %s KB."
 
 #. translators: %s: Maximum allowed file size in kilobytes.
 #: wp-admin/includes/ms.php:41
 #: wp-includes/ms-functions.php:2091
 msgid "This file is too big. Files must be less than %s KB in size."
-msgstr ""
+msgstr "Soubor je příliš velký. Velikost souborů musí být menší než  %s KB."
 
 #: wp-admin/includes/ms.php:45
 msgid "You have used your space quota. Please delete files before uploading."
-msgstr ""
+msgstr "Vyčerpali jste kvótu. Před nahráváním musíte vymazat některé soubory."
 
 #: wp-admin/includes/ms.php:49
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #. translators: Storage space that's been used. 1: Percentage of used space, 2: Total space allowed in megabytes or gigabytes.
 #: wp-admin/includes/ms.php:265
@@ -594,7 +594,7 @@ msgstr ""
 
 #: wp-admin/includes/ms.php:652
 msgid "English"
-msgstr ""
+msgstr "Angličtina"
 
 #. translators: %s: URL to Upgrade Network screen.
 #: wp-admin/includes/ms.php:696
@@ -608,7 +608,7 @@ msgstr ""
 
 #: wp-admin/includes/ms.php:800
 msgid "Not available"
-msgstr ""
+msgstr "Nedostupné"
 
 #: wp-admin/includes/ms.php:865
 msgid "You have chosen to delete the user from all networks and sites."
@@ -675,16 +675,16 @@ msgstr ""
 #: wp-admin/network/menu.php:78
 #: wp-admin/network/themes.php:336
 msgid "Themes"
-msgstr ""
+msgstr "Šablony"
 
 #: wp-admin/includes/ms.php:1077
 #: wp-admin/network/menu.php:109
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: wp-admin/includes/ms.php:1128
 msgid "Secondary menu"
-msgstr ""
+msgstr "Sekundární menu"
 
 #: wp-admin/includes/ms.php:1143
 #: wp-admin/my-sites.php:44
@@ -840,7 +840,7 @@ msgstr ""
 
 #: wp-admin/my-sites.php:38
 msgid "My Sites"
-msgstr ""
+msgstr "Moje weby"
 
 #: wp-admin/my-sites.php:46
 msgid "This screen shows an individual user all of their sites in this network, and also allows that user to set a primary site. They can use the links under each site to visit either the front end or the dashboard for that site."
@@ -856,7 +856,7 @@ msgstr ""
 #: wp-admin/network/themes.php:324
 #: wp-admin/network/upgrade.php:33
 msgid "<a href=\"https://wordpress.org/support/forums/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/forums/\">Fóra podpory</a> (anglicky)"
 
 #: wp-admin/my-sites.php:60
 #: wp-admin/network/settings.php:142
@@ -869,7 +869,7 @@ msgstr ""
 #: wp-admin/network/sites.php:377
 msgctxt "site"
 msgid "Add New"
-msgstr ""
+msgstr "Přidat nový"
 
 #: wp-admin/my-sites.php:86
 msgid "You must be a member of at least one site to use this page."
@@ -997,7 +997,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin/\">M
 
 #: wp-admin/network/menu.php:13
 msgid "Home"
-msgstr ""
+msgstr "Úvodní stránka"
 
 #. translators: %s: Number of available updates.
 #: wp-admin/network/menu.php:30
@@ -1027,7 +1027,7 @@ msgstr ""
 #: wp-admin/network/users.php:292
 msgctxt "user"
 msgid "Add New"
-msgstr ""
+msgstr "Přidat nový"
 
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
@@ -1042,7 +1042,7 @@ msgstr "Nainstalované šablony"
 #: wp-admin/network/themes.php:350
 msgctxt "theme"
 msgid "Add New"
-msgstr ""
+msgstr "Přidat nový"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
@@ -1056,7 +1056,7 @@ msgstr ""
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
 msgid "Plugins"
-msgstr ""
+msgstr "Pluginy"
 
 #: wp-admin/network/menu.php:105
 msgid "Installed Plugins"
@@ -1065,11 +1065,11 @@ msgstr ""
 #: wp-admin/network/menu.php:106
 msgctxt "plugin"
 msgid "Add New"
-msgstr ""
+msgstr "Přidat nový"
 
 #: wp-admin/network/menu.php:107
 msgid "Plugin File Editor"
-msgstr ""
+msgstr "Editor souboru pluginu"
 
 #: wp-admin/network/menu.php:111
 #: wp-admin/network/settings.php:21
@@ -1126,7 +1126,7 @@ msgstr "E-mail administrátora sítě webů"
 
 #: wp-admin/network/settings.php:170
 msgid "This address is used for admin purposes. If you change this, an email will be sent to your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "Tato e-mailová adresa bude použita pouze pro účely administrace. Pokud ji změníte, bude vám na novou adresu automaticky poslán ověřovací e-mail, jehož přijetí musíte potvrdit. <strong>Nová e-mailová adresa nebude aktivní, dokud nebude ověřena.</strong>"
 
 #. translators: %s: New network admin email.
 #: wp-admin/network/settings.php:177
@@ -1135,7 +1135,7 @@ msgstr "Právě probíhá změna administrátorské e-mailové adresy na %s."
 
 #: wp-admin/network/settings.php:184
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: wp-admin/network/settings.php:200
 msgid "Registration Settings"
@@ -1233,7 +1233,7 @@ msgstr "Uvítací e-mail odeslaný novým uživatelům."
 
 #: wp-admin/network/settings.php:346
 msgid "First Post"
-msgstr ""
+msgstr "První příspěvek"
 
 #: wp-admin/network/settings.php:351
 msgid "The first post on a new site."
@@ -1371,7 +1371,7 @@ msgstr "Úprava webu: %s"
 #: wp-admin/network/site-info.php:182
 #: wp-admin/network/site-new.php:210
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "Úvodní stránka webu (URL)"
 
 #: wp-admin/network/site-info.php:196
 msgctxt "site"
@@ -1418,7 +1418,7 @@ msgstr "Chybí e-mailová adresa."
 
 #: wp-admin/network/site-new.php:96
 msgid "Invalid email address."
-msgstr ""
+msgstr "Neplatná e-mailová adresa."
 
 #: wp-admin/network/site-new.php:121
 msgid "The domain or path entered conflicts with an existing username."
@@ -1444,7 +1444,7 @@ msgstr "Jsou povolena pouze malá písmena (a-z), čísla a pomlčky."
 
 #: wp-admin/network/site-new.php:233
 msgid "Site Title"
-msgstr ""
+msgstr "Název webu"
 
 #: wp-admin/network/site-new.php:246
 msgid "Site Language"
@@ -1548,11 +1548,11 @@ msgstr ""
 
 #: wp-admin/network/site-users.php:146
 msgid "Sorry, you are not allowed to give users that role."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro poskytnutí této uživatelské úrovně uživatelům."
 
 #: wp-admin/network/site-users.php:158
 msgid "Something went wrong."
-msgstr ""
+msgstr "Něco se pokazilo."
 
 #: wp-admin/network/site-users.php:159
 msgid "One of the selected users is not a member of this site."
@@ -1805,7 +1805,7 @@ msgstr "Web byl označen jako spam."
 #: wp-admin/network/themes.php:358
 #: wp-admin/network/users.php:300
 msgid "Search results for: %s"
-msgstr ""
+msgstr "Výsledky vyhledávání pro: %s"
 
 #: wp-admin/network/sites.php:399
 msgid "Search Sites"
@@ -1860,7 +1860,7 @@ msgstr "%1$s od %2$s"
 
 #: wp-admin/network/themes.php:158
 msgid "Are you sure you want to delete this theme?"
-msgstr ""
+msgstr "Opravdu chcete smazat tuto šablonu?"
 
 #: wp-admin/network/themes.php:160
 msgid "Are you sure you want to delete these themes?"
@@ -1896,11 +1896,11 @@ msgstr "Šablony mohou být administrátorem sítě webů povoleny pro konkrétn
 
 #: wp-admin/network/themes.php:310
 msgid "Auto-updates"
-msgstr ""
+msgstr "Automatické aktualizace"
 
 #: wp-admin/network/themes.php:312
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr ""
+msgstr "Automatické aktualizace mohou být povoleny nebo zakázány pro každé šablonu zvlášť. Šablony s povolenými automatickými aktualizacemi zobrazí předpokládané datum příští automatické aktualizace. Automatické aktualizace jsou závislé na WP-Cron plánovacím systému."
 
 #: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
@@ -1908,7 +1908,7 @@ msgstr ""
 
 #: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Dokumentace k automatickým aktualizacím</a> (anglicky)"
 
 #: wp-admin/network/themes.php:322
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
@@ -1941,7 +1941,7 @@ msgstr[3] ""
 
 #: wp-admin/network/themes.php:407
 msgid "Theme will be auto-updated."
-msgstr ""
+msgstr "Šablona bude automaticky aktualizována."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:411
@@ -1954,7 +1954,7 @@ msgstr[3] ""
 
 #: wp-admin/network/themes.php:418
 msgid "Theme will no longer be auto-updated."
-msgstr ""
+msgstr "Šablona již nebude automaticky aktualizována."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:422
@@ -2045,7 +2045,7 @@ msgstr "Nelze přidat uživatele."
 
 #: wp-admin/network/user-new.php:94
 msgid "Edit user"
-msgstr ""
+msgstr "Upravit uživatele"
 
 #. translators: %s: User login.
 #: wp-admin/network/users.php:87
@@ -2117,12 +2117,12 @@ msgstr ""
 #: wp-includes/ms-deprecated.php:277
 #: wp-includes/ms-deprecated.php:296
 msgid "A variable mismatch has been detected."
-msgstr ""
+msgstr "Byl zjištěn nesoulad proměnné."
 
 #: wp-includes/ms-deprecated.php:277
 #: wp-includes/ms-deprecated.php:296
 msgid "Sorry, you are not allowed to view this item."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro zobrazení této položky."
 
 #: wp-includes/ms-deprecated.php:406
 msgid "<strong>Error:</strong> Site URL you&#8217;ve entered is already taken."
@@ -2163,7 +2163,7 @@ msgstr ""
 #: wp-includes/ms-functions.php:480
 #: wp-includes/ms-functions.php:487
 msgid "Sorry, that username is not allowed."
-msgstr ""
+msgstr "Zvolené uživatelské jméno bohužel není povoleno."
 
 #: wp-includes/ms-functions.php:491
 msgid "Please enter a valid email address."
@@ -2179,7 +2179,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:501
 msgid "Username may not be longer than 60 characters."
-msgstr ""
+msgstr "Uživatelské jméno nesmí obsahovat více než 60 znaků."
 
 #: wp-includes/ms-functions.php:506
 msgid "Sorry, usernames must have letters too!"
@@ -2191,12 +2191,12 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:520
 msgid "Sorry, that username already exists!"
-msgstr ""
+msgstr "Zvolené uživatelské jméno už bohužel existuje!"
 
 #. translators: %s: Link to the login page.
 #: wp-includes/ms-functions.php:529
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
-msgstr ""
+msgstr "<strong>Chyba:</strong> Tato e-mailová adresa je již zaregistrována. <a href=\"%s\">Přihlaste se</a> pomocí této adresy nebo zvolte jinou."
 
 #: wp-includes/ms-functions.php:545
 msgid "That username is currently reserved but may be available in a couple of days."
@@ -2359,7 +2359,7 @@ msgstr ""
 #: wp-includes/ms-functions.php:1767
 msgctxt "email \"From\" field"
 msgid "Site Admin"
-msgstr ""
+msgstr "Administrace webu"
 
 #. translators: New user notification email subject. 1: Network title, 2: New user login.
 #: wp-includes/ms-functions.php:1884
@@ -2447,7 +2447,7 @@ msgstr ""
 
 #: wp-includes/ms-load.php:471
 msgid "Error establishing a database connection"
-msgstr ""
+msgstr "Během připojování k databázovému serveru došlo k chybě"
 
 #: wp-includes/ms-load.php:474
 msgid "If your site does not display, please contact the owner of this network."

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-01-02 14:20\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18204,7 +18204,7 @@ msgstr "方形"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "默认"
+msgstr "缺省设置"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -18244,7 +18244,7 @@ msgstr "小写罗马字母"
 #: wp-includes/class-wp-editor.php:1067
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr "名称"
+msgstr "姓名"
 
 #: wp-includes/class-wp-editor.php:1068
 msgctxt "Link anchor (TinyMCE)"
@@ -18484,7 +18484,7 @@ msgstr "替换"
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "find/replace"
 msgid "Next"
-msgstr "下一个"
+msgstr "继续"
 
 #. translators: previous
 #: wp-includes/class-wp-editor.php:1153
@@ -18597,7 +18597,7 @@ msgstr "顶部单元格"
 #: wp-includes/class-wp-editor.php:1180
 msgctxt "table header"
 msgid "Header"
-msgstr "标题"
+msgstr "页眉"
 
 #: wp-includes/class-wp-editor.php:1181
 msgctxt "table body"
@@ -19059,7 +19059,7 @@ msgstr "三"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "四"
+msgstr "二"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19071,7 +19071,7 @@ msgstr "五"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "六"
+msgstr "日"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -20599,7 +20599,7 @@ msgstr "更换主题"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "更换"
+msgstr "更改"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21322,7 +21322,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr "%2$s %1$s"
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21392,17 +21392,17 @@ msgstr "下一个 &raquo;"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "默认"
+msgstr "缺省设置"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "明亮"
+msgstr "浅色"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "蔚蓝"
+msgstr "蓝色"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21498,7 +21498,7 @@ msgstr "上一个"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "下一个"
+msgstr "继续"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -22904,7 +22904,7 @@ msgstr "变更集"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "新增变更集"
+msgstr "新增文件"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23002,7 +23002,7 @@ msgstr[0] "私密 <span class=\"count\">（%s）</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "弃稿"
+msgstr "回收站"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23076,12 +23076,12 @@ msgstr "页面"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "新建文章"
+msgstr "新增文件"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "新建页面"
+msgstr "新增文件"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -26987,7 +26987,7 @@ msgstr "由 ClassicPress，最先进的语义个人出版平台提供支持。"
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr "ClassicPress.net"
+msgstr "ClassPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."

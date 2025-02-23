@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 20\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-02-06 17:13\n"
+"PO-Revision-Date: 2025-02-23 21:22\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -293,23 +293,23 @@ msgstr "La Rioja"
 
 #: wp-admin/includes/continents-cities.php:81
 msgid "Mendoza"
-msgstr ""
+msgstr "Mendoza"
 
 #: wp-admin/includes/continents-cities.php:82
 msgid "Rio Gallegos"
-msgstr ""
+msgstr "Rio Gallegos"
 
 #: wp-admin/includes/continents-cities.php:83
 msgid "Salta"
-msgstr ""
+msgstr "Salta"
 
 #: wp-admin/includes/continents-cities.php:84
 msgid "San Juan"
-msgstr ""
+msgstr "San Juan"
 
 #: wp-admin/includes/continents-cities.php:85
 msgid "San Luis"
-msgstr ""
+msgstr "San Luis"
 
 #: wp-admin/includes/continents-cities.php:86
 msgid "Tucuman"
@@ -321,7 +321,7 @@ msgstr "Ushuaïa"
 
 #: wp-admin/includes/continents-cities.php:88
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #: wp-admin/includes/continents-cities.php:89
 msgid "Asuncion"
@@ -329,15 +329,15 @@ msgstr "Asunción"
 
 #: wp-admin/includes/continents-cities.php:90
 msgid "Atikokan"
-msgstr ""
+msgstr "Atikokan"
 
 #: wp-admin/includes/continents-cities.php:91
 msgid "Atka"
-msgstr ""
+msgstr "Atka"
 
 #: wp-admin/includes/continents-cities.php:92
 msgid "Bahia"
-msgstr ""
+msgstr "Bahia"
 
 #: wp-admin/includes/continents-cities.php:93
 msgid "Bahia Banderas"
@@ -353,15 +353,15 @@ msgstr "Belém"
 
 #: wp-admin/includes/continents-cities.php:96
 msgid "Belize"
-msgstr ""
+msgstr "Bélize"
 
 #: wp-admin/includes/continents-cities.php:97
 msgid "Blanc-Sablon"
-msgstr ""
+msgstr "Blanc-Sablon"
 
 #: wp-admin/includes/continents-cities.php:98
 msgid "Boa Vista"
-msgstr ""
+msgstr "Boa Vista"
 
 #: wp-admin/includes/continents-cities.php:99
 msgid "Bogota"
@@ -369,7 +369,7 @@ msgstr "Bogotá"
 
 #: wp-admin/includes/continents-cities.php:100
 msgid "Boise"
-msgstr ""
+msgstr "Boise"
 
 #: wp-admin/includes/continents-cities.php:101
 msgid "Cambridge Bay"
@@ -377,7 +377,7 @@ msgstr "Ikaluktutiak"
 
 #: wp-admin/includes/continents-cities.php:102
 msgid "Campo Grande"
-msgstr ""
+msgstr "Campo Grande"
 
 #: wp-admin/includes/continents-cities.php:103
 msgid "Cancun"
@@ -385,7 +385,7 @@ msgstr "Cancún"
 
 #: wp-admin/includes/continents-cities.php:104
 msgid "Caracas"
-msgstr ""
+msgstr "Caracas"
 
 #: wp-admin/includes/continents-cities.php:105
 msgid "Cayenne"

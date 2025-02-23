@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7933,7 +7933,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:866
 msgctxt "dashboard"
 msgid "%1$s, %2$s"
-msgstr ""
+msgstr "%1$s @ %2$s"
 
 #: wp-admin/includes/dashboard.php:922
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:30
@@ -11147,7 +11147,7 @@ msgstr "Šéfredaktor"
 #: wp-admin/includes/schema.php:627
 msgctxt "User role"
 msgid "Author"
-msgstr "Redaktor"
+msgstr "Autor"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:629
@@ -12479,7 +12479,7 @@ msgstr "XML rozšíření jazyka PHP není k dispozici. Obraťte se na svého po
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "Chyba XML: %1$s (řádek %2$s)"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -17294,7 +17294,7 @@ msgstr "Chyba komentáře při odesílání"
 
 #: wp-includes/admin-bar.php:123 wp-includes/admin-bar.php:142
 msgid "About ClassicPress"
-msgstr ""
+msgstr "O ClassicPressu"
 
 #: wp-includes/admin-bar.php:151
 msgid "ClassicPress.net"
@@ -18438,7 +18438,7 @@ msgstr "Čtvereček"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "Výchozí hodnota"
+msgstr "Výchozí"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -18478,7 +18478,7 @@ msgstr "Malé římské číslice"
 #: wp-includes/class-wp-editor.php:1067
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr "Název"
+msgstr "Jméno"
 
 #: wp-includes/class-wp-editor.php:1068
 msgctxt "Link anchor (TinyMCE)"
@@ -18652,7 +18652,7 @@ msgstr "Odstranit odkaz"
 
 #: wp-includes/class-wp-editor.php:1128
 msgid "Link"
-msgstr "Odkaz"
+msgstr "Vytvořit odkaz"
 
 #: wp-includes/class-wp-editor.php:1129 wp-includes/script-loader.php:139
 msgid "Insert link"
@@ -18899,7 +18899,7 @@ msgstr "Vodorovné zarovnání"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "Žádné"
+msgstr "Žádná"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -19011,7 +19011,7 @@ msgstr "Soubor"
 #: wp-includes/class-wp-editor.php:1243
 msgctxt "TinyMCE menu"
 msgid "Edit"
-msgstr "Úpravy"
+msgstr "Upravit"
 
 #: wp-includes/class-wp-editor.php:1244
 msgctxt "TinyMCE menu"
@@ -19031,7 +19031,7 @@ msgstr "Tabulky"
 #: wp-includes/class-wp-editor.php:1247
 msgctxt "TinyMCE menu"
 msgid "Format"
-msgstr "Formátování"
+msgstr "Formát"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Toolbar Toggle"
@@ -19293,7 +19293,7 @@ msgstr "St"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "Čt"
+msgstr "Út"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19305,7 +19305,7 @@ msgstr "Pá"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "So"
+msgstr "Ne"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -19406,73 +19406,73 @@ msgstr "Prosinec"
 #: wp-includes/class-wp-locale.php:170
 msgctxt "genitive"
 msgid "January"
-msgstr "ledna"
+msgstr "Leden"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:171
 msgctxt "genitive"
 msgid "February"
-msgstr "února"
+msgstr "Únor"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:172
 msgctxt "genitive"
 msgid "March"
-msgstr "března"
+msgstr "Březen"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr "dubna"
+msgstr "Duben"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
 msgctxt "genitive"
 msgid "May"
-msgstr "května"
+msgstr "Květen"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:175
 msgctxt "genitive"
 msgid "June"
-msgstr "června"
+msgstr "Červen"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr "července"
+msgstr "Červenec"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr "srpna"
+msgstr "Srpen"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr "září"
+msgstr "Září"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
 msgctxt "genitive"
 msgid "October"
-msgstr "října"
+msgstr "Říjen"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr "listopadu"
+msgstr "Listopad"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
 msgctxt "genitive"
 msgid "December"
-msgstr "prosince"
+msgstr "Prosinec"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:184
@@ -19502,7 +19502,7 @@ msgstr "Dub"
 #: wp-includes/class-wp-locale.php:188
 msgctxt "May abbreviation"
 msgid "May"
-msgstr "Kvě"
+msgstr "Květen"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:189
@@ -20269,7 +20269,7 @@ msgstr "Nemáte dostatečné oprávnění pro zobrazení této položky."
 #: wp-includes/comment-template.php:900
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "on"
 
 #: wp-includes/comment-template.php:921
 msgid "No Comments"
@@ -21036,7 +21036,7 @@ msgstr "&#8220;"
 #: wp-includes/formatting.php:103
 msgctxt "apostrophe"
 msgid "&#8217;"
-msgstr ""
+msgstr "&#8216;"
 
 #. translators: prime, for example in 9' (nine feet)
 #: wp-includes/formatting.php:106
@@ -21650,17 +21650,17 @@ msgstr "Další &raquo;"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "Základní"
+msgstr "Výchozí"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Světlé"
+msgstr "Světlý"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "Modré"
+msgstr "Modrá"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21690,7 +21690,7 @@ msgstr "Káva"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Instalované"
+msgstr "Nainstalováno"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -21756,7 +21756,7 @@ msgstr "Předchozí"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "Následující"
+msgstr "Další"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -23005,7 +23005,7 @@ msgstr "Galerie"
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
 msgid "Link"
-msgstr "Odkaz"
+msgstr "Vytvořit odkaz"
 
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
@@ -23030,7 +23030,7 @@ msgstr ""
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr ""
+msgstr "Audio příspěvky"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
@@ -23098,22 +23098,22 @@ msgstr "Pokud chcete používat pokročilé funkce, musíte nejdříve povolit J
 #: wp-includes/post.php:23
 msgctxt "add new from admin bar"
 msgid "Post"
-msgstr "Vytvořit příspěvek"
+msgstr "Příspěvek"
 
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
 msgid "Page"
-msgstr "Vytvořit stránku"
+msgstr "Stránka"
 
 #: wp-includes/post.php:64
 msgctxt "post type general name"
 msgid "Media"
-msgstr "Mediální soubory"
+msgstr "Média"
 
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "Nahrát soubor"
+msgstr "Média"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23167,7 +23167,7 @@ msgstr "Sada změn"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Vytvořit sadu změn"
+msgstr "Přidat nový"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23267,7 +23267,7 @@ msgstr[3] ""
 #: wp-includes/post.php:257
 msgctxt "post status"
 msgid "Private"
-msgstr "Soukromé"
+msgstr "Soukromá"
 
 #: wp-includes/post.php:260
 msgid "Private <span class=\"count\">(%s)</span>"
@@ -23293,7 +23293,7 @@ msgstr[3] ""
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Nevyřízeno"
+msgstr "Čeká na schválení"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23357,12 +23357,12 @@ msgstr "Stránka"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Vytvořit příspěvek"
+msgstr "Přidat nový"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Vytvořit stránku"
+msgstr "Přidat nový"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -23547,7 +23547,7 @@ msgstr[3] ""
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr ""
+msgstr "Audio příspěvky"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -25417,7 +25417,7 @@ msgstr "Nedostatečné"
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr "Průměrné"
+msgstr "Střední"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
@@ -26330,7 +26330,7 @@ msgstr "Skvělé místo, kde můžete představit sebe a svůj web."
 #: wp-includes/theme.php:1961
 msgctxt "Theme starter content"
 msgid "Archives"
-msgstr "Archiv"
+msgstr "Archivy"
 
 #: wp-includes/theme.php:1964
 msgctxt "Theme starter content"
@@ -26365,7 +26365,7 @@ msgstr "Hledat"
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Domů"
+msgstr "Úvodní stránka"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
@@ -26743,7 +26743,7 @@ msgstr "Popis uživatele"
 
 #: wp-includes/user.php:2834
 msgid "User"
-msgstr "Uživatel"
+msgstr "Vytvořit uživatele"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL,
 #. SITEURL; those are placeholders.
@@ -27204,7 +27204,7 @@ msgstr "Nebyl vybrán žádný mediální soubor"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "Přidat soubor"
+msgstr "Mediální soubory"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
@@ -27214,7 +27214,7 @@ msgstr "Nahradit média"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Upravit média"
+msgstr "Upravit mediální soubor"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27337,7 +27337,7 @@ msgstr "Jednoduchý vyhledávací formulář."
 #: wp-includes/widgets/class-wp-widget-search.php:30
 msgctxt "Search widget"
 msgid "Search"
-msgstr "Vyhledávání"
+msgstr "Hledat"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 msgid "A cloud of your most used tags."
@@ -27369,7 +27369,7 @@ msgstr "Libovolný text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:42
 msgid "Text"
-msgstr ""
+msgstr "HTML"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -6439,7 +6439,7 @@ msgstr ""
 #: wp-includes/functions.php:486
 msgctxt "unit symbol"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. translators: %s: Time duration in minute or minutes.
 #: wp-includes/functions.php:556
@@ -6920,7 +6920,7 @@ msgstr ""
 #: wp-includes/general-template.php:1745
 msgctxt "archive title"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #. translators: 1: Month, 2: Year.
@@ -6933,7 +6933,7 @@ msgstr ""
 #: wp-includes/general-template.php:2288
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. %s: Date.
 #: wp-includes/general-template.php:2360
@@ -8665,12 +8665,12 @@ msgstr "Sida"
 #: wp-includes/post.php:76
 msgctxt "post type general name"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: wp-includes/post.php:77
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: wp-includes/post.php:78
 msgctxt "file"
@@ -14045,7 +14045,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."

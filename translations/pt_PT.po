@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18125,7 +18125,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "HTML"
+msgstr "Texto"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -19368,7 +19368,7 @@ msgstr "Abr"
 #: wp-includes/class-wp-locale.php:188
 msgctxt "May abbreviation"
 msgid "May"
-msgstr "Mai"
+msgstr "Maio"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:189
@@ -20700,7 +20700,7 @@ msgstr "Alterar tema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Alterar"
+msgstr "Modificar"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21540,7 +21540,7 @@ msgstr "Café"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Instaladas"
+msgstr "Instalado"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22016,7 +22016,7 @@ msgstr "&#8592; Voltar à biblioteca"
 #: wp-includes/media.php:3527
 msgctxt "noun"
 msgid "Trash"
-msgstr "Lixo"
+msgstr "No lixo"
 
 #: wp-includes/media.php:3529
 msgid "You are about to permanently delete this item from your site.\n"
@@ -22962,7 +22962,7 @@ msgstr "O JavaScript deve estar activado para usar esta funcionalidade."
 #: wp-includes/post.php:23
 msgctxt "add new from admin bar"
 msgid "Post"
-msgstr "Artigo"
+msgstr "Item"
 
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
@@ -23031,7 +23031,7 @@ msgstr "Conjunto de alterações"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar ficheiro"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23199,7 +23199,7 @@ msgstr "Páginas"
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
 msgid "Post"
-msgstr "Artigo"
+msgstr "Item"
 
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
@@ -23209,12 +23209,12 @@ msgstr "Página"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Novo artigo"
+msgstr "Adicionar ficheiro"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Nova página"
+msgstr "Adicionar ficheiro"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -25261,7 +25261,7 @@ msgstr "Fraca"
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr "Média"
+msgstr "Médio"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
@@ -27147,7 +27147,7 @@ msgstr "Os artigos mais recentes no seu site."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Artigos recentes"
+msgstr "Conteúdos recentes"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"

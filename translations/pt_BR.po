@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2410,7 +2410,7 @@ msgstr "Conterá todos os seus posts, páginas, comentários, campos personaliza
 
 #: wp-admin/export.php:169 wp-admin/includes/class-wp-users-list-table.php:324
 msgid "Posts"
-msgstr ""
+msgstr "posts"
 
 #: wp-admin/export.php:172
 msgid "Categories:"
@@ -19271,73 +19271,73 @@ msgstr "dezembro"
 #: wp-includes/class-wp-locale.php:170
 msgctxt "genitive"
 msgid "January"
-msgstr "Janeiro"
+msgstr "janeiro"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:171
 msgctxt "genitive"
 msgid "February"
-msgstr "Fevereiro"
+msgstr "fevereiro"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:172
 msgctxt "genitive"
 msgid "March"
-msgstr "Março"
+msgstr "março"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr "Abril"
+msgstr "abril"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
 msgctxt "genitive"
 msgid "May"
-msgstr "Maio"
+msgstr "maio"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:175
 msgctxt "genitive"
 msgid "June"
-msgstr "Junho"
+msgstr "junho"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr "Julho"
+msgstr "julho"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr "Agosto"
+msgstr "agosto"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr "Setembro"
+msgstr "setembro"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
 msgctxt "genitive"
 msgid "October"
-msgstr "Outubro"
+msgstr "outubro"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr "Novembro"
+msgstr "novembro"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
 msgctxt "genitive"
 msgid "December"
-msgstr "Dezembro"
+msgstr "dezembro"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:184
@@ -20699,7 +20699,7 @@ msgstr "Mudar tema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Mudar"
+msgstr "Alterar"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21505,7 +21505,7 @@ msgstr "Padrão"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Claro"
+msgstr "Leve"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -21606,7 +21606,7 @@ msgstr "Anterior"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "Próximo"
+msgstr "Seguinte"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -23031,7 +23031,7 @@ msgstr "Conjunto de alterações"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar nova"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23145,7 +23145,7 @@ msgstr[1] "Lixos <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Pendente"
+msgstr "Revisão pendente"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23209,7 +23209,7 @@ msgstr "Página"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Adicionar novo"
+msgstr "Adicionar nova"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
@@ -23397,7 +23397,7 @@ msgstr[1] "Imagens <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr "Áudios"
+msgstr "Áudio"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -23412,7 +23412,7 @@ msgstr[1] "Áudios <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
 msgid "Video"
-msgstr "Vídeos"
+msgstr "Vídeo"
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
@@ -26193,7 +26193,7 @@ msgstr ""
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "Comentários recentes"
+msgstr "Comentários"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -26203,12 +26203,12 @@ msgstr "Posts recentes"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Busca"
+msgstr "Pesquisar"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Página inicial"
+msgstr "Início"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
@@ -26766,7 +26766,7 @@ msgstr "Um calendário de posts de seu site."
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:39
 msgid "Calendar"
-msgstr "Agenda"
+msgstr "Calendário"
 
 #: wp-includes/widgets/class-wp-widget-categories.php:27
 msgid "A list or dropdown of categories."

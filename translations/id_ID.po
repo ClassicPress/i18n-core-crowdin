@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17642,7 +17642,7 @@ msgstr "Preset"
 #: wp-includes/class-wp-customize-manager.php:5127
 msgctxt "Default Preset"
 msgid "Default"
-msgstr "Bawaan"
+msgstr "Standar"
 
 #: wp-includes/class-wp-customize-manager.php:5130
 msgctxt "Repeat Image"
@@ -18277,7 +18277,7 @@ msgstr "Persegi"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "Bawaan"
+msgstr "Standar"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -18491,7 +18491,7 @@ msgstr "Hilangkan Taut"
 
 #: wp-includes/class-wp-editor.php:1128
 msgid "Link"
-msgstr "Taut"
+msgstr "Tautan"
 
 #: wp-includes/class-wp-editor.php:1129 wp-includes/script-loader.php:139
 msgid "Insert link"
@@ -18557,7 +18557,7 @@ msgstr "Gantikan"
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "find/replace"
 msgid "Next"
-msgstr "Berikutnya"
+msgstr "Berikut"
 
 #. translators: previous
 #: wp-includes/class-wp-editor.php:1153
@@ -18738,7 +18738,7 @@ msgstr "Perataan horisontal"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "Tanpa perataan"
+msgstr "Tak ada"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -19132,7 +19132,7 @@ msgstr "R"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "K"
+msgstr "S"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19144,7 +19144,7 @@ msgstr "J"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "S"
+msgstr "M"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -21465,7 +21465,7 @@ msgstr "Berikutnya &raquo;"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "Awal"
+msgstr "Standar"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
@@ -21571,7 +21571,7 @@ msgstr "Sebelumnya"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "Berikutnya"
+msgstr "Berikut"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -21981,7 +21981,7 @@ msgstr "&#8592; Kembali ke pustaka"
 #: wp-includes/media.php:3527
 msgctxt "noun"
 msgid "Trash"
-msgstr "Sampah"
+msgstr "Dibuang"
 
 #: wp-includes/media.php:3529
 msgid "You are about to permanently delete this item from your site.\n"
@@ -22875,7 +22875,7 @@ msgstr "Video"
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr "Suara"
+msgstr "Audio"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
@@ -22943,7 +22943,7 @@ msgstr "JavaScript harus diaktifkan untuk menggunakan fitur ini."
 #: wp-includes/post.php:23
 msgctxt "add new from admin bar"
 msgid "Post"
-msgstr "Postingan"
+msgstr "Pos"
 
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
@@ -23012,7 +23012,7 @@ msgstr "Changeset"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Tambahkan Baru"
+msgstr "Tambah Baru"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23065,7 +23065,7 @@ msgstr "Permohonan Pengguna"
 #: wp-includes/post.php:229
 msgctxt "post status"
 msgid "Published"
-msgstr "Telah terbit"
+msgstr "Telah Terbit"
 
 #: wp-includes/post.php:232
 msgid "Published <span class=\"count\">(%s)</span>"
@@ -23110,7 +23110,7 @@ msgstr[0] "Privat <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "Terhapus"
+msgstr "Dibuang"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23120,7 +23120,7 @@ msgstr[0] "Sampah <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Tertahan"
+msgstr "Tertunda"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23174,7 +23174,7 @@ msgstr "Laman"
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
 msgid "Post"
-msgstr "Postingan"
+msgstr "Pos"
 
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
@@ -25810,7 +25810,7 @@ msgstr "Tak diizinkan menghapus taksonomi bawaan."
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
 msgid "Tags"
-msgstr "Tagar"
+msgstr "Tag"
 
 #: wp-includes/taxonomy.php:505
 msgctxt "taxonomy general name"
@@ -26162,7 +26162,7 @@ msgstr "Meta"
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "Komentar Terkini"
+msgstr "Komentar Terbaru"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -27038,7 +27038,7 @@ msgstr "Tidak ada media terpilih"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "Tambah Media"
+msgstr "Tambahkan Media"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
@@ -27147,7 +27147,7 @@ msgstr "Pos-pos terbaru di situs Anda."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Pos-pos Terbaru"
+msgstr "Pos Terkini"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"

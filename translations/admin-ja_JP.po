@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-02-06 17:12\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2735,7 +2735,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:336
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s 名)"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -2968,7 +2968,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3020,7 +3020,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
-msgstr ""
+msgstr "アイキャッチ画像"
 
 #: wp-admin/includes/ajax-actions.php:3426
 msgid "Used In"
@@ -3028,7 +3028,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3428
 msgid "Uploaded to"
-msgstr ""
+msgstr "アップロード先"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3433
@@ -3041,7 +3041,7 @@ msgstr "コメントはまだありません"
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "代替テキスト"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -5790,7 +5790,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1184
 #: wp-admin/includes/class-wp-debug-data.php:1345
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s 名)"
 
 #: wp-admin/includes/class-wp-debug-data.php:1104
 #: wp-admin/includes/class-wp-debug-data.php:1199
@@ -6169,7 +6169,7 @@ msgstr "ファイル"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "アイキャッチ画像"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
@@ -6185,17 +6185,17 @@ msgstr "アップロード先"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "代替テキスト"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "キャプション"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "説明"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6302,7 +6302,7 @@ msgstr "一括編集"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "タグが複数ある場合はコンマで区切ってください"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -15975,7 +15975,7 @@ msgstr ""
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "コピー"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -17175,7 +17175,7 @@ msgstr "テーマ"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "この画面はインストールしたテーマを管理するのに使います。ClassicPress 本体に含まれるデフォルトテーマは別として、テーマはサードパーティによりデザイン・開発されています。"
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17847,7 +17847,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "選択を解除"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -17927,7 +17927,7 @@ msgstr ""
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "メディアライブラリのグリッド表示には JavaScript が必要です。<a href=\"%s\">一覧表示に切り替える</a>。"
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -17944,7 +17944,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "/"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -17958,16 +17958,16 @@ msgstr ""
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "前のメディア項目を編集"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "次のメディア項目を編集"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "ダイアログを閉じる"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
@@ -17983,7 +17983,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "更新日:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18003,11 +18003,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "添付ファイルのページを表示"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "さらに詳細を編集"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."

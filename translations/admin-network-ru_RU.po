@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-02-06 17:13\n"
+"PO-Revision-Date: 2025-02-23 21:22\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -1448,7 +1448,7 @@ msgstr "Название сайта"
 
 #: wp-admin/network/site-new.php:246
 msgid "Site Language"
-msgstr ""
+msgstr "Язык сайта"
 
 #: wp-admin/network/site-new.php:294
 msgid "Admin Email"

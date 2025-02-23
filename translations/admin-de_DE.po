@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-02-06 17:12\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -9407,12 +9407,12 @@ msgstr "Morgen"
 #. translators: Date and time format for recent posts on the dashboard, from a different calendar year, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/dashboard.php:1037
 msgid "M jS Y"
-msgstr "Sj m Y"
+msgstr "j m Y"
 
 #. translators: Date and time format for recent posts on the dashboard, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/dashboard.php:1040
 msgid "M jS"
-msgstr "M Sj"
+msgstr "M j"
 
 #. translators: 1: Relative date, 2: Time.
 #: wp-admin/includes/dashboard.php:1050
@@ -16091,7 +16091,7 @@ msgstr "Diese Seite ermöglicht direkten Zugriff auf Ihre Website-Einstellungen.
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Kopieren"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -17295,7 +17295,7 @@ msgstr "Themes"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Diese Ansicht wird dazu verwendet, deine installierten Themes zu verwalten. Neben Standard-Themes, die in deiner ClassicPress-Installation enthalten sind, werden Themes meist von Drittanbietern gestaltet und entwickelt."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"

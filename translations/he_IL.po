@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-02-16 17:08\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7895,7 +7895,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:738
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s לפוסט %2$s"
 
 #: wp-admin/includes/dashboard.php:771
 msgid "Publishing Soon"
@@ -11147,7 +11147,7 @@ msgstr "עורך"
 #: wp-admin/includes/schema.php:627
 msgctxt "User role"
 msgid "Author"
-msgstr "מחבר"
+msgstr "מאת"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:629
@@ -12479,7 +12479,7 @@ msgstr "הרחבת XML של PHP אינה זמינה. יש לנות לפנות א
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "שגיאת XML: %1$s בשורה %2$s"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -18259,7 +18259,7 @@ msgstr "ויזואלי"
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "עורך טקסט"
+msgstr "טקסט"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -18718,7 +18718,7 @@ msgstr "החלף"
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "find/replace"
 msgid "Next"
-msgstr "קדימה"
+msgstr "לשלב הבא"
 
 #. translators: previous
 #: wp-includes/class-wp-editor.php:1153
@@ -19031,7 +19031,7 @@ msgstr "טבלה"
 #: wp-includes/class-wp-editor.php:1247
 msgctxt "TinyMCE menu"
 msgid "Format"
-msgstr "פורמט"
+msgstr "סוג תוכן"
 
 #: wp-includes/class-wp-editor.php:1250
 msgid "Toolbar Toggle"
@@ -19293,7 +19293,7 @@ msgstr "ד"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "ה"
+msgstr "ג"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19305,7 +19305,7 @@ msgstr "ו"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "ש"
+msgstr "א"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -20836,7 +20836,7 @@ msgstr "החלפת תבנית"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "החלפה"
+msgstr "שינוי"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21580,7 +21580,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s לפוסט %2$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21756,7 +21756,7 @@ msgstr "קודם"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "הבא"
+msgstr "לשלב הבא"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -23002,7 +23002,7 @@ msgstr "צ'אט"
 #: wp-includes/post-formats.php:93
 msgctxt "Post format"
 msgid "Gallery"
-msgstr "גלריה"
+msgstr "גלרייה"
 
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
@@ -23169,7 +23169,7 @@ msgstr "סט שינויים"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "סט שינויים חדש"
+msgstr "קובץ חדש"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23359,12 +23359,12 @@ msgstr "עמוד"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "פוסט חדש"
+msgstr "קובץ חדש"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "עמוד חדש"
+msgstr "קובץ חדש"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -26347,7 +26347,7 @@ msgstr "קטגוריות"
 #: wp-includes/theme.php:1970
 msgctxt "Theme starter content"
 msgid "Meta"
-msgstr "מטה"
+msgstr "כלים"
 
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
@@ -26575,7 +26575,7 @@ msgstr "כינוי מוגבל ל-50 תווים בלבד."
 #: wp-includes/user.php:1600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s לפוסט %2$s"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
 #. SITEURL: those are placeholders.

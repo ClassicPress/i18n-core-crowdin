@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1571,7 +1571,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:142 wp-includes/taxonomy.php:143
 msgctxt "post format"
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: wp-admin/edit-form-advanced.php:281 wp-admin/includes/meta-boxes.php:619
 #: wp-includes/revision.php:36
@@ -18675,7 +18675,7 @@ msgstr "Cellhuvud"
 #: wp-includes/class-wp-editor.php:1180
 msgctxt "table header"
 msgid "Header"
-msgstr "Tabellhuvud"
+msgstr "Sidhuvud"
 
 #: wp-includes/class-wp-editor.php:1181
 msgctxt "table body"
@@ -18743,7 +18743,7 @@ msgstr "H-justering"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "Ingen"
+msgstr "Inget"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -19113,7 +19113,7 @@ msgstr "lördag"
 #: wp-includes/class-wp-locale.php:138
 msgctxt "Sunday initial"
 msgid "S"
-msgstr ""
+msgstr "L"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:139
@@ -20678,7 +20678,7 @@ msgstr "Byt tema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Byt"
+msgstr "Ändra"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21408,7 +21408,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21483,12 +21483,12 @@ msgstr "Standard"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Ljust"
+msgstr "Ljus"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "Blått"
+msgstr "Blå"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21518,7 +21518,7 @@ msgstr "Kaffe"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Installerade"
+msgstr "Installerat"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22850,7 +22850,7 @@ msgstr ""
 #: wp-includes/post-formats.php:98
 msgctxt "Post format"
 msgid "Video"
-msgstr ""
+msgstr "Videoklipp"
 
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
@@ -22933,12 +22933,12 @@ msgstr "Sida"
 #: wp-includes/post.php:64
 msgctxt "post type general name"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -22992,7 +22992,7 @@ msgstr "Anpassningspaket"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Lägg till nytt"
+msgstr "Lägg till ny"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23170,7 +23170,7 @@ msgstr "Sida"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Lägg till nytt"
+msgstr "Lägg till ny"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
@@ -23373,7 +23373,7 @@ msgstr[1] "Ljud <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
 msgid "Video"
-msgstr ""
+msgstr "Videoklipp"
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
@@ -25261,7 +25261,7 @@ msgstr "Uppdaterar"
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr "Schemalagt"
+msgstr "Tidsinställt"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
@@ -26151,7 +26151,7 @@ msgstr ""
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "De senaste kommentarerna"
+msgstr "Senaste kommentarer"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -26171,7 +26171,7 @@ msgstr "Hem"
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
 msgid "Email"
-msgstr "E-post"
+msgstr "E-postadress"
 
 #: wp-includes/theme.php:2019
 msgctxt "Theme starter content"
@@ -27003,7 +27003,7 @@ msgstr "Byt media"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Ändra media"
+msgstr "Redigera media"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27056,7 +27056,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
@@ -27103,7 +27103,7 @@ msgstr "Din webbplats senaste inlägg."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Senaste inläggen"
+msgstr "De senaste inläggen"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"
@@ -27156,7 +27156,7 @@ msgstr "Godtycklig text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:42
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

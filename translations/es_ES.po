@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-18 03:51\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17663,7 +17663,7 @@ msgstr "Configuración"
 #: wp-includes/class-wp-customize-manager.php:5127
 msgctxt "Default Preset"
 msgid "Default"
-msgstr "Predeterminada"
+msgstr "Predeterminado"
 
 #: wp-includes/class-wp-customize-manager.php:5130
 msgctxt "Repeat Image"
@@ -18123,7 +18123,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "HTML"
+msgstr "Texto"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -18302,7 +18302,7 @@ msgstr "Cuadrado"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "Por defecto"
+msgstr "Predeterminado"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -19158,7 +19158,7 @@ msgstr "X"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "J"
+msgstr "M"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -21499,12 +21499,12 @@ msgstr "Siguiente &raquo;"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "Por defecto"
+msgstr "Predeterminado"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Luminoso"
+msgstr "Claro"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -21539,7 +21539,7 @@ msgstr "Café"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Instalada"
+msgstr "Instalado"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -21600,7 +21600,7 @@ msgstr "Navegación de entradas"
 #: wp-includes/link-template.php:2536
 msgctxt "previous set of posts"
 msgid "Previous"
-msgstr "Anteriores"
+msgstr "Previo"
 
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
@@ -22976,7 +22976,7 @@ msgstr "Medios"
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "Medio"
+msgstr "Medios"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23083,7 +23083,7 @@ msgstr "Petición de usuario"
 #: wp-includes/post.php:229
 msgctxt "post status"
 msgid "Published"
-msgstr "Publicado"
+msgstr "Publicada"
 
 #: wp-includes/post.php:232
 msgid "Published <span class=\"count\">(%s)</span>"
@@ -23122,7 +23122,7 @@ msgstr[1] "Pendientes <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:257
 msgctxt "post status"
 msgid "Private"
-msgstr "Privado"
+msgstr "Privada"
 
 #: wp-includes/post.php:260
 msgid "Private <span class=\"count\">(%s)</span>"
@@ -23144,7 +23144,7 @@ msgstr[1] "Papelera <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Pendientes"
+msgstr "Pendiente"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23208,12 +23208,12 @@ msgstr "Página"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Añadir nueva"
+msgstr "Añadir nuevo"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Añadir nueva"
+msgstr "Añadir nuevo"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -26202,7 +26202,7 @@ msgstr "Entradas recientes"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Búsqueda"
+msgstr "Buscar"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
@@ -27039,7 +27039,7 @@ msgstr "No se ha seleccionado ningún archivo de medios"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "Añadir medios"
+msgstr "Añadir objeto"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"

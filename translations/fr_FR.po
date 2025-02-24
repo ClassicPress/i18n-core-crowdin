@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-21 03:10\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17665,7 +17665,7 @@ msgstr "Pré-réglage"
 #: wp-includes/class-wp-customize-manager.php:5127
 msgctxt "Default Preset"
 msgid "Default"
-msgstr "Par défaut"
+msgstr "Valeur par défaut"
 
 #: wp-includes/class-wp-customize-manager.php:5130
 msgctxt "Repeat Image"
@@ -18304,7 +18304,7 @@ msgstr "Carré"
 #: wp-includes/class-wp-editor.php:1057
 msgctxt "list style"
 msgid "Default"
-msgstr "Par défaut"
+msgstr "Valeur par défaut"
 
 #: wp-includes/class-wp-editor.php:1058
 msgctxt "list style"
@@ -19159,7 +19159,7 @@ msgstr "M"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "J"
+msgstr "M"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19272,73 +19272,73 @@ msgstr "décembre"
 #: wp-includes/class-wp-locale.php:170
 msgctxt "genitive"
 msgid "January"
-msgstr "Janvier"
+msgstr "janvier"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:171
 msgctxt "genitive"
 msgid "February"
-msgstr "Février"
+msgstr "février"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:172
 msgctxt "genitive"
 msgid "March"
-msgstr "Mars"
+msgstr "mars"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr "Avril"
+msgstr "avril"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
 msgctxt "genitive"
 msgid "May"
-msgstr "Mai"
+msgstr "mai"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:175
 msgctxt "genitive"
 msgid "June"
-msgstr "Juin"
+msgstr "juin"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr "Juillet"
+msgstr "juillet"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr "Août"
+msgstr "août"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr "Septembre"
+msgstr "septembre"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
 msgctxt "genitive"
 msgid "October"
-msgstr "Octobre"
+msgstr "octobre"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr "Novembre"
+msgstr "novembre"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
 msgctxt "genitive"
 msgid "December"
-msgstr "Décembre"
+msgstr "décembre"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:184
@@ -19368,7 +19368,7 @@ msgstr "Avr"
 #: wp-includes/class-wp-locale.php:188
 msgctxt "May abbreviation"
 msgid "May"
-msgstr "Mai"
+msgstr "mai"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:189
@@ -21260,7 +21260,7 @@ msgstr "Recherche&hellip;"
 #: wp-includes/general-template.php:215 wp-includes/general-template.php:222
 msgctxt "submit button"
 msgid "Search"
-msgstr "Rechercher"
+msgstr "Recherche"
 
 #: wp-includes/general-template.php:260 wp-login.php:605 wp-login.php:675
 #: wp-login.php:734 wp-login.php:829
@@ -21500,12 +21500,12 @@ msgstr "Suivant »"
 #: wp-includes/general-template.php:3901
 msgctxt "admin color scheme"
 msgid "Default"
-msgstr "Par défaut"
+msgstr "Valeur par défaut"
 
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Lumineux"
+msgstr "Léger"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -21540,7 +21540,7 @@ msgstr "Café"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Installée"
+msgstr "Installé"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22874,7 +22874,7 @@ msgstr "Lien"
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
 msgid "Image"
-msgstr "Image"
+msgstr ""
 
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
@@ -22972,12 +22972,12 @@ msgstr "page"
 #: wp-includes/post.php:64
 msgctxt "post type general name"
 msgid "Media"
-msgstr "Fichier média"
+msgstr "Médias"
 
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "Fichier média"
+msgstr "Médias"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23194,7 +23194,7 @@ msgstr "Articles"
 #: wp-includes/post.php:1444
 msgctxt "post type general name"
 msgid "Pages"
-msgstr "Pages "
+msgstr "Pages"
 
 #: wp-includes/post.php:1445
 msgctxt "post type singular name"
@@ -23382,7 +23382,7 @@ msgstr "Liste des pages"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr "Images"
+msgstr ""
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"
@@ -25965,7 +25965,7 @@ msgstr "Liste des catégories"
 #: wp-includes/taxonomy.php:525
 msgctxt "tags"
 msgid "Most Used"
-msgstr "Plus utilisées"
+msgstr "Plus utilisés"
 
 #: wp-includes/taxonomy.php:526
 msgid "&larr; Back to Tags"
@@ -26203,7 +26203,7 @@ msgstr "Articles récents"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Rechercher"
+msgstr "Recherche"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
@@ -26213,7 +26213,7 @@ msgstr "Accueil"
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
 msgid "Email"
-msgstr "E-mail"
+msgstr "Adresse de messagerie"
 
 #: wp-includes/theme.php:2019
 msgctxt "Theme starter content"
@@ -27047,7 +27047,7 @@ msgstr "Remplacer le média"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Modifier le média"
+msgstr "Modifier un média"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27168,7 +27168,7 @@ msgstr "Un formulaire de recherche pour votre site."
 #: wp-includes/widgets/class-wp-widget-search.php:30
 msgctxt "Search widget"
 msgid "Search"
-msgstr "Rechercher"
+msgstr "Recherche"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 msgid "A cloud of your most used tags."

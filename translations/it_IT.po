@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-02-07 04:10\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18808,7 +18808,7 @@ msgstr "H Align"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "Nessuno"
+msgstr "Nessuna"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -19202,7 +19202,7 @@ msgstr "M"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "G"
+msgstr "M"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19214,7 +19214,7 @@ msgstr "V"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "S"
+msgstr "D"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -19411,7 +19411,7 @@ msgstr "Apr"
 #: wp-includes/class-wp-locale.php:188
 msgctxt "May abbreviation"
 msgid "May"
-msgstr "Mag"
+msgstr "Maggio"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:189
@@ -21548,7 +21548,7 @@ msgstr "Predefinito"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Light"
+msgstr "Chiaro"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -21583,7 +21583,7 @@ msgstr "Caffè"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Installata"
+msgstr "Installato"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -21644,12 +21644,12 @@ msgstr "Navigazione articoli"
 #: wp-includes/link-template.php:2536
 msgctxt "previous set of posts"
 msgid "Previous"
-msgstr "Precedenti"
+msgstr "Precedente"
 
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "Successivi"
+msgstr "Prossimo"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -22059,7 +22059,7 @@ msgstr "&#8592; Torna alla libreria"
 #: wp-includes/media.php:3527
 msgctxt "noun"
 msgid "Trash"
-msgstr "Cestino"
+msgstr "Eliminato"
 
 #: wp-includes/media.php:3529
 msgid "You are about to permanently delete this item from your site.\n"
@@ -23193,7 +23193,7 @@ msgstr[1] "Privati <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "Cestina"
+msgstr "Eliminato"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23273,7 +23273,7 @@ msgstr "Aggiungi nuovo"
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Aggiungi pagina"
+msgstr "Aggiungi nuovo"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -25320,7 +25320,7 @@ msgstr "Debole"
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr "Media"
+msgstr "Medio"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
@@ -25359,7 +25359,7 @@ msgstr "Aggiornamento"
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr "Pianificati"
+msgstr "Programmato"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
@@ -26024,7 +26024,7 @@ msgstr "Elenco delle categorie"
 #: wp-includes/taxonomy.php:525
 msgctxt "tags"
 msgid "Most Used"
-msgstr "Più utilizzati"
+msgstr "Più utilizzate"
 
 #: wp-includes/taxonomy.php:526
 msgid "&larr; Back to Tags"
@@ -26262,12 +26262,12 @@ msgstr "Articoli recenti"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Ricerca"
+msgstr "Cerca"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Homepage"
+msgstr "Home"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
@@ -27197,7 +27197,7 @@ msgstr "Powered by ClassicPress, allo stato dell’arte una piattaforma di edito
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."

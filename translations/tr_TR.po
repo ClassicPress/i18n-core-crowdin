@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18695,7 +18695,7 @@ msgstr "Başlık hücresi"
 #: wp-includes/class-wp-editor.php:1180
 msgctxt "table header"
 msgid "Header"
-msgstr "Başlık"
+msgstr "Üst kısım"
 
 #: wp-includes/class-wp-editor.php:1181
 msgctxt "table body"
@@ -19157,7 +19157,7 @@ msgstr "Ç"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "P"
+msgstr "S"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19169,7 +19169,7 @@ msgstr "C"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "C"
+msgstr "P"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -21503,7 +21503,7 @@ msgstr "Varsayılan"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Açık renk"
+msgstr "Açık"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -22872,7 +22872,7 @@ msgstr "Bağlantı"
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
 msgid "Image"
-msgstr "Görsel"
+msgstr "Resim"
 
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
@@ -22975,7 +22975,7 @@ msgstr "Ortam"
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "Ortam dosyası"
+msgstr "Ortam"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23082,7 +23082,7 @@ msgstr "Kullanıcı talebi"
 #: wp-includes/post.php:229
 msgctxt "post status"
 msgid "Published"
-msgstr "Yayımlandı"
+msgstr "Yayımlanmış"
 
 #: wp-includes/post.php:232
 msgid "Published <span class=\"count\">(%s)</span>"
@@ -23132,7 +23132,7 @@ msgstr[1] "Özel <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "Silinmiş"
+msgstr "Çöp"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23143,7 +23143,7 @@ msgstr[1] "Çöp <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Bekleyen"
+msgstr "Onay bekliyor"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23380,7 +23380,7 @@ msgstr "Sayfa listesi"
 
 #: wp-includes/post.php:2410
 msgid "Images"
-msgstr "Resimler"
+msgstr "Görseller"
 
 #: wp-includes/post.php:2410
 msgid "Manage Images"
@@ -23395,7 +23395,7 @@ msgstr[1] "Görsel <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr "Ses dosyası"
+msgstr "Ses"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -25298,7 +25298,7 @@ msgstr "Güncelleniyor"
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr "Zamanlanmış"
+msgstr "Zamanlandı"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
@@ -26191,7 +26191,7 @@ msgstr ""
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "Son yorumlar"
+msgstr "Son Yorumlar"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -26201,12 +26201,12 @@ msgstr "Son yazılar"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Site araması"
+msgstr "Ara"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Ana sayfa"
+msgstr "Başlangıç"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
@@ -26950,7 +26950,7 @@ msgstr "Görsel değiştir"
 #: wp-includes/widgets/class-wp-widget-media-image.php:34
 msgctxt "label for button in the image widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Image"
-msgstr "Görseli düzenle"
+msgstr "Resmi düzenle"
 
 #. translators: %s: URL to media library
 #: wp-includes/widgets/class-wp-widget-media-image.php:37
@@ -27033,7 +27033,7 @@ msgstr "Ortam dosyası seçilmedi"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "Ortam dosyası ekle"
+msgstr "Ortam Ekle"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
@@ -27043,7 +27043,7 @@ msgstr "Ortam dosyasını değiştir"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Ortam dosyasını düzenle"
+msgstr "Ortamı düzenle"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27143,7 +27143,7 @@ msgstr "Sitenizin en güncel yazıları."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Son Yazılar"
+msgstr "Son yazılar"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -18716,7 +18716,7 @@ msgstr "Удалить ссылку"
 
 #: wp-includes/class-wp-editor.php:1128
 msgid "Link"
-msgstr "Ссылка"
+msgstr "Ссылку"
 
 #: wp-includes/class-wp-editor.php:1129 wp-includes/script-loader.php:139
 msgid "Insert link"
@@ -19357,7 +19357,7 @@ msgstr "Ср"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "Чт"
+msgstr "Вт"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19369,7 +19369,7 @@ msgstr "Пт"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "Сб"
+msgstr "Вс"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -19470,73 +19470,73 @@ msgstr "Декабрь"
 #: wp-includes/class-wp-locale.php:170
 msgctxt "genitive"
 msgid "January"
-msgstr "января"
+msgstr "Январь"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:171
 msgctxt "genitive"
 msgid "February"
-msgstr "февраля"
+msgstr "Февраль"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:172
 msgctxt "genitive"
 msgid "March"
-msgstr "марта"
+msgstr "Март"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr "апреля"
+msgstr "Апрель"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
 msgctxt "genitive"
 msgid "May"
-msgstr "мая"
+msgstr "Май"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:175
 msgctxt "genitive"
 msgid "June"
-msgstr "июня"
+msgstr "Июнь"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr "июля"
+msgstr "Июль"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr "августа"
+msgstr "Август"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr "сентября"
+msgstr "Сентябрь"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
 msgctxt "genitive"
 msgid "October"
-msgstr "октября"
+msgstr "Октябрь"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr "ноября"
+msgstr "Ноябрь"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
 msgctxt "genitive"
 msgid "December"
-msgstr "декабря"
+msgstr "Декабрь"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:184
@@ -20900,7 +20900,7 @@ msgstr "Сменить тему"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Сменить"
+msgstr "Изменить"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -21725,7 +21725,7 @@ msgstr "Светлая"
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "Синяя"
+msgstr "Синий"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21755,7 +21755,7 @@ msgstr "Кофе"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Установленные"
+msgstr "Установлена"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22231,7 +22231,7 @@ msgstr "&#8592; Вернуться в библиотеку"
 #: wp-includes/media.php:3527
 msgctxt "noun"
 msgid "Trash"
-msgstr "Корзина"
+msgstr "Удалён"
 
 #: wp-includes/media.php:3529
 msgid "You are about to permanently delete this item from your site.\n"
@@ -23106,7 +23106,7 @@ msgstr "Галерея"
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
 msgid "Link"
-msgstr "Ссылка"
+msgstr "Ссылку"
 
 #: wp-includes/post-formats.php:95
 msgctxt "Post format"
@@ -23204,7 +23204,7 @@ msgstr "Запись"
 #: wp-includes/post.php:43
 msgctxt "add new from admin bar"
 msgid "Page"
-msgstr "Страницу"
+msgstr "Страница"
 
 #: wp-includes/post.php:64
 msgctxt "post type general name"
@@ -23214,7 +23214,7 @@ msgstr "Медиафайлы"
 #: wp-includes/post.php:65
 msgctxt "add new from admin bar"
 msgid "Media"
-msgstr "Медиафайл"
+msgstr "Медиафайлы"
 
 #: wp-includes/post.php:66
 msgctxt "add new media"
@@ -23381,7 +23381,7 @@ msgstr[3] "Личные <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "В корзине"
+msgstr "Удалён"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23394,7 +23394,7 @@ msgstr[3] "Корзина <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "В ожидании"
+msgstr "На утверждении"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23458,12 +23458,12 @@ msgstr "Страница"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Добавить новую"
+msgstr "Добавить новый"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Добавить новую"
+msgstr "Добавить новый"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -23583,7 +23583,7 @@ msgstr "Установить изображение записи"
 #: wp-includes/post.php:1462
 msgctxt "page"
 msgid "Set featured image"
-msgstr "Установить изображение страницы"
+msgstr "Установить изображение записи"
 
 #: wp-includes/post.php:1463
 msgctxt "post"
@@ -23593,7 +23593,7 @@ msgstr "Удалить изображение записи"
 #: wp-includes/post.php:1463
 msgctxt "page"
 msgid "Remove featured image"
-msgstr "Удалить изображение страницы"
+msgstr "Удалить изображение записи"
 
 #: wp-includes/post.php:1464
 msgctxt "post"
@@ -23603,7 +23603,7 @@ msgstr "Использовать как изображение записи"
 #: wp-includes/post.php:1464
 msgctxt "page"
 msgid "Use as featured image"
-msgstr "Использовать как изображение страницы"
+msgstr "Использовать как изображение записи"
 
 #: wp-includes/post.php:1465
 msgid "Filter posts list"
@@ -26454,7 +26454,7 @@ msgstr "Мета"
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "Последние комментарии"
+msgstr "Свежие комментарии"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -26469,7 +26469,7 @@ msgstr "Поиск"
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "Главная страница"
+msgstr "Главная"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
@@ -26856,7 +26856,7 @@ msgstr "Информация о пользователе"
 
 #: wp-includes/user.php:2834
 msgid "User"
-msgstr "Пользователь"
+msgstr "Пользователя"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL,
 #. SITEURL; those are placeholders.
@@ -27355,7 +27355,7 @@ msgstr "Заменить"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Редактировать"
+msgstr "Изменить медиафайл"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27457,7 +27457,7 @@ msgstr "Самые свежие записи вашего сайта."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Свежие записи"
+msgstr "Последние записи"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-04-18 03:51\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -10977,7 +10977,7 @@ msgstr "編集者"
 #: wp-admin/includes/schema.php:627
 msgctxt "User role"
 msgid "Author"
-msgstr "投稿者"
+msgstr "作成者"
 
 #. translators: user role
 #: wp-admin/includes/schema.php:629
@@ -18265,7 +18265,7 @@ msgstr "ローマ数字小文字"
 #: wp-includes/class-wp-editor.php:1067
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr "名称"
+msgstr "名前"
 
 #: wp-includes/class-wp-editor.php:1068
 msgctxt "Link anchor (TinyMCE)"
@@ -19080,7 +19080,7 @@ msgstr "水"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "木"
+msgstr "火"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19092,7 +19092,7 @@ msgstr "金"
 #: wp-includes/class-wp-locale.php:144
 msgctxt "Saturday initial"
 msgid "S"
-msgstr "土"
+msgstr "日"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:147
@@ -21343,7 +21343,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr "%2$s年%1$s"
+msgstr "%2$s%1$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21418,12 +21418,12 @@ msgstr "デフォルト"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "ライト"
+msgstr "明るい"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
 msgid "Blue"
-msgstr "ブルー"
+msgstr "青"
 
 #: wp-includes/general-template.php:3924
 msgctxt "admin color scheme"
@@ -21453,7 +21453,7 @@ msgstr "コーヒー"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "インストール済み"
+msgstr "インストール完了"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -21514,7 +21514,7 @@ msgstr "投稿ナビゲーション"
 #: wp-includes/link-template.php:2536
 msgctxt "previous set of posts"
 msgid "Previous"
-msgstr "前へ"
+msgstr "前"
 
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
@@ -23040,7 +23040,7 @@ msgstr[0] "非公開 <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:264
 msgctxt "post status"
 msgid "Trash"
-msgstr "ゴミ箱内"
+msgstr "ゴミ箱"
 
 #: wp-includes/post.php:267
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -23050,7 +23050,7 @@ msgstr[0] "ゴミ箱 <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "保留中"
+msgstr "レビュー待ち"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -25162,7 +25162,7 @@ msgstr "脆弱"
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr "普通"
+msgstr "中"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
@@ -26107,12 +26107,12 @@ msgstr "検索"
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
 msgid "Home"
-msgstr "ホームページ"
+msgstr "ホーム"
 
 #: wp-includes/theme.php:2015
 msgctxt "Theme starter content"
 msgid "Email"
-msgstr "メール"
+msgstr "メールアドレス"
 
 #: wp-includes/theme.php:2019
 msgctxt "Theme starter content"

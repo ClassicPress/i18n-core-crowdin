@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-10-22 20:50\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7816,7 +7816,7 @@ msgstr "Morgen"
 #. different calendar year, see https://secure.php.net/date
 #: wp-admin/includes/dashboard.php:853
 msgid "M jS Y"
-msgstr "Sj m Y"
+msgstr "M j Y"
 
 #. translators: date and time format for recent posts on the dashboard, see
 #. https://secure.php.net/date
@@ -18591,7 +18591,7 @@ msgstr "Ersetzen"
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "find/replace"
 msgid "Next"
-msgstr "Nächster"
+msgstr "Weiter"
 
 #. translators: previous
 #: wp-includes/class-wp-editor.php:1153
@@ -18772,7 +18772,7 @@ msgstr "horiz. Ausrichtung"
 #: wp-includes/class-wp-editor.php:1205
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr "Ohne"
+msgstr "Keine"
 
 #: wp-includes/class-wp-editor.php:1206
 msgctxt "vertical table cell alignment"
@@ -21267,7 +21267,7 @@ msgstr "Suche&#160;&hellip;"
 #: wp-includes/general-template.php:215 wp-includes/general-template.php:222
 msgctxt "submit button"
 msgid "Search"
-msgstr "Suche"
+msgstr "Suchen"
 
 #: wp-includes/general-template.php:260 wp-login.php:605 wp-login.php:675
 #: wp-login.php:734 wp-login.php:829
@@ -21613,7 +21613,7 @@ msgstr "Vorherige"
 #: wp-includes/link-template.php:2537
 msgctxt "next set of posts"
 msgid "Next"
-msgstr "Nächste"
+msgstr "Weiter"
 
 #: wp-includes/link-template.php:2693
 msgid "Newer Comments &raquo;"
@@ -23043,7 +23043,7 @@ msgstr "Änderungs-Set"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Neu hinzufügen"
+msgstr "Datei hinzufügen"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23221,12 +23221,12 @@ msgstr "Seite"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Erstellen"
+msgstr "Datei hinzufügen"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Erstellen"
+msgstr "Datei hinzufügen"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -25977,7 +25977,7 @@ msgstr "Kategorienliste"
 #: wp-includes/taxonomy.php:525
 msgctxt "tags"
 msgid "Most Used"
-msgstr "Meistgenutzt"
+msgstr "Häufig genutzt"
 
 #: wp-includes/taxonomy.php:526
 msgid "&larr; Back to Tags"
@@ -26215,7 +26215,7 @@ msgstr "Neueste Beiträge"
 #: wp-includes/theme.php:1979
 msgctxt "Theme starter content"
 msgid "Search"
-msgstr "Suche"
+msgstr "Suchen"
 
 #: wp-includes/theme.php:1985 wp-includes/theme.php:2058
 msgctxt "Theme starter content"
@@ -27216,7 +27216,7 @@ msgstr "Ein Suchformular für deine Website."
 #: wp-includes/widgets/class-wp-widget-search.php:30
 msgctxt "Search widget"
 msgid "Search"
-msgstr "Suche"
+msgstr "Suchen"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 msgid "A cloud of your most used tags."

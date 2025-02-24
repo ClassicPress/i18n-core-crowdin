@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-24 05:00\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -20750,7 +20750,7 @@ msgstr "Wijzig thema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Veranderen"
+msgstr "Wijzigen"
 
 #. translators: %s: themes panel title in the Customizer
 #: wp-includes/customize/class-wp-customize-themes-panel.php:75
@@ -23210,7 +23210,7 @@ msgstr[1] "Prullenbak <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "In behandeling"
+msgstr "Wachtend"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23399,7 +23399,7 @@ msgstr "Uitgelichte afbeelding instellen"
 #: wp-includes/post.php:1462
 msgctxt "page"
 msgid "Set featured image"
-msgstr "Uitgelichte afbeelding kiezen"
+msgstr "Uitgelichte afbeelding instellen"
 
 #: wp-includes/post.php:1463
 msgctxt "post"

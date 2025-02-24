@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2024-04-18 03:52\n"
+"PO-Revision-Date: 2025-02-23 21:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -17811,7 +17811,7 @@ msgstr "Wbudowane"
 #: wp-includes/class-wp-customize-manager.php:5127
 msgctxt "Default Preset"
 msgid "Default"
-msgstr "Domyślne"
+msgstr "Domyślny"
 
 #: wp-includes/class-wp-customize-manager.php:5130
 msgctxt "Repeat Image"
@@ -18279,7 +18279,7 @@ msgstr "Wizualny"
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "Tekstowy"
+msgstr "Tekst"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -18498,7 +18498,7 @@ msgstr "Małe rzymskie"
 #: wp-includes/class-wp-editor.php:1067
 msgctxt "Name of link anchor (TinyMCE)"
 msgid "Name"
-msgstr "Identyfikator"
+msgstr "Nazwa"
 
 #: wp-includes/class-wp-editor.php:1068
 msgctxt "Link anchor (TinyMCE)"
@@ -18738,7 +18738,7 @@ msgstr "Zastąp"
 #: wp-includes/class-wp-editor.php:1151
 msgctxt "find/replace"
 msgid "Next"
-msgstr "Następne"
+msgstr "Następny"
 
 #. translators: previous
 #: wp-includes/class-wp-editor.php:1153
@@ -19031,7 +19031,7 @@ msgstr "Plik"
 #: wp-includes/class-wp-editor.php:1243
 msgctxt "TinyMCE menu"
 msgid "Edit"
-msgstr "Edycja"
+msgstr "Edytuj"
 
 #: wp-includes/class-wp-editor.php:1244
 msgctxt "TinyMCE menu"
@@ -19313,7 +19313,7 @@ msgstr "Ś"
 #: wp-includes/class-wp-locale.php:142
 msgctxt "Thursday initial"
 msgid "T"
-msgstr "C"
+msgstr "W"
 
 #. translators: one-letter abbreviation of the weekday
 #: wp-includes/class-wp-locale.php:143
@@ -19426,73 +19426,73 @@ msgstr "Grudzień"
 #: wp-includes/class-wp-locale.php:170
 msgctxt "genitive"
 msgid "January"
-msgstr "stycznia"
+msgstr "Styczeń"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:171
 msgctxt "genitive"
 msgid "February"
-msgstr "lutego"
+msgstr "Luty"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:172
 msgctxt "genitive"
 msgid "March"
-msgstr "marca"
+msgstr "Marzec"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:173
 msgctxt "genitive"
 msgid "April"
-msgstr "kwietnia"
+msgstr "Kwiecień"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:174
 msgctxt "genitive"
 msgid "May"
-msgstr "maja"
+msgstr "Maj"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:175
 msgctxt "genitive"
 msgid "June"
-msgstr "czerwca"
+msgstr "Czerwiec"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:176
 msgctxt "genitive"
 msgid "July"
-msgstr "lipca"
+msgstr "Lipiec"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:177
 msgctxt "genitive"
 msgid "August"
-msgstr "sierpnia"
+msgstr "Sierpień"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:178
 msgctxt "genitive"
 msgid "September"
-msgstr "września"
+msgstr "Wrzesień"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:179
 msgctxt "genitive"
 msgid "October"
-msgstr "października"
+msgstr "Październik"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:180
 msgctxt "genitive"
 msgid "November"
-msgstr "listopada"
+msgstr "Listopad"
 
 #. translators: month name, genitive
 #: wp-includes/class-wp-locale.php:181
 msgctxt "genitive"
 msgid "December"
-msgstr "grudnia"
+msgstr "Grudzień"
 
 #. translators: three-letter abbreviation of the month
 #: wp-includes/class-wp-locale.php:184
@@ -21675,7 +21675,7 @@ msgstr "Domyślny"
 #: wp-includes/general-template.php:3912
 msgctxt "admin color scheme"
 msgid "Light"
-msgstr "Jasny"
+msgstr "Lekkie"
 
 #: wp-includes/general-template.php:3918
 msgctxt "admin color scheme"
@@ -21710,7 +21710,7 @@ msgstr "Kawa"
 #: wp-includes/l10n.php:1195
 msgctxt "translations"
 msgid "Installed"
-msgstr "Zainstalowane"
+msgstr "Zainstalowano"
 
 #: wp-includes/l10n.php:1203
 msgctxt "default site language"
@@ -22186,7 +22186,7 @@ msgstr "&#8592;  Wróć do biblioteki"
 #: wp-includes/media.php:3527
 msgctxt "noun"
 msgid "Trash"
-msgstr "Kosz"
+msgstr "W koszu"
 
 #: wp-includes/media.php:3529
 msgid "You are about to permanently delete this item from your site.\n"
@@ -23075,7 +23075,7 @@ msgstr "Film"
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
 msgid "Audio"
-msgstr "Plik dźwiękowy"
+msgstr "Pliki dźwiękowe"
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
@@ -23212,7 +23212,7 @@ msgstr "Zestaw zmian"
 #: wp-includes/post.php:159
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr "Dodaj"
+msgstr "Dodaj nowe"
 
 #: wp-includes/post.php:160
 msgid "Add New Changeset"
@@ -23312,7 +23312,7 @@ msgstr[3] "Oczekujące <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:257
 msgctxt "post status"
 msgid "Private"
-msgstr "Prywatny"
+msgstr "Prywatne"
 
 #: wp-includes/post.php:260
 msgid "Private <span class=\"count\">(%s)</span>"
@@ -23338,7 +23338,7 @@ msgstr[3] "Kosz <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:285
 msgctxt "request status"
 msgid "Pending"
-msgstr "Oczekuje"
+msgstr "Oczekujący na przegląd"
 
 #: wp-includes/post.php:292
 msgctxt "request status"
@@ -23402,12 +23402,12 @@ msgstr "Strona"
 #: wp-includes/post.php:1446
 msgctxt "post"
 msgid "Add New"
-msgstr "Dodaj nowy"
+msgstr "Dodaj nowe"
 
 #: wp-includes/post.php:1446
 msgctxt "page"
 msgid "Add New"
-msgstr "Dodaj nową"
+msgstr "Dodaj nowe"
 
 #: wp-includes/post.php:1447
 msgid "Add New Post"
@@ -23592,7 +23592,7 @@ msgstr[3] "Obrazki <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2411
 #: wp-includes/widgets/class-wp-widget-media-audio.php:25
 msgid "Audio"
-msgstr "Plik dźwiękowy"
+msgstr "Pliki dźwiękowe"
 
 #: wp-includes/post.php:2411
 msgid "Manage Audio"
@@ -23609,7 +23609,7 @@ msgstr[3] "Pliki dźwiękowe <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
 msgid "Video"
-msgstr "Filmy"
+msgstr "Film"
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
@@ -25462,7 +25462,7 @@ msgstr "Słabe"
 #: wp-includes/script-loader.php:534
 msgctxt "password strength"
 msgid "Medium"
-msgstr "Średnie"
+msgstr "Średni"
 
 #: wp-includes/script-loader.php:535
 msgctxt "password strength"
@@ -25501,7 +25501,7 @@ msgstr "Aktualizuje"
 #: wp-includes/script-loader.php:590
 msgctxt "customizer changeset status"
 msgid "Scheduled"
-msgstr "Zaplanowano"
+msgstr "Zaplanowany"
 
 #: wp-includes/script-loader.php:591
 msgid "Invalid"
@@ -26398,7 +26398,7 @@ msgstr ""
 #: wp-includes/theme.php:1973
 msgctxt "Theme starter content"
 msgid "Recent Comments"
-msgstr "Ostatnie komentarze"
+msgstr "Najnowsze komentarze"
 
 #: wp-includes/theme.php:1976
 msgctxt "Theme starter content"
@@ -26791,7 +26791,7 @@ msgstr "Opis użytkownika"
 
 #: wp-includes/user.php:2834
 msgid "User"
-msgstr "Użytkownik"
+msgstr "Użytkownika"
 
 #. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL,
 #. SITEURL; those are placeholders.
@@ -27252,7 +27252,7 @@ msgstr "Nie wybrano pliku"
 #: wp-includes/widgets/class-wp-widget-media.php:67
 msgctxt "label for button in the media widget"
 msgid "Add Media"
-msgstr "Dodaj media"
+msgstr "Dodaj medium"
 
 #: wp-includes/widgets/class-wp-widget-media.php:68
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
@@ -27262,7 +27262,7 @@ msgstr "Zastąp plik"
 #: wp-includes/widgets/class-wp-widget-media.php:69
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Media"
-msgstr "Edytuj plik"
+msgstr "Edytuj medium"
 
 #: wp-includes/widgets/class-wp-widget-media.php:70
 msgid "Add to Widget"
@@ -27364,7 +27364,7 @@ msgstr "Najnowsze wpisy na stronie."
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:30
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:48
 msgid "Recent Posts"
-msgstr "Najnowsze wpisy"
+msgstr "Ostatnie wpisy"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:138
 msgid "Number of posts to show:"
@@ -27385,7 +27385,7 @@ msgstr "Formularz wyszukiwania dla serwisu."
 #: wp-includes/widgets/class-wp-widget-search.php:30
 msgctxt "Search widget"
 msgid "Search"
-msgstr "Wyszukiwanie"
+msgstr "Szukaj"
 
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:26
 msgid "A cloud of your most used tags."

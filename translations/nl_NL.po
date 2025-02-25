@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-04 02:30\n"
+"PO-Revision-Date: 2025-02-25 17:11\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1646,7 +1646,7 @@ msgstr "Druk op Return of Enter om deze sectie te openen"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr "Widgets zijn onafhankelijke gedeeltes met inhoud die in de widgetruimtes van je thema geplaatst kunnen worden."
+msgstr "Widgets zijn onafhankelijke secties met inhoud die in de widget gebieden van je thema geplaatst kunnen worden (gewoonlijk zijbalken genoemd)."
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"

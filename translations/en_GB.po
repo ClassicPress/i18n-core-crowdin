@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2024-04-18 15:51\n"
+"PO-Revision-Date: 2025-02-25 05:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -526,7 +526,7 @@ msgstr "You are about to move the following comment to the Bin:"
 #: wp-admin/includes/class-wp-posts-list-table.php:404
 #: wp-admin/includes/media.php:1514 wp-admin/includes/meta-boxes.php:280
 msgid "Move to Trash"
-msgstr "Move to Bin"
+msgstr "Move to the Bin"
 
 #: wp-admin/comment.php:122
 msgid "You are about to delete the following comment:"
@@ -23131,7 +23131,7 @@ msgstr "No changesets found."
 
 #: wp-includes/post.php:167
 msgid "No changesets found in Trash."
-msgstr "No changesets found in Bin."
+msgstr "No changesets found in the Bin."
 
 #: wp-includes/post.php:200
 msgid "oEmbed Responses"
@@ -23338,11 +23338,11 @@ msgstr "No pages found."
 
 #: wp-includes/post.php:1454
 msgid "No posts found in Trash."
-msgstr "No posts found in Bin."
+msgstr "No posts found in the Bin."
 
 #: wp-includes/post.php:1454
 msgid "No pages found in Trash."
-msgstr "No pages found in Bin."
+msgstr "No pages found in the Bin."
 
 #: wp-includes/post.php:1455
 msgid "Parent Page:"

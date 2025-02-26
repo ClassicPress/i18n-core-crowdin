@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 20\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-23 21:22\n"
+"PO-Revision-Date: 2025-02-26 05:10\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -1637,7 +1637,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:423
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: wp-admin/includes/continents-cities.php:424
 msgid "Universal"

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-23 21:21\n"
+"PO-Revision-Date: 2025-02-26 05:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -611,7 +611,7 @@ msgstr "E-mail"
 #: wp-includes/media.php:3494 wp-includes/media.php:4017
 #: wp-includes/widgets/class-wp-widget-media-image.php:105
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: column name or table row header
 #: wp-admin/comment.php:169
@@ -1841,7 +1841,7 @@ msgstr "Čeká na schválení"
 #: wp-admin/edit-form-comment.php:91 wp-includes/comment.php:243
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: %s: comment date
 #: wp-admin/edit-form-comment.php:102
@@ -2651,13 +2651,13 @@ msgstr ""
 #: wp-includes/script-loader.php:790
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: user_login, 2: user_email
 #: wp-admin/includes/ajax-actions.php:291
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: number of comments
 #: wp-admin/includes/ajax-actions.php:380
@@ -3732,7 +3732,7 @@ msgstr ""
 #: wp-includes/wp-db.php:1062 wp-includes/wp-db.php:1595
 #: wp-includes/wp-db.php:1753 wp-login.php:921
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:694
 #: wp-admin/update-core.php:616
@@ -3994,7 +3994,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:639
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:575
 msgid "Restore this comment from the spam"
@@ -4272,7 +4272,7 @@ msgstr "&mdash; Datum &mdash;"
 #: wp-admin/includes/class-wp-list-table.php:571
 #: wp-includes/general-template.php:1783 wp-includes/media.php:3435
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #: wp-admin/includes/class-wp-list-table.php:621
 msgid "%s comment"
@@ -4483,7 +4483,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:1115
 #: wp-includes/class-wp-theme.php:739
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: %s: attachment title
 #. translators: %s: post title
@@ -4536,7 +4536,7 @@ msgstr ""
 #: wp-admin/network/site-info.php:174
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:41
 #: wp-admin/network/site-info.php:175
@@ -7239,7 +7239,7 @@ msgstr ""
 #: wp-admin/includes/continents-cities.php:429 wp-admin/options-general.php:217
 #: wp-includes/functions.php:4751 wp-includes/functions.php:4755
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: wp-admin/includes/continents-cities.php:430
 msgid "Universal"
@@ -7878,11 +7878,11 @@ msgstr ""
 
 #: wp-admin/includes/dashboard.php:713 wp-includes/comment-template.php:1084
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:716 wp-includes/comment-template.php:1083
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: type of comment, 2: post link, 3: notification if the
 #. comment is pending
@@ -7895,7 +7895,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:738
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:771
 msgid "Publishing Soon"
@@ -9205,7 +9205,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2457 wp-admin/includes/nav-menu.php:362
 #: wp-admin/includes/nav-menu.php:650
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2498
 msgid "Filter &#187;"
@@ -9321,7 +9321,7 @@ msgstr ""
 #: wp-admin/includes/template.php:771 wp-includes/class-wp-editor.php:1049
 #: wp-includes/script-loader.php:727
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:135
 msgid "Visibility:"
@@ -9425,7 +9425,7 @@ msgstr "Přidat"
 #: wp-admin/includes/meta-boxes.php:553
 #: wp-includes/class-wp-customize-control.php:628
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: %s: Codex URL
 #: wp-admin/includes/meta-boxes.php:623
@@ -10093,12 +10093,12 @@ msgstr ""
 #. translators: Gigabytes
 #: wp-admin/includes/ms.php:309
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #. translators: Megabytes
 #: wp-admin/includes/ms.php:313
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. translators: Storage space that's been used. 1: Percentage of used space, 2:
 #. Total space allowed in megabytes or gigabytes
@@ -10593,13 +10593,13 @@ msgstr ""
 #: wp-admin/includes/translation-install.php:93
 #: wp-admin/includes/update.php:112 wp-admin/theme-install.php:58
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Něco může být špatně s ClassicPress.net, ClassicPress.net nebo s konfigurací tohoto serveru. Pokud budete mít i nadále problémy, prosím zkuste <a href=\"%s\">fórum podpory</a>."
 
 #: wp-admin/includes/plugin-install.php:165 wp-admin/includes/theme.php:465
 #: wp-admin/includes/translation-install.php:70
 #: wp-admin/includes/update.php:114 wp-includes/update.php:159
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress nemohl navázat bezpečné připojení k ClassicPress.net. Obraťte se na správce serveru.)"
 
 #: wp-admin/includes/plugin-install.php:239
 msgid "Plugins extend and expand the functionality of ClassicPress. You may automatically install plugins from the <a href=\"%1$s\">WordPress Plugin Directory</a> or upload a plugin in .zip format by clicking the button at the top of this page."
@@ -11287,7 +11287,7 @@ msgstr "Měsíc"
 #: wp-admin/includes/template.php:736
 #: wp-includes/customize/class-wp-customize-date-time-control.php:201
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s-%2$s"
 
 #: wp-admin/includes/template.php:740
 #: wp-includes/customize/class-wp-customize-date-time-control.php:146
@@ -11393,7 +11393,7 @@ msgstr "Ikona webu"
 #: wp-admin/includes/template.php:1856
 #: wp-includes/class-wp-customize-manager.php:4923
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: wp-admin/includes/template.php:2008 wp-admin/nav-menus.php:659
 #: wp-admin/options.php:355
@@ -11540,7 +11540,7 @@ msgstr ""
 
 #: wp-admin/includes/theme.php:238
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-admin/includes/theme.php:239
 msgid "E-Commerce"
@@ -14490,7 +14490,7 @@ msgstr ""
 
 #: wp-admin/options-general.php:74 wp-includes/class-wp-xmlrpc-server.php:483
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "ClassicPress adresa (URL)"
 
 #. translators: %s: Codex URL
 #: wp-admin/options-general.php:85
@@ -16037,7 +16037,7 @@ msgstr ""
 #: wp-admin/themes.php:155 wp-includes/formatting.php:3361
 #: wp-includes/general-template.php:3820
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:159
 msgctxt "Add new theme"
@@ -17298,7 +17298,7 @@ msgstr "O ClassicPressu"
 
 #: wp-includes/admin-bar.php:151
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/admin-bar.php:159
 msgid "Documentation"
@@ -17306,7 +17306,7 @@ msgstr "Manuál (anglicky)"
 
 #: wp-includes/admin-bar.php:160
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:167
 msgid "Support"
@@ -17318,7 +17318,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:183
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: wp-includes/admin-bar.php:273
 msgid "Edit My Profile"
@@ -17457,7 +17457,7 @@ msgstr "RSS zdroj pro všechny příspěvky zařazené do rubriky %s"
 
 #: wp-includes/class-walker-comment.php:236
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #. translators: %s: comment author link
 #: wp-includes/class-walker-comment.php:269
@@ -18694,17 +18694,17 @@ msgstr "Žádná barva"
 #: wp-includes/class-wp-editor.php:1144
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1145
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1146
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1149
 msgid "Could not find the specified string."
@@ -19548,21 +19548,21 @@ msgstr "Pro"
 
 #: wp-includes/class-wp-locale.php:198
 msgid "am"
-msgstr ""
+msgstr "am"
 
 #: wp-includes/class-wp-locale.php:199
 msgid "pm"
-msgstr ""
+msgstr "pm"
 
 #: wp-includes/class-wp-locale.php:200
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-includes/class-wp-locale.php:201
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #. translators: $thousands_sep argument for
 #. https://secure.php.net/number_format, default is ,
@@ -19580,7 +19580,7 @@ msgstr ","
 #: wp-includes/class-wp-locale.php:223
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "zleva doprava"
 
 #. translators: %s: Name of the directory (build)
 #: wp-includes/class-wp-locale.php:239
@@ -19748,7 +19748,7 @@ msgstr "Flexibilní zobrazení"
 
 #: wp-includes/class-wp-theme.php:786
 msgid "Blavatar"
-msgstr ""
+msgstr "Blavatar"
 
 #: wp-includes/class-wp-theme.php:787
 msgid "Photoblogging"
@@ -20435,7 +20435,7 @@ msgstr ""
 
 #: wp-includes/comment.php:3173 wp-includes/comment.php:3282
 msgid "ClassicPress Comments"
-msgstr ""
+msgstr "Komentáře ClassicPressu"
 
 #: wp-includes/comment.php:3208
 msgid "Comment Author"
@@ -20744,7 +20744,7 @@ msgstr "(Aktuálně: %s)"
 #. translators: 1: original menu name, 2: duplicate count
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:512
 msgid "%1$s (%2$d)"
-msgstr ""
+msgstr "%1$s (%2$d)"
 
 #: wp-includes/customize/class-wp-customize-partial.php:207
 msgid "Partial render must echo the content or return the content string (or array), but not both."
@@ -20963,7 +20963,7 @@ msgstr "Možnosti sdílení obsahu"
 
 #: wp-includes/embed.php:1003
 msgid "ClassicPress Embed"
-msgstr ""
+msgstr "ClassicPress kód pro vložení"
 
 #: wp-includes/embed.php:1006
 msgid "HTML Embed"
@@ -20971,7 +20971,7 @@ msgstr "Vložit do HTML"
 
 #: wp-includes/embed.php:1013
 msgid "Copy and paste this URL into your ClassicPress site to embed"
-msgstr ""
+msgstr "Pro vložení obsahu zkopírujte a vložte tuto adresu do Vaší ClassicPress stránky"
 
 #: wp-includes/embed.php:1020
 msgid "Copy and paste this code into your site to embed"
@@ -21042,13 +21042,13 @@ msgstr "&#8216;"
 #: wp-includes/formatting.php:106
 msgctxt "prime"
 msgid "&#8242;"
-msgstr ""
+msgstr "&#8242;"
 
 #. translators: double prime, for example in 9" (nine inches)
 #: wp-includes/formatting.php:108
 msgctxt "double prime"
 msgid "&#8243;"
-msgstr ""
+msgstr "&#8243;"
 
 #. translators: opening curly single quote
 #: wp-includes/formatting.php:111
@@ -21066,13 +21066,13 @@ msgstr "&#8216;"
 #: wp-includes/formatting.php:116
 msgctxt "en dash"
 msgid "&#8211;"
-msgstr ""
+msgstr "&#8211;"
 
 #. translators: em dash
 #: wp-includes/formatting.php:118
 msgctxt "em dash"
 msgid "&#8212;"
-msgstr ""
+msgstr "&#8212;"
 
 #. translators: This is a comma-separated list of words that defy the syntax of
 #. quotations in normal use, for example...  'We do not have enough words yet'
@@ -21151,7 +21151,7 @@ msgstr[3] ""
 #: wp-includes/formatting.php:3372 wp-includes/script-loader.php:1137
 msgctxt "Word count type. Do not translate!"
 msgid "words"
-msgstr ""
+msgstr "slov"
 
 #: wp-includes/formatting.php:4080
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
@@ -21159,7 +21159,7 @@ msgstr "Zadaná e-mailová adresa patrně není platná. Zadejte prosím správn
 
 #: wp-includes/formatting.php:4186
 msgid "The ClassicPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr ""
+msgstr "Zadaná adresa ClassicPressu se nezdá být platnou URL adresou. Zadejte prosím platnou adresu URL."
 
 #: wp-includes/formatting.php:4199
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
@@ -21246,7 +21246,7 @@ msgstr "&laquo; Zpět"
 
 #: wp-includes/functions.php:2798 wp-load.php:92
 msgid "ClassicPress &rsaquo; Error"
-msgstr ""
+msgstr "ClassicPress &rsaquo; Chyba"
 
 #: wp-includes/functions.php:3810
 msgid "Database Error"
@@ -21305,7 +21305,7 @@ msgstr "(Tato zpráva se nově zobrazuje od verze %s.)"
 #. translators: %s: Codex URL
 #: wp-includes/functions.php:4179
 msgid "Please see <a href=\"%s\">Debugging in ClassicPress</a> for more information."
-msgstr ""
+msgstr "Pro více informací viz <a href=\"%s\">debugování v ClassicPressu</a>."
 
 #: wp-includes/functions.php:4180
 msgid "https://codex.wordpress.org/Debugging_in_WordPress"
@@ -21469,12 +21469,12 @@ msgstr "Výsledky vyhledávání &#8222;%s&#8220;"
 #: wp-includes/general-template.php:1008 wp-includes/general-template.php:1477
 msgctxt "yearly archives date format"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: wp-includes/general-template.php:1011 wp-includes/general-template.php:1480
 msgctxt "monthly archives date format"
 msgid "F Y"
-msgstr ""
+msgstr "F Y"
 
 #: wp-includes/general-template.php:1019
 msgid "Page %s"
@@ -21580,7 +21580,7 @@ msgstr ""
 #: wp-includes/general-template.php:2008
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. 1: Date
 #: wp-includes/general-template.php:2102
@@ -21591,7 +21591,7 @@ msgstr "Příspěvky publikované %s"
 #: wp-includes/general-template.php:2646 wp-includes/general-template.php:2688
 msgctxt "feed link"
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #. translators: 1: blog title, 2: separator (raquo)
 #: wp-includes/general-template.php:2648
@@ -21790,7 +21790,7 @@ msgstr ""
 
 #: wp-includes/load.php:140
 msgid "Your PHP installation appears to be missing the MySQL extension which is required by ClassicPress."
-msgstr ""
+msgstr "Zdá se, že ve vaší instalaci PHP chybí rozšíření MySQL, které ClassicPress vyžaduje."
 
 #: wp-includes/load.php:218
 msgid "Maintenance"
@@ -21870,7 +21870,7 @@ msgstr "Autor"
 #: wp-includes/media-template.php:389 wp-includes/media-template.php:570
 #: wp-includes/media.php:2177
 msgid "Album"
-msgstr ""
+msgstr "Album"
 
 #: wp-includes/media-template.php:403 wp-includes/media-template.php:584
 #: wp-includes/media-template.php:843
@@ -22376,7 +22376,7 @@ msgstr ""
 
 #: wp-includes/media.php:3969
 msgid "ClassicPress Media"
-msgstr ""
+msgstr "ClassicPress média"
 
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL, 3: wp-config.php, 4:
 #. is_subdomain_install()
@@ -22762,7 +22762,7 @@ msgstr "Číslo dne v týdnu, kdy by měl týden začínat."
 
 #: wp-includes/option.php:1894
 msgid "ClassicPress locale code."
-msgstr ""
+msgstr "Kód národního prostředí ClassicPressu."
 
 #: wp-includes/option.php:1901
 msgid "Convert emoticons like :-) and :-P to graphics on display."
@@ -22818,7 +22818,7 @@ msgstr "Web: %1$s (IP adresa: %2$s, %3$s)"
 #: wp-includes/pluggable.php:1499 wp-includes/pluggable.php:1639
 #: wp-includes/pluggable.php:1649 wp-includes/pluggable.php:1661
 msgid "URL: %s"
-msgstr ""
+msgstr "URL: %s"
 
 #. translators: 1: Comment text
 #: wp-includes/pluggable.php:1478 wp-includes/pluggable.php:1489
@@ -22833,7 +22833,7 @@ msgstr "Zobrazit všechny související trackbacky přímo na webu:"
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1481
 msgid "[%1$s] Trackback: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] Trackback: \"%2$s\""
 
 #. translators: 1: Post title
 #: wp-includes/pluggable.php:1485
@@ -22847,7 +22847,7 @@ msgstr "Zobrazit všechny související pingbacky přímo na webu:"
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1492
 msgid "[%1$s] Pingback: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] Pingback: \"%2$s\""
 
 #: wp-includes/pluggable.php:1495
 msgid "New comment on your post \"%s\""
@@ -23025,7 +23025,7 @@ msgstr "Aktualita"
 #: wp-includes/post-formats.php:98
 msgctxt "Post format"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: wp-includes/post-formats.php:99
 msgctxt "Post format"
@@ -23056,7 +23056,7 @@ msgstr "Stránky:"
 #: wp-includes/post-template.php:1031
 msgctxt "Post custom field name"
 msgid "%s:"
-msgstr ""
+msgstr "%s:"
 
 #: wp-includes/post-template.php:1610
 msgid "This content is password protected. To view it please enter your password below:"
@@ -23564,7 +23564,7 @@ msgstr[3] ""
 #: wp-includes/post.php:2412
 #: wp-includes/widgets/class-wp-widget-media-video.php:25
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: wp-includes/post.php:2412
 msgid "Manage Video"
@@ -25060,27 +25060,27 @@ msgstr ""
 
 #: wp-includes/script-loader.php:398
 msgid "Turn off Fullscreen"
-msgstr ""
+msgstr "Vypnout režim celé obrazovky"
 
 #: wp-includes/script-loader.php:399
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Zobrazit na celou obrazovku"
 
 #: wp-includes/script-loader.php:400
 msgid "Download Video"
-msgstr ""
+msgstr "Stáhnout video"
 
 #: wp-includes/script-loader.php:402
 msgid "Jump forward 1 second"
-msgstr ""
+msgstr "Skočit vpřed o 1 sekundu"
 
 #: wp-includes/script-loader.php:402
 msgid "Jump forward %1 seconds"
-msgstr ""
+msgstr "Skočit vpřed %1 sekund"
 
 #: wp-includes/script-loader.php:403
 msgid "Toggle Loop"
-msgstr ""
+msgstr "Přepnout smyčku"
 
 #: wp-includes/script-loader.php:404 wp-includes/theme.php:1396
 msgid "Play"
@@ -25100,11 +25100,11 @@ msgstr "Použitím šipek vlevo/vpravo se posunete o jednu sekundu, šipkami nah
 
 #: wp-includes/script-loader.php:409
 msgid "Skip back 1 second"
-msgstr ""
+msgstr "Přeskočit zpět 1 sekundu"
 
 #: wp-includes/script-loader.php:409
 msgid "Skip back %1 seconds"
-msgstr ""
+msgstr "Přeskočit zpět %1 sekund"
 
 #: wp-includes/script-loader.php:410
 msgid "Captions/Subtitles"
@@ -25116,7 +25116,7 @@ msgstr "Kapitoly"
 
 #: wp-includes/script-loader.php:413
 msgid "Mute Toggle"
-msgstr ""
+msgstr "Přepnout ztlumení"
 
 #: wp-includes/script-loader.php:414
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -25144,27 +25144,27 @@ msgstr "Audio přehrávač"
 
 #: wp-includes/script-loader.php:420
 msgid "Skip ad"
-msgstr ""
+msgstr "Přeskočit reklamu"
 
 #: wp-includes/script-loader.php:421
 msgid "Skip in 1 second"
-msgstr ""
+msgstr "Přeskočit za 1 sekundu"
 
 #: wp-includes/script-loader.php:421
 msgid "Skip in %1 seconds"
-msgstr ""
+msgstr "Přeskočit za %1 sekund"
 
 #: wp-includes/script-loader.php:422
 msgid "Source Chooser"
-msgstr ""
+msgstr "Výběr zdroje"
 
 #: wp-includes/script-loader.php:423
 msgid "Stop"
-msgstr ""
+msgstr "Zastavit"
 
 #: wp-includes/script-loader.php:424
 msgid "Speed Rate"
-msgstr ""
+msgstr "Rychlost"
 
 #: wp-includes/script-loader.php:425
 msgid "Live Broadcast"
@@ -25914,7 +25914,7 @@ msgstr ""
 #: wp-includes/script-loader.php:984
 msgctxt "Open Sans font: on or off"
 msgid "on"
-msgstr ""
+msgstr "zapnuto"
 
 #. translators: To add an additional Open Sans character subset specific to
 #. your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not
@@ -25922,7 +25922,7 @@ msgstr ""
 #: wp-includes/script-loader.php:990
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
-msgstr ""
+msgstr "bez podmnožiny"
 
 #: wp-includes/script-loader.php:1179
 msgid "Previous"
@@ -26172,7 +26172,7 @@ msgstr "Sdílenou položku se stejným názvem se nepodařilo rozdělit."
 #. $term_template
 #: wp-includes/taxonomy.php:4099
 msgid "%s: %l."
-msgstr ""
+msgstr "%s, %l."
 
 #: wp-includes/taxonomy.php:4170
 msgid "Invalid object ID."
@@ -26375,47 +26375,47 @@ msgstr "E-mail"
 #: wp-includes/theme.php:2019
 msgctxt "Theme starter content"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: wp-includes/theme.php:2023
 msgctxt "Theme starter content"
 msgid "Foursquare"
-msgstr ""
+msgstr "Foursquare"
 
 #: wp-includes/theme.php:2027
 msgctxt "Theme starter content"
 msgid "GitHub"
-msgstr ""
+msgstr "GitHub"
 
 #: wp-includes/theme.php:2031
 msgctxt "Theme starter content"
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 #: wp-includes/theme.php:2035
 msgctxt "Theme starter content"
 msgid "LinkedIn"
-msgstr ""
+msgstr "LinkedIn"
 
 #: wp-includes/theme.php:2039
 msgctxt "Theme starter content"
 msgid "Pinterest"
-msgstr ""
+msgstr "Pinterest"
 
 #: wp-includes/theme.php:2043
 msgctxt "Theme starter content"
 msgid "Twitter"
-msgstr ""
+msgstr "X.com"
 
 #: wp-includes/theme.php:2047
 msgctxt "Theme starter content"
 msgid "Yelp"
-msgstr ""
+msgstr "Yelp"
 
 #: wp-includes/theme.php:2051
 msgctxt "Theme starter content"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #: wp-includes/theme.php:2059
 msgctxt "Theme starter content"
@@ -26445,7 +26445,7 @@ msgstr "Tato stránka obsahuje několik základních kontaktních informací, na
 #: wp-includes/theme.php:2073
 msgctxt "Theme starter content"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-includes/theme.php:2077
 msgctxt "Theme starter content"
@@ -26478,7 +26478,7 @@ msgstr "Aktuální možnosti nastavení"
 #. translators: %s: support forums URL
 #: wp-includes/update.php:157
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please report this issue in our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Objevila se neočekávaná chyba. Patrně došlo k nějakému výpadku na straně ClassicPress.net nebo to může souviset s aktuálně používaným webhostingem. Pokud bude nadále docházet k podobným problémům, prosím oznamte to v našem <a href=\"%s\">fóru podpory</a>."
 
 #. translators: %s: support forums URL
 #: wp-includes/update.php:348 wp-includes/update.php:530
@@ -26559,7 +26559,7 @@ msgstr ""
 #: wp-includes/user.php:1126
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:1480
 msgid "Cannot create a user with an empty login name."
@@ -26573,7 +26573,7 @@ msgstr "Nicename nesmí být delší než 50 znaků."
 #: wp-includes/user.php:1600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
 #. SITEURL: those are placeholders.
@@ -26631,11 +26631,11 @@ msgstr "AIM (AOL Instant Messenger)"
 
 #: wp-includes/user.php:2069
 msgid "Yahoo IM"
-msgstr ""
+msgstr "Yahoo IM"
 
 #: wp-includes/user.php:2070
 msgid "Jabber / Google Talk"
-msgstr ""
+msgstr "Jabber / XMPP"
 
 #: wp-includes/user.php:2108
 msgid "Hint: The password should be at least twelve characters long. To make it stronger, use upper and lower case letters, numbers, and symbols like ! \" ? $ % ^ &amp; )."
@@ -26682,7 +26682,15 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Zdravím Vás, ###USERNAME###,\n\n"
+"před chvílí jste si požádal(a) o změnu e-mailové adresy u Vašeho profilu.\n\n"
+"Pokud je to správně, prosím klikněte na následující link pro jeho změnu:\n"
+"###ADMIN_URL###\n\n"
+"Pokud tuto změnu nechcete provést, můžete v klidu tento e-mail ignorovat.\n\n"
+"Tento e-mail byl poslán na ###EMAIL###\n\n"
+"S pozdravem,\n"
+"správce ###SITENAME###\n"
+"###SITEURL###"
 
 #: wp-includes/user.php:2708
 msgid "[%s] New Email Address"
@@ -26695,7 +26703,7 @@ msgstr "Vaše e-mailová adresa zatím nebyla aktualizována. Zkontrolujte si do
 
 #: wp-includes/user.php:2756
 msgid "ClassicPress User"
-msgstr ""
+msgstr "Uživatel ClassicPressu"
 
 #: wp-includes/user.php:2788
 msgid "User ID"
@@ -26757,7 +26765,15 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Dobrý den,\n\n"
+"Žádost o ochranu osobních údajů uživatelů byla potvrzena pro ###SITENAME###:\n\n"
+"Uživatel: ###USER_EMAIL###\n"
+"Žádost: ###DESCRIPTION###\n\n"
+"Tyto požadavky na ochranu osobních údajů můžete zobrazit a spravovat zde:\n\n"
+"###MANAGE_URL###\n\n"
+"S pozdravem,\n"
+"správce ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: 1: Site name. 2: Name of the confirmed action.
 #: wp-includes/user.php:2978
@@ -26777,7 +26793,12 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Ahoj,\n\n"
+"Váš požadavek na vymazání osobních údajů na ###SITENAME### byl dokončen.\n\n"
+"Pokud máte nějaké další otázky nebo obavy, kontaktujte prosím správce stránek.\n\n"
+"S pozdravem,\n"
+"správce ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those
 #. are placeholders.
@@ -26789,7 +26810,13 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Ahoj,\n\n"
+"Váš požadavek na vymazání osobních údajů na ###SITENAME### byl dokončen.\n\n"
+"Pokud máte jakékoliv následné dotazy nebo obavy, kontaktujte prosím správce webu.\n\n"
+"Pro více informací si můžete také přečíst naši politiku ochrany osobních údajů: ###PRIVACY_POLICY_URL###\n\n"
+"S pozdravem,\n"
+"správce ###SITENAME###\n"
+"###SITEURL###"
 
 #: wp-includes/user.php:3160
 msgid "Action has been confirmed."
@@ -26841,7 +26868,16 @@ msgid "Hello,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Dobrý den,\n\n"
+"Byla podána žádost o provedení následující akce na vašem účtu:\n\n"
+"     ###DESCRIPTION###\n\n"
+"Pro potvrzení, klikněte na následující odkaz:\n"
+"###CONFIRM_URL###\n\n"
+"Můžete bezpečně ignorovat a smazat tento e-mail, pokud nechcete\n"
+"tuto akci provést.\n\n"
+"S pozdravem,\n"
+"správce ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Privacy data request subject. 1: Site name, 2: Name of the
 #. action
@@ -27252,7 +27288,7 @@ msgstr "URL mediálního souboru"
 
 #: wp-includes/widgets/class-wp-widget-meta.php:29
 msgid "Login, RSS, &amp; ClassicPress.net links."
-msgstr ""
+msgstr "Přihlašovací údaje, RSS, &amp; ClassicPress.net odkazy."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:59
 msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
@@ -27264,12 +27300,12 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-meta.php:73
 msgid "Powered by ClassicPress, state-of-the-art semantic personal publishing platform."
-msgstr ""
+msgstr "Běží na ClassicPressu, nejmodernější sémantické osobní vydavatelské platformě."
 
 #: wp-includes/widgets/class-wp-widget-meta.php:74
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."
@@ -27513,7 +27549,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1379 wp-includes/wp-db.php:1396
 msgid "ClassicPress database error:"
-msgstr ""
+msgstr "Chyba databáze ClassicPressu:"
 
 #. translators: 1: wp-config.php. 2: database host
 #: wp-includes/wp-db.php:1581
@@ -27590,7 +27626,7 @@ msgstr "Vytvořit konfigurační soubor"
 
 #: wp-login.php:118
 msgid "Powered by ClassicPress"
-msgstr ""
+msgstr "Běží na ClassicPressu"
 
 #. translators: %s: site title
 #: wp-login.php:254

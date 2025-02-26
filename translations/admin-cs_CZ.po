@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-23 21:22\n"
+"PO-Revision-Date: 2025-02-26 05:10\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -821,7 +821,7 @@ msgstr "E-mail"
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:200
@@ -1681,7 +1681,7 @@ msgstr "čekající na schválení"
 
 #: wp-admin/edit-form-comment.php:123
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:133
@@ -1701,7 +1701,7 @@ msgstr "Čeká na schválení"
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
@@ -2794,13 +2794,13 @@ msgstr "Pokud zde není potřebný importovací nástroj uveden, můžete ho je�
 #: wp-admin/js/tags-box.js:9
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: User login, 2: User email address.
 #: wp-admin/includes/ajax-actions.php:336
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -3084,13 +3084,13 @@ msgstr "Zobrazit více podrobností"
 #: wp-admin/includes/class-wp-media-list-table.php:1118
 #: wp-admin/includes/class-wp-media-list-table.php:1260
 msgid "Media Categories"
-msgstr ""
+msgstr "Kategorie médií"
 
 #: wp-admin/includes/ajax-actions.php:3422
 #: wp-admin/includes/class-wp-media-list-table.php:1142
 #: wp-admin/includes/class-wp-media-list-table.php:1283
 msgid "Media Tags"
-msgstr ""
+msgstr "Štítky médií"
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
@@ -4546,13 +4546,13 @@ msgstr "Chybí soubor šablony. Samostatné šablony musí mít soubor šablony 
 #: wp-admin/theme-editor.php:398
 #: wp-admin/update-core.php:487
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
-msgstr ""
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
 
 #: wp-admin/includes/class-theme-upgrader.php:611
 #: wp-admin/theme-install.php:338
 #: wp-admin/theme-install.php:551
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSE šablony v ClassicPressu nefungují."
 
 #. translators: %s: Title of an invalid menu item.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:108
@@ -5214,7 +5214,7 @@ msgstr "Označit tento komentář jako spam"
 #: wp-admin/includes/dashboard.php:783
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:772
 msgid "Restore this comment from the spam"
@@ -5882,7 +5882,7 @@ msgstr "Automatické aktualizace zakázány"
 #: wp-admin/includes/class-wp-debug-data.php:1184
 #: wp-admin/includes/class-wp-debug-data.php:1345
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-admin/includes/class-wp-debug-data.php:1104
 #: wp-admin/includes/class-wp-debug-data.php:1199
@@ -6105,7 +6105,7 @@ msgstr "&mdash; Datum &mdash;"
 #. translators: 1: Month name, 2: 4-digit year.
 #: wp-admin/includes/class-wp-list-table.php:748
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-list-table.php:805
@@ -6615,7 +6615,7 @@ msgstr ""
 #: wp-admin/themes.php:1160
 #: wp-admin/update-core.php:525
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Aktualizujte ClassicPress</a>a pak <a href=\"%2$s\">se informujte ohledně aktualizace PHP</a>."
 
 #. translators: %s: URL to Update PHP page.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:673
@@ -6697,7 +6697,7 @@ msgstr "<a href=\"%s\">Podrobnější informace o aktualizaci PHP</a>."
 #: wp-admin/update-core.php:543
 #: wp-admin/update-core.php:564
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Prosím aktualizujte ClassicPress</a>."
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:694
 #: wp-admin/includes/class-wp-plugins-list-table.php:1316
@@ -7889,7 +7889,7 @@ msgstr "Výkon"
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress verze %s"
 
 #: wp-admin/includes/class-wp-site-health.php:281
 msgid "Unable to check if any new versions of ClassicPress are available."
@@ -8332,7 +8332,7 @@ msgstr "Režim ladění často umožňuje shromáždit více podrobností o chyb
 #. translators: Documentation explaining debugging in WordPress.
 #: wp-admin/includes/class-wp-site-health.php:1440
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 
 #: wp-admin/includes/class-wp-site-health.php:1441
 msgid "Learn more about debugging in ClassicPress."
@@ -9302,7 +9302,7 @@ msgstr "Zobrazit příspěvky autora %s"
 #: wp-admin/includes/class-wp-users-list-table.php:600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-users-list-table.php:612
@@ -9503,11 +9503,11 @@ msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:891
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:894
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: Type of comment, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:908
@@ -9519,7 +9519,7 @@ msgstr "%1$s: %2$s %3$s"
 #: wp-admin/includes/dashboard.php:916
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:950
 msgid "Publishing Soon"
@@ -10874,7 +10874,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2835
 msgid "Filter &#187;"
@@ -11027,7 +11027,7 @@ msgstr "Nastavit stav"
 #: wp-admin/includes/template.php:900
 #: wp-admin/js/post.js:1026
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
@@ -11138,7 +11138,7 @@ msgstr "Přidat"
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:707
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:776
@@ -11883,18 +11883,18 @@ msgstr "Nastavení <a href=\"https://wordpress.org/documentation/article/wordpre
 #: wp-admin/includes/translation-install.php:84
 #: wp-admin/includes/translation-install.php:96
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Něco může být špatně s WordPress.org, ClassicPress.net nebo s konfigurací tohoto serveru. Pokud budete mít i nadále problémy, prosím zkuste <a href=\"%s\">fórum podpory</a>."
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:70
 #: wp-admin/includes/update-core.php:1096
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/plugin-install.php:171
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress nemohl navázat bezpečné připojení k WordPress.org. Obraťte se na správce serveru.)"
 
 #: wp-admin/includes/plugin-install.php:248
 msgid "Popular tags"
@@ -12814,7 +12814,7 @@ msgstr "Přidat uživatelské pole"
 #. translators: 1: Month number (01, 02, etc.), 2: Month abbreviation.
 #: wp-admin/includes/template.php:849
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s-%2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/template.php:863
@@ -12958,7 +12958,7 @@ msgstr "Ikona webu"
 
 #: wp-admin/includes/template.php:2345
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2570
@@ -13111,7 +13111,7 @@ msgstr "Možnosti použití"
 
 #: wp-admin/includes/theme.php:307
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-admin/includes/theme.php:308
 msgid "E-Commerce"
@@ -13266,7 +13266,7 @@ msgstr "Aktualizace není kompatibilní"
 #: wp-admin/themes.php:837
 #: wp-admin/themes.php:1153
 msgid "There is a new version of %s available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "K dispozici je nová verze %s, ale není kompatibilní s používanou verzí ClassicPressu a PHP."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:904
@@ -13275,7 +13275,7 @@ msgstr ""
 #: wp-admin/themes.php:875
 #: wp-admin/themes.php:1191
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "K dispozici je nová verze %s, ale není kompatibilní s používanou verzí ClassicPressu."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:919
@@ -13299,7 +13299,7 @@ msgstr "Základní šablona: %s."
 #: wp-admin/themes.php:911
 #: wp-admin/themes.php:1080
 msgid "This theme does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Tato šablona nepodporuje aktuálně používanou verzi ClassicPressu a PHP."
 
 #: wp-admin/includes/theme.php:987
 #: wp-admin/theme-install.php:342
@@ -13308,7 +13308,7 @@ msgstr ""
 #: wp-admin/themes.php:945
 #: wp-admin/themes.php:1114
 msgid "This theme does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Tato šablona nepodporuje aktuálně používanou verzi ClassicPressu."
 
 #: wp-admin/includes/theme.php:998
 #: wp-admin/theme-install.php:353
@@ -13381,7 +13381,7 @@ msgstr "Neplatný typ překladu."
 #: wp-admin/includes/update-core.php:1097
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress nemohl navázat bezpečné připojení k ClassicPress.net. Obraťte se na správce serveru.)"
 
 #: wp-admin/includes/translation-install.php:324
 msgid "Unable to update language pack for locales"
@@ -13458,7 +13458,7 @@ msgstr ""
 #: wp-admin/includes/update-core.php:1095
 #: wp-admin/includes/update.php:137
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Něco může být špatně s ClassicPress.net, ClassicPress.net nebo s konfigurací tohoto serveru. Pokud budete mít i nadále problémy, prosím zkuste <a href=\"%s\">fórum podpory</a>."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress updates admin screen URL
 #: wp-admin/includes/update.php:251
@@ -15231,11 +15231,11 @@ msgstr ""
 #. translators: %s: Site Icon size in pixels.
 #: wp-admin/options-general.php:189
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "Ikona webu je to, co vidíte v tabech prohlížeče, v panelu záložek a ve WordPress mobilních aplikacích. Měla by být čtvercová a široká alespoň %s pixelů."
 
 #: wp-admin/options-general.php:212
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "ClassicPress adresa (URL)"
 
 #: wp-admin/options-general.php:217
 msgid "Site Address (URL)"
@@ -17506,7 +17506,7 @@ msgstr "Hledat instalované šablony..."
 
 #: wp-admin/themes.php:250
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:254
 msgctxt "theme"

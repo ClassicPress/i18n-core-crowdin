@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-23 21:22\n"
+"PO-Revision-Date: 2025-02-26 05:10\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -29,7 +29,7 @@ msgstr "Archivováno"
 #: wp-admin/network/site-info.php:199
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:40
 #: wp-admin/network/site-info.php:200
@@ -126,7 +126,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:358
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:359
 #: wp-admin/network/site-info.php:192
@@ -506,7 +506,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-ms-users-list-table.php:303
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:314

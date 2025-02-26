@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-06 17:12\n"
+"PO-Revision-Date: 2025-02-26 12:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -679,7 +679,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/comments-screen/\"
 #: wp-admin/users.php:84
 #: wp-admin/widgets-form.php:73
 msgid "<a href=\"https://wordpress.org/support/forums/\">Support forums</a>"
-msgstr "<a href=\"https://nl.wordpress.org/support/\">Ondersteuningsforums</a>"
+msgstr "<a href=\"https://forums.classicpress.net/c/support/\">Ondersteuningsforums</a>"
 
 #: wp-admin/comment.php:79
 #: wp-admin/comment.php:291

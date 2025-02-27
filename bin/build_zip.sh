@@ -49,6 +49,7 @@ pushd "$locales" > /dev/null
 	echo 'Creating mo files'
 	for n in ${pofiles[@]};
 	do
+		echo "$(grep -E "\"PO-Revision-Date: " "${n}" | cut -c 20- | cut -c -16)"
 		wp i18n make-mo "${n}"
 	done
 
@@ -65,7 +66,7 @@ pushd "$locales" > /dev/null
 	echo 'Creating zip file'
 	for n in ${pomofiles[@]};
 	do
-		zip "../../zips/$locales.zip" "$n"
+		zip -q "../../zips/$locales.zip" "$n"
 	done
 
 	for f in admin-*${locales}*.json; do
@@ -79,7 +80,7 @@ pushd "$locales" > /dev/null
 
 	for n in ${jsonfiles[@]};
 	do
-		zip "../../zips/$locales.zip" "$n"
+		zip -q "../../zips/$locales.zip" "$n"
 	done
 popd > /dev/null
 
@@ -89,11 +90,7 @@ rm -rf "$locales"
 # report zip file name and creation date/time
 echo ''
 echo "$locales.zip created"
-if [[ "$OSTYPE" == "linux-gnu"* ]]; then
-	stat -c '%.19z' "../../zips/$locales.zip"
-elif [[ "$OSTYPE" == "darwin"* ]]; then
-	stat -f %SB -t '%Y-%m-%d %H:%M:%S' "../../zips/$locales.zip"
-fi
+
 
 # human readable to minified
 # gsed -r s'|^\s*||' < translations-hr.json | gsed -r s'|:\s|:|' | tr -d '\n'> translations.json

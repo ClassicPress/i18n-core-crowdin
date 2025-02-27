@@ -2,7 +2,7 @@
   "translations": [
     {
       "language": "en_GB",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/en_GB.zip",
       "english_name": "English (British)",
       "native_name": "English (British)",
@@ -11,7 +11,7 @@
         null,
         null
       ],
-      "updated": "2024-11-16 10:49:23",
+      "updated": "2025-02-25 05:10",
       "strings": {
         "continue": "Continue"
       }
@@ -27,7 +27,7 @@
         null,
         null
       ],
-      "updated": "2024-05-29 16:39:46",
+      "updated": "2025-02-23 21:21",
       "strings": {
         "continue": "Continue"
       }
@@ -43,14 +43,14 @@
         null,
         null
       ],
-      "updated": "2024-09-22 10:06:07",
+      "updated": "2025-02-09 21:23",
       "strings": {
         "continue": "Continue"
       }
     },
     {
       "language": "nl_NL",
-      "version": "1.1.0",
+      "version": "1.0.0",
       "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/nl_NL.zip",
       "english_name": "Dutch",
       "native_name": "Nederlands",
@@ -59,7 +59,23 @@
         null,
         null
       ],
-      "updated": "2025-01-22 16:47:54",
+      "updated": "2025-02-26 12:51",
+      "strings": {
+        "continue": "Continue"
+      }
+    },
+    {
+      "language": "it_IT",
+      "version": "1.0.0",
+      "package": "https:\/\/api-v1.classicpress.net\/translations\/core\/2.0.0\/it_IT.zip",
+      "english_name": "Italian",
+      "native_name": "Italiano",
+      "iso": [
+        "it-it",
+        null,
+        null
+      ],
+      "updated": "2025-02-23 21:22",
       "strings": {
         "continue": "Continue"
       }

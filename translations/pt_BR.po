@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7140,7 +7140,7 @@ msgstr "Navegação de Post"
 #: wp-includes/link-template.php:2859
 #: wp-includes/link-template.php:2931
 msgid "Posts"
-msgstr ""
+msgstr "posts"
 
 #: wp-includes/link-template.php:2856
 msgid "Older posts"

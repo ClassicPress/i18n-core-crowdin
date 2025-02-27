@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-26 05:10\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -67,7 +67,7 @@ msgstr "Stabilní. Lehký. Okamžitě povědomý."
 #: wp-admin/credits.php:43
 #: wp-admin/freedoms.php:57
 msgid "About"
-msgstr ""
+msgstr "O nás"
 
 #: wp-admin/about.php:41
 #: wp-admin/credits.php:13
@@ -285,12 +285,12 @@ msgstr ""
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
 msgid "Network Admin: %s"
-msgstr ""
+msgstr "Síť webů: %s"
 
 #. translators: User dashboard screen title. %s: Network title.
 #: wp-admin/admin-header.php:43
 msgid "User Dashboard: %s"
-msgstr ""
+msgstr "Administrace uživatele: %s"
 
 #. translators: Admin screen title. %s: Admin screen name.
 #: wp-admin/admin-header.php:50
@@ -310,7 +310,7 @@ msgstr ""
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
 msgid "Recovery Mode &#8212; %s"
-msgstr ""
+msgstr "Režim obnovení &#8212; %s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: Post edited date, 2: Post edited time.
@@ -333,7 +333,7 @@ msgstr ""
 #: wp-admin/options-general.php:525
 #: wp-admin/update-core.php:896
 msgid "F j, Y"
-msgstr ""
+msgstr "j. n. Y"
 
 #. translators: Comment time format. See https://www.php.net/manual/datetime.format.php
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
@@ -354,7 +354,7 @@ msgstr ""
 #: wp-admin/options-general.php:493
 #: wp-admin/options-general.php:573
 msgid "g:i a"
-msgstr ""
+msgstr "G:i"
 
 #: wp-admin/admin.php:262
 msgid "Invalid plugin page."
@@ -383,7 +383,7 @@ msgstr ""
 #: wp-admin/media-upload.php:20
 #: wp-admin/upload.php:13
 msgid "Sorry, you are not allowed to upload files."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro nahrávání souborů."
 
 #: wp-admin/async-upload.php:46
 #: wp-admin/edit.php:18
@@ -394,13 +394,13 @@ msgstr ""
 #: wp-admin/post.php:286
 #: wp-admin/post.php:315
 msgid "Invalid post type."
-msgstr ""
+msgstr "Neplatný typ obsahu."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3308
 #: wp-admin/upload.php:627
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "Zkopírovat odkaz do schránky"
 
 #: wp-admin/async-upload.php:73
 #: wp-admin/includes/ajax-actions.php:3405
@@ -411,7 +411,7 @@ msgstr ""
 #: wp-admin/site-health-info.php:59
 #: wp-admin/upload.php:628
 msgid "Copied!"
-msgstr ""
+msgstr "Zkopírováno!"
 
 #: wp-admin/async-upload.php:77
 msgctxt "media item"
@@ -429,12 +429,12 @@ msgstr "Hotovo"
 #: wp-admin/includes/file.php:344
 #: wp-admin/index.php:166
 msgid "Dismiss"
-msgstr ""
+msgstr "Zavřít"
 
 #. translators: %s: Name of the file that failed to upload.
 #: wp-admin/async-upload.php:124
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr ""
+msgstr "Soubor &#8222;%s&#8220; se nepodařilo nahrát."
 
 #: wp-admin/authorize-application.php:66
 msgid "Authorize Application"
@@ -461,11 +461,11 @@ msgstr "Zpět"
 
 #: wp-admin/authorize-application.php:106
 msgid "Application passwords are not available for your account. Please contact the site administrator for assistance."
-msgstr ""
+msgstr "Hesla aplikací nejsou pro váš účet k dispozici. Požádejte o pomoc administrátora webu."
 
 #: wp-admin/authorize-application.php:108
 msgid "Application passwords are not available."
-msgstr ""
+msgstr "Hesla aplikací nejsou k dispozici."
 
 #: wp-admin/authorize-application.php:152
 msgid "An application would like to connect to your account."
@@ -697,7 +697,7 @@ msgstr "<a href=\"https://wordpress.org/support/forums/\">Fóra podpory</a> (ang
 #: wp-admin/comment.php:291
 #: wp-admin/edit-comments.php:278
 msgid "Invalid comment ID."
-msgstr ""
+msgstr "Neplatné ID komentáře."
 
 #: wp-admin/comment.php:79
 #: wp-admin/comment.php:291
@@ -705,11 +705,11 @@ msgstr ""
 #: wp-admin/plugin-editor.php:354
 #: wp-admin/theme-editor.php:406
 msgid "Go back"
-msgstr ""
+msgstr "Zpět"
 
 #: wp-admin/comment.php:83
 msgid "Sorry, you are not allowed to edit this comment."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy tohoto typu obsahu."
 
 #: wp-admin/comment.php:87
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
@@ -742,7 +742,7 @@ msgstr "Chystáte se přesunout následující komentář do koše:"
 #: wp-admin/includes/meta-boxes.php:367
 #: wp-admin/includes/meta-boxes.php:471
 msgid "Move to Trash"
-msgstr ""
+msgstr "Odstranit"
 
 #: wp-admin/comment.php:141
 msgid "You are about to delete the following comment:"
@@ -800,7 +800,7 @@ msgstr "Upozornění:"
 #: wp-admin/includes/plugin-install.php:306
 #: wp-admin/includes/theme-install.php:109
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: wp-admin/comment.php:189
 #: wp-admin/edit-form-comment.php:63
@@ -810,7 +810,7 @@ msgstr ""
 #: wp-admin/user-new.php:429
 #: wp-admin/user-new.php:543
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: wp-admin/comment.php:195
 #: wp-admin/edit-form-comment.php:69
@@ -821,7 +821,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:200
@@ -833,7 +833,7 @@ msgstr "V reakci na"
 #: wp-admin/comment.php:218
 #: wp-admin/includes/class-wp-comments-list-table.php:926
 msgid "In reply to %s."
-msgstr ""
+msgstr "Odpověď na %s."
 
 #: wp-admin/comment.php:226
 msgid "Submitted on"
@@ -851,7 +851,7 @@ msgstr "Odesláno"
 #: wp-admin/includes/meta-boxes.php:232
 #: wp-admin/includes/meta-boxes.php:438
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: Comment date format. See https://www.php.net/manual/datetime.format.php
 #. translators: Date format in table columns, see https://www.php.net/manual/datetime.format.php
@@ -862,13 +862,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:611
 #: wp-admin/includes/class-wp-posts-list-table.php:1170
 msgid "Y/m/d"
-msgstr ""
+msgstr "j. n. Y"
 
 #. translators: Field name in comment form.
 #: wp-admin/comment.php:246
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "Komentář"
 
 #: wp-admin/comment.php:250
 #: wp-admin/edit-form-comment.php:159
@@ -888,7 +888,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:292
 #: wp-admin/includes/post.php:1548
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 #: wp-admin/comment.php:259
 #: wp-admin/includes/class-walker-nav-menu-edit.php:304
@@ -915,7 +915,7 @@ msgstr ""
 #: wp-admin/widgets-form.php:560
 #: wp-admin/js/post.js:1027
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: wp-admin/comment.php:294
 #: wp-admin/edit-comments.php:281
@@ -963,11 +963,11 @@ msgstr ""
 #: wp-admin/users.php:15
 #: wp-admin/widgets.php:17
 msgid "You need a higher level of permission."
-msgstr ""
+msgstr "Potřebujete vyšší úroveň oprávnění."
 
 #: wp-admin/customize.php:18
 msgid "Sorry, you are not allowed to customize this site."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro přizpůsobení tohoto webu."
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
@@ -994,7 +994,7 @@ msgstr "Aplikovat nové změny"
 #: wp-admin/js/tags.js:62
 #: wp-admin/js/updates.js:1940
 msgid "Something went wrong."
-msgstr ""
+msgstr "Něco se pokazilo."
 
 #: wp-admin/customize.php:80
 msgid "This changeset cannot be further modified."
@@ -1012,17 +1012,17 @@ msgstr "Načítání&hellip;"
 #: wp-admin/includes/meta-boxes.php:1623
 #: wp-admin/js/post.js:794
 msgid "Publish"
-msgstr ""
+msgstr "Publikovat"
 
 #: wp-admin/customize.php:189
 msgid "Activate &amp; Publish"
-msgstr ""
+msgstr "Aktivovat a publikovat"
 
 #: wp-admin/customize.php:192
 #: wp-admin/customize.php:197
 #: wp-admin/edit-form-advanced.php:395
 msgid "Publish Settings"
-msgstr ""
+msgstr "Publikovat nastavení"
 
 #: wp-admin/customize.php:195
 #: wp-admin/theme-install.php:405
@@ -1043,7 +1043,7 @@ msgstr "Aktivace není možná"
 #: wp-admin/themes.php:998
 #: wp-admin/themes.php:1247
 msgid "Customize"
-msgstr ""
+msgstr "Přizpůsobit"
 
 #: wp-admin/customize.php:203
 #: wp-admin/includes/class-custom-background.php:272
@@ -1058,7 +1058,7 @@ msgstr ""
 #: wp-admin/theme-install.php:427
 #: wp-admin/theme-install.php:592
 msgid "Preview"
-msgstr ""
+msgstr "Náhled"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:209
@@ -1068,13 +1068,13 @@ msgstr "Zavřít možnosti přizpůsobení a přejít zpět na předchozí strá
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-admin/customize.php:231
 msgid "You are customizing %s"
-msgstr ""
+msgstr "Aktuální možnosti nastavení %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:237
 #: wp-admin/includes/class-wp-screen.php:954
 msgid "Help"
-msgstr ""
+msgstr "Nápověda"
 
 #: wp-admin/customize.php:244
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
@@ -1087,7 +1087,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/customizer/\">Doku
 #: wp-admin/customize.php:262
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
-msgstr ""
+msgstr "Skrýt ovládací prvky"
 
 #: wp-admin/customize.php:264
 msgctxt "short (~12 characters) label for hide controls button"
@@ -1096,7 +1096,7 @@ msgstr "Skrýt ovládací prvky"
 
 #: wp-admin/edit-comments.php:14
 msgid "Sorry, you are not allowed to edit comments."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy komentářů na tomto webu."
 
 #. translators: 1: Comments count, 2: Post title.
 #: wp-admin/edit-comments.php:156
@@ -1133,7 +1133,7 @@ msgstr "Komentáře (%s)"
 #: wp-admin/includes/meta-boxes.php:1715
 #: wp-admin/js/edit-comments.js:220
 msgid "Comments"
-msgstr ""
+msgstr "Komentáře"
 
 #: wp-admin/edit-comments.php:191
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the bulk actions."
@@ -1229,7 +1229,7 @@ msgstr[3] ""
 #: wp-admin/upload.php:71
 #: wp-admin/upload.php:92
 msgid "Undo"
-msgstr ""
+msgstr "Zpět"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:312
@@ -1331,7 +1331,7 @@ msgstr "G:i"
 #: wp-admin/edit-form-advanced.php:177
 #: wp-admin/edit-form-advanced.php:180
 msgid "Post updated."
-msgstr ""
+msgstr "Příspěvek byl aktualizován."
 
 #: wp-admin/edit-form-advanced.php:178
 #: wp-admin/edit-form-advanced.php:193
@@ -1350,7 +1350,7 @@ msgstr "Následující verze příspěvku byla úspěšně obnovena: %s."
 
 #: wp-admin/edit-form-advanced.php:183
 msgid "Post published."
-msgstr ""
+msgstr "Příspěvek byl publikován."
 
 #: wp-admin/edit-form-advanced.php:184
 msgid "Post saved."
@@ -1372,7 +1372,7 @@ msgstr "Koncept příspěvku byl aktualizován."
 #: wp-admin/edit-form-advanced.php:192
 #: wp-admin/edit-form-advanced.php:195
 msgid "Page updated."
-msgstr ""
+msgstr "Stránka byla aktualizována."
 
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:197
@@ -1381,7 +1381,7 @@ msgstr "Následující verze stránky byla úspěšně obnovena: %s."
 
 #: wp-admin/edit-form-advanced.php:198
 msgid "Page published."
-msgstr ""
+msgstr "Stránka byla publikována."
 
 #: wp-admin/edit-form-advanced.php:199
 msgid "Page saved."
@@ -1568,7 +1568,7 @@ msgstr "<strong>Pořadí</strong> &mdash; Stránky jsou většinou řazeny podle
 
 #: wp-admin/edit-form-advanced.php:418
 msgid "Page Attributes"
-msgstr ""
+msgstr "Vlastnosti stránky"
 
 #: wp-admin/edit-form-advanced.php:460
 msgctxt "Admin Post Navigation"
@@ -1633,7 +1633,7 @@ msgstr "Trvalý odkaz:"
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:53
 msgid "Comment Author"
-msgstr ""
+msgstr "Autor komentáře"
 
 #: wp-admin/edit-form-comment.php:59
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:28
@@ -1643,13 +1643,13 @@ msgstr ""
 #: wp-admin/includes/template.php:488
 #: wp-admin/user-edit.php:449
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:84
 #: wp-admin/includes/template.php:469
 msgid "Comment"
-msgstr ""
+msgstr "Komentář"
 
 #: wp-admin/edit-form-comment.php:105
 #: wp-admin/edit-link-form.php:30
@@ -1662,7 +1662,7 @@ msgstr ""
 #: wp-admin/js/widgets.js:204
 #: wp-admin/js/widgets.js:430
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: wp-admin/edit-form-comment.php:113
 #: wp-admin/export.php:234
@@ -1681,7 +1681,7 @@ msgstr "čekající na schválení"
 
 #: wp-admin/edit-form-comment.php:123
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:133
@@ -1691,7 +1691,7 @@ msgstr "Stav komentáře"
 #: wp-admin/edit-form-comment.php:136
 msgctxt "comment status"
 msgid "Approved"
-msgstr ""
+msgstr "Schváleno"
 
 #: wp-admin/edit-form-comment.php:137
 msgctxt "comment status"
@@ -1701,7 +1701,7 @@ msgstr "Čeká na schválení"
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
@@ -1728,7 +1728,7 @@ msgstr "Původní text: %s"
 #. translators: %s: Comment link.
 #: wp-admin/edit-form-comment.php:214
 msgid "In reply to: %s"
-msgstr ""
+msgstr "Odpověď na: %s"
 
 #: wp-admin/edit-form-comment.php:242
 #: wp-admin/includes/ajax-actions.php:3398
@@ -1760,7 +1760,7 @@ msgstr "Smazat"
 #: wp-admin/js/post.js:797
 #: wp-admin/js/post.js:820
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovat"
 
 #. translators: %s: URL to Links screen.
 #: wp-admin/edit-link-form.php:16
@@ -1780,28 +1780,28 @@ msgstr "<a href=\"%s\">Odkazy</a> / Vytvořit nový odkaz"
 #: wp-admin/edit-link-form.php:23
 #: wp-admin/includes/meta-boxes.php:1177
 msgid "Add Link"
-msgstr ""
+msgstr "Vytvořit odkaz"
 
 #: wp-admin/edit-link-form.php:31
 #: wp-admin/includes/class-wp-links-list-table.php:134
 msgid "Categories"
-msgstr ""
+msgstr "Rubriky"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-link-form.php:32
 #: wp-admin/includes/meta-boxes.php:1260
 msgid "Target"
-msgstr ""
+msgstr "Zobrazení odkazu"
 
 #: wp-admin/edit-link-form.php:33
 #: wp-admin/includes/class-walker-nav-menu-edit.php:226
 #: wp-admin/includes/nav-menu.php:1138
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "Vztah k odkazu (XFN)"
 
 #: wp-admin/edit-link-form.php:34
 msgid "Advanced"
-msgstr ""
+msgstr "Pokročilé"
 
 #: wp-admin/edit-link-form.php:68
 msgid "You can add or edit links on this screen by entering information in each of the boxes. Only the link&#8217;s web address and name (the text you want to display on your site as the link) are required fields."
@@ -1863,7 +1863,7 @@ msgstr ""
 #: wp-admin/themes.php:670
 #: wp-admin/upload.php:620
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: wp-admin/edit-link-form.php:142
 msgid "This will be shown when someone hovers over the link in the blogroll, or optionally below the link."
@@ -1896,7 +1896,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2938
 #: wp-admin/includes/media.php:2954
 msgid "None"
-msgstr ""
+msgstr "Žádná"
 
 #: wp-admin/edit-tag-form.php:197
 #: wp-admin/edit-tags.php:504
@@ -1929,19 +1929,19 @@ msgstr ""
 #: wp-admin/edit-tags.php:19
 #: wp-admin/includes/class-wp-terms-list-table.php:57
 msgid "Invalid taxonomy."
-msgstr ""
+msgstr "Neplatná taxonomie."
 
 #: wp-admin/edit-tags.php:23
 msgid "Sorry, you are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy položek v rámci této taxonomie."
 
 #: wp-admin/edit-tags.php:29
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro mazání položek v rámci této taxonomie."
 
 #: wp-admin/edit-tags.php:86
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro vytváření položek v rámci této taxonomie."
 
 #: wp-admin/edit-tags.php:117
 #: wp-admin/edit.php:176
@@ -2063,7 +2063,7 @@ msgstr "Zvolené štítky mohou být snadno změněny na rubriky pomocí <a href
 #: wp-admin/edit.php:47
 #: wp-admin/post.php:135
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy příspěvků u tohoto typu obsahu."
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
@@ -2093,7 +2093,7 @@ msgstr "Chyba při obnovování souboru z koše."
 #: wp-admin/post.php:325
 #: wp-admin/upload.php:777
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "Chyba při mazání přílohy."
 
 #: wp-admin/edit.php:185
 #: wp-admin/post.php:329
@@ -2294,7 +2294,7 @@ msgstr "Nemáte dostatečné oprávnění pro výmaz dat na tomto webu."
 #: wp-admin/erase-personal-data.php:107
 #: wp-admin/menu.php:342
 msgid "Erase Personal Data"
-msgstr ""
+msgstr "Výmaz osobních údajů"
 
 #: wp-admin/erase-personal-data.php:25
 msgid "This screen is where you manage requests to erase personal data."
@@ -2418,7 +2418,7 @@ msgstr "Nemáte dostatečné oprávnění pro export osobních údajů z tohoto 
 #: wp-admin/export-personal-data.php:107
 #: wp-admin/menu.php:341
 msgid "Export Personal Data"
-msgstr ""
+msgstr "Export osobních údajů"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
@@ -2543,7 +2543,7 @@ msgstr "Tímto obsáhnete všechny příspěvky, stránky, komentáře, uživate
 #: wp-admin/includes/class-wp-users-list-table.php:377
 msgctxt "post type general name"
 msgid "Posts"
-msgstr ""
+msgstr "Příspěvky"
 
 #: wp-admin/export.php:193
 msgid "Categories:"
@@ -2590,7 +2590,7 @@ msgstr "Datum začátku:"
 #: wp-admin/privacy.php:220
 #: wp-admin/widgets-form.php:318
 msgid "&mdash; Select &mdash;"
-msgstr ""
+msgstr "&mdash; Vyberte &mdash;"
 
 #: wp-admin/export.php:226
 #: wp-admin/export.php:278
@@ -2600,7 +2600,7 @@ msgstr "Koncové datum:"
 
 #: wp-admin/export.php:247
 msgid "Pages"
-msgstr ""
+msgstr "Stránky"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/export.php:308
@@ -2610,7 +2610,7 @@ msgstr ""
 #: wp-admin/menu.php:66
 #: wp-admin/menu.php:355
 msgid "Media"
-msgstr ""
+msgstr "Média"
 
 #: wp-admin/export.php:342
 msgid "Download Export File"
@@ -2779,7 +2779,7 @@ msgstr "Podrobnější informace o pluginu %s"
 #: wp-admin/includes/class-wp-themes-list-table.php:270
 #: wp-admin/upload.php:578
 msgid "Details"
-msgstr ""
+msgstr "Detaily"
 
 #. translators: %s: URL to Add Plugins screen.
 #: wp-admin/import.php:227
@@ -2794,13 +2794,13 @@ msgstr "Pokud zde není potřebný importovací nástroj uveden, můžete ho je�
 #: wp-admin/js/tags-box.js:9
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: User login, 2: User email address.
 #: wp-admin/includes/ajax-actions.php:336
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -2808,9 +2808,9 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:342
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s komentář"
+msgstr[1] "%s komentáře"
+msgstr[2] "%s komentářů"
 msgstr[3] ""
 
 #. translators: %s: Number of comments.
@@ -2821,9 +2821,9 @@ msgstr[3] ""
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s komentář čeká na schválení"
+msgstr[1] "%s komentáře čekají na schválení"
+msgstr[2] "%s komentářů čeká na schválení"
 msgstr[3] ""
 
 #. translators: %s: Number of comments.
@@ -2836,9 +2836,9 @@ msgstr[3] ""
 #: wp-admin/js/updates.js:1070
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s položka"
+msgstr[1] "%s položky"
+msgstr[2] "%s položek"
 msgstr[3] ""
 
 #. translators: %d: Comment ID.
@@ -2851,7 +2851,7 @@ msgstr "Komentář %d neexistuje"
 #: wp-admin/js/media.js:280
 #: wp-admin/js/updates.js:1949
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "Objevila se nečekaná chyba. Obnovte prosím tuto stránku a zkuste to znovu."
 
 #: wp-admin/includes/ajax-actions.php:1255
 msgid "You cannot reply to a comment on a draft post."
@@ -2892,7 +2892,7 @@ msgstr "Byl vytvořen uživatel %s"
 #: wp-admin/includes/ajax-actions.php:1989
 #: wp-admin/includes/post.php:272
 msgid "Sorry, you are not allowed to edit this page."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy této stránky."
 
 #: wp-admin/includes/ajax-actions.php:1993
 #: wp-admin/includes/media.php:3768
@@ -2900,7 +2900,7 @@ msgstr ""
 #: wp-admin/includes/post.php:1964
 #: wp-admin/includes/post.php:1968
 msgid "Sorry, you are not allowed to edit this post."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy tohoto příspěvku."
 
 #: wp-admin/includes/ajax-actions.php:2000
 msgid "Someone"
@@ -2927,7 +2927,7 @@ msgstr "Položka nebyla aktualizována."
 #: wp-admin/includes/class-wp-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:92
 msgid "No items found."
-msgstr ""
+msgstr "Nebyly nalezeny žádné položky."
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-media-list-table.php:1198
@@ -2938,7 +2938,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2919
 #: wp-admin/upload.php:609
 msgid "Title"
-msgstr ""
+msgstr "Název"
 
 #: wp-admin/includes/ajax-actions.php:2179
 msgid "Type"
@@ -2950,13 +2950,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-posts-list-table.php:1937
 #: wp-admin/includes/class-wp-privacy-requests-table.php:44
 msgid "Status"
-msgstr ""
+msgstr "Aktualita"
 
 #: wp-admin/includes/ajax-actions.php:2182
 #: wp-admin/includes/media.php:3289
@@ -2966,7 +2966,7 @@ msgstr ""
 #: wp-admin/js/inline-edit-post.js:356
 #: wp-admin/js/media.js:477
 msgid "(no title)"
-msgstr ""
+msgstr "(bez názvu)"
 
 #: wp-admin/includes/ajax-actions.php:2188
 #: wp-admin/includes/class-wp-posts-list-table.php:1180
@@ -2975,7 +2975,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:152
 #: wp-admin/js/post.js:835
 msgid "Published"
-msgstr ""
+msgstr "Publikováno"
 
 #: wp-admin/includes/ajax-actions.php:2191
 #: wp-admin/includes/class-wp-posts-list-table.php:1185
@@ -2990,7 +2990,7 @@ msgstr "Naplánováno"
 #: wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/meta-boxes.php:158
 msgid "Pending Review"
-msgstr ""
+msgstr "Čeká na schválení"
 
 #: wp-admin/includes/ajax-actions.php:2197
 #: wp-admin/includes/class-wp-posts-list-table.php:1952
@@ -2998,7 +2998,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:160
 #: wp-admin/includes/meta-boxes.php:162
 msgid "Draft"
-msgstr ""
+msgstr "Koncept"
 
 #: wp-admin/includes/ajax-actions.php:2430
 msgid "Upload failed. Please reload and try again."
@@ -3006,7 +3006,7 @@ msgstr "Nahrávání selhalo. Aktualizujte stránku a zkuste to znovu."
 
 #: wp-admin/includes/ajax-actions.php:2466
 msgid "Upload failed."
-msgstr ""
+msgstr "Nahrávání selhalo."
 
 #: wp-admin/includes/ajax-actions.php:2509
 msgid "Sorry, you are not allowed to attach files to this post."
@@ -3042,7 +3042,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "Soubor"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3056,7 +3056,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-users-list-table.php:517
 #: wp-admin/includes/dashboard.php:808
 msgid "View"
-msgstr ""
+msgstr "Zobrazení"
 
 #: wp-admin/includes/ajax-actions.php:3404
 #: wp-admin/includes/class-wp-media-list-table.php:1018
@@ -3068,7 +3068,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3313
 #: wp-admin/upload.php:665
 msgid "Download file"
-msgstr ""
+msgstr "Stáhnout soubor"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3412
@@ -3084,13 +3084,13 @@ msgstr "Zobrazit více podrobností"
 #: wp-admin/includes/class-wp-media-list-table.php:1118
 #: wp-admin/includes/class-wp-media-list-table.php:1260
 msgid "Media Categories"
-msgstr ""
+msgstr "Kategorie médií"
 
 #: wp-admin/includes/ajax-actions.php:3422
 #: wp-admin/includes/class-wp-media-list-table.php:1142
 #: wp-admin/includes/class-wp-media-list-table.php:1283
 msgid "Media Tags"
-msgstr ""
+msgstr "Štítky médií"
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
@@ -3115,7 +3115,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "Alternativní text"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -3123,7 +3123,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3208
 #: wp-admin/upload.php:616
 msgid "Caption"
-msgstr ""
+msgstr "Titulek"
 
 #. translators: %s: URL that could not be embedded.
 #: wp-admin/includes/ajax-actions.php:3967
@@ -3172,7 +3172,7 @@ msgstr "Nemáte dostatečné oprávnění pro instalaci šablon na tomto webu."
 #: wp-admin/includes/ajax-actions.php:4823
 #: wp-admin/includes/ajax-actions.php:4892
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr ""
+msgstr "Nelze se připojit k souborovému systému. Potvrďte své přihlašovací údaje."
 
 #: wp-admin/includes/ajax-actions.php:4483
 #: wp-admin/update.php:235
@@ -3198,7 +3198,7 @@ msgstr "Nemáte dostatečné oprávnění pro mazání šablon na tomto webu."
 #: wp-admin/themes.php:28
 #: wp-admin/themes.php:71
 msgid "The requested theme does not exist."
-msgstr ""
+msgstr "Požadovaná šablona neexistuje."
 
 #: wp-admin/includes/ajax-actions.php:4614
 msgid "Theme could not be deleted."
@@ -3216,7 +3216,7 @@ msgstr "Plugin nebyl vybrán."
 #: wp-admin/update.php:176
 #: wp-admin/update.php:214
 msgid "Sorry, you are not allowed to install plugins on this site."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro instalaci pluginů na tomto webu."
 
 #: wp-admin/includes/ajax-actions.php:4762
 #: wp-admin/update.php:29
@@ -3234,7 +3234,7 @@ msgstr "Aktualizace pluginu se nezdařila."
 #: wp-admin/includes/ajax-actions.php:4868
 #: wp-admin/plugins.php:269
 msgid "Sorry, you are not allowed to delete plugins for this site."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro mazání pluginů na tomto webu."
 
 #: wp-admin/includes/ajax-actions.php:4877
 #: wp-admin/plugins.php:629
@@ -3249,7 +3249,7 @@ msgstr "Plugin nelze smazat."
 #: wp-admin/includes/ajax-actions.php:4996
 #: wp-admin/plugins.php:13
 msgid "Sorry, you are not allowed to manage plugins for this site."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro správu pluginů na tomto webu."
 
 #: wp-admin/includes/ajax-actions.php:5045
 #: wp-admin/plugin-editor.php:188
@@ -3260,7 +3260,7 @@ msgstr "Soubor byl úspěšně změněn."
 #: wp-admin/includes/ajax-actions.php:5059
 #: wp-admin/includes/ajax-actions.php:5249
 msgid "Missing request ID."
-msgstr ""
+msgstr "Chybí ID žádosti."
 
 #: wp-admin/includes/ajax-actions.php:5065
 #: wp-admin/includes/ajax-actions.php:5255
@@ -3591,7 +3591,7 @@ msgstr "Aktualizaci nelze nainstalovat, protože některé soubory nelze zkopír
 #: wp-admin/includes/class-custom-background.php:66
 #: wp-admin/menu.php:220
 msgid "Background"
-msgstr ""
+msgstr "Pozadí"
 
 #: wp-admin/includes/class-custom-background.php:91
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
@@ -3636,7 +3636,7 @@ msgstr "Pozadí bylo aktualizováno. Výsledek této změny si můžete prohléd
 #: wp-admin/includes/class-custom-background.php:267
 #: wp-admin/includes/template.php:2331
 msgid "Background Image"
-msgstr ""
+msgstr "Obrázek na pozadí"
 
 #: wp-admin/includes/class-custom-background.php:313
 #: wp-admin/includes/class-custom-image-header.php:721
@@ -3704,70 +3704,70 @@ msgstr "Nastavení zobrazení"
 
 #: wp-admin/includes/class-custom-background.php:379
 msgid "Top Left"
-msgstr ""
+msgstr "Vlevo nahoře"
 
 #: wp-admin/includes/class-custom-background.php:383
 msgid "Top"
-msgstr ""
+msgstr "Nahoru"
 
 #: wp-admin/includes/class-custom-background.php:387
 msgid "Top Right"
-msgstr ""
+msgstr "Vpravo nahoře"
 
 #: wp-admin/includes/class-custom-background.php:393
 #: wp-admin/includes/media.php:1174
 #: wp-admin/includes/media.php:2940
 msgid "Left"
-msgstr ""
+msgstr "Doleva"
 
 #: wp-admin/includes/class-custom-background.php:397
 #: wp-admin/includes/media.php:1175
 #: wp-admin/includes/media.php:2942
 msgid "Center"
-msgstr ""
+msgstr "Na střed"
 
 #: wp-admin/includes/class-custom-background.php:401
 #: wp-admin/includes/media.php:1176
 #: wp-admin/includes/media.php:2944
 msgid "Right"
-msgstr ""
+msgstr "Doprava"
 
 #: wp-admin/includes/class-custom-background.php:407
 msgid "Bottom Left"
-msgstr ""
+msgstr "Vlevo dole"
 
 #: wp-admin/includes/class-custom-background.php:411
 msgid "Bottom"
-msgstr ""
+msgstr "Dolů"
 
 #: wp-admin/includes/class-custom-background.php:415
 msgid "Bottom Right"
-msgstr ""
+msgstr "Vpravo dole"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:422
 #: wp-admin/includes/class-custom-background.php:426
 msgid "Image Position"
-msgstr ""
+msgstr "Umístění obrázku"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:446
 #: wp-admin/includes/class-custom-background.php:450
 msgid "Image Size"
-msgstr ""
+msgstr "Velikost obrázku"
 
 #: wp-admin/includes/class-custom-background.php:454
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "Originál"
 
 #: wp-admin/includes/class-custom-background.php:455
 msgid "Fit to Screen"
-msgstr ""
+msgstr "Přizpůsobit obrazovce"
 
 #: wp-admin/includes/class-custom-background.php:456
 msgid "Fill Screen"
-msgstr ""
+msgstr "Vyplnit obrazovku"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:462
@@ -3778,7 +3778,7 @@ msgstr "Opakování"
 
 #: wp-admin/includes/class-custom-background.php:470
 msgid "Repeat Background Image"
-msgstr ""
+msgstr "Opakovat obrázek na pozadí"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:475
@@ -3789,39 +3789,39 @@ msgstr "Posouvat"
 
 #: wp-admin/includes/class-custom-background.php:483
 msgid "Scroll with Page"
-msgstr ""
+msgstr "Rolovat se stránkou"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:488
 #: wp-admin/includes/class-custom-background.php:492
 msgid "Background Color"
-msgstr ""
+msgstr "Barva pozadí"
 
 #: wp-admin/includes/class-custom-background.php:637
 #: wp-admin/includes/image-edit.php:288
 #: wp-admin/includes/media.php:1216
 msgid "Thumbnail"
-msgstr ""
+msgstr "Náhled"
 
 #: wp-admin/includes/class-custom-background.php:638
 #: wp-admin/includes/media.php:1217
 msgid "Medium"
-msgstr ""
+msgstr "Střední"
 
 #: wp-admin/includes/class-custom-background.php:639
 #: wp-admin/includes/media.php:1218
 msgid "Large"
-msgstr ""
+msgstr "Velká"
 
 #: wp-admin/includes/class-custom-background.php:640
 #: wp-admin/includes/media.php:1219
 msgid "Full Size"
-msgstr ""
+msgstr "Původní velikost"
 
 #: wp-admin/includes/class-custom-image-header.php:74
 #: wp-admin/menu.php:215
 msgid "Header"
-msgstr ""
+msgstr "Záhlaví"
 
 #: wp-admin/includes/class-custom-image-header.php:102
 msgid "This screen is used to customize the header section of your theme."
@@ -3836,7 +3836,7 @@ msgstr "Pokud chcete zobrazovat v záhlaví nějaký obrázek, tak můžete vyb�
 #: wp-admin/includes/template.php:2303
 #: wp-admin/includes/template.php:2310
 msgid "Header Image"
-msgstr ""
+msgstr "Obrázek v záhlaví"
 
 #: wp-admin/includes/class-custom-image-header.php:112
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately. Alternatively, you can use an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button."
@@ -4329,7 +4329,7 @@ msgstr "Nebyly nalezeny žádné platné pluginy."
 #: wp-admin/themes.php:1268
 #: wp-admin/js/updates.js:1430
 msgid "Live Preview"
-msgstr ""
+msgstr "Aktuální náhled"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #: wp-admin/includes/class-theme-installer-skin.php:133
@@ -4352,7 +4352,7 @@ msgstr "Aktuální náhled &#8222;%s&#8220;"
 #: wp-admin/js/updates.js:766
 #: wp-admin/js/updates.js:1419
 msgid "Activate"
-msgstr ""
+msgstr "Aktivovat"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #. translators: %s: Theme name.
@@ -4538,7 +4538,7 @@ msgstr "Šablona stylů %s neobsahuje platnou hlavičku šablony."
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-admin/includes/class-theme-upgrader.php:596
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "Chybí soubor šablony. Samostatné šablony musí mít soubor šablony %1$s. <a href=\"%2$s\">Odvozené šablony</a> (anglicky) musí mít hlavičku šablony ve stylu %3$s."
 
 #: wp-admin/includes/class-theme-upgrader.php:599
 #: wp-admin/includes/class-wp-themes-list-table.php:285
@@ -4546,23 +4546,23 @@ msgstr ""
 #: wp-admin/theme-editor.php:398
 #: wp-admin/update-core.php:487
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
-msgstr ""
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
 
 #: wp-admin/includes/class-theme-upgrader.php:611
 #: wp-admin/theme-install.php:338
 #: wp-admin/theme-install.php:551
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSE šablony v ClassicPressu nefungují."
 
 #. translators: %s: Title of an invalid menu item.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:108
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (Neplatná položka)"
 
 #. translators: %s: Title of a menu item in draft status.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:112
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (Nepublikováno)"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:129
 msgid "sub item"
@@ -4572,13 +4572,13 @@ msgstr "podřazená položka"
 #: wp-admin/includes/class-walker-nav-menu-edit.php:147
 #: wp-admin/includes/template.php:1322
 msgid "Move up"
-msgstr ""
+msgstr "Posunout nahoru"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:164
 #: wp-admin/includes/template.php:1335
 msgid "Move down"
-msgstr ""
+msgstr "Posunout dolů"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:183
 msgid "Move menu item"
@@ -4592,16 +4592,16 @@ msgstr "Posunout"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:202
 msgid "Navigation Label"
-msgstr ""
+msgstr "Text odkazu"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:208
 #: wp-admin/includes/nav-menu.php:1136
 msgid "Title Attribute"
-msgstr ""
+msgstr "Atribut title"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:215
 msgid "Open link in a new tab"
-msgstr ""
+msgstr "Otevřít odkaz na nové záložce"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:220
 msgid "CSS Classes (optional)"
@@ -4609,7 +4609,7 @@ msgstr "CSS třídy (volitelné)"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:234
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "Popis se zobrazí v menu, pokud jej aktivní šablona podporuje."
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:255
 msgid "Up one"
@@ -4626,13 +4626,13 @@ msgstr "Na začátek"
 #. translators: %s: Link to menu item's original object.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:267
 msgid "Original: %s"
-msgstr ""
+msgstr "Původní odkaz: %s"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:276
 #: wp-admin/includes/class-wp-users-list-table.php:506
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:29
 msgid "Created"
@@ -4798,7 +4798,7 @@ msgstr ""
 #: wp-admin/includes/translation-install.php:97
 #: wp-admin/theme-install.php:68
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://cs.wordpress.org/podpora/"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:882
 #: wp-admin/update-core.php:829
@@ -5148,7 +5148,7 @@ msgstr "Není spam"
 #: wp-admin/includes/meta-boxes.php:474
 #: wp-admin/upload.php:667
 msgid "Delete permanently"
-msgstr ""
+msgstr "Trvale smazat"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:418
 #: wp-admin/includes/class-wp-links-list-table.php:120
@@ -5214,7 +5214,7 @@ msgstr "Označit tento komentář jako spam"
 #: wp-admin/includes/dashboard.php:783
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:772
 msgid "Restore this comment from the spam"
@@ -5273,7 +5273,7 @@ msgstr "Odpovědět na tento komentář"
 #: wp-admin/js/edit-comments.js:372
 #: wp-admin/js/edit-comments.js:1014
 msgid "Reply"
-msgstr ""
+msgstr "Odpovědět"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:902
@@ -5349,7 +5349,7 @@ msgstr "Používá web HTTPS?"
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:264
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #: wp-admin/includes/class-wp-debug-data.php:104
 #: wp-admin/includes/class-wp-debug-data.php:109
@@ -5360,7 +5360,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:266
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: wp-admin/includes/class-wp-debug-data.php:108
 msgid "Is this a multisite?"
@@ -5858,7 +5858,7 @@ msgstr "Verze %1$s, autor - %2$s"
 #: wp-admin/themes.php:978
 #: wp-admin/themes.php:1072
 msgid "By %s"
-msgstr ""
+msgstr "Autor: %s"
 
 #: wp-admin/includes/class-wp-debug-data.php:1007
 #: wp-admin/includes/class-wp-debug-data.php:1322
@@ -5882,7 +5882,7 @@ msgstr "Automatické aktualizace zakázány"
 #: wp-admin/includes/class-wp-debug-data.php:1184
 #: wp-admin/includes/class-wp-debug-data.php:1345
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-admin/includes/class-wp-debug-data.php:1104
 #: wp-admin/includes/class-wp-debug-data.php:1199
@@ -6095,17 +6095,17 @@ msgstr "Zvolit akci pro hromadné úpravy"
 #: wp-admin/includes/class-wp-list-table.php:589
 #: wp-admin/includes/class-wp-screen.php:1090
 msgid "Apply"
-msgstr ""
+msgstr "Použít"
 
 #: wp-admin/includes/class-wp-list-table.php:733
 #: wp-admin/includes/media.php:2810
 msgid "All dates"
-msgstr ""
+msgstr "&mdash; Datum &mdash;"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #: wp-admin/includes/class-wp-list-table.php:748
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-list-table.php:805
@@ -6156,7 +6156,7 @@ msgstr "První stránka"
 #: wp-admin/includes/nav-menu.php:764
 #: wp-admin/upload.php:371
 msgid "Previous page"
-msgstr ""
+msgstr "Předchozí stránka"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1047
@@ -6177,7 +6177,7 @@ msgstr "%1$s z celkem %2$s"
 #: wp-admin/includes/nav-menu.php:765
 #: wp-admin/upload.php:385
 msgid "Next page"
-msgstr ""
+msgstr "Následující stránka"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1087
@@ -6199,27 +6199,27 @@ msgstr "Označit vše"
 #: wp-admin/includes/class-wp-media-list-table.php:43
 #: wp-admin/upload.php:311
 msgid "List view"
-msgstr ""
+msgstr "Seznam"
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
 #: wp-admin/upload.php:314
 msgid "Grid view"
-msgstr ""
+msgstr "Mřížka"
 
 #: wp-admin/includes/class-wp-media-list-table.php:134
 #: wp-admin/includes/media.php:3975
 msgid "All media items"
-msgstr ""
+msgstr "Všechny mediální soubory"
 
 #: wp-admin/includes/class-wp-media-list-table.php:157
 msgctxt "media items"
 msgid "Unattached"
-msgstr ""
+msgstr "Nepřiřazeno"
 
 #: wp-admin/includes/class-wp-media-list-table.php:162
 msgctxt "media items"
 msgid "Mine"
-msgstr ""
+msgstr "Mé"
 
 #: wp-admin/includes/class-wp-media-list-table.php:169
 msgctxt "attachment filter"
@@ -6242,7 +6242,7 @@ msgstr "Nebyly nalezeny žádné mediální soubory."
 #: wp-admin/includes/class-wp-media-list-table.php:329
 #: wp-admin/includes/media.php:3973
 msgid "Filter by type"
-msgstr ""
+msgstr "Filtrovat podle typu souboru"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:360
@@ -6258,7 +6258,7 @@ msgstr ""
 #: wp-admin/includes/theme-install.php:139
 #: wp-admin/upload.php:324
 msgid "Search"
-msgstr ""
+msgstr "Hledat"
 
 #. translators: Column name.
 #: wp-admin/includes/class-wp-media-list-table.php:374
@@ -6286,17 +6286,17 @@ msgstr "Přiřazeno"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Alternativní text"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "Titulek"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6309,7 +6309,7 @@ msgstr "Datum"
 #: wp-admin/includes/media.php:3316
 #: wp-admin/upload.php:584
 msgid "File name:"
-msgstr ""
+msgstr "Název souboru:"
 
 #: wp-admin/includes/class-wp-media-list-table.php:603
 #: wp-admin/includes/class-wp-posts-list-table.php:1163
@@ -6403,7 +6403,7 @@ msgstr "Hromadné úpravy"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Více štítků oddělte čárkami."
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -6419,7 +6419,7 @@ msgstr "Rychlé úpravy"
 #: wp-admin/includes/class-wp-media-list-table.php:1211
 #: wp-admin/includes/template.php:842
 msgid "Month"
-msgstr ""
+msgstr "Měsíc"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1214
 msgid "01-Jan"
@@ -6473,13 +6473,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:1228
 #: wp-admin/includes/template.php:855
 msgid "Day"
-msgstr ""
+msgstr "Den"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:1232
 #: wp-admin/includes/template.php:859
 msgid "Year"
-msgstr ""
+msgstr "Rok"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:105
 #: wp-admin/includes/class-wp-theme-install-list-table.php:60
@@ -6496,7 +6496,7 @@ msgstr "Nejčastěji používané"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:109
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "Rubriky"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:114
 #: wp-admin/plugin-install.php:147
@@ -6615,7 +6615,7 @@ msgstr ""
 #: wp-admin/themes.php:1160
 #: wp-admin/update-core.php:525
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Aktualizujte ClassicPress</a>a pak <a href=\"%2$s\">se informujte ohledně aktualizace PHP</a>."
 
 #. translators: %s: URL to Update PHP page.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:673
@@ -6665,7 +6665,7 @@ msgstr ""
 #: wp-admin/update-core.php:573
 #: wp-admin/upgrade.php:87
 msgid "<a href=\"%s\">Learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Podrobnější informace o aktualizaci PHP</a>."
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:681
@@ -6697,7 +6697,7 @@ msgstr ""
 #: wp-admin/update-core.php:543
 #: wp-admin/update-core.php:564
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\">Prosím aktualizujte ClassicPress</a>."
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:694
 #: wp-admin/includes/class-wp-plugins-list-table.php:1316
@@ -7035,7 +7035,7 @@ msgstr "Zmeškaná publikace"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1188
 msgid "Last Modified"
-msgstr ""
+msgstr "Naposledy změněno"
 
 #. translators: %s: Post title.
 #. translators: %s: Taxonomy term name.
@@ -7070,7 +7070,7 @@ msgstr "&mdash; Žádná změna &mdash;"
 #: wp-admin/setup-config.php:235
 #: wp-admin/user-new.php:589
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #. translators: Between password field and private checkbox on post quick edit interface.
 #: wp-admin/includes/class-wp-posts-list-table.php:1727
@@ -7083,7 +7083,7 @@ msgstr "&ndash;NEBO&ndash;"
 #: wp-admin/includes/meta-boxes.php:220
 #: wp-admin/js/post.js:905
 msgid "Private"
-msgstr ""
+msgstr "Soukromá"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1775
 #: wp-admin/includes/meta-boxes.php:1055
@@ -7104,7 +7104,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:1823
 #: wp-admin/includes/meta-boxes.php:1064
 msgid "Template"
-msgstr ""
+msgstr "Šablona stránky"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1830
 #: wp-admin/includes/meta-boxes.php:1089
@@ -7146,7 +7146,7 @@ msgstr "Zvýraznit tento příspěvek"
 #: wp-admin/includes/meta-boxes.php:1627
 msgctxt "post format"
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:60
 msgid "Download personal data"
@@ -7269,7 +7269,7 @@ msgstr "Zobrazit manuál k zásadám ochrany osobních údajů."
 #: wp-admin/includes/theme.php:845
 #: wp-admin/upload.php:607
 msgid "(opens in a new tab)"
-msgstr ""
+msgstr "(otevře se na nové záložce)"
 
 #. translators: %s: Date of plugin deactivation.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:376
@@ -7729,7 +7729,7 @@ msgstr "Základní informace"
 
 #: wp-admin/includes/class-wp-screen.php:1153
 msgid "Columns"
-msgstr ""
+msgstr "Sloupce"
 
 #: wp-admin/includes/class-wp-screen.php:1202
 #: wp-admin/includes/theme.php:334
@@ -7889,7 +7889,7 @@ msgstr "Výkon"
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress verze %s"
 
 #: wp-admin/includes/class-wp-site-health.php:281
 msgid "Unable to check if any new versions of ClassicPress are available."
@@ -8332,7 +8332,7 @@ msgstr "Režim ladění často umožňuje shromáždit více podrobností o chyb
 #. translators: Documentation explaining debugging in WordPress.
 #: wp-admin/includes/class-wp-site-health.php:1440
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 
 #: wp-admin/includes/class-wp-site-health.php:1441
 msgid "Learn more about debugging in ClassicPress."
@@ -8998,7 +8998,7 @@ msgstr "Test není k dispozici"
 #: wp-admin/link-manager.php:50
 #: wp-admin/menu.php:80
 msgid "Links"
-msgstr ""
+msgstr "Odkazy"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:200
 msgctxt "Number/count of items"
@@ -9058,7 +9058,7 @@ msgstr "Nejnovější verze této šablony už byla nainstalována"
 #: wp-admin/theme-install.php:291
 msgctxt "theme"
 msgid "Installed"
-msgstr ""
+msgstr "Nainstalováno"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:335
@@ -9076,7 +9076,7 @@ msgstr "Náhled šablony %s"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
 #: wp-admin/theme-install.php:440
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:402
 #: wp-admin/theme-install.php:74
@@ -9269,7 +9269,7 @@ msgstr "&mdash; Neregistrovat na tomto webu &mdash;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:318
 msgid "Change"
-msgstr ""
+msgstr "Změnit"
 
 #: wp-admin/includes/class-wp-users-list-table.php:373
 #: wp-admin/includes/file.php:2436
@@ -9279,7 +9279,7 @@ msgstr ""
 #: wp-admin/user-edit.php:453
 #: wp-admin/user-new.php:539
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: wp-admin/includes/class-wp-users-list-table.php:376
 #: wp-admin/user-edit.php:459
@@ -9302,7 +9302,7 @@ msgstr "Zobrazit příspěvky autora %s"
 #: wp-admin/includes/class-wp-users-list-table.php:600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-users-list-table.php:612
@@ -9458,7 +9458,7 @@ msgstr "Hledat weby"
 #: wp-admin/includes/dashboard.php:606
 #: wp-admin/index.php:103
 msgid "Content"
-msgstr ""
+msgstr "Obsah"
 
 #: wp-admin/includes/dashboard.php:607
 msgid "What&#8217;s on your mind?"
@@ -9468,7 +9468,7 @@ msgstr "Náhodnou myšlenku můžete okamžitě zaznamenat."
 #: wp-admin/includes/meta-boxes.php:56
 #: wp-admin/js/post.js:858
 msgid "Save Draft"
-msgstr ""
+msgstr "Uložit koncept"
 
 #: wp-admin/includes/dashboard.php:663
 msgid "View all drafts"
@@ -9503,11 +9503,11 @@ msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:891
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:894
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: Type of comment, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:908
@@ -9519,7 +9519,7 @@ msgstr "%1$s: %2$s %3$s"
 #: wp-admin/includes/dashboard.php:916
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:950
 msgid "Publishing Soon"
@@ -9535,7 +9535,7 @@ msgstr "Zatím neproběhla žádná aktivita!"
 
 #: wp-admin/includes/dashboard.php:1032
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 #: wp-admin/includes/dashboard.php:1034
 msgid "Tomorrow"
@@ -9559,7 +9559,7 @@ msgstr "%1$s @ %2$s"
 
 #: wp-admin/includes/dashboard.php:1114
 msgid "Recent Comments"
-msgstr ""
+msgstr "Nejnovější komentáře"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/dashboard.php:1135
@@ -9572,7 +9572,7 @@ msgstr "Tento widget vyžaduje JavaScript."
 
 #: wp-admin/includes/dashboard.php:1295
 msgid "Unknown Feed"
-msgstr ""
+msgstr "Neznámý RSS zdroj"
 
 #. translators: link to ClassicPress blog
 #: wp-admin/includes/dashboard.php:1326
@@ -9852,7 +9852,7 @@ msgstr "Zápatí šablony"
 #: wp-admin/includes/file.php:19
 #: wp-admin/widgets-form.php:300
 msgid "Sidebar"
-msgstr ""
+msgstr "Postranní panel"
 
 #: wp-admin/includes/file.php:21
 msgid "Search Form"
@@ -9872,7 +9872,7 @@ msgstr "Zobrazení úvodní stránky"
 
 #: wp-admin/includes/file.php:26
 msgid "Archives"
-msgstr ""
+msgstr "Archivy"
 
 #: wp-admin/includes/file.php:27
 msgid "Author Template"
@@ -9912,7 +9912,7 @@ msgstr "Zobrazení stránky"
 
 #: wp-admin/includes/file.php:38
 msgid "Homepage"
-msgstr ""
+msgstr "Úvodní stránka"
 
 #: wp-admin/includes/file.php:39
 msgid "Privacy Policy Page"
@@ -9961,7 +9961,7 @@ msgstr "Vložit šablonu zápatí"
 #: wp-admin/includes/file.php:53
 #: wp-admin/includes/file.php:61
 msgid "Stylesheet"
-msgstr ""
+msgstr "Kaskádové styly (CSS)"
 
 #: wp-admin/includes/file.php:54
 msgid "Visual Editor Stylesheet"
@@ -10021,7 +10021,7 @@ msgstr ""
 
 #: wp-admin/includes/file.php:336
 msgid "Update anyway, even though it might break your site?"
-msgstr ""
+msgstr "Aktualizovat, i kdyby to mohlo znefunkčnit tento web?"
 
 #: wp-admin/includes/file.php:402
 #: wp-admin/plugin-editor.php:18
@@ -10109,7 +10109,7 @@ msgstr "Soubor je prázdný. Nahrajte to lépe. Tato chyba mohla být stejně zp
 
 #: wp-admin/includes/file.php:941
 msgid "Sorry, you are not allowed to upload this file type."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění nahrávat tento typ souboru."
 
 #. translators: %s: Destination file path.
 #: wp-admin/includes/file.php:1009
@@ -10282,7 +10282,7 @@ msgstr "Příslušná obrázková data bohužel neexistují. Zkuste prosím nahr
 
 #: wp-admin/includes/image-edit.php:62
 msgid "Crop"
-msgstr ""
+msgstr "Oříznout"
 
 #: wp-admin/includes/image-edit.php:74
 msgid "Rotate left"
@@ -10306,7 +10306,7 @@ msgstr "Převrátit vodorovně"
 
 #: wp-admin/includes/image-edit.php:89
 msgid "Redo"
-msgstr ""
+msgstr "Znovu"
 
 #: wp-admin/includes/image-edit.php:114
 msgid "Scale Image"
@@ -10569,13 +10569,13 @@ msgstr "Přidat z URL adresy"
 
 #: wp-admin/includes/media.php:20
 msgid "Gallery"
-msgstr ""
+msgstr "Galerie"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:181
 #: wp-admin/upload.php:799
 msgid "Media Library"
-msgstr ""
+msgstr "Knihovna médií"
 
 #. translators: %s: Number of attachments.
 #: wp-admin/includes/media.php:64
@@ -10633,11 +10633,11 @@ msgstr "Nahrané soubory"
 
 #: wp-admin/includes/media.php:674
 msgid "Add Media"
-msgstr ""
+msgstr "Mediální soubory"
 
 #: wp-admin/includes/media.php:979
 msgid "Saved."
-msgstr ""
+msgstr "Uloženo."
 
 #: wp-admin/includes/media.php:1058
 msgid "Invalid image URL."
@@ -10645,7 +10645,7 @@ msgstr "Neplatná URL adresa obrázku."
 
 #: wp-admin/includes/media.php:1267
 msgid "Size"
-msgstr ""
+msgstr "Velikost"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
@@ -10675,7 +10675,7 @@ msgstr "Umístění nahraného souboru."
 #: wp-admin/includes/media.php:3185
 #: wp-admin/upload.php:604
 msgid "Alternative Text"
-msgstr ""
+msgstr "Alternativní text"
 
 #: wp-admin/includes/media.php:1499
 #: wp-admin/includes/media.php:2931
@@ -10685,7 +10685,7 @@ msgstr "Alternativní text obrázku, např. &#8222;Moje babička v kuchyni&#8220
 #: wp-admin/includes/media.php:1503
 #: wp-admin/includes/media.php:2935
 msgid "Alignment"
-msgstr ""
+msgstr "Zarovnání"
 
 #: wp-admin/includes/media.php:1576
 #: wp-admin/includes/media.php:2530
@@ -10706,13 +10706,13 @@ msgstr "Skrýt"
 #: wp-admin/includes/media.php:3096
 #: wp-admin/upload.php:560
 msgid "Edit Image"
-msgstr ""
+msgstr "Upravit obrázek"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3319
 #: wp-admin/upload.php:585
 msgid "File type:"
-msgstr ""
+msgstr "Typ souboru:"
 
 #: wp-admin/includes/media.php:1660
 msgid "Upload date:"
@@ -10722,7 +10722,7 @@ msgstr "Datum nahrání souboru:"
 #: wp-admin/includes/media.php:3441
 #: wp-admin/upload.php:587
 msgid "Dimensions:"
-msgstr ""
+msgstr "Rozměry:"
 
 #: wp-admin/includes/media.php:1685
 #: wp-admin/includes/media.php:2961
@@ -10744,26 +10744,26 @@ msgstr "Pokračovat"
 #. translators: %s: https://apps.wordpress.org
 #: wp-admin/includes/media.php:2055
 msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
-msgstr ""
+msgstr "Internetový prohlížeč na aktuálně používaném zařízení bohužel neumožňuje nahrávat soubory standardním způsobem. Můžete ale použít nějakou vhodnou <a href=\"%s\">mobilní aplikaci</a>."
 
 #: wp-admin/includes/media.php:2204
 msgid "Drop files to upload"
-msgstr ""
+msgstr "Přetáhněte soubory, které se mají nahrát"
 
 #: wp-admin/includes/media.php:2205
 msgctxt "Uploader: Drop files here - or - Select Files"
 msgid "or"
-msgstr ""
+msgstr "nebo"
 
 #: wp-admin/includes/media.php:2206
 msgid "Select Files"
-msgstr ""
+msgstr "Vybrat soubory"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2255
 #: wp-admin/upload.php:272
 msgid "Maximum upload file size: %s."
-msgstr ""
+msgstr "Maximální velikost nahrávaného souboru: %s."
 
 #: wp-admin/includes/media.php:2308
 msgid "Add media files from your computer"
@@ -10804,11 +10804,11 @@ msgstr "Vymazat pořadí"
 
 #: wp-admin/includes/media.php:2544
 msgid "Actions"
-msgstr ""
+msgstr "Akce"
 
 #: wp-admin/includes/media.php:2570
 msgid "Gallery Settings"
-msgstr ""
+msgstr "Nastavení galerie"
 
 #: wp-admin/includes/media.php:2575
 msgid "Link thumbnails to:"
@@ -10820,7 +10820,7 @@ msgstr "Soubor s obrázkem"
 
 #: wp-admin/includes/media.php:2583
 msgid "Attachment Page"
-msgstr ""
+msgstr "Stránku se zobrazením souboru"
 
 #: wp-admin/includes/media.php:2590
 msgid "Order images by:"
@@ -10848,7 +10848,7 @@ msgstr "Počet sloupců galerie:"
 
 #: wp-admin/includes/media.php:2641
 msgid "Insert gallery"
-msgstr ""
+msgstr "Vložit galerii"
 
 #: wp-admin/includes/media.php:2642
 msgid "Update gallery settings"
@@ -10874,7 +10874,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2835
 msgid "Filter &#187;"
@@ -10886,7 +10886,7 @@ msgstr "Titulek obrázku"
 
 #: wp-admin/includes/media.php:2904
 msgid "Image"
-msgstr ""
+msgstr "Obrázek"
 
 #: wp-admin/includes/media.php:2904
 msgid "Audio, Video, or Other File"
@@ -10921,12 +10921,12 @@ msgstr "Automaticky upravit velikost nahrávaných obrázků tak, aby dosahovaly
 #. translators: %s: Allowed space allocation.
 #: wp-admin/includes/media.php:3059
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "Vyčerpali jste své přidělené místo %s. Před nahráním nových souborů, musíte nějaké staré smazat."
 
 #. translators: 1: Link to tutorial, 2: Additional link attributes, 3: Accessibility text.
 #: wp-admin/includes/media.php:3193
 msgid "<a href=\"%1$s\" %2$s>Learn how to describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "<a href=\"%1$s\" %2$s>Popište smysl obrázku%3$s</a>. Nevyplňujte jestli je obrázek čistě dekorativní."
 
 #: wp-admin/includes/media.php:3229
 msgid "Displayed on attachment pages."
@@ -10934,35 +10934,35 @@ msgstr "Zobrazeno na stránkách příloh."
 
 #: wp-admin/includes/media.php:3269
 msgid "(no author)"
-msgstr ""
+msgstr "(žádný autor)"
 
 #: wp-admin/includes/media.php:3279
 #: wp-admin/includes/media.php:3281
 #: wp-admin/upload.php:581
 msgid "Uploaded by:"
-msgstr ""
+msgstr "Nahrál uživatel"
 
 #: wp-admin/includes/media.php:3294
 #: wp-admin/includes/media.php:3296
 msgid "Uploaded to:"
-msgstr ""
+msgstr "Přiřazeno k"
 
 #: wp-admin/includes/media.php:3305
 msgid "File URL:"
-msgstr ""
+msgstr "URL souboru:"
 
 #: wp-admin/includes/media.php:3352
 #: wp-admin/upload.php:586
 msgid "File size:"
-msgstr ""
+msgstr "Velikost souboru:"
 
 #: wp-admin/includes/media.php:3359
 msgid "Length:"
-msgstr ""
+msgstr "Délka:"
 
 #: wp-admin/includes/media.php:3360
 msgid "Bitrate:"
-msgstr ""
+msgstr "Přenosová rychlost:"
 
 #: wp-admin/includes/media.php:3407
 msgid "Audio Format:"
@@ -10974,7 +10974,7 @@ msgstr "Audio kodek:"
 
 #: wp-admin/includes/media.php:3449
 msgid "Original image:"
-msgstr ""
+msgstr "Původní obrázek:"
 
 #: wp-admin/includes/media.php:3848
 msgid "Sorry, you are not allowed to edit media attachment pages."
@@ -10990,7 +10990,7 @@ msgstr ""
 
 #: wp-admin/includes/media.php:4004
 msgid "Bulk select"
-msgstr ""
+msgstr "Hromadné úpravy"
 
 #: wp-admin/includes/menu.php:364
 msgid "Sorry, you are not allowed to access this page."
@@ -11027,7 +11027,7 @@ msgstr "Nastavit stav"
 #: wp-admin/includes/template.php:900
 #: wp-admin/js/post.js:1026
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
@@ -11036,7 +11036,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:183
 #: wp-admin/includes/meta-boxes.php:217
 msgid "Password protected"
-msgstr ""
+msgstr "Chráněno heslem"
 
 #: wp-admin/includes/meta-boxes.php:186
 #: wp-admin/js/post.js:902
@@ -11060,7 +11060,7 @@ msgstr "Zvýraznit příspěvek na úvodní stránce"
 
 #: wp-admin/includes/meta-boxes.php:218
 msgid "Password:"
-msgstr ""
+msgstr "Heslo:"
 
 #. translators: Post date information. %s: Date on which the post is currently scheduled to be published.
 #: wp-admin/includes/meta-boxes.php:241
@@ -11133,19 +11133,19 @@ msgstr "Formáty příspěvků"
 #: wp-admin/includes/meta-boxes.php:625
 #: wp-admin/includes/meta-boxes.php:1238
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:707
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:776
 #: wp-admin/includes/meta-boxes.php:1668
 #: wp-admin/options-reading.php:193
 msgid "Excerpt"
-msgstr ""
+msgstr "Stručný výpis příspěvku"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:783
@@ -11235,7 +11235,7 @@ msgstr "&mdash; Rubriky &mdash;"
 #: wp-admin/includes/meta-boxes.php:1207
 msgctxt "categories"
 msgid "Most Used"
-msgstr ""
+msgstr "Nejpoužívanější"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:1229
@@ -11437,11 +11437,11 @@ msgstr "(Pokud nechcete hodnotit, tak ponechte 0.)"
 #: wp-admin/includes/meta-boxes.php:1609
 #: wp-admin/revision.php:112
 msgid "Revisions"
-msgstr ""
+msgstr "Starší verze"
 
 #: wp-admin/includes/meta-boxes.php:1620
 msgid "Metadata"
-msgstr ""
+msgstr "Strukturované informace"
 
 #: wp-admin/includes/meta-boxes.php:1672
 msgid "Send Trackbacks"
@@ -11521,22 +11521,22 @@ msgstr "%s (Koncept)"
 
 #: wp-admin/includes/nav-menu.php:148
 msgid "Custom Links"
-msgstr ""
+msgstr "Uživatelské odkazy"
 
 #: wp-admin/includes/nav-menu.php:305
 msgid "Link Text"
-msgstr ""
+msgstr "Text odkazu"
 
 #: wp-admin/includes/nav-menu.php:311
 #: wp-admin/includes/nav-menu.php:682
 #: wp-admin/includes/nav-menu.php:919
 msgid "Add to Menu"
-msgstr ""
+msgstr "Přidat do menu"
 
 #: wp-admin/includes/nav-menu.php:392
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr ""
+msgstr "Úvodní stránka"
 
 #: wp-admin/includes/nav-menu.php:442
 #: wp-admin/includes/nav-menu.php:737
@@ -11563,7 +11563,7 @@ msgstr "Zobrazit vše"
 #: wp-admin/includes/nav-menu.php:907
 #: wp-admin/js/nav-menu.js:494
 msgid "No results found."
-msgstr ""
+msgstr "Nebyly nalezeny žádné výsledky."
 
 #: wp-admin/includes/nav-menu.php:1056
 msgid "Add menu items from the column on the left."
@@ -11592,7 +11592,7 @@ msgstr "Zobrazení odkazu"
 
 #: wp-admin/includes/nav-menu.php:1137
 msgid "CSS Classes"
-msgstr ""
+msgstr "CSS třídy"
 
 #. translators: %s: Nav menu title.
 #: wp-admin/includes/nav-menu.php:1277
@@ -11867,7 +11867,7 @@ msgstr ""
 #: wp-admin/install.php:227
 #: wp-admin/install.php:448
 msgid "Log In"
-msgstr ""
+msgstr "Přihlásit se"
 
 #: wp-admin/includes/options.php:135
 msgid "The <a href=\"https://wordpress.org/documentation/article/wordpress-glossary/#character-set\">character encoding</a> of your site (UTF-8 is recommended)"
@@ -11883,18 +11883,18 @@ msgstr "Nastavení <a href=\"https://wordpress.org/documentation/article/wordpre
 #: wp-admin/includes/translation-install.php:84
 #: wp-admin/includes/translation-install.php:96
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Něco může být špatně s WordPress.org, ClassicPress.net nebo s konfigurací tohoto serveru. Pokud budete mít i nadále problémy, prosím zkuste <a href=\"%s\">fórum podpory</a>."
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:70
 #: wp-admin/includes/update-core.php:1096
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/plugin-install.php:171
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress nemohl navázat bezpečné připojení k WordPress.org. Obraťte se na správce serveru.)"
 
 #: wp-admin/includes/plugin-install.php:248
 msgid "Popular tags"
@@ -11967,7 +11967,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:376
 #: wp-admin/widgets.php:28
 msgid "Widgets"
-msgstr ""
+msgstr "Widgety"
 
 #: wp-admin/includes/plugin-install.php:377
 msgid "Admin Utilities"
@@ -12063,7 +12063,7 @@ msgstr "Instalace pluginů"
 
 #: wp-admin/includes/plugin-install.php:687
 msgid "Author:"
-msgstr ""
+msgstr "Autor:"
 
 #: wp-admin/includes/plugin-install.php:697
 msgid "Requires WordPress Version:"
@@ -12346,26 +12346,26 @@ msgstr "Nemáte dostatečné oprávnění pro úpravy příspěvků pod tímto u
 #: wp-admin/includes/post.php:41
 #: wp-admin/includes/post.php:86
 msgid "Sorry, you are not allowed to create pages as this user."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro vytváření stránek, kde bude tento uživatel uveden jako autor."
 
 #: wp-admin/includes/post.php:43
 #: wp-admin/includes/post.php:88
 #: wp-admin/post-new.php:61
 #: wp-admin/press-this.php:20
 msgid "Sorry, you are not allowed to create posts as this user."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro vytváření příspěvků, kde bude tento uživatel uveden jako autor."
 
 #: wp-admin/includes/post.php:191
 msgid "Invalid date."
-msgstr ""
+msgstr "Neplatné datum."
 
 #: wp-admin/includes/post.php:499
 msgid "Sorry, you are not allowed to edit pages."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy stránek."
 
 #: wp-admin/includes/post.php:501
 msgid "Sorry, you are not allowed to edit posts."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy příspěvků."
 
 #: wp-admin/includes/post.php:715
 msgid "Auto Draft"
@@ -12408,7 +12408,7 @@ msgstr "Uživatel %s momentálně upravuje tento příspěvek."
 
 #: wp-admin/includes/post.php:1844
 msgid "Take over"
-msgstr ""
+msgstr "Převzít kontrolu"
 
 #: wp-admin/includes/post.php:1858
 msgid "Saving revision&hellip;"
@@ -12421,7 +12421,7 @@ msgstr "Vaše poslední změny byly uloženy jako starší verze příspěvku."
 #: wp-admin/includes/privacy-tools.php:23
 #: wp-admin/includes/privacy-tools.php:52
 msgid "Invalid personal data request."
-msgstr ""
+msgstr "Neplatný požadavek na osobní údaje."
 
 #: wp-admin/includes/privacy-tools.php:31
 msgid "Unable to initiate confirmation for personal data request."
@@ -12537,7 +12537,7 @@ msgstr "Export osobních údajů"
 
 #: wp-admin/includes/privacy-tools.php:472
 msgid "Table of Contents"
-msgstr ""
+msgstr "Obsah"
 
 #: wp-admin/includes/privacy-tools.php:541
 msgid "Unable to archive the personal data export file (JSON format)."
@@ -12683,7 +12683,7 @@ msgstr ""
 #. translators: Links last updated date format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/schema.php:462
 msgid "F j, Y g:i a"
-msgstr ""
+msgstr "j. n. Y, G:i"
 
 #: wp-admin/includes/schema.php:1017
 msgid "You must provide a domain name."
@@ -12814,17 +12814,17 @@ msgstr "Přidat uživatelské pole"
 #. translators: 1: Month number (01, 02, etc.), 2: Month abbreviation.
 #: wp-admin/includes/template.php:849
 msgid "%1$s-%2$s"
-msgstr ""
+msgstr "%1$s-%2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/template.php:863
 msgid "Hour"
-msgstr ""
+msgstr "Hodina"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/template.php:867
 msgid "Minute"
-msgstr ""
+msgstr "Minuta"
 
 #. translators: 1: Month, 2: Day, 3: Year, 4: Hour, 5: Minute.
 #: wp-admin/includes/template.php:872
@@ -12867,7 +12867,7 @@ msgstr "Přesunout prvků %s dolů"
 #: wp-admin/includes/template.php:1610
 #: wp-admin/includes/template.php:1623
 msgid "The \"%s\" options group has been removed. Use another settings group."
-msgstr ""
+msgstr "Skupina možností \"%s\" byla odstraněna. Použijte jinou skupinu nastavení."
 
 #: wp-admin/includes/template.php:1922
 msgid "Attach to existing content"
@@ -12883,7 +12883,7 @@ msgstr "Zavřít panel příloh"
 #: wp-admin/plugin-editor.php:251
 #: wp-admin/theme-editor.php:257
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 #: wp-admin/includes/template.php:2184
 msgctxt "post status"
@@ -12893,7 +12893,7 @@ msgstr "Chráněno heslem"
 #: wp-admin/includes/template.php:2188
 msgctxt "post status"
 msgid "Private"
-msgstr ""
+msgstr "Soukromá"
 
 #: wp-admin/includes/template.php:2193
 msgid "Customization Draft"
@@ -12902,7 +12902,7 @@ msgstr "Koncept"
 #: wp-admin/includes/template.php:2195
 msgctxt "post status"
 msgid "Draft"
-msgstr ""
+msgstr "Koncept"
 
 #: wp-admin/includes/template.php:2198
 msgctxt "post status"
@@ -12912,7 +12912,7 @@ msgstr "Koncept"
 #: wp-admin/includes/template.php:2202
 msgctxt "post status"
 msgid "Pending"
-msgstr ""
+msgstr "Čeká na schválení"
 
 #: wp-admin/includes/template.php:2206
 msgctxt "post status"
@@ -12922,7 +12922,7 @@ msgstr "Zvýrazněný"
 #: wp-admin/includes/template.php:2210
 msgctxt "post status"
 msgid "Scheduled"
-msgstr ""
+msgstr "Plánováno"
 
 #: wp-admin/includes/template.php:2215
 msgctxt "page label"
@@ -12954,11 +12954,11 @@ msgstr "Aktuální obrázek pozadí"
 #: wp-admin/includes/template.php:2341
 #: wp-admin/options-general.php:89
 msgid "Site Icon"
-msgstr ""
+msgstr "Ikona webu"
 
 #: wp-admin/includes/template.php:2345
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2570
@@ -13111,7 +13111,7 @@ msgstr "Možnosti použití"
 
 #: wp-admin/includes/theme.php:307
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: wp-admin/includes/theme.php:308
 msgid "E-Commerce"
@@ -13266,7 +13266,7 @@ msgstr "Aktualizace není kompatibilní"
 #: wp-admin/themes.php:837
 #: wp-admin/themes.php:1153
 msgid "There is a new version of %s available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "K dispozici je nová verze %s, ale není kompatibilní s používanou verzí ClassicPressu a PHP."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:904
@@ -13275,7 +13275,7 @@ msgstr ""
 #: wp-admin/themes.php:875
 #: wp-admin/themes.php:1191
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "K dispozici je nová verze %s, ale není kompatibilní s používanou verzí ClassicPressu."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:919
@@ -13284,7 +13284,7 @@ msgstr ""
 #: wp-admin/themes.php:890
 #: wp-admin/themes.php:1206
 msgid "There is a new version of %s available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "K dispozici je nová verze %s, ale není kompatibilní s používanou verzí PHP."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:942
@@ -13299,7 +13299,7 @@ msgstr "Základní šablona: %s."
 #: wp-admin/themes.php:911
 #: wp-admin/themes.php:1080
 msgid "This theme does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Tato šablona nepodporuje aktuálně používanou verzi ClassicPressu a PHP."
 
 #: wp-admin/includes/theme.php:987
 #: wp-admin/theme-install.php:342
@@ -13308,7 +13308,7 @@ msgstr ""
 #: wp-admin/themes.php:945
 #: wp-admin/themes.php:1114
 msgid "This theme does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Tato šablona nepodporuje aktuálně používanou verzi ClassicPressu."
 
 #: wp-admin/includes/theme.php:998
 #: wp-admin/theme-install.php:353
@@ -13317,16 +13317,16 @@ msgstr ""
 #: wp-admin/themes.php:956
 #: wp-admin/themes.php:1125
 msgid "This theme does not work with your version of PHP."
-msgstr ""
+msgstr "Tato šablona nepodporuje aktuálně používanou verzi PHP."
 
 #: wp-admin/includes/theme.php:1013
 msgid "This theme doesn't support Customizer."
-msgstr ""
+msgstr "Tato šablona nepodporuje přizpůsobení."
 
 #. translators: %s: URL to the themes page (also it activates the theme).
 #: wp-admin/includes/theme.php:1019
 msgid "However, you can still <a href=\"%s\">activate this theme</a>, and use the Site Editor to customize it."
-msgstr ""
+msgstr "Stále však můžete <a href=\"%s\">aktivovat tuto šablonu</a> a pomocí Editoru stránek jí přizpůsobit."
 
 #: wp-admin/includes/theme.php:1030
 #: wp-admin/themes.php:1240
@@ -13343,12 +13343,12 @@ msgstr "Vlastnosti:"
 #: wp-admin/js/updates.js:1415
 msgctxt "theme"
 msgid "Activate %s"
-msgstr ""
+msgstr "Aktivovat šablonu %s"
 
 #: wp-admin/includes/theme.php:1063
 #: wp-admin/includes/theme.php:1066
 msgid "Install &amp; Preview"
-msgstr ""
+msgstr "Instalovat a zobrazit"
 
 #: wp-admin/includes/theme.php:1065
 #: wp-admin/theme-install.php:426
@@ -13381,7 +13381,7 @@ msgstr "Neplatný typ překladu."
 #: wp-admin/includes/update-core.php:1097
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
-msgstr ""
+msgstr "(ClassicPress nemohl navázat bezpečné připojení k ClassicPress.net. Obraťte se na správce serveru.)"
 
 #: wp-admin/includes/translation-install.php:324
 msgid "Unable to update language pack for locales"
@@ -13458,7 +13458,7 @@ msgstr ""
 #: wp-admin/includes/update-core.php:1095
 #: wp-admin/includes/update.php:137
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Došlo k neočekávané chybě. Něco může být špatně s ClassicPress.net, ClassicPress.net nebo s konfigurací tohoto serveru. Pokud budete mít i nadále problémy, prosím zkuste <a href=\"%s\">fórum podpory</a>."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress updates admin screen URL
 #: wp-admin/includes/update.php:251
@@ -13602,7 +13602,7 @@ msgstr "Zadané heslo během instalace."
 
 #: wp-admin/includes/upgrade.php:158
 msgid "Uncategorized"
-msgstr ""
+msgstr "Nezařazené"
 
 #. translators: Default category slug.
 #: wp-admin/includes/upgrade.php:160
@@ -13699,11 +13699,11 @@ msgstr ""
 #: wp-admin/includes/user.php:62
 #: wp-admin/users.php:131
 msgid "Sorry, you are not allowed to give users that role."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro poskytnutí této uživatelské úrovně uživatelům."
 
 #: wp-admin/includes/user.php:176
 msgid "<strong>Error:</strong> Please enter a username."
-msgstr ""
+msgstr "<strong>CHYBA</strong>: Zadejte uživatelské jméno."
 
 #: wp-admin/includes/user.php:181
 msgid "<strong>Error:</strong> Please enter a nickname."
@@ -13723,15 +13723,15 @@ msgstr "<strong>Chyba</strong>: Hesla nesouhlasí. Zadejte, do obou polí stejn�
 
 #: wp-admin/includes/user.php:215
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "<strong>CHYBA</strong>: Uživatelské jméno není platné, protože obsahuje nepovolené znaky. Zadejte správné uživatelské jméno."
 
 #: wp-admin/includes/user.php:219
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>CHYBA</strong>: Zvolené uživatelské jméno je na tomto webu již registrováno, zadejte nějaké jiné."
 
 #: wp-admin/includes/user.php:226
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
-msgstr ""
+msgstr "<strong>CHYBA</strong>: Toto uživatelské jméno není povoleno."
 
 #: wp-admin/includes/user.php:231
 msgid "<strong>Error:</strong> Please enter an email address."
@@ -13739,7 +13739,7 @@ msgstr "<strong>CHYBA</strong>: Zadejte platnou e-mailovou adresu."
 
 #: wp-admin/includes/user.php:233
 msgid "<strong>Error:</strong> The email address is not correct."
-msgstr ""
+msgstr "<strong>CHYBA</strong>: Zadaná e-mailová adresa není správná."
 
 #: wp-admin/includes/user.php:237
 msgid "<strong>Error:</strong> This email is already registered. Please choose another one."
@@ -13812,18 +13812,18 @@ msgstr "Přidat"
 #: wp-admin/includes/widgets.php:252
 #: wp-admin/widgets-form.php:293
 msgid "There are no options for this widget."
-msgstr ""
+msgstr "Pro tento widget není k dispozici žádné nastavení."
 
 #: wp-admin/includes/widgets.php:273
 #: wp-admin/js/set-post-thumbnail.js:21
 msgid "Done"
-msgstr ""
+msgstr "Hotovo"
 
 #: wp-admin/index.php:32
 #: wp-admin/menu.php:24
 #: wp-admin/user/menu.php:10
 msgid "Dashboard"
-msgstr ""
+msgstr "Nástěnka"
 
 #: wp-admin/index.php:35
 msgid "Welcome to your ClassicPress Dashboard!"
@@ -13915,7 +13915,7 @@ msgstr "Vítejte!"
 #: wp-admin/install.php:114
 #: wp-admin/options-general.php:69
 msgid "Site Title"
-msgstr ""
+msgstr "Název webu"
 
 #: wp-admin/install.php:122
 msgid "User(s) already exists."
@@ -13930,7 +13930,7 @@ msgstr "Uživatelská jména mohou obsahovat pouze alfanumerické znaky (čísli
 #: wp-admin/user-new.php:601
 #: wp-admin/js/user-profile.js:81
 msgid "Hide password"
-msgstr ""
+msgstr "Skrýt heslo"
 
 #: wp-admin/install.php:151
 #: wp-admin/user-edit.php:205
@@ -13968,7 +13968,7 @@ msgstr "Potvrďte heslo"
 #: wp-admin/user-new.php:621
 #: wp-admin/js/user-profile.js:52
 msgid "Confirm use of weak password"
-msgstr ""
+msgstr "Potvrďte použití slabého hesla"
 
 #: wp-admin/install.php:177
 msgid "Your Email"
@@ -14041,7 +14041,7 @@ msgstr ""
 
 #: wp-admin/install.php:293
 msgid "Requirements Not Met"
-msgstr ""
+msgstr "Požadavky nejsou splněny"
 
 #: wp-admin/install.php:299
 #: wp-admin/install.php:312
@@ -14148,7 +14148,7 @@ msgstr "Hledat odkazy"
 #: wp-admin/link-parse-opml.php:77
 #: wp-admin/link-parse-opml.php:78
 msgid "PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension."
-msgstr ""
+msgstr "XML rozšíření jazyka PHP není k dispozici. Obraťte se na svého poskytovatele hostingu, aby povolil XML rozšíření jazyka PHP."
 
 #. translators: 1: Error message, 2: Line number.
 #: wp-admin/link-parse-opml.php:89
@@ -14180,7 +14180,7 @@ msgstr "Chcete-li povolit použití této stránky k automatické opravě probl�
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-admin/maint/repair.php:51
 msgid "put your unique phrase here"
-msgstr ""
+msgstr "vložte svou unikátní frázi zde"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/maint/repair.php:81
@@ -14296,7 +14296,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-add-new-scre
 
 #: wp-admin/media-upload.php:39
 msgid "Invalid item ID."
-msgstr ""
+msgstr "Neplatné ID položky."
 
 #: wp-admin/media.php:23
 #: wp-admin/media.php:62
@@ -14305,7 +14305,7 @@ msgstr "Nemáte dostatečné oprávnění pro úpravu této přílohy."
 
 #: wp-admin/media.php:49
 msgid "Edit Media"
-msgstr ""
+msgstr "Upravit mediální soubor"
 
 #: wp-admin/media.php:68
 msgid "You attempted to edit an attachment that does not exist. Perhaps it was deleted?"
@@ -14326,7 +14326,7 @@ msgstr "Nemůžete upravovat tento soubor, protože byl přesunut do koše. Nejd
 #: wp-admin/upload.php:863
 msgctxt "file"
 msgid "Add New"
-msgstr ""
+msgstr "Přidat nový"
 
 #: wp-admin/menu-header.php:321
 #: wp-admin/js/common.js:1995
@@ -14347,15 +14347,15 @@ msgstr "Přejít k hlavnímu obsahu webu"
 
 #: wp-admin/menu-header.php:331
 msgid "Skip to toolbar"
-msgstr ""
+msgstr "Přejít k navigační liště"
 
 #: wp-admin/menu.php:26
 msgid "Home"
-msgstr ""
+msgstr "Úvodní stránka"
 
 #: wp-admin/menu.php:29
 msgid "My Sites"
-msgstr ""
+msgstr "Moje weby"
 
 #. translators: %s: Number of pending updates.
 #: wp-admin/menu.php:49
@@ -14373,7 +14373,7 @@ msgstr "Přehled odkazů"
 
 #: wp-admin/menu.php:84
 msgid "Link Categories"
-msgstr ""
+msgstr "Rubriky odkazů"
 
 #. translators: %s: Number of comments.
 #: wp-admin/menu.php:98
@@ -14397,12 +14397,12 @@ msgstr "Šablony %s"
 #: wp-admin/nav-menus.php:32
 #: wp-admin/nav-menus.php:750
 msgid "Menus"
-msgstr ""
+msgstr "Menu"
 
 #: wp-admin/menu.php:240
 msgctxt "theme editor"
 msgid "Editor"
-msgstr ""
+msgstr "Šéfredaktor"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/menu.php:256
@@ -14433,7 +14433,7 @@ msgstr "Editor souboru pluginu"
 #: wp-admin/menu.php:270
 #: wp-admin/users.php:25
 msgid "Users"
-msgstr ""
+msgstr "Uživatelé"
 
 #: wp-admin/menu.php:272
 #: wp-admin/menu.php:284
@@ -14467,7 +14467,7 @@ msgstr "Vytvořit nového uživatele"
 #: wp-admin/menu.php:335
 #: wp-admin/tools.php:43
 msgid "Tools"
-msgstr ""
+msgstr "Nástroje"
 
 #: wp-admin/menu.php:336
 msgid "Available Tools"
@@ -14489,7 +14489,7 @@ msgstr "Síť webů"
 #: wp-admin/menu.php:350
 #: wp-admin/options.php:22
 msgid "Settings"
-msgstr ""
+msgstr "Nastavení"
 
 #: wp-admin/menu.php:351
 msgctxt "settings screen"
@@ -14516,7 +14516,7 @@ msgstr "Aktuálně používaná šablona nepodporuje přímé zobrazení naviga�
 #: wp-admin/themes.php:15
 #: wp-admin/widgets.php:18
 msgid "Sorry, you are not allowed to edit theme options on this site."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro úpravy možností šablony na tomto webu."
 
 #: wp-admin/nav-menus.php:285
 msgid "The menu item has been successfully deleted."
@@ -14541,45 +14541,45 @@ msgstr "Polohy menu byly aktualizovány."
 
 #: wp-admin/nav-menus.php:544
 msgid "Move up one"
-msgstr ""
+msgstr "Posunout nahoru"
 
 #: wp-admin/nav-menus.php:545
 msgid "Move down one"
-msgstr ""
+msgstr "Posunout dolů"
 
 #: wp-admin/nav-menus.php:546
 msgid "Move to the top"
-msgstr ""
+msgstr "Posunout na začátek"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:548
 msgid "Move under %s"
-msgstr ""
+msgstr "Zařadit pod položku: %s"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:550
 msgid "Move out from under %s"
-msgstr ""
+msgstr "Zrušit zařazení pod položkou: %s"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:552
 msgid "Under %s"
-msgstr ""
+msgstr "Zařadit (%s)"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:554
 msgid "Out from under %s"
-msgstr ""
+msgstr "Zrušit zařazení (%s)"
 
 #. translators: 1: Item name, 2: Item position, 3: Total number of items.
 #: wp-admin/nav-menus.php:556
 msgid "%1$s. Menu item %2$d of %3$d."
-msgstr ""
+msgstr "%1$s (%2$d. položka menu z celkem %3$d)."
 
 #. translators: 1: Item name, 2: Item position, 3: Parent item name.
 #: wp-admin/nav-menus.php:558
 msgid "%1$s. Sub item number %2$d under %3$s."
-msgstr ""
+msgstr "%1$s (%2$d. položka menu zařazená pod %3$s)."
 
 #. translators: %s: Item name.
 #: wp-admin/nav-menus.php:560
@@ -14593,7 +14593,7 @@ msgstr "Smazaná položka menu: %s."
 
 #: wp-admin/nav-menus.php:563
 msgid "Menu item added"
-msgstr ""
+msgstr "Položka menu byla přidána"
 
 #: wp-admin/nav-menus.php:564
 msgid "Menu item removed"
@@ -14601,11 +14601,11 @@ msgstr "Položka nabídky odstraněna"
 
 #: wp-admin/nav-menus.php:565
 msgid "Menu item moved up"
-msgstr ""
+msgstr "Položka menu byla posunuta nahoru"
 
 #: wp-admin/nav-menus.php:566
 msgid "Menu item moved down"
-msgstr ""
+msgstr "Položka menu byla posunuta dolů"
 
 #: wp-admin/nav-menus.php:567
 msgid "Menu item moved to the top"
@@ -14613,11 +14613,11 @@ msgstr "Položka nabídky přesunuta nahoru"
 
 #: wp-admin/nav-menus.php:568
 msgid "Menu item moved out of submenu"
-msgstr ""
+msgstr "Položka menu byla posunuta na vyšší úroveň"
 
 #: wp-admin/nav-menus.php:569
 msgid "Menu item is now a sub-item"
-msgstr ""
+msgstr "Položka menu byla posunuta na nižší úroveň"
 
 #: wp-admin/nav-menus.php:570
 msgid "menu position"
@@ -14775,7 +14775,7 @@ msgstr "Upravit"
 #. translators: Hidden accessibility text.
 #: wp-admin/nav-menus.php:867
 msgid "Edit selected menu"
-msgstr ""
+msgstr "Upravit vybrané menu"
 
 #: wp-admin/nav-menus.php:888
 msgctxt "menu"
@@ -14821,12 +14821,12 @@ msgstr "Struktura menu"
 
 #: wp-admin/nav-menus.php:1067
 msgid "Menu Name"
-msgstr ""
+msgstr "Název menu"
 
 #: wp-admin/nav-menus.php:1070
 #: wp-admin/nav-menus.php:1207
 msgid "Create Menu"
-msgstr ""
+msgstr "Vytvořit menu"
 
 #: wp-admin/nav-menus.php:1070
 #: wp-admin/nav-menus.php:1207
@@ -14868,7 +14868,7 @@ msgstr "Automatické přidávání stránek"
 
 #: wp-admin/nav-menus.php:1162
 msgid "Automatically add new top-level pages to this menu"
-msgstr ""
+msgstr "Automaticky přidávat nově publikované hlavní stránky do menu"
 
 #: wp-admin/nav-menus.php:1169
 msgid "Display location"
@@ -14882,7 +14882,7 @@ msgstr "(Aktuálně umístěno: %s)"
 
 #: wp-admin/nav-menus.php:1232
 msgid "Delete Menu"
-msgstr ""
+msgstr "Smazat menu"
 
 #: wp-admin/options-discussion.php:12
 #: wp-admin/options-general.php:16
@@ -15180,7 +15180,7 @@ msgstr "Další nový web v rámci sítě %s"
 
 #: wp-admin/options-general.php:82
 msgid "Tagline"
-msgstr ""
+msgstr "Popis webu"
 
 #: wp-admin/options-general.php:84
 msgid "In a few words, explain what this site is about."
@@ -15231,15 +15231,15 @@ msgstr ""
 #. translators: %s: Site Icon size in pixels.
 #: wp-admin/options-general.php:189
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "Ikona webu je to, co vidíte v tabech prohlížeče, v panelu záložek a ve WordPress mobilních aplikacích. Měla by být čtvercová a široká alespoň %s pixelů."
 
 #: wp-admin/options-general.php:212
 msgid "ClassicPress Address (URL)"
-msgstr ""
+msgstr "ClassicPress adresa (URL)"
 
 #: wp-admin/options-general.php:217
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "Úvodní stránka webu (URL)"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
@@ -15275,7 +15275,7 @@ msgstr ""
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:645
 msgid "Learn more."
-msgstr ""
+msgstr "Zjistěte více."
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
@@ -15351,7 +15351,7 @@ msgstr "V tomto časovém pásmu se letní čas nevyužívá."
 #: wp-admin/options-general.php:507
 #: wp-admin/options-general.php:512
 msgid "Date Format"
-msgstr ""
+msgstr "Formát data"
 
 #: wp-admin/options-general.php:540
 #: wp-admin/options-general.php:588
@@ -15377,7 +15377,7 @@ msgstr "Náhled:"
 #: wp-admin/options-general.php:557
 #: wp-admin/options-general.php:562
 msgid "Time Format"
-msgstr ""
+msgstr "Formát času"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:590
@@ -15503,11 +15503,11 @@ msgstr "Velikost náhledu"
 
 #: wp-admin/options-media.php:101
 msgid "Width"
-msgstr ""
+msgstr "Šířka"
 
 #: wp-admin/options-media.php:104
 msgid "Height"
-msgstr ""
+msgstr "Výška"
 
 #: wp-admin/options-media.php:108
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
@@ -16024,11 +16024,11 @@ msgstr "Kódování webu a RSS"
 #: wp-admin/options-reading.php:87
 #: wp-admin/options-reading.php:92
 msgid "Your homepage displays"
-msgstr ""
+msgstr "Na úvodní stránce zobrazit"
 
 #: wp-admin/options-reading.php:97
 msgid "Your latest posts"
-msgstr ""
+msgstr "Nejnovější příspěvky"
 
 #. translators: %s: URL to Pages screen.
 #: wp-admin/options-reading.php:105
@@ -16181,7 +16181,7 @@ msgstr ""
 
 #: wp-admin/options.php:231
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "Zvažte tvorbu kódu pro více lidí (více komplexního)."
 
 #. translators: %s: The options page name.
 #: wp-admin/options.php:256
@@ -16215,7 +16215,7 @@ msgstr "Tato stránka umožňuje přímý přístup k nastavení webu. Nesprávn
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -16236,22 +16236,22 @@ msgstr "Pro práci s PHP soubory, můžete použít rozevírací seznam manuálu
 #: wp-admin/plugin-editor.php:130
 #: wp-admin/theme-editor.php:33
 msgid "When using a keyboard to navigate:"
-msgstr ""
+msgstr "Pomocí klávesnice se můžete pohybovat:"
 
 #: wp-admin/plugin-editor.php:132
 #: wp-admin/theme-editor.php:35
 msgid "In the editing area, the Tab key enters a tab character."
-msgstr ""
+msgstr "V oblasti editoru, klávesou Tab vložíte tabulátor."
 
 #: wp-admin/plugin-editor.php:133
 #: wp-admin/theme-editor.php:36
 msgid "To move away from this area, press the Esc key followed by the Tab key."
-msgstr ""
+msgstr "Pro opuštění této oblasti stiskněte klávesu Esc následovanou klávesou Tab."
 
 #: wp-admin/plugin-editor.php:134
 #: wp-admin/theme-editor.php:37
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
-msgstr ""
+msgstr "Uživatelé čteček obrazovky: pokud jste v režimu formuláře, možná budete muset stisknout klávesu Esc dvakrát."
 
 #: wp-admin/plugin-editor.php:136
 msgid "If you want to make changes but do not want them to be overwritten when the plugin is updated, you may be ready to think about writing your own plugin. For information on how to edit plugins, write your own from scratch, or just better understand their anatomy, check out the links below."
@@ -16368,7 +16368,7 @@ msgstr "Nové pluginy můžete nainstalovat tak, že budete vyhledávat nebo pro
 #: wp-admin/theme-install.php:116
 #: wp-admin/themes.php:138
 msgid "The search results will be updated as you type."
-msgstr ""
+msgstr "Výsledky vyhledávání budou průběžně aktualizovány podle zadaného výrazu."
 
 #: wp-admin/plugin-install.php:107
 msgid "Adding Plugins"
@@ -16416,7 +16416,7 @@ msgstr "Instalace pluginů"
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
 msgid "Sorry, you are not allowed to activate this plugin."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro aktivaci tohoto pluginu."
 
 #: wp-admin/plugins.php:92
 msgid "Sorry, you are not allowed to activate plugins for this site."
@@ -16432,7 +16432,7 @@ msgstr "Aktualizovat pluginy"
 
 #: wp-admin/plugins.php:199
 msgid "Sorry, you are not allowed to deactivate this plugin."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro deaktivaci tohoto pluginu."
 
 #: wp-admin/plugins.php:226
 msgid "Sorry, you are not allowed to deactivate plugins for this site."
@@ -16557,7 +16557,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/manage-plugins/\">
 #: wp-admin/update-core.php:292
 #: wp-admin/update-core.php:311
 msgid "Plugins"
-msgstr ""
+msgstr "Pluginy"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:612
@@ -16682,7 +16682,7 @@ msgstr "Plugin Press This není nainstalován. Nainstalujte jej z <a href=\"%s\"
 
 #: wp-admin/press-this.php:74
 msgid "The Press This plugin is required."
-msgstr ""
+msgstr "Plugin Press This je vyžadován."
 
 #: wp-admin/press-this.php:75
 #: wp-admin/press-this.php:81
@@ -16883,7 +16883,7 @@ msgstr "Pokud by automatické vytvoření konfiguračního souboru z nějakého 
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-admin/setup-config.php:195
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr ""
+msgstr "Potřebujete další pomoc? <a href=\"%1$s\">Přečtěte si článek podpory na %2$s</a>."
 
 #: wp-admin/setup-config.php:196
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
@@ -17256,7 +17256,7 @@ msgstr "Nahrát šablonu"
 
 #: wp-admin/theme-install.php:64
 msgid "Back"
-msgstr ""
+msgstr "Zpět"
 
 #. translators: %s: Support forums URL.
 #: wp-admin/theme-install.php:67
@@ -17274,7 +17274,7 @@ msgstr "Počet nalezených šablon: %d"
 #: wp-admin/themes.php:237
 #: wp-admin/themes.php:650
 msgid "No themes found. Try a different search."
-msgstr ""
+msgstr "Nebyly nalezeny žádné šablony. Zkuste to znovu s nějakým dalším klíčovým slovem."
 
 #: wp-admin/theme-install.php:75
 msgid "Expand Sidebar"
@@ -17351,7 +17351,7 @@ msgstr "Zrušit aktuální filtry"
 #: wp-admin/theme-install.php:230
 #: wp-admin/js/color-picker.js:154
 msgid "Clear"
-msgstr ""
+msgstr "Vymazat"
 
 #: wp-admin/theme-install.php:233
 msgid "Filtering by:"
@@ -17423,7 +17423,7 @@ msgstr "Nemáte dostatečné oprávnění pro zrušení automatické aktualizace
 #: wp-admin/update-core.php:463
 #: wp-admin/update-core.php:476
 msgid "Themes"
-msgstr ""
+msgstr "Šablony"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
@@ -17506,7 +17506,7 @@ msgstr "Hledat instalované šablony..."
 
 #: wp-admin/themes.php:250
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-admin/themes.php:254
 msgctxt "theme"
@@ -17562,7 +17562,7 @@ msgstr "Nová verze je dostupná. <button class=\"button-link\" type=\"button\">
 #: wp-admin/themes.php:447
 #: wp-admin/themes.php:828
 msgid "New version available."
-msgstr ""
+msgstr "Je dostupná nová verze."
 
 #. translators: %s: Theme name.
 #: wp-admin/themes.php:590
@@ -17575,7 +17575,7 @@ msgstr "Zobrazit detaily šablony pro %s"
 #: wp-admin/themes.php:648
 #: wp-admin/themes.php:974
 msgid "Theme Details"
-msgstr ""
+msgstr "Podrobnosti"
 
 #: wp-admin/themes.php:603
 #: wp-admin/themes.php:985
@@ -18114,7 +18114,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "Odebrat"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -18174,7 +18174,7 @@ msgstr "Pokud chcete smazat několik mediálních souborů najednou, tak stačí
 
 #: wp-admin/upload.php:166
 msgid "Attachment Details"
-msgstr ""
+msgstr "Podrobné informace o souboru"
 
 #: wp-admin/upload.php:168
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
@@ -18200,7 +18200,7 @@ msgstr "Pro zobrazení knihovny médií v podobě pravidelné mřížky je vyža
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
-msgstr ""
+msgstr "Filtrovat média"
 
 #: wp-admin/upload.php:344
 msgid "Media items navigation"
@@ -18213,7 +18213,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "z celkem"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -18222,29 +18222,29 @@ msgstr ""
 
 #: wp-admin/upload.php:507
 msgid "No media items found."
-msgstr ""
+msgstr "Nebyly nalezeny žádné mediální soubory."
 
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Upravit předchozí mediální soubor"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "Upravit následující mediální soubor"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "Zavřít dialogové okno"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
-msgstr ""
+msgstr "Podrobné informace o souboru"
 
 #: wp-admin/upload.php:547
 msgid "Attachment Preview"
-msgstr ""
+msgstr "Náhled přílohy"
 
 #: wp-admin/upload.php:548
 msgid "Media Navigation"
@@ -18252,7 +18252,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Nahráno:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18272,11 +18272,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "Stránka se zobrazením souboru"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "Upravit další informace"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
@@ -18333,7 +18333,7 @@ msgstr "Seznam mediálních položek"
 #: wp-admin/user-edit.php:27
 #: wp-admin/user-edit.php:29
 msgid "Invalid user ID."
-msgstr ""
+msgstr "Neplatné ID uživatele."
 
 #. translators: %s: User's display name.
 #: wp-admin/user-edit.php:44
@@ -18379,7 +18379,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/users-your-profile
 #: wp-admin/users.php:144
 #: wp-admin/users.php:243
 msgid "Sorry, you are not allowed to edit this user."
-msgstr ""
+msgstr "Nemůžete bohužel upravovat tohoto uživatele."
 
 #: wp-admin/user-edit.php:205
 msgid "This user has super admin privileges."
@@ -18429,7 +18429,7 @@ msgstr "Vypnout zvýrazňování syntaxe během úprav kódu"
 
 #: wp-admin/user-edit.php:364
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Klávesové zkratky"
 
 #: wp-admin/user-edit.php:368
 msgid "Enable keyboard shortcuts for comment moderation."
@@ -18437,7 +18437,7 @@ msgstr "Povolit klávesové zkratky pro schvalování komentářů."
 
 #: wp-admin/user-edit.php:376
 msgid "Toolbar"
-msgstr ""
+msgstr "Navigační lišta"
 
 #: wp-admin/user-edit.php:380
 msgid "Show Toolbar when viewing site"
@@ -18447,7 +18447,7 @@ msgstr "Zobrazovat navigační lištu při prohlížení webu"
 #: wp-admin/user-edit.php:393
 #: wp-admin/user-new.php:567
 msgid "Language"
-msgstr ""
+msgstr "Jazyky"
 
 #: wp-admin/user-edit.php:454
 msgid "Usernames cannot be changed."
@@ -18495,7 +18495,7 @@ msgstr "Právě probíhá změna vaší e-mailové adresy na %s."
 #: wp-admin/user-edit.php:646
 #: wp-admin/user-new.php:556
 msgid "Website"
-msgstr ""
+msgstr "Webová stránka"
 
 #: wp-admin/user-edit.php:688
 msgid "About Yourself"
@@ -18556,7 +18556,7 @@ msgstr "Zadejte ještě jednou nové heslo."
 
 #: wp-admin/user-edit.php:806
 msgid "Password Reset"
-msgstr ""
+msgstr "Vytvoření nového hesla"
 
 #: wp-admin/user-edit.php:810
 msgid "Send Reset Link"
@@ -18849,7 +18849,7 @@ msgstr "Odeslat novému uživateli e-mail s informacemi o jeho účtu."
 
 #: wp-admin/users.php:16
 msgid "Sorry, you are not allowed to list users."
-msgstr ""
+msgstr "Nemůžete bohužel prohlížet registrované uživatele."
 
 #: wp-admin/users.php:35
 msgid "This screen lists all the existing users for your site. Each user has one of five defined roles as set by the site admin: Site Administrator, Editor, Author, Contributor, or Subscriber. Users with roles other than Administrator will see fewer options in the dashboard navigation when they are logged in, based on their role."
@@ -19231,7 +19231,7 @@ msgstr "Vybrat barvu"
 
 #: wp-admin/js/color-picker.js:149
 msgid "Default"
-msgstr ""
+msgstr "Výchozí"
 
 #: wp-admin/js/color-picker.js:150
 msgid "Select default color"
@@ -19312,7 +19312,7 @@ msgstr "Při ukládání změn došlo k chybě."
 #: wp-admin/js/media.js:735
 #: wp-admin/js/post.js:1317
 msgid "The file URL has been copied to your clipboard"
-msgstr ""
+msgstr "URL souboru byla zkopírována do schránky"
 
 #: wp-admin/js/nav-menu.js:693
 msgid "You are about to permanently delete this menu.\n"
@@ -19323,7 +19323,7 @@ msgstr "Chystáte se nenávratně smazat zvolené menu.\n"
 #: wp-admin/js/nav-menu.js:1216
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
-msgstr ""
+msgstr "(žádný název)"
 
 #. translators: 1: Deprecated function name, 2: Version number, 3: Alternative function name.
 #: wp-admin/js/password-strength-meter.js:66
@@ -19350,7 +19350,7 @@ msgstr "Nebyly nalezeny žádné další komentáře."
 #: wp-admin/js/post.js:153
 #: wp-admin/js/set-post-thumbnail.js:18
 msgid "Could not set that as the thumbnail image. Try a different attachment."
-msgstr ""
+msgstr "Nepodařilo se nastavit tento soubor jako náhledový obrázek. Zkuste to prosím s jiným souborem."
 
 #: wp-admin/js/post.js:482
 msgid "Saving Draft…"
@@ -19359,7 +19359,7 @@ msgstr "Ukládám koncept…"
 #: wp-admin/js/post.js:509
 #: wp-admin/js/theme-plugin-editor.js:71
 msgid "The changes you made will be lost if you navigate away from this page."
-msgstr ""
+msgstr "Provedené změny budou ztraceny, pokud opustíte tuto stránku."
 
 #: wp-admin/js/post.js:790
 msgid "Schedule for:"
@@ -19505,7 +19505,7 @@ msgstr "Výraz přidán."
 
 #: wp-admin/js/tags.js:58
 msgid "Sorry, you are not allowed to do that."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro provedení této akce."
 
 #: wp-admin/js/theme-plugin-editor.js:230
 msgid "Something went wrong. Your change may not have been saved. Please try again. There is also a chance that you may need to manually fix and upload the file over FTP."
@@ -19524,9 +19524,9 @@ msgstr[3] ""
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Dostupná %s nová aktualizace"
+msgstr[1] "Dostupné %s nové aktualizace"
+msgstr[2] "Dostupných %s nových aktualizací"
 msgstr[3] ""
 
 #. translators: %s: Plugin name and version.
@@ -19759,7 +19759,7 @@ msgstr "Požadavek nemohl být dokončen."
 
 #: wp-admin/js/user-profile.js:81
 msgid "Show password"
-msgstr ""
+msgstr "Zobrazit heslo"
 
 #: wp-admin/js/user-profile.js:476
 msgid "Your new password has not been saved."
@@ -19769,5 +19769,5 @@ msgstr "Nově zvolené heslo zatím nebylo uloženo."
 #: wp-admin/js/widgets.js:465
 #: wp-admin/js/widgets.js:581
 msgid "Saved"
-msgstr ""
+msgstr "Uloženo"
 

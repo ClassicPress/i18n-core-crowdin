@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-02-06 17:12\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2993,7 +2993,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "Archivo"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3045,7 +3045,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
-msgstr ""
+msgstr "Imagen destacada"
 
 #: wp-admin/includes/ajax-actions.php:3426
 msgid "Used In"
@@ -3053,7 +3053,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3428
 msgid "Uploaded to"
-msgstr ""
+msgstr "Subido a"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3433
@@ -3066,7 +3066,7 @@ msgstr "No hay comentarios"
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "Texto alternativo"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -6203,7 +6203,7 @@ msgstr "Archivo"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "Imagen destacada"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
@@ -6219,17 +6219,17 @@ msgstr "Subido a"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Texto alternativo"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "Leyenda"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6336,7 +6336,7 @@ msgstr "Edición en lote"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Separa las etiquetas con comas"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -16053,7 +16053,7 @@ msgstr ""
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Copiar"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -17257,7 +17257,7 @@ msgstr "Temas"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Esta pantalla se utiliza para gestionar los temas que tienes instalados. Además del (los) tema(s) por defecto incluidos en tu instalación de ClassicPress, los temas son diseñados y desarrollados por terceros."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17934,7 +17934,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "Anular selección"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -18014,7 +18014,7 @@ msgstr ""
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "La vista de cuadrícula de la biblioteca de medios necesita JavaScript. <a href=\"%s\">Cambia a vista de lista</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -18031,7 +18031,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "de"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -18045,16 +18045,16 @@ msgstr ""
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Editar el medio anterior"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "Editar el siguiente medio"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "Cerrar diálogo"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
@@ -18070,7 +18070,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Subido el:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18090,11 +18090,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "Ver página de adjuntos"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "Editar más detalles"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-02-06 17:13\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -175,7 +175,7 @@ msgstr ""
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPress versi %s</strong> mengatasi beberapa kendala keamanan."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -2967,7 +2967,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "Berkas"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3019,7 +3019,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
-msgstr ""
+msgstr "Gambar Unggulan"
 
 #: wp-admin/includes/ajax-actions.php:3426
 msgid "Used In"
@@ -3027,7 +3027,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3428
 msgid "Uploaded to"
-msgstr ""
+msgstr "Terunggah ke"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3433
@@ -3040,7 +3040,7 @@ msgstr "Tidak ada Komentar"
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "Teks Alt"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -6168,7 +6168,7 @@ msgstr "Berkas"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "Gambar Unggulan"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
@@ -6184,17 +6184,17 @@ msgstr "Terunggah ke"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Teks Alt"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "Keterangan"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "Deskripsi"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6301,7 +6301,7 @@ msgstr "Penyuntingan Massal"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Pisahkan tag dengan koma"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -15991,7 +15991,7 @@ msgstr ""
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Salin"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -17191,7 +17191,7 @@ msgstr "Tema"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Layar ini berguna untuk mengelola tema-tema yang Anda instal. Selain tema-tema asal yang disertakan dalam instalasi ClassicPress Anda, tema-tema lainnya dirancang dan dibangun oleh pihak ketiga."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17863,7 +17863,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "Batalkan Pilihan"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -17943,7 +17943,7 @@ msgstr ""
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "Tampilan kisi-kisi untuk Pustaka Media membutuhkan JavaScript. <a href=\"%s\">Ubah ke tampilan daftar</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -17960,7 +17960,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "dari"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -17974,16 +17974,16 @@ msgstr ""
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Edit media sebelumnya"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "Edit media berikutnya"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "Tutup dialog"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
@@ -17999,7 +17999,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Diunggah pada:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18019,11 +18019,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "Tampilkan laman lampiran"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "Edit rincian"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."

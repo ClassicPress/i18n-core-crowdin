@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-02-16 17:08\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -67,7 +67,7 @@ msgstr ""
 #: wp-admin/credits.php:43
 #: wp-admin/freedoms.php:57
 msgid "About"
-msgstr ""
+msgstr "אודות"
 
 #: wp-admin/about.php:41
 #: wp-admin/credits.php:13
@@ -285,12 +285,12 @@ msgstr ""
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
 msgid "Network Admin: %s"
-msgstr ""
+msgstr "מנהל רשת: %s"
 
 #. translators: User dashboard screen title. %s: Network title.
 #: wp-admin/admin-header.php:43
 msgid "User Dashboard: %s"
-msgstr ""
+msgstr "לוח בקרה של המשתמש: %s"
 
 #. translators: Admin screen title. %s: Admin screen name.
 #: wp-admin/admin-header.php:50
@@ -310,7 +310,7 @@ msgstr ""
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
 msgid "Recovery Mode &#8212; %s"
-msgstr ""
+msgstr "מצב התאוששות &#8212; %s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: Post edited date, 2: Post edited time.
@@ -333,7 +333,7 @@ msgstr ""
 #: wp-admin/options-general.php:525
 #: wp-admin/update-core.php:896
 msgid "F j, Y"
-msgstr ""
+msgstr "j בF Y"
 
 #. translators: Comment time format. See https://www.php.net/manual/datetime.format.php
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
@@ -354,7 +354,7 @@ msgstr ""
 #: wp-admin/options-general.php:493
 #: wp-admin/options-general.php:573
 msgid "g:i a"
-msgstr ""
+msgstr "G:i"
 
 #: wp-admin/admin.php:262
 msgid "Invalid plugin page."
@@ -383,7 +383,7 @@ msgstr ""
 #: wp-admin/media-upload.php:20
 #: wp-admin/upload.php:13
 msgid "Sorry, you are not allowed to upload files."
-msgstr ""
+msgstr "אין לך הרשאות להעלות קבצים."
 
 #: wp-admin/async-upload.php:46
 #: wp-admin/edit.php:18
@@ -394,13 +394,13 @@ msgstr ""
 #: wp-admin/post.php:286
 #: wp-admin/post.php:315
 msgid "Invalid post type."
-msgstr ""
+msgstr "סוג תוכן שגוי."
 
 #: wp-admin/async-upload.php:72
 #: wp-admin/includes/media.php:3308
 #: wp-admin/upload.php:627
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "העתק קישור ללוח"
 
 #: wp-admin/async-upload.php:73
 #: wp-admin/includes/ajax-actions.php:3405
@@ -411,7 +411,7 @@ msgstr ""
 #: wp-admin/site-health-info.php:59
 #: wp-admin/upload.php:628
 msgid "Copied!"
-msgstr ""
+msgstr "הועתק!"
 
 #: wp-admin/async-upload.php:77
 msgctxt "media item"
@@ -429,12 +429,12 @@ msgstr "הצלחה"
 #: wp-admin/includes/file.php:344
 #: wp-admin/index.php:166
 msgid "Dismiss"
-msgstr ""
+msgstr "סגור"
 
 #. translators: %s: Name of the file that failed to upload.
 #: wp-admin/async-upload.php:124
 msgid "&#8220;%s&#8221; has failed to upload."
-msgstr ""
+msgstr "נכשל ניסיון העלאת הקובץ \"%s\"."
 
 #: wp-admin/authorize-application.php:66
 msgid "Authorize Application"
@@ -461,11 +461,11 @@ msgstr "חזרה"
 
 #: wp-admin/authorize-application.php:106
 msgid "Application passwords are not available for your account. Please contact the site administrator for assistance."
-msgstr ""
+msgstr "סיסמאות האפליקציה לא זמינות עבור חשבונך. יש ליצור קשר עם מנהל האתר לקבלת סיוע."
 
 #: wp-admin/authorize-application.php:108
 msgid "Application passwords are not available."
-msgstr ""
+msgstr "סיסמאות אפליקציות לא זמינות."
 
 #: wp-admin/authorize-application.php:152
 msgid "An application would like to connect to your account."
@@ -697,7 +697,7 @@ msgstr ""
 #: wp-admin/comment.php:291
 #: wp-admin/edit-comments.php:278
 msgid "Invalid comment ID."
-msgstr ""
+msgstr "מספר תגובה שגוי."
 
 #: wp-admin/comment.php:79
 #: wp-admin/comment.php:291
@@ -705,11 +705,11 @@ msgstr ""
 #: wp-admin/plugin-editor.php:354
 #: wp-admin/theme-editor.php:406
 msgid "Go back"
-msgstr ""
+msgstr "חזרה"
 
 #: wp-admin/comment.php:83
 msgid "Sorry, you are not allowed to edit this comment."
-msgstr ""
+msgstr "אין לך הרשאות לערוך תגובה זו."
 
 #: wp-admin/comment.php:87
 msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
@@ -742,7 +742,7 @@ msgstr "הינך עומד למחוק את התגובה הבאה:"
 #: wp-admin/includes/meta-boxes.php:367
 #: wp-admin/includes/meta-boxes.php:471
 msgid "Move to Trash"
-msgstr ""
+msgstr "להעביר לפח"
 
 #: wp-admin/comment.php:141
 msgid "You are about to delete the following comment:"
@@ -800,7 +800,7 @@ msgstr "זהירות:"
 #: wp-admin/includes/plugin-install.php:306
 #: wp-admin/includes/theme-install.php:109
 msgid "Author"
-msgstr ""
+msgstr "מאת"
 
 #: wp-admin/comment.php:189
 #: wp-admin/edit-form-comment.php:63
@@ -810,7 +810,7 @@ msgstr ""
 #: wp-admin/user-new.php:429
 #: wp-admin/user-new.php:543
 msgid "Email"
-msgstr ""
+msgstr "אימייל"
 
 #: wp-admin/comment.php:195
 #: wp-admin/edit-form-comment.php:69
@@ -821,7 +821,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "כתובת אינטרנט"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:200
@@ -833,7 +833,7 @@ msgstr "בתגובה על"
 #: wp-admin/comment.php:218
 #: wp-admin/includes/class-wp-comments-list-table.php:926
 msgid "In reply to %s."
-msgstr ""
+msgstr "בתגובה על %s."
 
 #: wp-admin/comment.php:226
 msgid "Submitted on"
@@ -851,7 +851,7 @@ msgstr "נשלח בתאריך"
 #: wp-admin/includes/meta-boxes.php:232
 #: wp-admin/includes/meta-boxes.php:438
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s בשעה %2$s"
 
 #. translators: Comment date format. See https://www.php.net/manual/datetime.format.php
 #. translators: Date format in table columns, see https://www.php.net/manual/datetime.format.php
@@ -862,13 +862,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:611
 #: wp-admin/includes/class-wp-posts-list-table.php:1170
 msgid "Y/m/d"
-msgstr ""
+msgstr "d/m/Y"
 
 #. translators: Field name in comment form.
 #: wp-admin/comment.php:246
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "התגובה שלך"
 
 #: wp-admin/comment.php:250
 #: wp-admin/edit-form-comment.php:159
@@ -888,7 +888,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:292
 #: wp-admin/includes/post.php:1548
 msgid "Edit"
-msgstr ""
+msgstr "עריכה"
 
 #: wp-admin/comment.php:259
 #: wp-admin/includes/class-walker-nav-menu-edit.php:304
@@ -915,7 +915,7 @@ msgstr ""
 #: wp-admin/widgets-form.php:560
 #: wp-admin/js/post.js:1027
 msgid "Cancel"
-msgstr ""
+msgstr "בטל"
 
 #: wp-admin/comment.php:294
 #: wp-admin/edit-comments.php:281
@@ -963,11 +963,11 @@ msgstr ""
 #: wp-admin/users.php:15
 #: wp-admin/widgets.php:17
 msgid "You need a higher level of permission."
-msgstr ""
+msgstr "אתה צריך הרשאות משתמש גבוהות יותר."
 
 #: wp-admin/customize.php:18
 msgid "Sorry, you are not allowed to customize this site."
-msgstr ""
+msgstr "אין לך הרשאות לערוך עיצוב באמצעות ההתאמה האישית."
 
 #: wp-admin/customize.php:35
 msgid "Sorry, you are not allowed to edit this changeset."
@@ -994,7 +994,7 @@ msgstr "התאמת שינויים חדשים"
 #: wp-admin/js/tags.js:62
 #: wp-admin/js/updates.js:1940
 msgid "Something went wrong."
-msgstr ""
+msgstr "משהו השתבש."
 
 #: wp-admin/customize.php:80
 msgid "This changeset cannot be further modified."
@@ -1012,17 +1012,17 @@ msgstr "טוען&hellip;"
 #: wp-admin/includes/meta-boxes.php:1623
 #: wp-admin/js/post.js:794
 msgid "Publish"
-msgstr ""
+msgstr "פרסום"
 
 #: wp-admin/customize.php:189
 msgid "Activate &amp; Publish"
-msgstr ""
+msgstr "הפעל ופרסם"
 
 #: wp-admin/customize.php:192
 #: wp-admin/customize.php:197
 #: wp-admin/edit-form-advanced.php:395
 msgid "Publish Settings"
-msgstr ""
+msgstr "פרסם הגדרות"
 
 #: wp-admin/customize.php:195
 #: wp-admin/theme-install.php:405
@@ -1043,7 +1043,7 @@ msgstr "לא ניתן להתקין"
 #: wp-admin/themes.php:998
 #: wp-admin/themes.php:1247
 msgid "Customize"
-msgstr ""
+msgstr "התאמה אישית"
 
 #: wp-admin/customize.php:203
 #: wp-admin/includes/class-custom-background.php:272
@@ -1058,7 +1058,7 @@ msgstr ""
 #: wp-admin/theme-install.php:427
 #: wp-admin/theme-install.php:592
 msgid "Preview"
-msgstr ""
+msgstr "תצוגה מקדימה"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:209
@@ -1068,13 +1068,13 @@ msgstr "סגור מסך התאמה וחזור חזרה לעמוד הקודם"
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-admin/customize.php:231
 msgid "You are customizing %s"
-msgstr ""
+msgstr "הינך משנה את %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:237
 #: wp-admin/includes/class-wp-screen.php:954
 msgid "Help"
-msgstr ""
+msgstr "עזרה"
 
 #: wp-admin/customize.php:244
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
@@ -1087,7 +1087,7 @@ msgstr ""
 #: wp-admin/customize.php:262
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
-msgstr ""
+msgstr "הסתר פקדים"
 
 #: wp-admin/customize.php:264
 msgctxt "short (~12 characters) label for hide controls button"
@@ -1096,7 +1096,7 @@ msgstr "הסתר פקדים"
 
 #: wp-admin/edit-comments.php:14
 msgid "Sorry, you are not allowed to edit comments."
-msgstr ""
+msgstr "אין לך הרשאות לערוך תגובות."
 
 #. translators: 1: Comments count, 2: Post title.
 #: wp-admin/edit-comments.php:156
@@ -1133,7 +1133,7 @@ msgstr "תגובות (%s)"
 #: wp-admin/includes/meta-boxes.php:1715
 #: wp-admin/js/edit-comments.js:220
 msgid "Comments"
-msgstr ""
+msgstr "תגובות"
 
 #: wp-admin/edit-comments.php:191
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the bulk actions."
@@ -1229,7 +1229,7 @@ msgstr[3] ""
 #: wp-admin/upload.php:71
 #: wp-admin/upload.php:92
 msgid "Undo"
-msgstr ""
+msgstr "ביטול פעולה אחרונה"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:312
@@ -1331,7 +1331,7 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:177
 #: wp-admin/edit-form-advanced.php:180
 msgid "Post updated."
-msgstr ""
+msgstr "הפוסט עודכן."
 
 #: wp-admin/edit-form-advanced.php:178
 #: wp-admin/edit-form-advanced.php:193
@@ -1350,7 +1350,7 @@ msgstr "הפוסט שוחזר לגרסה מתאריך %s."
 
 #: wp-admin/edit-form-advanced.php:183
 msgid "Post published."
-msgstr ""
+msgstr "הפוסט פורסם."
 
 #: wp-admin/edit-form-advanced.php:184
 msgid "Post saved."
@@ -1372,7 +1372,7 @@ msgstr "טיוטה עודכנה."
 #: wp-admin/edit-form-advanced.php:192
 #: wp-admin/edit-form-advanced.php:195
 msgid "Page updated."
-msgstr ""
+msgstr "העמוד עודכן."
 
 #. translators: %s: Date and time of the revision.
 #: wp-admin/edit-form-advanced.php:197
@@ -1381,7 +1381,7 @@ msgstr "העמוד שוחזר לגרסה מתאריך %s."
 
 #: wp-admin/edit-form-advanced.php:198
 msgid "Page published."
-msgstr ""
+msgstr "העמוד פורסם."
 
 #: wp-admin/edit-form-advanced.php:199
 msgid "Page saved."
@@ -1568,7 +1568,7 @@ msgstr "<strong>סדר</strong> - כברירת מחדל, עמודים מסודר
 
 #: wp-admin/edit-form-advanced.php:418
 msgid "Page Attributes"
-msgstr ""
+msgstr "מאפייני עמוד"
 
 #: wp-admin/edit-form-advanced.php:460
 msgctxt "Admin Post Navigation"
@@ -1633,7 +1633,7 @@ msgstr "קישור ישיר:"
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:53
 msgid "Comment Author"
-msgstr ""
+msgstr "מחבר התגובה"
 
 #: wp-admin/edit-form-comment.php:59
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:28
@@ -1643,13 +1643,13 @@ msgstr ""
 #: wp-admin/includes/template.php:488
 #: wp-admin/user-edit.php:449
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:84
 #: wp-admin/includes/template.php:469
 msgid "Comment"
-msgstr ""
+msgstr "התגובה שלך"
 
 #: wp-admin/edit-form-comment.php:105
 #: wp-admin/edit-link-form.php:30
@@ -1662,7 +1662,7 @@ msgstr ""
 #: wp-admin/js/widgets.js:204
 #: wp-admin/js/widgets.js:430
 msgid "Save"
-msgstr ""
+msgstr "שמירה"
 
 #: wp-admin/edit-form-comment.php:113
 #: wp-admin/export.php:234
@@ -1691,7 +1691,7 @@ msgstr "סטטוס תגובה"
 #: wp-admin/edit-form-comment.php:136
 msgctxt "comment status"
 msgid "Approved"
-msgstr ""
+msgstr "אושר"
 
 #: wp-admin/edit-form-comment.php:137
 msgctxt "comment status"
@@ -1701,7 +1701,7 @@ msgstr "בהמתנה"
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "תגובת זבל"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
@@ -1728,7 +1728,7 @@ msgstr "בתגובה על: %s"
 #. translators: %s: Comment link.
 #: wp-admin/edit-form-comment.php:214
 msgid "In reply to: %s"
-msgstr ""
+msgstr "בתגובה על: %s"
 
 #: wp-admin/edit-form-comment.php:242
 #: wp-admin/includes/ajax-actions.php:3398
@@ -1760,7 +1760,7 @@ msgstr "מחיקה"
 #: wp-admin/js/post.js:797
 #: wp-admin/js/post.js:820
 msgid "Update"
-msgstr ""
+msgstr "עדכון"
 
 #. translators: %s: URL to Links screen.
 #: wp-admin/edit-link-form.php:16
@@ -1780,28 +1780,28 @@ msgstr "<a href=\"%s\">קישורים</a> / הוספת קישור חדש"
 #: wp-admin/edit-link-form.php:23
 #: wp-admin/includes/meta-boxes.php:1177
 msgid "Add Link"
-msgstr ""
+msgstr "הוספת קישור"
 
 #: wp-admin/edit-link-form.php:31
 #: wp-admin/includes/class-wp-links-list-table.php:134
 msgid "Categories"
-msgstr ""
+msgstr "קטגוריות"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-link-form.php:32
 #: wp-admin/includes/meta-boxes.php:1260
 msgid "Target"
-msgstr ""
+msgstr "חלון (target)"
 
 #: wp-admin/edit-link-form.php:33
 #: wp-admin/includes/class-walker-nav-menu-edit.php:226
 #: wp-admin/includes/nav-menu.php:1138
 msgid "Link Relationship (XFN)"
-msgstr ""
+msgstr "קשר סמנטי (XFN)"
 
 #: wp-admin/edit-link-form.php:34
 msgid "Advanced"
-msgstr ""
+msgstr "אפשרויות נוספות"
 
 #: wp-admin/edit-link-form.php:68
 msgid "You can add or edit links on this screen by entering information in each of the boxes. Only the link&#8217;s web address and name (the text you want to display on your site as the link) are required fields."
@@ -1863,7 +1863,7 @@ msgstr ""
 #: wp-admin/themes.php:670
 #: wp-admin/upload.php:620
 msgid "Description"
-msgstr ""
+msgstr "תיאור"
 
 #: wp-admin/edit-link-form.php:142
 msgid "This will be shown when someone hovers over the link in the blogroll, or optionally below the link."
@@ -1896,7 +1896,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2938
 #: wp-admin/includes/media.php:2954
 msgid "None"
-msgstr ""
+msgstr "ללא"
 
 #: wp-admin/edit-tag-form.php:197
 #: wp-admin/edit-tags.php:504
@@ -1929,19 +1929,19 @@ msgstr ""
 #: wp-admin/edit-tags.php:19
 #: wp-admin/includes/class-wp-terms-list-table.php:57
 msgid "Invalid taxonomy."
-msgstr ""
+msgstr "טקסונומיה שגוי."
 
 #: wp-admin/edit-tags.php:23
 msgid "Sorry, you are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "אין לך הרשאות לערוך פריטים בטקסונומיה זו."
 
 #: wp-admin/edit-tags.php:29
 msgid "Sorry, you are not allowed to manage terms in this taxonomy."
-msgstr ""
+msgstr "אין לך הרשאות לשנות פריטים בטקסונומיה זו."
 
 #: wp-admin/edit-tags.php:86
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "אין לך הרשאות ליצור פריטים בטקסונומיה זו."
 
 #: wp-admin/edit-tags.php:117
 #: wp-admin/edit.php:176
@@ -2063,7 +2063,7 @@ msgstr "ניתן להמיר תגיות לקטגוריות בעזרת <a href=\"%
 #: wp-admin/edit.php:47
 #: wp-admin/post.php:135
 msgid "Sorry, you are not allowed to edit posts in this post type."
-msgstr ""
+msgstr "אין לך הרשאות לערוך תכנים מסוג זה."
 
 #: wp-admin/edit.php:123
 #: wp-admin/post.php:253
@@ -2093,7 +2093,7 @@ msgstr "שגיאה בשחזור הפריט מהפח."
 #: wp-admin/post.php:325
 #: wp-admin/upload.php:777
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "שגיאה במחיקת הקובץ המצורף."
 
 #: wp-admin/edit.php:185
 #: wp-admin/post.php:329
@@ -2294,7 +2294,7 @@ msgstr "אין לך הרשאות למחוק מידע באתר זה."
 #: wp-admin/erase-personal-data.php:107
 #: wp-admin/menu.php:342
 msgid "Erase Personal Data"
-msgstr ""
+msgstr "מחיקת מידע אישי"
 
 #: wp-admin/erase-personal-data.php:25
 msgid "This screen is where you manage requests to erase personal data."
@@ -2418,7 +2418,7 @@ msgstr "אין לך הרשאות ליצוא מידע אישי מאתר זה."
 #: wp-admin/export-personal-data.php:107
 #: wp-admin/menu.php:341
 msgid "Export Personal Data"
-msgstr ""
+msgstr "יצוא מידע אישי"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
@@ -2543,7 +2543,7 @@ msgstr "קובץ הייצוא יכלול את כל הפוסטים, העמודי�
 #: wp-admin/includes/class-wp-users-list-table.php:377
 msgctxt "post type general name"
 msgid "Posts"
-msgstr ""
+msgstr "פוסטים"
 
 #: wp-admin/export.php:193
 msgid "Categories:"
@@ -2590,7 +2590,7 @@ msgstr "החל מחודש:"
 #: wp-admin/privacy.php:220
 #: wp-admin/widgets-form.php:318
 msgid "&mdash; Select &mdash;"
-msgstr ""
+msgstr "&mdash; בחירה &mdash;"
 
 #: wp-admin/export.php:226
 #: wp-admin/export.php:278
@@ -2600,7 +2600,7 @@ msgstr "עד חודש:"
 
 #: wp-admin/export.php:247
 msgid "Pages"
-msgstr ""
+msgstr "עמודים"
 
 #. translators: Default privacy policy heading.
 #: wp-admin/export.php:308
@@ -2610,7 +2610,7 @@ msgstr ""
 #: wp-admin/menu.php:66
 #: wp-admin/menu.php:355
 msgid "Media"
-msgstr ""
+msgstr "מדיה"
 
 #: wp-admin/export.php:342
 msgid "Download Export File"
@@ -2779,7 +2779,7 @@ msgstr "מידע נוסף אודות %s"
 #: wp-admin/includes/class-wp-themes-list-table.php:270
 #: wp-admin/upload.php:578
 msgid "Details"
-msgstr ""
+msgstr "פרטים"
 
 #. translators: %s: URL to Add Plugins screen.
 #: wp-admin/import.php:227
@@ -2808,8 +2808,8 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:342
 msgid "%s Comment"
 msgid_plural "%s Comments"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "תגובה %s"
+msgstr[1] "%s תגובות"
 msgstr[2] ""
 msgstr[3] ""
 
@@ -2821,8 +2821,8 @@ msgstr[3] ""
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "תגובה %s בהמתנה"
+msgstr[1] "%s תגובות בהמתנה"
 msgstr[2] ""
 msgstr[3] ""
 
@@ -2836,8 +2836,8 @@ msgstr[3] ""
 #: wp-admin/js/updates.js:1070
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "פריט %s"
+msgstr[1] "%s פריטים"
 msgstr[2] ""
 msgstr[3] ""
 
@@ -2851,7 +2851,7 @@ msgstr "תגובה %d לא קיימת"
 #: wp-admin/js/media.js:280
 #: wp-admin/js/updates.js:1949
 msgid "An error has occurred. Please reload the page and try again."
-msgstr ""
+msgstr "התרחשה שגיאה. יש לטעון מחדש את העמוד ולנסות שנית."
 
 #: wp-admin/includes/ajax-actions.php:1255
 msgid "You cannot reply to a comment on a draft post."
@@ -2892,7 +2892,7 @@ msgstr "משתמש %s התווסף"
 #: wp-admin/includes/ajax-actions.php:1989
 #: wp-admin/includes/post.php:272
 msgid "Sorry, you are not allowed to edit this page."
-msgstr ""
+msgstr "אין לך הרשאות לערוך עמוד זה."
 
 #: wp-admin/includes/ajax-actions.php:1993
 #: wp-admin/includes/media.php:3768
@@ -2900,7 +2900,7 @@ msgstr ""
 #: wp-admin/includes/post.php:1964
 #: wp-admin/includes/post.php:1968
 msgid "Sorry, you are not allowed to edit this post."
-msgstr ""
+msgstr "אין לך הרשאות לערוך פוסט זה."
 
 #: wp-admin/includes/ajax-actions.php:2000
 msgid "Someone"
@@ -2927,7 +2927,7 @@ msgstr "הפריט לא עודכן."
 #: wp-admin/includes/class-wp-list-table.php:339
 #: wp-admin/includes/class-wp-themes-list-table.php:92
 msgid "No items found."
-msgstr ""
+msgstr "פריט לא נמצא."
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-media-list-table.php:1198
@@ -2938,7 +2938,7 @@ msgstr ""
 #: wp-admin/includes/media.php:2919
 #: wp-admin/upload.php:609
 msgid "Title"
-msgstr ""
+msgstr "כותרת"
 
 #: wp-admin/includes/ajax-actions.php:2179
 msgid "Type"
@@ -2950,13 +2950,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
 msgid "Date"
-msgstr ""
+msgstr "תאריך"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/class-wp-posts-list-table.php:1937
 #: wp-admin/includes/class-wp-privacy-requests-table.php:44
 msgid "Status"
-msgstr ""
+msgstr "סטטוס"
 
 #: wp-admin/includes/ajax-actions.php:2182
 #: wp-admin/includes/media.php:3289
@@ -2966,7 +2966,7 @@ msgstr ""
 #: wp-admin/js/inline-edit-post.js:356
 #: wp-admin/js/media.js:477
 msgid "(no title)"
-msgstr ""
+msgstr "(ללא כותרת)"
 
 #: wp-admin/includes/ajax-actions.php:2188
 #: wp-admin/includes/class-wp-posts-list-table.php:1180
@@ -2975,7 +2975,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:152
 #: wp-admin/js/post.js:835
 msgid "Published"
-msgstr ""
+msgstr "פורסם"
 
 #: wp-admin/includes/ajax-actions.php:2191
 #: wp-admin/includes/class-wp-posts-list-table.php:1185
@@ -2990,7 +2990,7 @@ msgstr "מתוזמן לפרסום"
 #: wp-admin/includes/meta-boxes.php:118
 #: wp-admin/includes/meta-boxes.php:158
 msgid "Pending Review"
-msgstr ""
+msgstr "ממתין לאישור"
 
 #: wp-admin/includes/ajax-actions.php:2197
 #: wp-admin/includes/class-wp-posts-list-table.php:1952
@@ -2998,7 +2998,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:160
 #: wp-admin/includes/meta-boxes.php:162
 msgid "Draft"
-msgstr ""
+msgstr "טיוטה"
 
 #: wp-admin/includes/ajax-actions.php:2430
 msgid "Upload failed. Please reload and try again."
@@ -3006,7 +3006,7 @@ msgstr "העלאה נכשלה. יש לטעון מחדש ולנסות שוב."
 
 #: wp-admin/includes/ajax-actions.php:2466
 msgid "Upload failed."
-msgstr ""
+msgstr "העלאה נכשלה."
 
 #: wp-admin/includes/ajax-actions.php:2509
 msgid "Sorry, you are not allowed to attach files to this post."
@@ -3042,7 +3042,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "קובץ"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3056,7 +3056,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-users-list-table.php:517
 #: wp-admin/includes/dashboard.php:808
 msgid "View"
-msgstr ""
+msgstr "הצגה"
 
 #: wp-admin/includes/ajax-actions.php:3404
 #: wp-admin/includes/class-wp-media-list-table.php:1018
@@ -3068,7 +3068,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3313
 #: wp-admin/upload.php:665
 msgid "Download file"
-msgstr ""
+msgstr "הורד קובץ"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3412
@@ -3115,7 +3115,7 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "טקסט אלטרנטיבי"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -3123,7 +3123,7 @@ msgstr ""
 #: wp-admin/includes/media.php:3208
 #: wp-admin/upload.php:616
 msgid "Caption"
-msgstr ""
+msgstr "כיתוב"
 
 #. translators: %s: URL that could not be embedded.
 #: wp-admin/includes/ajax-actions.php:3967
@@ -3172,7 +3172,7 @@ msgstr "אין לך הרשאות להתקין תבניות."
 #: wp-admin/includes/ajax-actions.php:4823
 #: wp-admin/includes/ajax-actions.php:4892
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
-msgstr ""
+msgstr "לא ניתן להתחבר למערכת הקבצים. יש לאשר את הפרטים."
 
 #: wp-admin/includes/ajax-actions.php:4483
 #: wp-admin/update.php:235
@@ -3198,7 +3198,7 @@ msgstr "אין לך הרשאות למחוק תבניות."
 #: wp-admin/themes.php:28
 #: wp-admin/themes.php:71
 msgid "The requested theme does not exist."
-msgstr ""
+msgstr "התבנית לא קיימת."
 
 #: wp-admin/includes/ajax-actions.php:4614
 msgid "Theme could not be deleted."
@@ -3216,7 +3216,7 @@ msgstr "לא הוגדר תוסף."
 #: wp-admin/update.php:176
 #: wp-admin/update.php:214
 msgid "Sorry, you are not allowed to install plugins on this site."
-msgstr ""
+msgstr "אין לך הרשאות להתקין תוספים באתר זה."
 
 #: wp-admin/includes/ajax-actions.php:4762
 #: wp-admin/update.php:29
@@ -3234,7 +3234,7 @@ msgstr "עדכון התוסף נכשל."
 #: wp-admin/includes/ajax-actions.php:4868
 #: wp-admin/plugins.php:269
 msgid "Sorry, you are not allowed to delete plugins for this site."
-msgstr ""
+msgstr "אין לך הרשאות למחוק תוספים באתר זה."
 
 #: wp-admin/includes/ajax-actions.php:4877
 #: wp-admin/plugins.php:629
@@ -3249,7 +3249,7 @@ msgstr "לא ניתן למחוק את התוסף."
 #: wp-admin/includes/ajax-actions.php:4996
 #: wp-admin/plugins.php:13
 msgid "Sorry, you are not allowed to manage plugins for this site."
-msgstr ""
+msgstr "אין לך הרשאות לשנות תוספים באתר זה."
 
 #: wp-admin/includes/ajax-actions.php:5045
 #: wp-admin/plugin-editor.php:188
@@ -3260,7 +3260,7 @@ msgstr "הקובץ נשמר בהצלחה"
 #: wp-admin/includes/ajax-actions.php:5059
 #: wp-admin/includes/ajax-actions.php:5249
 msgid "Missing request ID."
-msgstr ""
+msgstr "חסר ID בקשה."
 
 #: wp-admin/includes/ajax-actions.php:5065
 #: wp-admin/includes/ajax-actions.php:5255
@@ -3591,7 +3591,7 @@ msgstr ""
 #: wp-admin/includes/class-custom-background.php:66
 #: wp-admin/menu.php:220
 msgid "Background"
-msgstr ""
+msgstr "רקע"
 
 #: wp-admin/includes/class-custom-background.php:91
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
@@ -3636,7 +3636,7 @@ msgstr "הרקע עודכן. אפשר לראות איך זה נראה <a href=\"
 #: wp-admin/includes/class-custom-background.php:267
 #: wp-admin/includes/template.php:2331
 msgid "Background Image"
-msgstr ""
+msgstr "תמונת רקע"
 
 #: wp-admin/includes/class-custom-background.php:313
 #: wp-admin/includes/class-custom-image-header.php:721
@@ -3704,70 +3704,70 @@ msgstr "אפשרויות תצוגה"
 
 #: wp-admin/includes/class-custom-background.php:379
 msgid "Top Left"
-msgstr ""
+msgstr "עליון שמאל"
 
 #: wp-admin/includes/class-custom-background.php:383
 msgid "Top"
-msgstr ""
+msgstr "עליון"
 
 #: wp-admin/includes/class-custom-background.php:387
 msgid "Top Right"
-msgstr ""
+msgstr "עליון ימין"
 
 #: wp-admin/includes/class-custom-background.php:393
 #: wp-admin/includes/media.php:1174
 #: wp-admin/includes/media.php:2940
 msgid "Left"
-msgstr ""
+msgstr "שמאל"
 
 #: wp-admin/includes/class-custom-background.php:397
 #: wp-admin/includes/media.php:1175
 #: wp-admin/includes/media.php:2942
 msgid "Center"
-msgstr ""
+msgstr "מרכז"
 
 #: wp-admin/includes/class-custom-background.php:401
 #: wp-admin/includes/media.php:1176
 #: wp-admin/includes/media.php:2944
 msgid "Right"
-msgstr ""
+msgstr "ימין"
 
 #: wp-admin/includes/class-custom-background.php:407
 msgid "Bottom Left"
-msgstr ""
+msgstr "תחתון שמאל"
 
 #: wp-admin/includes/class-custom-background.php:411
 msgid "Bottom"
-msgstr ""
+msgstr "תחתון"
 
 #: wp-admin/includes/class-custom-background.php:415
 msgid "Bottom Right"
-msgstr ""
+msgstr "תחתון ימין"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:422
 #: wp-admin/includes/class-custom-background.php:426
 msgid "Image Position"
-msgstr ""
+msgstr "מיקום תמונה"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:446
 #: wp-admin/includes/class-custom-background.php:450
 msgid "Image Size"
-msgstr ""
+msgstr "גודל תמונה"
 
 #: wp-admin/includes/class-custom-background.php:454
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "מקורי"
 
 #: wp-admin/includes/class-custom-background.php:455
 msgid "Fit to Screen"
-msgstr ""
+msgstr "התאם למסך"
 
 #: wp-admin/includes/class-custom-background.php:456
 msgid "Fill Screen"
-msgstr ""
+msgstr "מסך מלא"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:462
@@ -3778,7 +3778,7 @@ msgstr "חזרה"
 
 #: wp-admin/includes/class-custom-background.php:470
 msgid "Repeat Background Image"
-msgstr ""
+msgstr "חזרה על תמונת רקע"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:475
@@ -3789,39 +3789,39 @@ msgstr "נגלל"
 
 #: wp-admin/includes/class-custom-background.php:483
 msgid "Scroll with Page"
-msgstr ""
+msgstr "גלול עם העמוד"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-custom-background.php:488
 #: wp-admin/includes/class-custom-background.php:492
 msgid "Background Color"
-msgstr ""
+msgstr "צבע רקע"
 
 #: wp-admin/includes/class-custom-background.php:637
 #: wp-admin/includes/image-edit.php:288
 #: wp-admin/includes/media.php:1216
 msgid "Thumbnail"
-msgstr ""
+msgstr "תמונה מוקטנת"
 
 #: wp-admin/includes/class-custom-background.php:638
 #: wp-admin/includes/media.php:1217
 msgid "Medium"
-msgstr ""
+msgstr "בינוני"
 
 #: wp-admin/includes/class-custom-background.php:639
 #: wp-admin/includes/media.php:1218
 msgid "Large"
-msgstr ""
+msgstr "גדול"
 
 #: wp-admin/includes/class-custom-background.php:640
 #: wp-admin/includes/media.php:1219
 msgid "Full Size"
-msgstr ""
+msgstr "גודל מלא"
 
 #: wp-admin/includes/class-custom-image-header.php:74
 #: wp-admin/menu.php:215
 msgid "Header"
-msgstr ""
+msgstr "כותרת"
 
 #: wp-admin/includes/class-custom-image-header.php:102
 msgid "This screen is used to customize the header section of your theme."
@@ -3836,7 +3836,7 @@ msgstr "ניתן לבחור מתמונות ברירת המחדל של התבני
 #: wp-admin/includes/template.php:2303
 #: wp-admin/includes/template.php:2310
 msgid "Header Image"
-msgstr ""
+msgstr "תמונת כותרת"
 
 #: wp-admin/includes/class-custom-image-header.php:112
 msgid "You can set a custom image header for your site. Simply upload the image and crop it, and the new header will go live immediately. Alternatively, you can use an image that has already been uploaded to your Media Library by clicking the &#8220;Choose Image&#8221; button."
@@ -4329,7 +4329,7 @@ msgstr "לא נמצאו תוספים חוקיים."
 #: wp-admin/themes.php:1268
 #: wp-admin/js/updates.js:1430
 msgid "Live Preview"
-msgstr ""
+msgstr "תצוגה מקדימה"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #: wp-admin/includes/class-theme-installer-skin.php:133
@@ -4352,7 +4352,7 @@ msgstr "תצוגה מקדימה: %s"
 #: wp-admin/js/updates.js:766
 #: wp-admin/js/updates.js:1419
 msgid "Activate"
-msgstr ""
+msgstr "הפעלה"
 
 #. translators: Hidden accessibility text. %s: Theme name.
 #. translators: %s: Theme name.
@@ -4538,7 +4538,7 @@ msgstr "הקובץ %s אינו מכיל כותרת נושא תקפה."
 #. translators: 1: templates/index.html, 2: index.php, 3: Documentation URL, 4: Template, 5: style.css
 #: wp-admin/includes/class-theme-upgrader.php:596
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "התבנית חסרה. תבניות צריכות להכיל את הקובץ %1$s או %2$s. <a href=\"%3$s\">תבנית בת</a> צריכה להכיל כותרת-תבנית %4$s בקובץ %5$s."
 
 #: wp-admin/includes/class-theme-upgrader.php:599
 #: wp-admin/includes/class-wp-themes-list-table.php:285
@@ -4557,12 +4557,12 @@ msgstr ""
 #. translators: %s: Title of an invalid menu item.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:108
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s (שגוי)"
 
 #. translators: %s: Title of a menu item in draft status.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:112
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s (בהמתנה)"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:129
 msgid "sub item"
@@ -4572,13 +4572,13 @@ msgstr "תת פריט"
 #: wp-admin/includes/class-walker-nav-menu-edit.php:147
 #: wp-admin/includes/template.php:1322
 msgid "Move up"
-msgstr ""
+msgstr "העבר למעלה"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:164
 #: wp-admin/includes/template.php:1335
 msgid "Move down"
-msgstr ""
+msgstr "העבר למטה"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:183
 msgid "Move menu item"
@@ -4592,16 +4592,16 @@ msgstr "העבר"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:202
 msgid "Navigation Label"
-msgstr ""
+msgstr "כותרת"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:208
 #: wp-admin/includes/nav-menu.php:1136
 msgid "Title Attribute"
-msgstr ""
+msgstr "תכונת כותרת"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:215
 msgid "Open link in a new tab"
-msgstr ""
+msgstr "פתיחת קישור בטאב חדש"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:220
 msgid "CSS Classes (optional)"
@@ -4609,7 +4609,7 @@ msgstr "מחלקות CSS (לא חובה)"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:234
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "אם התבנית הפעילה תומכת בכך, תיאור זה יוצג בתפריט."
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:255
 msgid "Up one"
@@ -4626,13 +4626,13 @@ msgstr "להתחלה"
 #. translators: %s: Link to menu item's original object.
 #: wp-admin/includes/class-walker-nav-menu-edit.php:267
 msgid "Original: %s"
-msgstr ""
+msgstr "מקורי: %s"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:276
 #: wp-admin/includes/class-wp-users-list-table.php:506
 msgid "Remove"
-msgstr ""
+msgstr "הסרה"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:29
 msgid "Created"
@@ -5148,7 +5148,7 @@ msgstr "תגובה לגיטימית"
 #: wp-admin/includes/meta-boxes.php:474
 #: wp-admin/upload.php:667
 msgid "Delete permanently"
-msgstr ""
+msgstr "למחוק לצמיתות"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:418
 #: wp-admin/includes/class-wp-links-list-table.php:120
@@ -5273,7 +5273,7 @@ msgstr "להגיב לתגובה זו"
 #: wp-admin/js/edit-comments.js:372
 #: wp-admin/js/edit-comments.js:1014
 msgid "Reply"
-msgstr ""
+msgstr "הגב"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:902
@@ -5349,7 +5349,7 @@ msgstr "האם האתר משתמש ב-HTTPS?"
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:264
 msgid "Yes"
-msgstr ""
+msgstr "כן"
 
 #: wp-admin/includes/class-wp-debug-data.php:104
 #: wp-admin/includes/class-wp-debug-data.php:109
@@ -5360,7 +5360,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:792
 #: wp-admin/includes/class-wp-links-list-table.php:266
 msgid "No"
-msgstr ""
+msgstr "לא"
 
 #: wp-admin/includes/class-wp-debug-data.php:108
 msgid "Is this a multisite?"
@@ -5858,7 +5858,7 @@ msgstr "גרסה %1$s מאת %2$s"
 #: wp-admin/themes.php:978
 #: wp-admin/themes.php:1072
 msgid "By %s"
-msgstr ""
+msgstr "מאת %s"
 
 #: wp-admin/includes/class-wp-debug-data.php:1007
 #: wp-admin/includes/class-wp-debug-data.php:1322
@@ -6094,12 +6094,12 @@ msgstr "בחירת פעולה קבוצתית"
 #: wp-admin/includes/class-wp-list-table.php:589
 #: wp-admin/includes/class-wp-screen.php:1090
 msgid "Apply"
-msgstr ""
+msgstr "החל"
 
 #: wp-admin/includes/class-wp-list-table.php:733
 #: wp-admin/includes/media.php:2810
 msgid "All dates"
-msgstr ""
+msgstr "כל התאריכים"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #: wp-admin/includes/class-wp-list-table.php:748
@@ -6155,7 +6155,7 @@ msgstr "עמוד ראשון"
 #: wp-admin/includes/nav-menu.php:764
 #: wp-admin/upload.php:371
 msgid "Previous page"
-msgstr ""
+msgstr "העמוד הקודם"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1047
@@ -6176,7 +6176,7 @@ msgstr "%1$s מתוך %2$s"
 #: wp-admin/includes/nav-menu.php:765
 #: wp-admin/upload.php:385
 msgid "Next page"
-msgstr ""
+msgstr "העמוד הבא"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-list-table.php:1087
@@ -6198,27 +6198,27 @@ msgstr "בחר הכל"
 #: wp-admin/includes/class-wp-media-list-table.php:43
 #: wp-admin/upload.php:311
 msgid "List view"
-msgstr ""
+msgstr "תצוגת רשימה"
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
 #: wp-admin/upload.php:314
 msgid "Grid view"
-msgstr ""
+msgstr "תצוגת רשת"
 
 #: wp-admin/includes/class-wp-media-list-table.php:134
 #: wp-admin/includes/media.php:3975
 msgid "All media items"
-msgstr ""
+msgstr "כל פריטי המדיה"
 
 #: wp-admin/includes/class-wp-media-list-table.php:157
 msgctxt "media items"
 msgid "Unattached"
-msgstr ""
+msgstr "לא משויך"
 
 #: wp-admin/includes/class-wp-media-list-table.php:162
 msgctxt "media items"
 msgid "Mine"
-msgstr ""
+msgstr "שלי"
 
 #: wp-admin/includes/class-wp-media-list-table.php:169
 msgctxt "attachment filter"
@@ -6241,7 +6241,7 @@ msgstr "לא נמצאו קבצי מדיה."
 #: wp-admin/includes/class-wp-media-list-table.php:329
 #: wp-admin/includes/media.php:3973
 msgid "Filter by type"
-msgstr ""
+msgstr "סינון לפי סוג"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:360
@@ -6257,7 +6257,7 @@ msgstr ""
 #: wp-admin/includes/theme-install.php:139
 #: wp-admin/upload.php:324
 msgid "Search"
-msgstr ""
+msgstr "חיפוש"
 
 #. translators: Column name.
 #: wp-admin/includes/class-wp-media-list-table.php:374
@@ -6285,17 +6285,17 @@ msgstr "משוייך אל"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "טקסט אלטרנטיבי"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "כיתוב"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "תיאור"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6308,7 +6308,7 @@ msgstr "תאריך"
 #: wp-admin/includes/media.php:3316
 #: wp-admin/upload.php:584
 msgid "File name:"
-msgstr ""
+msgstr "שם הקובץ:"
 
 #: wp-admin/includes/class-wp-media-list-table.php:603
 #: wp-admin/includes/class-wp-posts-list-table.php:1163
@@ -6402,7 +6402,7 @@ msgstr "עריכה קבוצתית"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "להפריד תגיות בפסיקים"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -6418,7 +6418,7 @@ msgstr "עריכה מהירה"
 #: wp-admin/includes/class-wp-media-list-table.php:1211
 #: wp-admin/includes/template.php:842
 msgid "Month"
-msgstr ""
+msgstr "חודש"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1214
 msgid "01-Jan"
@@ -6472,13 +6472,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-media-list-table.php:1228
 #: wp-admin/includes/template.php:855
 msgid "Day"
-msgstr ""
+msgstr "יום"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-media-list-table.php:1232
 #: wp-admin/includes/template.php:859
 msgid "Year"
-msgstr ""
+msgstr "שנה"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:105
 #: wp-admin/includes/class-wp-theme-install-list-table.php:60
@@ -6495,7 +6495,7 @@ msgstr "פופולריים"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:109
 msgctxt "Plugin Installer"
 msgid "Categories"
-msgstr ""
+msgstr "קטגוריות"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:114
 #: wp-admin/plugin-install.php:147
@@ -6664,7 +6664,7 @@ msgstr ""
 #: wp-admin/update-core.php:573
 #: wp-admin/upgrade.php:87
 msgid "<a href=\"%s\">Learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%s\">למידע נוסף על עדכון PHP</a>."
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:681
@@ -7034,7 +7034,7 @@ msgstr "מועד הפרסום חלף"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1188
 msgid "Last Modified"
-msgstr ""
+msgstr "עודכן לאחרונה"
 
 #. translators: %s: Post title.
 #. translators: %s: Taxonomy term name.
@@ -7069,7 +7069,7 @@ msgstr "&mdash; אין שינוי &mdash;"
 #: wp-admin/setup-config.php:235
 #: wp-admin/user-new.php:589
 msgid "Password"
-msgstr ""
+msgstr "סיסמה"
 
 #. translators: Between password field and private checkbox on post quick edit interface.
 #: wp-admin/includes/class-wp-posts-list-table.php:1727
@@ -7082,7 +7082,7 @@ msgstr "&mdash;או&mdash;"
 #: wp-admin/includes/meta-boxes.php:220
 #: wp-admin/js/post.js:905
 msgid "Private"
-msgstr ""
+msgstr "פרטי"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1775
 #: wp-admin/includes/meta-boxes.php:1055
@@ -7103,7 +7103,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-posts-list-table.php:1823
 #: wp-admin/includes/meta-boxes.php:1064
 msgid "Template"
-msgstr ""
+msgstr "תבנית עמוד"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1830
 #: wp-admin/includes/meta-boxes.php:1089
@@ -7145,7 +7145,7 @@ msgstr "הפוך לפוסט דביק"
 #: wp-admin/includes/meta-boxes.php:1627
 msgctxt "post format"
 msgid "Format"
-msgstr ""
+msgstr "סוג תוכן"
 
 #: wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php:60
 msgid "Download personal data"
@@ -7268,7 +7268,7 @@ msgstr "הצג מדריך מדיניות פרטיות."
 #: wp-admin/includes/theme.php:845
 #: wp-admin/upload.php:607
 msgid "(opens in a new tab)"
-msgstr ""
+msgstr "(נפתח בטאב חדש)"
 
 #. translators: %s: Date of plugin deactivation.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:376
@@ -7728,7 +7728,7 @@ msgstr "ברוכים הבאים"
 
 #: wp-admin/includes/class-wp-screen.php:1153
 msgid "Columns"
-msgstr ""
+msgstr "עמודות"
 
 #: wp-admin/includes/class-wp-screen.php:1202
 #: wp-admin/includes/theme.php:334
@@ -8997,7 +8997,7 @@ msgstr "המבחן אינו זמין"
 #: wp-admin/link-manager.php:50
 #: wp-admin/menu.php:80
 msgid "Links"
-msgstr ""
+msgstr "קישורים"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:200
 msgctxt "Number/count of items"
@@ -9057,7 +9057,7 @@ msgstr "התבנית כבר מותקנת והיא לא דורשת שדרוג"
 #: wp-admin/theme-install.php:291
 msgctxt "theme"
 msgid "Installed"
-msgstr ""
+msgstr "מותקן"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-theme-install-list-table.php:335
@@ -9075,7 +9075,7 @@ msgstr "הצג %s"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
 #: wp-admin/theme-install.php:440
 msgid "Close"
-msgstr ""
+msgstr "סגור"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:402
 #: wp-admin/theme-install.php:74
@@ -9267,7 +9267,7 @@ msgstr "&mdash; ללא תפקיד &mdash;"
 
 #: wp-admin/includes/class-wp-users-list-table.php:318
 msgid "Change"
-msgstr ""
+msgstr "שינוי"
 
 #: wp-admin/includes/class-wp-users-list-table.php:373
 #: wp-admin/includes/file.php:2436
@@ -9277,7 +9277,7 @@ msgstr ""
 #: wp-admin/user-edit.php:453
 #: wp-admin/user-new.php:539
 msgid "Username"
-msgstr ""
+msgstr "שם משתמש"
 
 #: wp-admin/includes/class-wp-users-list-table.php:376
 #: wp-admin/user-edit.php:459
@@ -9456,7 +9456,7 @@ msgstr "חיפוש אתרים"
 #: wp-admin/includes/dashboard.php:606
 #: wp-admin/index.php:103
 msgid "Content"
-msgstr ""
+msgstr "תוכן"
 
 #: wp-admin/includes/dashboard.php:607
 msgid "What&#8217;s on your mind?"
@@ -9466,7 +9466,7 @@ msgstr "מה דעתך?"
 #: wp-admin/includes/meta-boxes.php:56
 #: wp-admin/js/post.js:858
 msgid "Save Draft"
-msgstr ""
+msgstr "שמירת טיוטה"
 
 #: wp-admin/includes/dashboard.php:663
 msgid "View all drafts"
@@ -9501,11 +9501,11 @@ msgstr "מאץ %1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:891
 msgid "Pingback"
-msgstr ""
+msgstr "פינגבאק"
 
 #: wp-admin/includes/dashboard.php:894
 msgid "Trackback"
-msgstr ""
+msgstr "טראקבאק"
 
 #. translators: 1: Type of comment, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:908
@@ -9533,7 +9533,7 @@ msgstr "אין פעילות."
 
 #: wp-admin/includes/dashboard.php:1032
 msgid "Today"
-msgstr ""
+msgstr "היום"
 
 #: wp-admin/includes/dashboard.php:1034
 msgid "Tomorrow"
@@ -9557,7 +9557,7 @@ msgstr ""
 
 #: wp-admin/includes/dashboard.php:1114
 msgid "Recent Comments"
-msgstr ""
+msgstr "תגובות אחרונות"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/dashboard.php:1135
@@ -9570,7 +9570,7 @@ msgstr "להפעלת הווידג'ט נדרש ג'אווה-סקריפט."
 
 #: wp-admin/includes/dashboard.php:1295
 msgid "Unknown Feed"
-msgstr ""
+msgstr "פיד לא מוכר"
 
 #. translators: link to ClassicPress blog
 #: wp-admin/includes/dashboard.php:1326
@@ -9850,7 +9850,7 @@ msgstr "הפוטר של התבניות"
 #: wp-admin/includes/file.php:19
 #: wp-admin/widgets-form.php:300
 msgid "Sidebar"
-msgstr ""
+msgstr "סרגל צדדי"
 
 #: wp-admin/includes/file.php:21
 msgid "Search Form"
@@ -9870,7 +9870,7 @@ msgstr "תבנית ראשית"
 
 #: wp-admin/includes/file.php:26
 msgid "Archives"
-msgstr ""
+msgstr "ארכיונים"
 
 #: wp-admin/includes/file.php:27
 msgid "Author Template"
@@ -9910,7 +9910,7 @@ msgstr "עמוד בודד"
 
 #: wp-admin/includes/file.php:38
 msgid "Homepage"
-msgstr ""
+msgstr "עמוד ראשי"
 
 #: wp-admin/includes/file.php:39
 msgid "Privacy Policy Page"
@@ -9959,7 +9959,7 @@ msgstr "תבנית הטמעת פוטר"
 #: wp-admin/includes/file.php:53
 #: wp-admin/includes/file.php:61
 msgid "Stylesheet"
-msgstr ""
+msgstr "גיליון סגנונות"
 
 #: wp-admin/includes/file.php:54
 msgid "Visual Editor Stylesheet"
@@ -10019,7 +10019,7 @@ msgstr ""
 
 #: wp-admin/includes/file.php:336
 msgid "Update anyway, even though it might break your site?"
-msgstr ""
+msgstr "לעדכן בכל מקרה? למרות שזה יכול להפיל את האתר?"
 
 #: wp-admin/includes/file.php:402
 #: wp-admin/plugin-editor.php:18
@@ -10107,7 +10107,7 @@ msgstr "הקובץ ריק. יש להעלות משהו מהותי יותר. שג�
 
 #: wp-admin/includes/file.php:941
 msgid "Sorry, you are not allowed to upload this file type."
-msgstr ""
+msgstr "אין לך הרשאות להעלות קבצים מהסוג הזה."
 
 #. translators: %s: Destination file path.
 #: wp-admin/includes/file.php:1009
@@ -10280,7 +10280,7 @@ msgstr "אין מספיק פרטים על התמונה הזו. יש להעלות
 
 #: wp-admin/includes/image-edit.php:62
 msgid "Crop"
-msgstr ""
+msgstr "לחתוך"
 
 #: wp-admin/includes/image-edit.php:74
 msgid "Rotate left"
@@ -10304,7 +10304,7 @@ msgstr "היפוך אופקי"
 
 #: wp-admin/includes/image-edit.php:89
 msgid "Redo"
-msgstr ""
+msgstr "בצע שוב"
 
 #: wp-admin/includes/image-edit.php:114
 msgid "Scale Image"
@@ -10568,13 +10568,13 @@ msgstr "מכתובת URL ברשת"
 
 #: wp-admin/includes/media.php:20
 msgid "Gallery"
-msgstr ""
+msgstr "גלרייה"
 
 #: wp-admin/includes/media.php:21
 #: wp-admin/upload.php:181
 #: wp-admin/upload.php:799
 msgid "Media Library"
-msgstr ""
+msgstr "ספריית מדיה"
 
 #. translators: %s: Number of attachments.
 #: wp-admin/includes/media.php:64
@@ -10632,11 +10632,11 @@ msgstr "קבצים"
 
 #: wp-admin/includes/media.php:674
 msgid "Add Media"
-msgstr ""
+msgstr "הוספת מדיה"
 
 #: wp-admin/includes/media.php:979
 msgid "Saved."
-msgstr ""
+msgstr "נשמר."
 
 #: wp-admin/includes/media.php:1058
 msgid "Invalid image URL."
@@ -10644,7 +10644,7 @@ msgstr "כתובת התמונה שגויה."
 
 #: wp-admin/includes/media.php:1267
 msgid "Size"
-msgstr ""
+msgstr "גודל"
 
 #: wp-admin/includes/media.php:1302
 #: wp-admin/includes/media.php:1438
@@ -10674,7 +10674,7 @@ msgstr "מיקום הקובץ שהועלה."
 #: wp-admin/includes/media.php:3185
 #: wp-admin/upload.php:604
 msgid "Alternative Text"
-msgstr ""
+msgstr "טקסט אלטרנטיבי"
 
 #: wp-admin/includes/media.php:1499
 #: wp-admin/includes/media.php:2931
@@ -10684,7 +10684,7 @@ msgstr "טקסט חלופי (Alt text), לדוגמה &quot;המונה ליזה&q
 #: wp-admin/includes/media.php:1503
 #: wp-admin/includes/media.php:2935
 msgid "Alignment"
-msgstr ""
+msgstr "יישור"
 
 #: wp-admin/includes/media.php:1576
 #: wp-admin/includes/media.php:2530
@@ -10705,13 +10705,13 @@ msgstr "הסתר"
 #: wp-admin/includes/media.php:3096
 #: wp-admin/upload.php:560
 msgid "Edit Image"
-msgstr ""
+msgstr "עריכת תמונה"
 
 #: wp-admin/includes/media.php:1659
 #: wp-admin/includes/media.php:3319
 #: wp-admin/upload.php:585
 msgid "File type:"
-msgstr ""
+msgstr "סוג הקובץ:"
 
 #: wp-admin/includes/media.php:1660
 msgid "Upload date:"
@@ -10721,7 +10721,7 @@ msgstr "תאריך העלאה:"
 #: wp-admin/includes/media.php:3441
 #: wp-admin/upload.php:587
 msgid "Dimensions:"
-msgstr ""
+msgstr "מידות:"
 
 #: wp-admin/includes/media.php:1685
 #: wp-admin/includes/media.php:2961
@@ -10743,26 +10743,26 @@ msgstr "המשך"
 #. translators: %s: https://apps.wordpress.org
 #: wp-admin/includes/media.php:2055
 msgid "The web browser on your device cannot be used to upload files. You may be able to use the <a href=\"%s\">native app for your device</a> instead."
-msgstr ""
+msgstr "הדפדפן של המכשיר לא מאפשר העלאת תמונות. ניתן להשתמש <a href=\"%s\">באפליקציה המותאמת למכשיר</a> במקום הדפדפן."
 
 #: wp-admin/includes/media.php:2204
 msgid "Drop files to upload"
-msgstr ""
+msgstr "גרור לכאן קבצים כדי להעלותם לאתר"
 
 #: wp-admin/includes/media.php:2205
 msgctxt "Uploader: Drop files here - or - Select Files"
 msgid "or"
-msgstr ""
+msgstr "או"
 
 #: wp-admin/includes/media.php:2206
 msgid "Select Files"
-msgstr ""
+msgstr "בחירת קבצים"
 
 #. translators: %s: Maximum allowed file size.
 #: wp-admin/includes/media.php:2255
 #: wp-admin/upload.php:272
 msgid "Maximum upload file size: %s."
-msgstr ""
+msgstr "גודל קובץ מקסימלי: %s."
 
 #: wp-admin/includes/media.php:2308
 msgid "Add media files from your computer"
@@ -10803,11 +10803,11 @@ msgstr "לאפס טופס"
 
 #: wp-admin/includes/media.php:2544
 msgid "Actions"
-msgstr ""
+msgstr "פעולות"
 
 #: wp-admin/includes/media.php:2570
 msgid "Gallery Settings"
-msgstr ""
+msgstr "הגדרות גלריה"
 
 #: wp-admin/includes/media.php:2575
 msgid "Link thumbnails to:"
@@ -10819,7 +10819,7 @@ msgstr "קובץ תמונה"
 
 #: wp-admin/includes/media.php:2583
 msgid "Attachment Page"
-msgstr ""
+msgstr "עמוד הקובץ"
 
 #: wp-admin/includes/media.php:2590
 msgid "Order images by:"
@@ -10847,7 +10847,7 @@ msgstr "טורים בגלריה:"
 
 #: wp-admin/includes/media.php:2641
 msgid "Insert gallery"
-msgstr ""
+msgstr "הוספת גלריה"
 
 #: wp-admin/includes/media.php:2642
 msgid "Update gallery settings"
@@ -10885,7 +10885,7 @@ msgstr "כיתוב תמונה"
 
 #: wp-admin/includes/media.php:2904
 msgid "Image"
-msgstr ""
+msgstr "תמונה"
 
 #: wp-admin/includes/media.php:2904
 msgid "Audio, Video, or Other File"
@@ -10920,12 +10920,12 @@ msgstr "שנה גודל תמונה כדי שתתאים לגודל שנבחר ב-
 #. translators: %s: Allowed space allocation.
 #: wp-admin/includes/media.php:3059
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "השתמשת בכל שטח האחסון שהוקצב לך, בגודל %s. יש למחוק קבצים שהעלת לפני שאפשר יהיה להעלות קבצים חדשים."
 
 #. translators: 1: Link to tutorial, 2: Additional link attributes, 3: Accessibility text.
 #: wp-admin/includes/media.php:3193
 msgid "<a href=\"%1$s\" %2$s>Learn how to describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "<a href=\"%1$s\" %2$s>תאר את מטרת התמונה%3$s</a>. השאר ריק אם התמונה דקורטיבית בלבד."
 
 #: wp-admin/includes/media.php:3229
 msgid "Displayed on attachment pages."
@@ -10933,35 +10933,35 @@ msgstr "מוצג בעמודי המדיה."
 
 #: wp-admin/includes/media.php:3269
 msgid "(no author)"
-msgstr ""
+msgstr "(ללא מחבר)"
 
 #: wp-admin/includes/media.php:3279
 #: wp-admin/includes/media.php:3281
 #: wp-admin/upload.php:581
 msgid "Uploaded by:"
-msgstr ""
+msgstr "הועלה על ידי:"
 
 #: wp-admin/includes/media.php:3294
 #: wp-admin/includes/media.php:3296
 msgid "Uploaded to:"
-msgstr ""
+msgstr "הועלה אל:"
 
 #: wp-admin/includes/media.php:3305
 msgid "File URL:"
-msgstr ""
+msgstr "כתובת הקובץ:"
 
 #: wp-admin/includes/media.php:3352
 #: wp-admin/upload.php:586
 msgid "File size:"
-msgstr ""
+msgstr "גודל הקובץ:"
 
 #: wp-admin/includes/media.php:3359
 msgid "Length:"
-msgstr ""
+msgstr "אורך זמן:"
 
 #: wp-admin/includes/media.php:3360
 msgid "Bitrate:"
-msgstr ""
+msgstr "תעבורת נתונים:"
 
 #: wp-admin/includes/media.php:3407
 msgid "Audio Format:"
@@ -10973,7 +10973,7 @@ msgstr "קידוד אודיו:"
 
 #: wp-admin/includes/media.php:3449
 msgid "Original image:"
-msgstr ""
+msgstr "תמונה מקורית:"
 
 #: wp-admin/includes/media.php:3848
 msgid "Sorry, you are not allowed to edit media attachment pages."
@@ -10989,7 +10989,7 @@ msgstr ""
 
 #: wp-admin/includes/media.php:4004
 msgid "Bulk select"
-msgstr ""
+msgstr "בחירה קבוצתית"
 
 #: wp-admin/includes/menu.php:364
 msgid "Sorry, you are not allowed to access this page."
@@ -11026,7 +11026,7 @@ msgstr "הגדר סטטוס"
 #: wp-admin/includes/template.php:900
 #: wp-admin/js/post.js:1026
 msgid "OK"
-msgstr ""
+msgstr "אישור"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
@@ -11035,7 +11035,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:183
 #: wp-admin/includes/meta-boxes.php:217
 msgid "Password protected"
-msgstr ""
+msgstr "מוגן בסיסמה"
 
 #: wp-admin/includes/meta-boxes.php:186
 #: wp-admin/js/post.js:902
@@ -11059,7 +11059,7 @@ msgstr "להדביק לעמוד הראשי"
 
 #: wp-admin/includes/meta-boxes.php:218
 msgid "Password:"
-msgstr ""
+msgstr "סיסמה:"
 
 #. translators: Post date information. %s: Date on which the post is currently scheduled to be published.
 #: wp-admin/includes/meta-boxes.php:241
@@ -11132,19 +11132,19 @@ msgstr "סוגי תוכן"
 #: wp-admin/includes/meta-boxes.php:625
 #: wp-admin/includes/meta-boxes.php:1238
 msgid "Add"
-msgstr ""
+msgstr "להוסיף"
 
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:707
 msgid "+ %s"
-msgstr ""
+msgstr "+%s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:776
 #: wp-admin/includes/meta-boxes.php:1668
 #: wp-admin/options-reading.php:193
 msgid "Excerpt"
-msgstr ""
+msgstr "תקציר"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/meta-boxes.php:783
@@ -11234,7 +11234,7 @@ msgstr "כל הקטגוריות"
 #: wp-admin/includes/meta-boxes.php:1207
 msgctxt "categories"
 msgid "Most Used"
-msgstr ""
+msgstr "הנפוצים ביותר"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:1229
@@ -11436,11 +11436,11 @@ msgstr "(0 כדי לא לדרג)"
 #: wp-admin/includes/meta-boxes.php:1609
 #: wp-admin/revision.php:112
 msgid "Revisions"
-msgstr ""
+msgstr "גרסאות"
 
 #: wp-admin/includes/meta-boxes.php:1620
 msgid "Metadata"
-msgstr ""
+msgstr "מטה דטה"
 
 #: wp-admin/includes/meta-boxes.php:1672
 msgid "Send Trackbacks"
@@ -11520,22 +11520,22 @@ msgstr "%s (טיוטה)"
 
 #: wp-admin/includes/nav-menu.php:148
 msgid "Custom Links"
-msgstr ""
+msgstr "קישורים מותאמים"
 
 #: wp-admin/includes/nav-menu.php:305
 msgid "Link Text"
-msgstr ""
+msgstr "טקסט לקישור"
 
 #: wp-admin/includes/nav-menu.php:311
 #: wp-admin/includes/nav-menu.php:682
 #: wp-admin/includes/nav-menu.php:919
 msgid "Add to Menu"
-msgstr ""
+msgstr "הוספה לתפריט"
 
 #: wp-admin/includes/nav-menu.php:392
 msgctxt "nav menu home label"
 msgid "Home"
-msgstr ""
+msgstr "ראשי"
 
 #: wp-admin/includes/nav-menu.php:442
 #: wp-admin/includes/nav-menu.php:737
@@ -11562,7 +11562,7 @@ msgstr "הצג הכל"
 #: wp-admin/includes/nav-menu.php:907
 #: wp-admin/js/nav-menu.js:494
 msgid "No results found."
-msgstr ""
+msgstr "לא נמצאו תוצאות."
 
 #: wp-admin/includes/nav-menu.php:1056
 msgid "Add menu items from the column on the left."
@@ -11591,7 +11591,7 @@ msgstr "פתיחה"
 
 #: wp-admin/includes/nav-menu.php:1137
 msgid "CSS Classes"
-msgstr ""
+msgstr "מחלקות CSS"
 
 #. translators: %s: Nav menu title.
 #: wp-admin/includes/nav-menu.php:1277
@@ -11866,7 +11866,7 @@ msgstr ""
 #: wp-admin/install.php:227
 #: wp-admin/install.php:448
 msgid "Log In"
-msgstr ""
+msgstr "התחבר"
 
 #: wp-admin/includes/options.php:135
 msgid "The <a href=\"https://wordpress.org/documentation/article/wordpress-glossary/#character-set\">character encoding</a> of your site (UTF-8 is recommended)"
@@ -11966,7 +11966,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:376
 #: wp-admin/widgets.php:28
 msgid "Widgets"
-msgstr ""
+msgstr "וידג'טים"
 
 #: wp-admin/includes/plugin-install.php:377
 msgid "Admin Utilities"
@@ -12062,7 +12062,7 @@ msgstr "התקנת תוספים"
 
 #: wp-admin/includes/plugin-install.php:687
 msgid "Author:"
-msgstr ""
+msgstr "מאת:"
 
 #: wp-admin/includes/plugin-install.php:697
 msgid "Requires WordPress Version:"
@@ -12345,26 +12345,26 @@ msgstr "אין לך הרשאות לערוך פוסטים."
 #: wp-admin/includes/post.php:41
 #: wp-admin/includes/post.php:86
 msgid "Sorry, you are not allowed to create pages as this user."
-msgstr ""
+msgstr "אין לך הרשאות ליצור עמודים."
 
 #: wp-admin/includes/post.php:43
 #: wp-admin/includes/post.php:88
 #: wp-admin/post-new.php:61
 #: wp-admin/press-this.php:20
 msgid "Sorry, you are not allowed to create posts as this user."
-msgstr ""
+msgstr "אין לך הרשאות ליצור פוסטים."
 
 #: wp-admin/includes/post.php:191
 msgid "Invalid date."
-msgstr ""
+msgstr "תאריך שגוי."
 
 #: wp-admin/includes/post.php:499
 msgid "Sorry, you are not allowed to edit pages."
-msgstr ""
+msgstr "אין לך הרשאות לערוך עמודים."
 
 #: wp-admin/includes/post.php:501
 msgid "Sorry, you are not allowed to edit posts."
-msgstr ""
+msgstr "אין לך הרשאות לערוך פוסטים."
 
 #: wp-admin/includes/post.php:715
 msgid "Auto Draft"
@@ -12407,7 +12407,7 @@ msgstr "%s כבר עורך את הפוסט."
 
 #: wp-admin/includes/post.php:1844
 msgid "Take over"
-msgstr ""
+msgstr "השתלט"
 
 #: wp-admin/includes/post.php:1858
 msgid "Saving revision&hellip;"
@@ -12420,7 +12420,7 @@ msgstr "השינויים האחרונים נשמרו בגרסה נפרדת."
 #: wp-admin/includes/privacy-tools.php:23
 #: wp-admin/includes/privacy-tools.php:52
 msgid "Invalid personal data request."
-msgstr ""
+msgstr "בקשת מידע אישי שגויה."
 
 #: wp-admin/includes/privacy-tools.php:31
 msgid "Unable to initiate confirmation for personal data request."
@@ -12536,7 +12536,7 @@ msgstr "יצוא מידע אישי"
 
 #: wp-admin/includes/privacy-tools.php:472
 msgid "Table of Contents"
-msgstr ""
+msgstr "תוכן עניינים"
 
 #: wp-admin/includes/privacy-tools.php:541
 msgid "Unable to archive the personal data export file (JSON format)."
@@ -12680,7 +12680,7 @@ msgstr "0"
 #. translators: Links last updated date format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/schema.php:462
 msgid "F j, Y g:i a"
-msgstr ""
+msgstr "j בF Y G:i"
 
 #: wp-admin/includes/schema.php:1017
 msgid "You must provide a domain name."
@@ -12816,12 +12816,12 @@ msgstr ""
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/template.php:863
 msgid "Hour"
-msgstr ""
+msgstr "שעה"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/template.php:867
 msgid "Minute"
-msgstr ""
+msgstr "דקה"
 
 #. translators: 1: Month, 2: Day, 3: Year, 4: Hour, 5: Minute.
 #: wp-admin/includes/template.php:872
@@ -12864,7 +12864,7 @@ msgstr "הזז את התיבה %s למטה"
 #: wp-admin/includes/template.php:1610
 #: wp-admin/includes/template.php:1623
 msgid "The \"%s\" options group has been removed. Use another settings group."
-msgstr ""
+msgstr "קבוצת ההגדרות \"%s\" הוסרה. יש להשתמש בקבוצת הגדרות אחרת."
 
 #: wp-admin/includes/template.php:1922
 msgid "Attach to existing content"
@@ -12880,7 +12880,7 @@ msgstr "סגירת חלון מדיה"
 #: wp-admin/plugin-editor.php:251
 #: wp-admin/theme-editor.php:257
 msgid "Select"
-msgstr ""
+msgstr "בחירה"
 
 #: wp-admin/includes/template.php:2184
 msgctxt "post status"
@@ -12890,7 +12890,7 @@ msgstr "מוגן בסיסמה"
 #: wp-admin/includes/template.php:2188
 msgctxt "post status"
 msgid "Private"
-msgstr ""
+msgstr "פרטי"
 
 #: wp-admin/includes/template.php:2193
 msgid "Customization Draft"
@@ -12899,7 +12899,7 @@ msgstr "טיוטת התאמות עיצוביות"
 #: wp-admin/includes/template.php:2195
 msgctxt "post status"
 msgid "Draft"
-msgstr ""
+msgstr "טיוטה"
 
 #: wp-admin/includes/template.php:2198
 msgctxt "post status"
@@ -12909,7 +12909,7 @@ msgstr "טיוטת התאמות עיצוביות"
 #: wp-admin/includes/template.php:2202
 msgctxt "post status"
 msgid "Pending"
-msgstr ""
+msgstr "ממתין לאישור"
 
 #: wp-admin/includes/template.php:2206
 msgctxt "post status"
@@ -12919,7 +12919,7 @@ msgstr "דביק"
 #: wp-admin/includes/template.php:2210
 msgctxt "post status"
 msgid "Scheduled"
-msgstr ""
+msgstr "מתוזמן לפרסום"
 
 #: wp-admin/includes/template.php:2215
 msgctxt "page label"
@@ -12951,11 +12951,11 @@ msgstr "תמונת רקע"
 #: wp-admin/includes/template.php:2341
 #: wp-admin/options-general.php:89
 msgid "Site Icon"
-msgstr ""
+msgstr "סמל אתר"
 
 #: wp-admin/includes/template.php:2345
 msgid "Logo"
-msgstr ""
+msgstr "לוגו"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2570
@@ -13281,7 +13281,7 @@ msgstr ""
 #: wp-admin/themes.php:890
 #: wp-admin/themes.php:1206
 msgid "There is a new version of %s available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "קיימת גרסה חדשה עבור %s, אך היא לא עובדת בגרסת ה-PHP של האתר."
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/theme.php:942
@@ -13314,16 +13314,16 @@ msgstr ""
 #: wp-admin/themes.php:956
 #: wp-admin/themes.php:1125
 msgid "This theme does not work with your version of PHP."
-msgstr ""
+msgstr "תבנית זה אינה עובדת בגרסת ה-PHP של האתר."
 
 #: wp-admin/includes/theme.php:1013
 msgid "This theme doesn't support Customizer."
-msgstr ""
+msgstr "ערכת העיצוב הזאת לא תומכת בכלי ההתאמה האישית."
 
 #. translators: %s: URL to the themes page (also it activates the theme).
 #: wp-admin/includes/theme.php:1019
 msgid "However, you can still <a href=\"%s\">activate this theme</a>, and use the Site Editor to customize it."
-msgstr ""
+msgstr "עם זאת, עדיין אפשר <a href=\"%s\">להפעיל את ערכת העיצוב</a> ולהשתמש בעורך האתר כדי לבצע בה התאמות אישיות."
 
 #: wp-admin/includes/theme.php:1030
 #: wp-admin/themes.php:1240
@@ -13340,12 +13340,12 @@ msgstr "תגים: "
 #: wp-admin/js/updates.js:1415
 msgctxt "theme"
 msgid "Activate %s"
-msgstr ""
+msgstr "הפעל %s"
 
 #: wp-admin/includes/theme.php:1063
 #: wp-admin/includes/theme.php:1066
 msgid "Install &amp; Preview"
-msgstr ""
+msgstr "התקנה ותצוגה מקדימה"
 
 #: wp-admin/includes/theme.php:1065
 #: wp-admin/theme-install.php:426
@@ -13599,7 +13599,7 @@ msgstr "הסיסמה שנבחרה במהלך ההתקנה."
 
 #: wp-admin/includes/upgrade.php:158
 msgid "Uncategorized"
-msgstr ""
+msgstr "כללי"
 
 #. translators: Default category slug.
 #: wp-admin/includes/upgrade.php:160
@@ -13696,11 +13696,11 @@ msgstr ""
 #: wp-admin/includes/user.php:62
 #: wp-admin/users.php:131
 msgid "Sorry, you are not allowed to give users that role."
-msgstr ""
+msgstr "אין לך הרשאות לתת למשתמשים את התפקיד הזה."
 
 #: wp-admin/includes/user.php:176
 msgid "<strong>Error:</strong> Please enter a username."
-msgstr ""
+msgstr "<strong>שגיאה:</strong> נא להזין שם משתמש."
 
 #: wp-admin/includes/user.php:181
 msgid "<strong>Error:</strong> Please enter a nickname."
@@ -13720,15 +13720,15 @@ msgstr "<strong>שגיאה:</strong> הסיסמאות לא תואמות. יש ל
 
 #: wp-admin/includes/user.php:215
 msgid "<strong>Error:</strong> This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr ""
+msgstr "<strong>שגיאה:</strong> שם המשתמש מכיל תווים שגויים."
 
 #: wp-admin/includes/user.php:219
 msgid "<strong>Error:</strong> This username is already registered. Please choose another one."
-msgstr ""
+msgstr "<strong>שגיאה:</strong> שם המשתמש כבר קיים. יש לבחור שם משתמש חלופי."
 
 #: wp-admin/includes/user.php:226
 msgid "<strong>Error:</strong> Sorry, that username is not allowed."
-msgstr ""
+msgstr "<strong>שגיאה:</strong> שם המשתמש אינו מורשה."
 
 #: wp-admin/includes/user.php:231
 msgid "<strong>Error:</strong> Please enter an email address."
@@ -13736,7 +13736,7 @@ msgstr "<strong>שגיאה:</strong> נא להזין כתובת אימייל."
 
 #: wp-admin/includes/user.php:233
 msgid "<strong>Error:</strong> The email address is not correct."
-msgstr ""
+msgstr "<strong>שגיאה:</strong> כתובת האימייל אינה תקינה."
 
 #: wp-admin/includes/user.php:237
 msgid "<strong>Error:</strong> This email is already registered. Please choose another one."
@@ -13807,18 +13807,18 @@ msgstr "הוספה"
 #: wp-admin/includes/widgets.php:252
 #: wp-admin/widgets-form.php:293
 msgid "There are no options for this widget."
-msgstr ""
+msgstr "לווידג'ט הזה אין אפשרויות."
 
 #: wp-admin/includes/widgets.php:273
 #: wp-admin/js/set-post-thumbnail.js:21
 msgid "Done"
-msgstr ""
+msgstr "הושלם"
 
 #: wp-admin/index.php:32
 #: wp-admin/menu.php:24
 #: wp-admin/user/menu.php:10
 msgid "Dashboard"
-msgstr ""
+msgstr "לוח בקרה"
 
 #: wp-admin/index.php:35
 msgid "Welcome to your ClassicPress Dashboard!"
@@ -13910,7 +13910,7 @@ msgstr "ברוכים הבאים"
 #: wp-admin/install.php:114
 #: wp-admin/options-general.php:69
 msgid "Site Title"
-msgstr ""
+msgstr "שם האתר"
 
 #: wp-admin/install.php:122
 msgid "User(s) already exists."
@@ -13925,7 +13925,7 @@ msgstr "שמות משתמש יכולים להכיל תווים אלפאנומר�
 #: wp-admin/user-new.php:601
 #: wp-admin/js/user-profile.js:81
 msgid "Hide password"
-msgstr ""
+msgstr "הסתר סיסמה"
 
 #: wp-admin/install.php:151
 #: wp-admin/user-edit.php:205
@@ -13963,7 +13963,7 @@ msgstr "אימות סיסמה"
 #: wp-admin/user-new.php:621
 #: wp-admin/js/user-profile.js:52
 msgid "Confirm use of weak password"
-msgstr ""
+msgstr "אשר שימוש בסיסמה חלשה"
 
 #: wp-admin/install.php:177
 msgid "Your Email"
@@ -14036,7 +14036,7 @@ msgstr ""
 
 #: wp-admin/install.php:293
 msgid "Requirements Not Met"
-msgstr ""
+msgstr "הדרישות לא נענו"
 
 #: wp-admin/install.php:299
 #: wp-admin/install.php:312
@@ -14143,7 +14143,7 @@ msgstr "חיפוש קישורים"
 #: wp-admin/link-parse-opml.php:77
 #: wp-admin/link-parse-opml.php:78
 msgid "PHP's XML extension is not available. Please contact your hosting provider to enable PHP's XML extension."
-msgstr ""
+msgstr "הרחבת XML של PHP אינה זמינה. יש לנות לפנות אל חברת האחסון כדי להפעיל הרחבת XML של PHP."
 
 #. translators: 1: Error message, 2: Line number.
 #: wp-admin/link-parse-opml.php:89
@@ -14291,7 +14291,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/media-add-new-scre
 
 #: wp-admin/media-upload.php:39
 msgid "Invalid item ID."
-msgstr ""
+msgstr "מספר הפריט שגוי."
 
 #: wp-admin/media.php:23
 #: wp-admin/media.php:62
@@ -14300,7 +14300,7 @@ msgstr "אין לך הרשאות לערוך קובץ זה."
 
 #: wp-admin/media.php:49
 msgid "Edit Media"
-msgstr ""
+msgstr "עריכת מדיה"
 
 #: wp-admin/media.php:68
 msgid "You attempted to edit an attachment that does not exist. Perhaps it was deleted?"
@@ -14321,7 +14321,7 @@ msgstr "לא ניתן לערוך קובץ זה כי הוא נמצא בפח. יש
 #: wp-admin/upload.php:863
 msgctxt "file"
 msgid "Add New"
-msgstr ""
+msgstr "קובץ חדש"
 
 #: wp-admin/menu-header.php:321
 #: wp-admin/js/common.js:1995
@@ -14342,15 +14342,15 @@ msgstr "לדלג לתוכן הראשי"
 
 #: wp-admin/menu-header.php:331
 msgid "Skip to toolbar"
-msgstr ""
+msgstr "מעבר לסרגל הכלים"
 
 #: wp-admin/menu.php:26
 msgid "Home"
-msgstr ""
+msgstr "ראשי"
 
 #: wp-admin/menu.php:29
 msgid "My Sites"
-msgstr ""
+msgstr "האתרים שלי"
 
 #. translators: %s: Number of pending updates.
 #: wp-admin/menu.php:49
@@ -14368,7 +14368,7 @@ msgstr "כל הקישורים"
 
 #: wp-admin/menu.php:84
 msgid "Link Categories"
-msgstr ""
+msgstr "קטגוריות קישורים"
 
 #. translators: %s: Number of comments.
 #: wp-admin/menu.php:98
@@ -14392,12 +14392,12 @@ msgstr "%s תבניות"
 #: wp-admin/nav-menus.php:32
 #: wp-admin/nav-menus.php:750
 msgid "Menus"
-msgstr ""
+msgstr "תפריטים"
 
 #: wp-admin/menu.php:240
 msgctxt "theme editor"
 msgid "Editor"
-msgstr ""
+msgstr "עורך"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/menu.php:256
@@ -14428,7 +14428,7 @@ msgstr "עורך קבצי תוסף"
 #: wp-admin/menu.php:270
 #: wp-admin/users.php:25
 msgid "Users"
-msgstr ""
+msgstr "משתמשים"
 
 #: wp-admin/menu.php:272
 #: wp-admin/menu.php:284
@@ -14462,7 +14462,7 @@ msgstr "משתמש חדש"
 #: wp-admin/menu.php:335
 #: wp-admin/tools.php:43
 msgid "Tools"
-msgstr ""
+msgstr "כלים"
 
 #: wp-admin/menu.php:336
 msgid "Available Tools"
@@ -14484,7 +14484,7 @@ msgstr "הגדרות רשת האתרים"
 #: wp-admin/menu.php:350
 #: wp-admin/options.php:22
 msgid "Settings"
-msgstr ""
+msgstr "הגדרות"
 
 #: wp-admin/menu.php:351
 msgctxt "settings screen"
@@ -14511,7 +14511,7 @@ msgstr "התבנית אינה תומכת בווידג'טים או בתפריטי
 #: wp-admin/themes.php:15
 #: wp-admin/widgets.php:18
 msgid "Sorry, you are not allowed to edit theme options on this site."
-msgstr ""
+msgstr "אין לך הרשאות לערוך אפשרויות תבנית באתר זה."
 
 #: wp-admin/nav-menus.php:285
 msgid "The menu item has been successfully deleted."
@@ -14536,45 +14536,45 @@ msgstr "מיקומי תפריטים עודכנו."
 
 #: wp-admin/nav-menus.php:544
 msgid "Move up one"
-msgstr ""
+msgstr "העבר אחד למעלה"
 
 #: wp-admin/nav-menus.php:545
 msgid "Move down one"
-msgstr ""
+msgstr "העבר אחד למטה"
 
 #: wp-admin/nav-menus.php:546
 msgid "Move to the top"
-msgstr ""
+msgstr "העבר למעלה"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:548
 msgid "Move under %s"
-msgstr ""
+msgstr "העבר לתוך %s"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:550
 msgid "Move out from under %s"
-msgstr ""
+msgstr "להוציא מתוך %s"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:552
 msgid "Under %s"
-msgstr ""
+msgstr "בתוך %s"
 
 #. translators: %s: Previous item name.
 #: wp-admin/nav-menus.php:554
 msgid "Out from under %s"
-msgstr ""
+msgstr "להוציא מתוך %s"
 
 #. translators: 1: Item name, 2: Item position, 3: Total number of items.
 #: wp-admin/nav-menus.php:556
 msgid "%1$s. Menu item %2$d of %3$d."
-msgstr ""
+msgstr "%1$s. פריט %2$d של %3$d."
 
 #. translators: 1: Item name, 2: Item position, 3: Parent item name.
 #: wp-admin/nav-menus.php:558
 msgid "%1$s. Sub item number %2$d under %3$s."
-msgstr ""
+msgstr "%1$s. תת פריט מספר %2$d בתוך %3$s."
 
 #. translators: %s: Item name.
 #: wp-admin/nav-menus.php:560
@@ -14588,7 +14588,7 @@ msgstr "פריטי תפריט שנמחקו: %s."
 
 #: wp-admin/nav-menus.php:563
 msgid "Menu item added"
-msgstr ""
+msgstr "פריט תפריט התווסף"
 
 #: wp-admin/nav-menus.php:564
 msgid "Menu item removed"
@@ -14596,11 +14596,11 @@ msgstr "פריט תפריט הוסר"
 
 #: wp-admin/nav-menus.php:565
 msgid "Menu item moved up"
-msgstr ""
+msgstr "פריט בתפריט הועבר למעלה"
 
 #: wp-admin/nav-menus.php:566
 msgid "Menu item moved down"
-msgstr ""
+msgstr "פריט בתפריט הועבר למטה"
 
 #: wp-admin/nav-menus.php:567
 msgid "Menu item moved to the top"
@@ -14608,11 +14608,11 @@ msgstr "פריט התפריט הועבר לראש הרשימה"
 
 #: wp-admin/nav-menus.php:568
 msgid "Menu item moved out of submenu"
-msgstr ""
+msgstr "פריט בתפריט הועבר מחוץ לתפריט המשנה"
 
 #: wp-admin/nav-menus.php:569
 msgid "Menu item is now a sub-item"
-msgstr ""
+msgstr "הפריט עכשיו תת-פריט"
 
 #: wp-admin/nav-menus.php:570
 msgid "menu position"
@@ -14770,7 +14770,7 @@ msgstr "עריכה"
 #. translators: Hidden accessibility text.
 #: wp-admin/nav-menus.php:867
 msgid "Edit selected menu"
-msgstr ""
+msgstr "עריכת תפריט נבחר"
 
 #: wp-admin/nav-menus.php:888
 msgctxt "menu"
@@ -14816,12 +14816,12 @@ msgstr "מבנה תפריט"
 
 #: wp-admin/nav-menus.php:1067
 msgid "Menu Name"
-msgstr ""
+msgstr "שם התפריט"
 
 #: wp-admin/nav-menus.php:1070
 #: wp-admin/nav-menus.php:1207
 msgid "Create Menu"
-msgstr ""
+msgstr "ליצור תפריט"
 
 #: wp-admin/nav-menus.php:1070
 #: wp-admin/nav-menus.php:1207
@@ -14863,7 +14863,7 @@ msgstr "הוספת עמודים אוטומטית"
 
 #: wp-admin/nav-menus.php:1162
 msgid "Automatically add new top-level pages to this menu"
-msgstr ""
+msgstr "הוסף באופן אוטומטי דפי-אב לתפריט זה"
 
 #: wp-admin/nav-menus.php:1169
 msgid "Display location"
@@ -14877,7 +14877,7 @@ msgstr "(כרגע מוגדר: %s)"
 
 #: wp-admin/nav-menus.php:1232
 msgid "Delete Menu"
-msgstr ""
+msgstr "מחיקת תפריט"
 
 #: wp-admin/options-discussion.php:12
 #: wp-admin/options-general.php:16
@@ -15175,7 +15175,7 @@ msgstr " חדש - %s"
 
 #: wp-admin/options-general.php:82
 msgid "Tagline"
-msgstr ""
+msgstr "תיאור האתר"
 
 #: wp-admin/options-general.php:84
 msgid "In a few words, explain what this site is about."
@@ -15234,7 +15234,7 @@ msgstr ""
 
 #: wp-admin/options-general.php:217
 msgid "Site Address (URL)"
-msgstr ""
+msgstr "הכתובת של האתר"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
@@ -15270,7 +15270,7 @@ msgstr ""
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:645
 msgid "Learn more."
-msgstr ""
+msgstr "מידע נוסף."
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
@@ -15346,7 +15346,7 @@ msgstr "באזור הזמן הזה אין שעון קיץ."
 #: wp-admin/options-general.php:507
 #: wp-admin/options-general.php:512
 msgid "Date Format"
-msgstr ""
+msgstr "מבנה תאריך"
 
 #: wp-admin/options-general.php:540
 #: wp-admin/options-general.php:588
@@ -15372,7 +15372,7 @@ msgstr "תצוגה מקדימה:"
 #: wp-admin/options-general.php:557
 #: wp-admin/options-general.php:562
 msgid "Time Format"
-msgstr ""
+msgstr "מבנה זמן"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:590
@@ -15498,11 +15498,11 @@ msgstr "תמונה מוקטנת"
 
 #: wp-admin/options-media.php:101
 msgid "Width"
-msgstr ""
+msgstr "רוחב"
 
 #: wp-admin/options-media.php:104
 msgid "Height"
-msgstr ""
+msgstr "גובה"
 
 #: wp-admin/options-media.php:108
 msgid "Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
@@ -16019,11 +16019,11 @@ msgstr "קידוד לאתר ולפידים"
 #: wp-admin/options-reading.php:87
 #: wp-admin/options-reading.php:92
 msgid "Your homepage displays"
-msgstr ""
+msgstr "תצוגת העמוד הראשי"
 
 #: wp-admin/options-reading.php:97
 msgid "Your latest posts"
-msgstr ""
+msgstr "פוסטים אחרונים"
 
 #. translators: %s: URL to Pages screen.
 #: wp-admin/options-reading.php:105
@@ -16176,7 +16176,7 @@ msgstr ""
 
 #: wp-admin/options.php:231
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "אנא שקול לכתוב קוד כולל יותר."
 
 #. translators: %s: The options page name.
 #: wp-admin/options.php:256
@@ -16210,7 +16210,7 @@ msgstr "עמוד זה מאפשר גישה ישירה להגדרות האתר. נ
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "העתק"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -16231,22 +16231,22 @@ msgstr "תפריט התיעוד מתחת לעורך מפרט את פונקציו
 #: wp-admin/plugin-editor.php:130
 #: wp-admin/theme-editor.php:33
 msgid "When using a keyboard to navigate:"
-msgstr ""
+msgstr "כאשר משתמשים במקשים כדי לנווט:"
 
 #: wp-admin/plugin-editor.php:132
 #: wp-admin/theme-editor.php:35
 msgid "In the editing area, the Tab key enters a tab character."
-msgstr ""
+msgstr "באזור העריכה, המקש Tab מוסיף תו Tab."
 
 #: wp-admin/plugin-editor.php:133
 #: wp-admin/theme-editor.php:36
 msgid "To move away from this area, press the Esc key followed by the Tab key."
-msgstr ""
+msgstr "כדי להתרחק מאזור זה, הקש על מקש Esc ולאחר מכן על מקש Tab."
 
 #: wp-admin/plugin-editor.php:134
 #: wp-admin/theme-editor.php:37
 msgid "Screen reader users: when in forms mode, you may need to press the Esc key twice."
-msgstr ""
+msgstr "משתמשים הנעזרים בקוראי מסך: במצב טפסים, ייתכן שיהיה צורך ללחוץ פעמיים על המקש Esc."
 
 #: wp-admin/plugin-editor.php:136
 msgid "If you want to make changes but do not want them to be overwritten when the plugin is updated, you may be ready to think about writing your own plugin. For information on how to edit plugins, write your own from scratch, or just better understand their anatomy, check out the links below."
@@ -16363,7 +16363,7 @@ msgstr "ניתן למצוא תוספים חדשים להתקנה על ידי ח�
 #: wp-admin/theme-install.php:116
 #: wp-admin/themes.php:138
 msgid "The search results will be updated as you type."
-msgstr ""
+msgstr "תוצאות החיפוש יעודכנו במהלך ההקלדה."
 
 #: wp-admin/plugin-install.php:107
 msgid "Adding Plugins"
@@ -16411,7 +16411,7 @@ msgstr "עיון בתוספים"
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
 msgid "Sorry, you are not allowed to activate this plugin."
-msgstr ""
+msgstr "אין לך הרשאות להפעיל תוסף זה."
 
 #: wp-admin/plugins.php:92
 msgid "Sorry, you are not allowed to activate plugins for this site."
@@ -16427,7 +16427,7 @@ msgstr "שדרוג תוספים"
 
 #: wp-admin/plugins.php:199
 msgid "Sorry, you are not allowed to deactivate this plugin."
-msgstr ""
+msgstr "אין לך הרשאות לכבות תוסף זה."
 
 #: wp-admin/plugins.php:226
 msgid "Sorry, you are not allowed to deactivate plugins for this site."
@@ -16552,7 +16552,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/manage-plugins/\">
 #: wp-admin/update-core.php:292
 #: wp-admin/update-core.php:311
 msgid "Plugins"
-msgstr ""
+msgstr "תוספים"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:612
@@ -16677,7 +16677,7 @@ msgstr "התוסף \"פרסם את זה\" אינו מותקן. יש להתקין
 
 #: wp-admin/press-this.php:74
 msgid "The Press This plugin is required."
-msgstr ""
+msgstr "התוסף \"פרסם את זה\" נדרש."
 
 #: wp-admin/press-this.php:75
 #: wp-admin/press-this.php:81
@@ -17251,7 +17251,7 @@ msgstr "העלאת תבנית"
 
 #: wp-admin/theme-install.php:64
 msgid "Back"
-msgstr ""
+msgstr "חזרה"
 
 #. translators: %s: Support forums URL.
 #: wp-admin/theme-install.php:67
@@ -17269,7 +17269,7 @@ msgstr "מספר התבניות שנמצאו: %d"
 #: wp-admin/themes.php:237
 #: wp-admin/themes.php:650
 msgid "No themes found. Try a different search."
-msgstr ""
+msgstr "לא נמצאו תבניות. נסה חיפוש אחר."
 
 #: wp-admin/theme-install.php:75
 msgid "Expand Sidebar"
@@ -17346,7 +17346,7 @@ msgstr "נקה פילטרים"
 #: wp-admin/theme-install.php:230
 #: wp-admin/js/color-picker.js:154
 msgid "Clear"
-msgstr ""
+msgstr "נקה"
 
 #: wp-admin/theme-install.php:233
 msgid "Filtering by:"
@@ -17418,7 +17418,7 @@ msgstr "אין לך הרשאות לכבות עדכונים אוטומטיים ל
 #: wp-admin/update-core.php:463
 #: wp-admin/update-core.php:476
 msgid "Themes"
-msgstr ""
+msgstr "תבניות"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
@@ -17558,7 +17558,7 @@ msgstr "גרסה חדשה זמינה. <button class=\"button-link\" type=\"butto
 #: wp-admin/themes.php:447
 #: wp-admin/themes.php:828
 msgid "New version available."
-msgstr ""
+msgstr "קיימת גרסה חדשה."
 
 #. translators: %s: Theme name.
 #: wp-admin/themes.php:590
@@ -17571,7 +17571,7 @@ msgstr "הצג פרטי תבנית %s"
 #: wp-admin/themes.php:648
 #: wp-admin/themes.php:974
 msgid "Theme Details"
-msgstr ""
+msgstr "פרטים"
 
 #: wp-admin/themes.php:603
 #: wp-admin/themes.php:985
@@ -18110,7 +18110,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "ביטול בחירה"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -18170,7 +18170,7 @@ msgstr "כדי למחוק פריטי מדיה, יש ללחוץ על לחצן ה�
 
 #: wp-admin/upload.php:166
 msgid "Attachment Details"
-msgstr ""
+msgstr "פרטי הקובץ"
 
 #: wp-admin/upload.php:168
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
@@ -18196,7 +18196,7 @@ msgstr "תצוגת הרשת של ספריית המדיה דורשת JavaScript. 
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
-msgstr ""
+msgstr "סינון מדיה"
 
 #: wp-admin/upload.php:344
 msgid "Media items navigation"
@@ -18209,7 +18209,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "מתוך"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -18218,29 +18218,29 @@ msgstr ""
 
 #: wp-admin/upload.php:507
 msgid "No media items found."
-msgstr ""
+msgstr "לא נמצאו קבצי מדיה."
 
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "עריכת פריט מדיה קודם"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "עריכת פריט מדיה הבא"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "סגור חלון"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
-msgstr ""
+msgstr "פרטי הקובץ"
 
 #: wp-admin/upload.php:547
 msgid "Attachment Preview"
-msgstr ""
+msgstr "תצוגת קובץ"
 
 #: wp-admin/upload.php:548
 msgid "Media Navigation"
@@ -18248,7 +18248,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "הועלה בתאריך:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18268,11 +18268,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "צפה בעמוד הקובץ המצורף"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "עריכת פרטים נוספים"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."
@@ -18329,7 +18329,7 @@ msgstr "רשימת קבצי מדיה"
 #: wp-admin/user-edit.php:27
 #: wp-admin/user-edit.php:29
 msgid "Invalid user ID."
-msgstr ""
+msgstr "מספר משתמש שגוי."
 
 #. translators: %s: User's display name.
 #: wp-admin/user-edit.php:44
@@ -18375,7 +18375,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/users-your-profile
 #: wp-admin/users.php:144
 #: wp-admin/users.php:243
 msgid "Sorry, you are not allowed to edit this user."
-msgstr ""
+msgstr "אין לך הרשאות לערוך משתמש זה."
 
 #: wp-admin/user-edit.php:205
 msgid "This user has super admin privileges."
@@ -18425,7 +18425,7 @@ msgstr "ביטול הדגשת תחביר בעת עריכת קוד"
 
 #: wp-admin/user-edit.php:364
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "קיצורי מקלדת"
 
 #: wp-admin/user-edit.php:368
 msgid "Enable keyboard shortcuts for comment moderation."
@@ -18433,7 +18433,7 @@ msgstr "אפשר שימוש בקיצורי מקלדת לניהול תגובות.
 
 #: wp-admin/user-edit.php:376
 msgid "Toolbar"
-msgstr ""
+msgstr "סרגל כלים"
 
 #: wp-admin/user-edit.php:380
 msgid "Show Toolbar when viewing site"
@@ -18443,7 +18443,7 @@ msgstr "הצג סרגל כלים כשצופים באתר"
 #: wp-admin/user-edit.php:393
 #: wp-admin/user-new.php:567
 msgid "Language"
-msgstr ""
+msgstr "שפה"
 
 #: wp-admin/user-edit.php:454
 msgid "Usernames cannot be changed."
@@ -18491,7 +18491,7 @@ msgstr "שינוי האימייל שלך אל %s ממתין לאישור."
 #: wp-admin/user-edit.php:646
 #: wp-admin/user-new.php:556
 msgid "Website"
-msgstr ""
+msgstr "אתר"
 
 #: wp-admin/user-edit.php:688
 msgid "About Yourself"
@@ -18552,7 +18552,7 @@ msgstr "הקלד שוב את הסיסמה החדשה."
 
 #: wp-admin/user-edit.php:806
 msgid "Password Reset"
-msgstr ""
+msgstr "איפוס סיסמה"
 
 #: wp-admin/user-edit.php:810
 msgid "Send Reset Link"
@@ -18844,7 +18844,7 @@ msgstr "שלח למשתמש החדש פרטי התחברות."
 
 #: wp-admin/users.php:16
 msgid "Sorry, you are not allowed to list users."
-msgstr ""
+msgstr "אין לך הרשאות לראות משתמשים."
 
 #: wp-admin/users.php:35
 msgid "This screen lists all the existing users for your site. Each user has one of five defined roles as set by the site admin: Site Administrator, Editor, Author, Contributor, or Subscriber. Users with roles other than Administrator will see fewer options in the dashboard navigation when they are logged in, based on their role."
@@ -19226,7 +19226,7 @@ msgstr "בחירת צבע"
 
 #: wp-admin/js/color-picker.js:149
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 #: wp-admin/js/color-picker.js:150
 msgid "Select default color"
@@ -19307,7 +19307,7 @@ msgstr "שגיאה במהלך שמירת השינויים."
 #: wp-admin/js/media.js:735
 #: wp-admin/js/post.js:1317
 msgid "The file URL has been copied to your clipboard"
-msgstr ""
+msgstr "הכתובת של הקובץ הועתקה ללוח"
 
 #: wp-admin/js/nav-menu.js:693
 msgid "You are about to permanently delete this menu.\n"
@@ -19318,7 +19318,7 @@ msgstr "ביקשת למחוק תפריט זה.\n"
 #: wp-admin/js/nav-menu.js:1216
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
-msgstr ""
+msgstr "(ללא תווית)"
 
 #. translators: 1: Deprecated function name, 2: Version number, 3: Alternative function name.
 #: wp-admin/js/password-strength-meter.js:66
@@ -19345,7 +19345,7 @@ msgstr "לא נמצאו תגובות נוספות."
 #: wp-admin/js/post.js:153
 #: wp-admin/js/set-post-thumbnail.js:18
 msgid "Could not set that as the thumbnail image. Try a different attachment."
-msgstr ""
+msgstr "לא ניתן להגדיר את התמונה הזו כתמונה מוקטנת. יש לבחור קובץ אחר."
 
 #: wp-admin/js/post.js:482
 msgid "Saving Draft…"
@@ -19354,7 +19354,7 @@ msgstr "שומר טיוטה..."
 #: wp-admin/js/post.js:509
 #: wp-admin/js/theme-plugin-editor.js:71
 msgid "The changes you made will be lost if you navigate away from this page."
-msgstr ""
+msgstr "ניסית לעבור לעמוד אחר אבל עדיין לא שמרת את השינויים שעשית בעמוד הזה."
 
 #: wp-admin/js/post.js:790
 msgid "Schedule for:"
@@ -19500,7 +19500,7 @@ msgstr "מונח התווסף."
 
 #: wp-admin/js/tags.js:58
 msgid "Sorry, you are not allowed to do that."
-msgstr ""
+msgstr "אין לך הרשאות לעשות את זה."
 
 #: wp-admin/js/theme-plugin-editor.js:230
 msgid "Something went wrong. Your change may not have been saved. Please try again. There is also a chance that you may need to manually fix and upload the file over FTP."
@@ -19519,8 +19519,8 @@ msgstr[3] ""
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "קיים עדכון %s זמין"
+msgstr[1] "קיימים %s עדכונים זמינים"
 msgstr[2] ""
 msgstr[3] ""
 
@@ -19754,7 +19754,7 @@ msgstr "לא ניתן להשלים את הבקשה."
 
 #: wp-admin/js/user-profile.js:81
 msgid "Show password"
-msgstr ""
+msgstr "הצג סיסמה"
 
 #: wp-admin/js/user-profile.js:476
 msgid "Your new password has not been saved."
@@ -19764,5 +19764,5 @@ msgstr "הסיסמה החדשה לא נשמרה."
 #: wp-admin/js/widgets.js:465
 #: wp-admin/js/widgets.js:581
 msgid "Saved"
-msgstr ""
+msgstr "נשמר"
 

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-02-06 17:13\n"
+"PO-Revision-Date: 2025-02-23 21:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -175,7 +175,7 @@ msgstr ""
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "WordPress версии %s с учётом некоторых обновлений безопасности."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -3042,7 +3042,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3388
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: wp-admin/includes/ajax-actions.php:3392
 msgid "File name: "
@@ -3094,7 +3094,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3424
 msgid "Featured Image"
-msgstr ""
+msgstr "Изображение записи"
 
 #: wp-admin/includes/ajax-actions.php:3426
 msgid "Used In"
@@ -3102,7 +3102,7 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3428
 msgid "Uploaded to"
-msgstr ""
+msgstr "Загружен для"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ajax-actions.php:3433
@@ -3115,7 +3115,7 @@ msgstr "Комментариев нет"
 #: wp-admin/includes/ajax-actions.php:3441
 #: wp-admin/includes/class-wp-media-list-table.php:1296
 msgid "Alt Text"
-msgstr ""
+msgstr "Атрибут alt"
 
 #: wp-admin/includes/ajax-actions.php:3442
 #: wp-admin/includes/class-wp-media-list-table.php:1303
@@ -5306,7 +5306,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:76
 #: wp-admin/options-general.php:367
 msgid "Site Language"
-msgstr ""
+msgstr "Язык сайта"
 
 #: wp-admin/includes/class-wp-debug-data.php:80
 msgid "User Language"
@@ -6270,7 +6270,7 @@ msgstr "Файл"
 #: wp-admin/includes/class-wp-media-list-table.php:404
 msgctxt "column name"
 msgid "Featured Image"
-msgstr ""
+msgstr "Изображение записи"
 
 #: wp-admin/includes/class-wp-media-list-table.php:405
 msgctxt "column name"
@@ -6286,17 +6286,17 @@ msgstr "Загружен для"
 #: wp-admin/includes/class-wp-media-list-table.php:421
 msgctxt "column name"
 msgid "Alt Text"
-msgstr ""
+msgstr "Атрибут alt"
 
 #: wp-admin/includes/class-wp-media-list-table.php:422
 msgctxt "column name"
 msgid "Caption"
-msgstr ""
+msgstr "Подпись"
 
 #: wp-admin/includes/class-wp-media-list-table.php:423
 msgctxt "column name"
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 #: wp-admin/includes/class-wp-media-list-table.php:424
 msgctxt "column name"
@@ -6403,7 +6403,7 @@ msgstr "Массовое редактирование"
 #: wp-admin/includes/class-wp-media-list-table.php:1150
 #: wp-admin/includes/class-wp-media-list-table.php:1290
 msgid "Separate tags with commas"
-msgstr ""
+msgstr "Метки разделяются запятыми"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1156
 msgid "— No Change —"
@@ -15690,7 +15690,7 @@ msgstr "Цифры"
 #: wp-admin/options-permalink.php:266
 msgctxt "sample permalink base"
 msgid "archives"
-msgstr ""
+msgstr "архивы"
 
 #: wp-admin/options-permalink.php:270
 msgid "Post name"
@@ -16214,7 +16214,7 @@ msgstr ""
 
 #: wp-admin/options.php:427
 msgid "Copy"
-msgstr ""
+msgstr "Копировать"
 
 #: wp-admin/plugin-editor.php:22
 msgid "Edit Plugins"
@@ -16315,7 +16315,7 @@ msgstr "Выбранное содержимое файла:"
 #: wp-admin/plugin-editor.php:288
 #: wp-admin/theme-editor.php:312
 msgid "Documentation:"
-msgstr ""
+msgstr "Документация:"
 
 #: wp-admin/plugin-editor.php:290
 #: wp-admin/theme-editor.php:314
@@ -16916,7 +16916,7 @@ msgstr ""
 #: wp-admin/setup-config.php:231
 msgctxt "example username"
 msgid "username"
-msgstr ""
+msgstr "имя пользователя"
 
 #: wp-admin/setup-config.php:232
 msgid "Your database username."
@@ -17426,7 +17426,7 @@ msgstr "Темы"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "Этот экран используется для управления установленными темами. За исключением тем по умолчанию, входящих в комплект ClassicPress, темы оформления создаются третьими лицами."
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -18113,7 +18113,7 @@ msgstr ""
 #: wp-admin/upload.php:125
 #: wp-admin/upload.php:488
 msgid "Deselect"
-msgstr ""
+msgstr "Снять выделение"
 
 #: wp-admin/upload.php:126
 msgid "Failed to update media:"
@@ -18193,7 +18193,7 @@ msgstr ""
 #. translators: %s: List view URL.
 #: wp-admin/upload.php:295
 msgid "The grid view for the Media Library requires JavaScript. <a href=\"%s\">Switch to the list view</a>."
-msgstr ""
+msgstr "Просмотр библиотеки файлов в режиме сетки требует JavaScript. <a href=\"%s\">Переключиться в режим списка</a>."
 
 #: wp-admin/upload.php:308
 msgid "Filter media"
@@ -18210,7 +18210,7 @@ msgstr ""
 
 #: wp-admin/upload.php:376
 msgid "of"
-msgstr ""
+msgstr "из"
 
 #. translators: %s: 1. Number of media items showing 2. Total number of media items.
 #: wp-admin/upload.php:502
@@ -18224,16 +18224,16 @@ msgstr ""
 #: wp-admin/upload.php:530
 #: wp-admin/upload.php:550
 msgid "Edit previous media item"
-msgstr ""
+msgstr "Редактировать предыдущий файл"
 
 #: wp-admin/upload.php:534
 #: wp-admin/upload.php:554
 msgid "Edit next media item"
-msgstr ""
+msgstr "Редактировать следующий файл"
 
 #: wp-admin/upload.php:538
 msgid "Close dialog"
-msgstr ""
+msgstr "Закрыть окно"
 
 #: wp-admin/upload.php:542
 msgid "Attachment details"
@@ -18249,7 +18249,7 @@ msgstr ""
 
 #: wp-admin/upload.php:579
 msgid "Uploaded on:"
-msgstr ""
+msgstr "Загружен:"
 
 #: wp-admin/upload.php:607
 msgid "Learn how to describe the purpose of the image"
@@ -18269,11 +18269,11 @@ msgstr ""
 
 #: wp-admin/upload.php:661
 msgid "View attachment page"
-msgstr ""
+msgstr "Просмотреть страницу вложения"
 
 #: wp-admin/upload.php:663
 msgid "Edit more details"
-msgstr ""
+msgstr "Изменить другие детали"
 
 #: wp-admin/upload.php:811
 msgid "All the files you&#8217;ve uploaded are listed in the Media Library, with the most recent uploads listed first. You can use the Screen Options tab to customize the display of this screen."

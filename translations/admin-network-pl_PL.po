@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2025-02-03 00:21\n"
+"PO-Revision-Date: 2025-02-23 21:22\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -1444,7 +1444,7 @@ msgstr "Dozwolone są małe litery (a-z) [bez polskich znaków diakrytycznych], 
 
 #: wp-admin/network/site-new.php:233
 msgid "Site Title"
-msgstr ""
+msgstr "Tytuł witryny"
 
 #: wp-admin/network/site-new.php:246
 msgid "Site Language"

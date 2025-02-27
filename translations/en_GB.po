@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-02-25 05:10\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3522,11 +3522,11 @@ msgstr "No pages found."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No posts found in Trash."
-msgstr "No posts found in Bin."
+msgstr "No posts found in the Bin."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No pages found in Trash."
-msgstr "No pages found in Bin."
+msgstr "No pages found in the Bin."
 
 #: wp-includes/class-wp-post-type.php:811
 msgid "Parent Page:"
@@ -7468,13 +7468,13 @@ msgstr "Download file"
 #: wp-includes/media-template.php:750
 #: wp-includes/media.php:4754
 msgid "Restore from Trash"
-msgstr "Restore from Bin"
+msgstr "Restore from the Bin"
 
 #: wp-includes/media-template.php:589
 #: wp-includes/media-template.php:752
 #: wp-includes/media.php:4753
 msgid "Move to Trash"
-msgstr "Move to Bin"
+msgstr "Move to the Bin"
 
 #: wp-includes/media-template.php:592
 #: wp-includes/media-template.php:755
@@ -8769,7 +8769,7 @@ msgstr "No changesets found."
 
 #: wp-includes/post.php:213
 msgid "No changesets found in Trash."
-msgstr "No changesets found in Bin."
+msgstr "No changesets found in the Bin."
 
 #: wp-includes/post.php:249
 msgid "oEmbed Responses"

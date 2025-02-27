@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 20\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-02-17 05:07\n"
+"PO-Revision-Date: 2025-02-23 21:22\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -709,7 +709,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:185
 msgid "Center"
-msgstr ""
+msgstr "Centrerat"
 
 #: wp-admin/includes/continents-cities.php:186
 msgid "New Salem"

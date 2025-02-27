@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 20\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-02-23 21:22\n"
+"PO-Revision-Date: 2025-02-27 14:12\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -201,7 +201,7 @@ msgstr "Nairobi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"
-msgstr "N'Djamena"
+msgstr "N’Djamena"
 
 #: wp-admin/includes/continents-cities.php:58
 msgid "Niamey"
@@ -221,7 +221,7 @@ msgstr "Porto-Novo"
 
 #: wp-admin/includes/continents-cities.php:62
 msgid "Sao Tome"
-msgstr "São Tomé"
+msgstr "Sao Tomé"
 
 #: wp-admin/includes/continents-cities.php:63
 msgid "Timbuktu"
@@ -709,7 +709,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:185
 msgid "Center"
-msgstr ""
+msgstr "Centre"
 
 #: wp-admin/includes/continents-cities.php:186
 msgid "New Salem"
@@ -745,7 +745,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:194
 msgid "Port of Spain"
-msgstr "Port-d'Espagne"
+msgstr "Port-d’Espagne"
 
 #: wp-admin/includes/continents-cities.php:195
 msgid "Porto Acre"
@@ -829,7 +829,7 @@ msgstr "Saint-Barthélemy"
 
 #: wp-admin/includes/continents-cities.php:215
 msgid "St Johns"
-msgstr "Saint John's"
+msgstr "Saint John’s"
 
 #: wp-admin/includes/continents-cities.php:216
 msgid "St Kitts"
@@ -913,7 +913,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:237
 msgid "DumontDUrville"
-msgstr "Dumont d'Urville"
+msgstr "Dumont d’Urville"
 
 #: wp-admin/includes/continents-cities.php:238
 msgid "Macquarie"
@@ -1413,7 +1413,7 @@ msgstr "Australie"
 
 #: wp-admin/includes/continents-cities.php:366
 msgid "ACT"
-msgstr ""
+msgstr "Territoire de la capitale australienne (ACT)"
 
 #: wp-admin/includes/continents-cities.php:367
 msgid "Adelaide"
@@ -1449,7 +1449,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:375
 msgid "LHI"
-msgstr ""
+msgstr "Île Lord Howe (LHI)"
 
 #: wp-admin/includes/continents-cities.php:376
 msgid "Lindeman"
@@ -1465,7 +1465,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:379
 msgid "NSW"
-msgstr ""
+msgstr "Nouvelle-Galles du Sud (NSW)"
 
 #: wp-admin/includes/continents-cities.php:380
 msgid "North"
@@ -1717,7 +1717,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:444
 msgid "Guernsey"
-msgstr ""
+msgstr "Guernesey"
 
 #: wp-admin/includes/continents-cities.php:445
 msgid "Helsinki"
@@ -2025,7 +2025,7 @@ msgstr "Atoll de Johnston"
 
 #: wp-admin/includes/continents-cities.php:523
 msgid "Kanton"
-msgstr ""
+msgstr "Canton"
 
 #: wp-admin/includes/continents-cities.php:524
 msgid "Kiritimati"

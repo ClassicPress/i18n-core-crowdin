@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-26 12:51\n"
+"PO-Revision-Date: 2025-03-05 22:15\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -5338,7 +5338,7 @@ msgstr "Type omgeving"
 
 #: wp-admin/includes/class-wp-debug-data.php:137
 msgid "Directories and Sizes"
-msgstr "Mappen en groottes"
+msgstr "Folders en groottes"
 
 #: wp-admin/includes/class-wp-debug-data.php:143
 msgid "Drop-ins"
@@ -5447,7 +5447,7 @@ msgstr "Rechten van het bestandssysteem"
 
 #: wp-admin/includes/class-wp-debug-data.php:347
 msgid "Shows whether ClassicPress is able to write to the directories it needs access to."
-msgstr "Toont of ClassicPress kan schrijven in de mappen waar het toegang nodig heeft."
+msgstr "Toont of ClassicPress kan schrijven in de folders waar het toegang nodig heeft."
 
 #: wp-admin/includes/class-wp-debug-data.php:350
 msgid "The main ClassicPress directory"
@@ -5525,7 +5525,7 @@ msgstr "Thema's folder grootte"
 
 #: wp-admin/includes/class-wp-debug-data.php:442
 msgid "Plugins directory location"
-msgstr "Locatie plugins map"
+msgstr "Locatie plugins folder"
 
 #: wp-admin/includes/class-wp-debug-data.php:446
 msgid "Plugins directory size"

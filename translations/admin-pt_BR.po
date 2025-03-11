@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-02-23 21:21\n"
+"PO-Revision-Date: 2025-03-11 22:41\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -96,7 +96,7 @@ msgstr "Privacidade"
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:53
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Ajude-nos a traduzir o ClassicPress para seu idioma! <a href=\"%s\">Saiba mais</a>."
 
 #: wp-admin/about.php:60
 msgid "About ClassicPress"
@@ -109,11 +109,11 @@ msgstr ""
 
 #: wp-admin/about.php:75
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "Esta tem sido uma base sólida para milhões de sítios Web há muitos anos e pensamos que ela também será uma excelente base para o futuro."
 
 #: wp-admin/about.php:80
 msgid "Join our growing community"
-msgstr ""
+msgstr "Junte-se à nossa comunidade que cresce a cada dia"
 
 #. translators: 1: link with instructions to join ClassicPress Zulip, 2: link to community forums
 #: wp-admin/about.php:85
@@ -123,7 +123,7 @@ msgstr ""
 #. translators: 1: link to ClassicPress FAQs page, 2: link to ClassicPress support forum
 #: wp-admin/about.php:95
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>FAQs page</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Se precisar de ajuda com alguma coisa, consulte a nossa <a href=\"%1$s\"><strong>página de perguntas e respostas</strong></a>. Se a sua pergunta não foi respondida lá, você pode criar um novo tópico em nosso fórum de suporte <a href=\"%2$s\"><strong></strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:105
@@ -175,7 +175,7 @@ msgstr ""
 #: wp-admin/about.php:184
 #: wp-admin/about.php:204
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPress versão %s</strong> abordou alguns problemas de segurança."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -206,8 +206,8 @@ msgstr ""
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>WordPress versão %1$s</strong> corrigiu alguns problemas de segurança e corrigiu %2$s erro."
+msgstr[1] "<strong>WordPress versão %1$s</strong> corrigiu alguns problemas de segurança e corrigiu %2$s erros."
 
 #: wp-admin/about.php:279
 msgid "Maintenance Release"
@@ -809,7 +809,7 @@ msgstr "E-mail"
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:200
@@ -922,7 +922,7 @@ msgstr ""
 #. translators: %s: https://www.classicpress.net/community
 #: wp-admin/credits.php:58
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "Interessado em ajudar no desenvolvimento? <a href=\"%s\">Se envolva no projeto ClassicPress</a>."
 
 #: wp-admin/customize.php:17
 #: wp-admin/customize.php:34
@@ -1645,7 +1645,7 @@ msgstr "Salvar"
 #: wp-admin/export.php:286
 #: wp-admin/includes/meta-boxes.php:104
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: wp-admin/edit-form-comment.php:117
 msgid "Approved"
@@ -1793,7 +1793,7 @@ msgstr ""
 
 #: wp-admin/edit-link-form.php:76
 msgid "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentation on Creating Links</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentação sobre Criar Links</a>"
 
 #. translators: Add new links.
 #: wp-admin/edit-link-form.php:90
@@ -1862,7 +1862,7 @@ msgstr "Nome"
 #: wp-admin/includes/meta-boxes.php:969
 #: wp-admin/includes/meta-boxes.php:1720
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
 #: wp-admin/edit-tag-form.php:188
 #: wp-admin/edit-tags.php:473
@@ -2014,7 +2014,7 @@ msgstr ""
 
 #: wp-admin/edit-tags.php:307
 msgid "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">Documentation on Link Categories</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">Documentação sobre Categorias de Links</a>"
 
 #: wp-admin/edit-tags.php:309
 msgid "<a href=\"https://wordpress.org/documentation/article/posts-tags-screen/\">Documentation on Tags</a>"
@@ -2582,7 +2582,7 @@ msgstr ""
 
 #: wp-admin/freedoms.php:73
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPress é um software livre e de código aberto, construído por uma comunidade distribuída de desenvolvedores voluntários em todo o mundo. ClassicPress vem com alguns direitos incríveis e com outra visão de mundo, graças a sua <a href=\"%s\">licença</a>, a GPL."
 
 #: wp-admin/freedoms.php:76
 msgid "The Four Freedoms"
@@ -2625,13 +2625,13 @@ msgstr ""
 #: wp-admin/plugin-install.php:98
 #: wp-admin/plugins.php:550
 msgid "https://wordpress.org/plugins/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/"
 
 #: wp-admin/freedoms.php:87
 #: wp-admin/theme-install.php:114
 #: wp-admin/themes.php:157
 msgid "https://wordpress.org/themes/"
-msgstr ""
+msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:90
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s <a href=\"%3$s\">GPL</a> first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
@@ -2775,8 +2775,8 @@ msgstr[1] "%s Comentários"
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s comentário em moderação"
+msgstr[1] "%s comentários em moderação"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -3561,12 +3561,12 @@ msgstr ""
 
 #: wp-admin/includes/class-custom-background.php:100
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentation on Custom Background</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Documentação sobre Fundos Personalizados</a>"
 
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:857
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Fóruns de Suporte</a>"
 
 #: wp-admin/includes/class-custom-background.php:233
 #: wp-admin/includes/theme.php:320
@@ -3709,7 +3709,7 @@ msgstr "Tamanho da imagem"
 #: wp-admin/includes/class-custom-background.php:454
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #: wp-admin/includes/class-custom-background.php:455
 msgid "Fit to Screen"
@@ -3825,7 +3825,7 @@ msgstr ""
 
 #: wp-admin/includes/class-custom-image-header.php:137
 msgid "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentation on Custom Header</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Appearance_Header_Screen\">Documentação sobre Cabeçalhos Personalizados</a>"
 
 #: wp-admin/includes/class-custom-image-header.php:317
 msgid "<strong>Random:</strong> Show a different image on each page."
@@ -3867,7 +3867,7 @@ msgstr "As imagens devem ter pelo menos %s de largura."
 #: wp-admin/includes/class-custom-image-header.php:633
 #: wp-admin/includes/class-custom-image-header.php:645
 msgid "%d pixels"
-msgstr ""
+msgstr "%d píxeis"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:614
@@ -4629,7 +4629,7 @@ msgstr "Atualizando para o ClassicPress %s"
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:407
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-automatic-updater.php:419
@@ -5119,7 +5119,7 @@ msgstr "Enviado em"
 #: wp-admin/includes/class-wp-comments-list-table.php:502
 #: wp-admin/includes/class-wp-posts-list-table.php:1894
 msgid "Pings"
-msgstr ""
+msgstr "Pings"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:510
@@ -6451,12 +6451,12 @@ msgstr "Nenhum plugin encontrado. Tente uma pesquisa diferente."
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:451
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Desempenho"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:452
 msgctxt "Plugin installer group title"
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:453
 msgctxt "Plugin installer group title"
@@ -6703,7 +6703,7 @@ msgstr "Pesquisar plugins instalados..."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:461
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:466
 msgid "Automatic Updates"
@@ -7628,7 +7628,7 @@ msgstr "Colunas"
 #: wp-admin/includes/theme.php:369
 #: wp-admin/index.php:69
 msgid "Layout"
-msgstr ""
+msgstr "Leiaute"
 
 #. translators: %s: Number of columns on the page.
 #: wp-admin/includes/class-wp-screen.php:1209
@@ -7774,7 +7774,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:2443
 #: wp-admin/includes/class-wp-site-health.php:2568
 msgid "Performance"
-msgstr ""
+msgstr "Desempenho"
 
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
@@ -9113,7 +9113,7 @@ msgstr[1] "<span class=\"count\">(%s)</span>"
 #: wp-admin/includes/class-wp-users-list-table.php:231
 #: wp-admin/includes/class-wp-users-list-table.php:249
 msgid "%1$s <span class=\"count\">(%2$s)</span>"
-msgstr ""
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:246
 msgid "No role"
@@ -9172,7 +9172,7 @@ msgstr "Ver posts por %s"
 #: wp-admin/includes/class-wp-users-list-table.php:600
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-users-list-table.php:612
@@ -9379,7 +9379,7 @@ msgstr "%1$s em %2$s %3$s"
 #: wp-admin/includes/dashboard.php:916
 msgctxt "dashboard"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:950
 msgid "Publishing Soon"
@@ -10885,7 +10885,7 @@ msgstr "Definir status"
 #: wp-admin/includes/template.php:900
 #: wp-admin/js/post.js:1026
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
@@ -10996,7 +10996,7 @@ msgstr "Adicionar"
 #. translators: %s: Add New taxonomy label.
 #: wp-admin/includes/meta-boxes.php:707
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:776
@@ -11825,7 +11825,7 @@ msgstr ""
 #: wp-admin/includes/plugin-install.php:376
 #: wp-admin/widgets.php:28
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: wp-admin/includes/plugin-install.php:377
 msgid "Admin Utilities"
@@ -12801,7 +12801,7 @@ msgstr "Ícone do site"
 
 #: wp-admin/includes/template.php:2345
 msgid "Logo"
-msgstr ""
+msgstr "Logotipo"
 
 #. translators: 1: wp-admin/includes/template.php, 2: add_meta_box(), 3: add_meta_boxes
 #: wp-admin/includes/template.php:2570
@@ -14235,12 +14235,12 @@ msgstr "Temas %s"
 #: wp-admin/nav-menus.php:32
 #: wp-admin/nav-menus.php:750
 msgid "Menus"
-msgstr ""
+msgstr "Menus"
 
 #: wp-admin/menu.php:240
 msgctxt "theme editor"
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/menu.php:256
@@ -16393,7 +16393,7 @@ msgstr ""
 #: wp-admin/update-core.php:292
 #: wp-admin/update-core.php:311
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:612
@@ -19329,8 +19329,8 @@ msgstr[1] ""
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s atualização disponível"
+msgstr[1] "%s atualizações disponíveis"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/js/updates.js:467

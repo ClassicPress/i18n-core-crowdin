@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-02-23 21:21\n"
+"PO-Revision-Date: 2025-03-11 16:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -594,7 +594,7 @@ msgstr ""
 
 #: wp-includes/class-wp-application-passwords.php:84
 msgid "Each application name should be unique."
-msgstr ""
+msgstr "O nome de aplicativo deve ser único."
 
 #: wp-includes/class-wp-application-passwords.php:105
 #: wp-includes/class-wp-application-passwords.php:267

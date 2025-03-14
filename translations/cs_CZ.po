@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-26 05:10\n"
+"PO-Revision-Date: 2025-03-14 16:25\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12479,7 +12479,7 @@ msgstr "XML rozšíření jazyka PHP není k dispozici. Obraťte se na svého po
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr "Chyba XML: %1$s (řádek %2$s)"
+msgstr "Chyba XML: %1$s na řádku %2$s"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -18259,7 +18259,7 @@ msgstr "Editor"
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "HTML"
+msgstr "Text"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -27405,7 +27405,7 @@ msgstr "Libovolný text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:42
 msgid "Text"
-msgstr "HTML"
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

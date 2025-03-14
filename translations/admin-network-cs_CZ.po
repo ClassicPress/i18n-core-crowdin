@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 18\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-26 05:10\n"
+"PO-Revision-Date: 2025-03-14 22:20\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -108,7 +108,7 @@ msgstr[3] ""
 #: wp-admin/includes/class-wp-ms-users-list-table.php:114
 #: wp-admin/includes/class-wp-ms-users-list-table.php:531
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:287
 msgctxt "site"
@@ -122,7 +122,7 @@ msgstr "Není spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:335
 msgid "Filter"
-msgstr ""
+msgstr "Filtrovat"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:358
 msgid "URL"
@@ -161,12 +161,12 @@ msgstr "Akce"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:520
 #: wp-admin/includes/class-wp-ms-users-list-table.php:241
 msgid "Select %s"
-msgstr ""
+msgstr "Vybrat %s"
 
 #. translators: 1: Site title, 2: Site tagline.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:474
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
@@ -212,7 +212,7 @@ msgstr "Aktivovat"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:708
 msgid "Deactivate"
-msgstr ""
+msgstr "Deaktivovat"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:712
 msgid "Unarchive"
@@ -235,7 +235,7 @@ msgstr "Není spam"
 #: wp-admin/network/site-themes.php:179
 #: wp-admin/network/site-users.php:225
 msgid "Visit"
-msgstr ""
+msgstr "Navštívit"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:318
 msgid "No themes found."
@@ -247,7 +247,7 @@ msgstr "Nejsou k dispozici žádné šablony."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:330
 msgid "Theme"
-msgstr ""
+msgstr "Šablona"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:331
 msgid "Description"
@@ -333,7 +333,7 @@ msgstr "Povolit"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:586
 msgid "Network Enable"
-msgstr ""
+msgstr "Povolit síť"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:470
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:612
@@ -381,7 +381,7 @@ msgstr "Zakázat %s v síti webů"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:633
 msgctxt "theme"
 msgid "Delete %s"
-msgstr ""
+msgstr "Smazat %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:699
 msgid "Broken Theme:"
@@ -390,7 +390,7 @@ msgstr "Poškozená šablona:"
 #. translators: %s: Theme version.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:722
 msgid "Version %s"
-msgstr ""
+msgstr "Verze %s"
 
 #. translators: %s: Theme author.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:726
@@ -429,7 +429,7 @@ msgstr "Povolení automatických aktualizací"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:931
 msgid "Active Theme"
-msgstr ""
+msgstr "Aktivní šablona"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:936
 msgid "Active Child Theme"
@@ -447,14 +447,14 @@ msgstr "Není spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:125
 msgid "No users found."
-msgstr ""
+msgstr "Nebyli nalezeni žádní uživatelé."
 
 #. translators: Number of users.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:144
 msgctxt "users"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "Celkem <span class=\"count\">(%s)</span>"
 msgstr[1] ""
 msgstr[2] ""
 msgstr[3] ""
@@ -500,7 +500,7 @@ msgstr "Weby"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:285
 msgid "Super Admin"
-msgstr ""
+msgstr "Super admin"
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:303
@@ -512,7 +512,7 @@ msgstr "%1$s %2$s"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:314
 msgctxt "name"
 msgid "Unknown"
-msgstr ""
+msgstr "Neznámý"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:420
 msgid "View"
@@ -546,51 +546,51 @@ msgstr "Zpět"
 #. translators: Storage space that's been used. 1: Percentage of used space, 2: Total space allowed in megabytes or gigabytes.
 #: wp-admin/includes/ms.php:265
 msgid "Used: %1$s%% of %2$s"
-msgstr ""
+msgstr "Použito: %1$s%% z %2$s"
 
 #: wp-admin/includes/ms.php:305
 msgid "Site Upload Space Quota"
-msgstr ""
+msgstr "Kvóta pro upload na web"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ms.php:311
 #: wp-admin/network/settings.php:420
 msgid "Size in megabytes"
-msgstr ""
+msgstr "Velikost v megabajtech"
 
 #: wp-admin/includes/ms.php:313
 msgid "MB (Leave blank for network default)"
-msgstr ""
+msgstr "MB (ponechte prázdné pro výchozí nastavení sítě)"
 
 #. translators: 1: Site title.
 #: wp-admin/includes/ms.php:575
 #: wp-admin/includes/ms.php:584
 msgid "You attempted to access the \"%1$s\" dashboard, but you do not currently have privileges on this site. If you believe you should be able to access the \"%1$s\" dashboard, please contact your network administrator."
-msgstr ""
+msgstr "Pokusili jste se získat přístup k nástěnce \"%1$s\", ale v současné době nemáte na tomto webu žádná práva. Pokud se domníváte, že byste měli mít přístup k nástěnce \"%1$s\", prosím kontaktujte svého správce sítě."
 
 #: wp-admin/includes/ms.php:587
 msgid "If you reached this screen by accident and meant to visit one of your own sites, here are some shortcuts to help you find your way."
-msgstr ""
+msgstr "Pokud jste se dostali na tuto obrazovku náhodou a chtěli jste navštívit jednu z vlastních stránek, zde jsou některé zkratky, které vám pomohou najít cestu."
 
 #: wp-admin/includes/ms.php:589
 msgid "Your Sites"
-msgstr ""
+msgstr "Vaše weby"
 
 #: wp-admin/includes/ms.php:595
 msgid "Visit Dashboard"
-msgstr ""
+msgstr "Navštívit nástěnku"
 
 #: wp-admin/includes/ms.php:596
 msgid "View Site"
-msgstr ""
+msgstr "Zobrazit web"
 
 #: wp-admin/includes/ms.php:639
 msgid "American English"
-msgstr ""
+msgstr "Americká angličtina"
 
 #: wp-admin/includes/ms.php:643
 msgid "British English"
-msgstr ""
+msgstr "Britská angličtina"
 
 #: wp-admin/includes/ms.php:652
 msgid "English"
@@ -599,12 +599,12 @@ msgstr "Angličtina"
 #. translators: %s: URL to Upgrade Network screen.
 #: wp-admin/includes/ms.php:696
 msgid "Thank you for Updating! Please visit the <a href=\"%s\">Upgrade Network</a> page to update all your sites."
-msgstr ""
+msgstr "Děkujeme za aktualizaci! Prosím navštivte stránku <a href=\"%s\">Upgrade Network</a> pro aktualizaci všech vašich webů."
 
 #. translators: My Sites label.
 #: wp-admin/includes/ms.php:768
 msgid "Primary Site"
-msgstr ""
+msgstr "Hlavní web"
 
 #: wp-admin/includes/ms.php:800
 msgid "Not available"
@@ -612,40 +612,40 @@ msgstr "Nedostupné"
 
 #: wp-admin/includes/ms.php:865
 msgid "You have chosen to delete the user from all networks and sites."
-msgstr ""
+msgstr "Rozhodli jste se odstranit uživatele ze všech sítí a webů."
 
 #: wp-admin/includes/ms.php:867
 msgid "You have chosen to delete the following users from all networks and sites."
-msgstr ""
+msgstr "Rozhodli jste se odstranit následující uživatele ze všech sítí a webů."
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:888
 msgid "Warning! User %s cannot be deleted."
-msgstr ""
+msgstr "Varování! Uživatele %s nelze smazat."
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:898
 msgid "Warning! User cannot be deleted. The user %s is a network administrator."
-msgstr ""
+msgstr "Upozornění! Uživatele nelze smazat. Uživatel %s je administrátor sítě."
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:917
 msgid "What should be done with content owned by %s?"
-msgstr ""
+msgstr "Co by se mělo udělat s obsahem, který patří uživateli %s?"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/ms.php:935
 msgid "Select a user"
-msgstr ""
+msgstr "Zvolte uživatele"
 
 #. translators: %s: Link to user's site.
 #: wp-admin/includes/ms.php:957
 msgid "Site: %s"
-msgstr ""
+msgstr "Stránka: %s"
 
 #: wp-admin/includes/ms.php:961
 msgid "Delete all content."
-msgstr ""
+msgstr "Smazat veškerý obsah."
 
 #: wp-admin/includes/ms.php:963
 msgid "Attribute all content to:"
@@ -885,7 +885,7 @@ msgstr ""
 
 #: wp-admin/network.php:29
 msgid "The Network creation panel is not for ClassicPress MU networks."
-msgstr ""
+msgstr "Panel pro vytváření sítě není pro sítě ClassicPress MU."
 
 #. translators: 1: WP_ALLOW_MULTISITE, 2: wp-config.php
 #: wp-admin/network.php:44
@@ -895,11 +895,11 @@ msgstr "Pro povolení instalace sítě webů musíte v souboru %2$s definovat ko
 #: wp-admin/network.php:53
 #: wp-admin/network/menu.php:112
 msgid "Network Setup"
-msgstr ""
+msgstr "Nastavení sítě"
 
 #: wp-admin/network.php:57
 msgid "Create a Network of ClassicPress Sites"
-msgstr ""
+msgstr "Vytvořte síť ClassicPress webů"
 
 #: wp-admin/network.php:61
 msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
@@ -915,7 +915,7 @@ msgstr "Následující stránka instalace vygeneruje několik řádek kódu, kte
 
 #: wp-admin/network.php:64
 msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing ClassicPress rules)."
-msgstr ""
+msgstr "Přidejte označené řádky kódu do wp-config.php (těsně před <code>/*...stop editing...*/</code>) a <code>.htaccess</code> (vyměňte za existující ClassicPress pravidla)."
 
 #: wp-admin/network.php:65
 msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
@@ -1002,7 +1002,7 @@ msgstr "Úvodní stránka"
 #. translators: %s: Number of available updates.
 #: wp-admin/network/menu.php:30
 msgid "Updates %s"
-msgstr ""
+msgstr "Aktualizací %s"
 
 #: wp-admin/network/menu.php:41
 msgid "Updates"
@@ -1021,7 +1021,7 @@ msgstr "Přehled webů"
 
 #: wp-admin/network/menu.php:56
 msgid "All Users"
-msgstr ""
+msgstr "Všichni uživatelé"
 
 #: wp-admin/network/menu.php:57
 #: wp-admin/network/users.php:292
@@ -1032,7 +1032,7 @@ msgstr "Přidat nový"
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
 msgid "Themes %s"
-msgstr ""
+msgstr "Šablon %s"
 
 #: wp-admin/network/menu.php:80
 msgid "Installed Themes"
@@ -1046,12 +1046,12 @@ msgstr "Přidat nový"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
-msgstr ""
+msgstr "Editor souboru šablony"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/network/menu.php:88
 msgid "Plugins %s"
-msgstr ""
+msgstr "Pluginů %s"
 
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
@@ -1060,7 +1060,7 @@ msgstr "Pluginy"
 
 #: wp-admin/network/menu.php:105
 msgid "Installed Plugins"
-msgstr ""
+msgstr "Nainstalované pluginy"
 
 #: wp-admin/network/menu.php:106
 msgctxt "plugin"
@@ -1098,7 +1098,7 @@ msgstr "Nastavení nahrávání souborů umožňuje limitovat velikost nahrávan
 
 #: wp-admin/network/settings.php:56
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
-msgstr ""
+msgstr "Můžete zvolit jazyk a překlady budou automaticky staženy a nainstalovány (pokud je váš souborový systém zapisovatelný)."
 
 #: wp-admin/network/settings.php:57
 msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
@@ -1307,7 +1307,7 @@ msgstr "Maximální velikost nahrávaného souboru"
 #. translators: %s: File size in kilobytes.
 #: wp-admin/network/settings.php:442
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449
@@ -1324,7 +1324,7 @@ msgstr "Výchozí jazyk"
 
 #: wp-admin/network/settings.php:511
 msgid "Menu Settings"
-msgstr ""
+msgstr "Nastavení nabídky"
 
 #: wp-admin/network/settings.php:514
 msgid "Enable administration menus"
@@ -1406,7 +1406,7 @@ msgstr "Nelze vytvořit prázdný web."
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
 msgid "The following words are reserved for use by ClassicPress functions and cannot be used as site names: %s"
-msgstr ""
+msgstr "Následující slova jsou vyhrazena pro použití ClassicPress funkcemi a nemohou být použita jako názvy stránek: %s"
 
 #: wp-admin/network/site-new.php:87
 msgid "Missing or invalid site address."
@@ -1448,7 +1448,7 @@ msgstr "Název webu"
 
 #: wp-admin/network/site-new.php:246
 msgid "Site Language"
-msgstr ""
+msgstr "Jazyk webu"
 
 #: wp-admin/network/site-new.php:294
 msgid "Admin Email"
@@ -1528,7 +1528,7 @@ msgstr "Šablony aktivované v síti webů nejsou na této stránce zobrazeny."
 #: wp-admin/network/site-themes.php:238
 #: wp-admin/network/themes.php:447
 msgid "Search Installed Themes"
-msgstr ""
+msgstr "Hledat nainstalované šablony"
 
 #: wp-admin/network/site-users.php:25
 msgid "Filter site users list"
@@ -1544,7 +1544,7 @@ msgstr "Seznam uživatelů webu"
 
 #: wp-admin/network/site-users.php:120
 msgid "Sorry, you are not allowed to remove users."
-msgstr ""
+msgstr "Nemáte dostatečné oprávnění pro mazání uživatelů."
 
 #: wp-admin/network/site-users.php:146
 msgid "Sorry, you are not allowed to give users that role."
@@ -1556,13 +1556,13 @@ msgstr "Něco se pokazilo."
 
 #: wp-admin/network/site-users.php:159
 msgid "One of the selected users is not a member of this site."
-msgstr ""
+msgstr "Jeden z vybraných uživatelů není členem tohoto webu."
 
 #: wp-admin/network/site-users.php:242
 #: wp-admin/network/user-new.php:91
 #: wp-admin/network/users.php:272
 msgid "User added."
-msgstr ""
+msgstr "Uživatel byl přidán."
 
 #: wp-admin/network/site-users.php:245
 msgid "User is already a member of this site."
@@ -1578,7 +1578,7 @@ msgstr "Zadejte uživatelské jméno stávajícího uživatele."
 
 #: wp-admin/network/site-users.php:255
 msgid "Changed roles."
-msgstr ""
+msgstr "Změněné role."
 
 #: wp-admin/network/site-users.php:258
 msgid "Select a user to change role."
@@ -1586,7 +1586,7 @@ msgstr "Vyberte uživatele, kterému chcete změnit uživatelskou roveň."
 
 #: wp-admin/network/site-users.php:262
 msgid "User removed from this site."
-msgstr ""
+msgstr "Uživatel byl odstraněn z tohoto webu."
 
 #: wp-admin/network/site-users.php:265
 msgid "Select a user to remove."
@@ -1607,16 +1607,16 @@ msgstr "Duplicitní uživatelské jméno nebo e-mailová adresa."
 #: wp-admin/network/site-users.php:291
 #: wp-admin/network/users.php:312
 msgid "Search Users"
-msgstr ""
+msgstr "Vyhledat uživatele"
 
 #: wp-admin/network/site-users.php:332
 msgid "Add Existing User"
-msgstr ""
+msgstr "Přidat existujícího uživatele"
 
 #: wp-admin/network/site-users.php:342
 #: wp-admin/network/site-users.php:380
 msgid "Role"
-msgstr ""
+msgstr "Role"
 
 #: wp-admin/network/site-users.php:353
 #: wp-admin/network/user-new.php:160
@@ -1628,7 +1628,7 @@ msgstr "Přidat uživatele"
 #: wp-admin/network/user-new.php:100
 #: wp-admin/network/user-new.php:106
 msgid "Add New User"
-msgstr ""
+msgstr "Přidat nového uživatele"
 
 #: wp-admin/network/site-users.php:390
 #: wp-admin/network/user-new.php:148
@@ -1745,7 +1745,7 @@ msgstr "Potvrďte akci"
 #: wp-admin/network/sites.php:122
 #: wp-admin/network/sites.php:209
 msgid "Confirm"
-msgstr ""
+msgstr "Potvrdit"
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:168
@@ -1809,7 +1809,7 @@ msgstr "Výsledky vyhledávání pro: %s"
 
 #: wp-admin/network/sites.php:399
 msgid "Search Sites"
-msgstr ""
+msgstr "Hledat weby"
 
 #: wp-admin/network/themes.php:14
 msgid "Sorry, you are not allowed to manage network themes."
@@ -1817,7 +1817,7 @@ msgstr "Nemáte dostatečné oprávnění pro správu šablon v síti webů."
 
 #: wp-admin/network/themes.php:85
 msgid "Update Themes"
-msgstr ""
+msgstr "Aktualizovat šablony"
 
 #: wp-admin/network/themes.php:102
 msgid "Sorry, you are not allowed to delete themes for this site."
@@ -1830,7 +1830,7 @@ msgstr "Smazat šablonu"
 #: wp-admin/network/themes.php:138
 #: wp-admin/network/themes.php:142
 msgid "Caution:"
-msgstr ""
+msgstr "Upozornění:"
 
 #: wp-admin/network/themes.php:138
 msgid "This theme may be active on other sites in the network."
@@ -1904,7 +1904,7 @@ msgstr "Automatické aktualizace mohou být povoleny nebo zakázány pro každé
 
 #: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "Upozornění: šablony a pluginy třetích stran nebo vlastní kód mohou přepsat plánování ClassicPressu."
 
 #: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
@@ -1916,7 +1916,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\" targ
 
 #: wp-admin/network/themes.php:329
 msgid "Filter themes list"
-msgstr ""
+msgstr "Filtrovat seznam šablon"
 
 #: wp-admin/network/themes.php:330
 msgid "Themes list navigation"
@@ -1924,11 +1924,11 @@ msgstr "Navigace seznamem šablon"
 
 #: wp-admin/network/themes.php:331
 msgid "Themes list"
-msgstr ""
+msgstr "Seznam šablon"
 
 #: wp-admin/network/themes.php:396
 msgid "Theme deleted."
-msgstr ""
+msgstr "Šablona byla smazána."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:400
@@ -1971,7 +1971,7 @@ msgstr "Nemůžete smazat šablonu, která je aktivní na hlavním webu."
 
 #: wp-admin/network/themes.php:454
 msgid "The following themes are installed but incomplete."
-msgstr ""
+msgstr "Následující šablony jsou nainstalovány, ale jsou neúplné."
 
 #: wp-admin/network/upgrade.php:24
 msgid "Only use this screen once you have updated to a new version of ClassicPress through Updates/Available Updates (via the Network Administration navigation menu or the Toolbar). Clicking the Upgrade Network button will step through each site in the network, five at a time, and make sure any database updates are applied."
@@ -2008,19 +2008,19 @@ msgstr "Další web"
 
 #: wp-admin/network/upgrade.php:140
 msgid "Database Update Required"
-msgstr ""
+msgstr "Je vyžadována aktualizace databáze"
 
 #: wp-admin/network/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to individually upgrade the sites in your network."
-msgstr ""
+msgstr "ClassicPress byl aktualizován! Další a poslední krok je individuálně aktualizovat weby ve Vaší síti."
 
 #: wp-admin/network/upgrade.php:144
 msgid "The database update process may take a little while, so please be patient."
-msgstr ""
+msgstr "Proces aktualizace databáze může chvíli trvat, tak prosím buďte trpěliví."
 
 #: wp-admin/network/user-new.php:14
 msgid "Sorry, you are not allowed to add users to this network."
-msgstr ""
+msgstr "Omlouváme se, do této sítě nemáte povoleno přidávat uživatele."
 
 #: wp-admin/network/user-new.php:22
 msgid "Add User will set up a new user account on the network and send that person an email with username and password."
@@ -2078,19 +2078,19 @@ msgstr "Z existujících uživatelů můžete vytvořit dodatečně administrát
 
 #: wp-admin/network/users.php:248
 msgid "Filter users list"
-msgstr ""
+msgstr "Filtrovat seznamu uživatelů"
 
 #: wp-admin/network/users.php:249
 msgid "Users list navigation"
-msgstr ""
+msgstr "Navigace v seznamu uživatelů"
 
 #: wp-admin/network/users.php:250
 msgid "Users list"
-msgstr ""
+msgstr "Seznam uživatelů"
 
 #: wp-admin/network/users.php:260
 msgid "User deleted."
-msgstr ""
+msgstr "Uživatel byl smazán."
 
 #: wp-admin/network/users.php:263
 msgid "Users marked as spam."
@@ -2134,31 +2134,31 @@ msgstr ""
 
 #: wp-includes/ms-deprecated.php:619
 msgid "Already Installed"
-msgstr ""
+msgstr "Již nainstalováno"
 
 #: wp-includes/ms-deprecated.php:619
 msgid "You appear to have already installed ClassicPress. To reinstall please clear your old database tables first."
-msgstr ""
+msgstr "Zdá se, že jste již nainstalovali ClassicPress. Pro přeinstalaci nejprve vymažte staré databázové tabulky."
 
 #: wp-includes/ms-functions.php:159
 msgid "The requested user does not exist."
-msgstr ""
+msgstr "Požadovaný uživatel neexistuje."
 
 #: wp-includes/ms-functions.php:182
 msgid "User cannot be added to this site."
-msgstr ""
+msgstr "Uživatel nemohl být přidán k tomuto webu."
 
 #: wp-includes/ms-functions.php:271
 msgid "That user does not exist."
-msgstr ""
+msgstr "Tento uživatel neexistuje."
 
 #: wp-includes/ms-functions.php:464
 msgid "Usernames can only contain lowercase letters (a-z) and numbers."
-msgstr ""
+msgstr "Uživatelská jména mohou obsahovat pouze malá písmena (a-z) a čísla."
 
 #: wp-includes/ms-functions.php:471
 msgid "Please enter a username."
-msgstr ""
+msgstr "Zadejte uživatelské jméno."
 
 #: wp-includes/ms-functions.php:480
 #: wp-includes/ms-functions.php:487
@@ -2167,15 +2167,15 @@ msgstr "Zvolené uživatelské jméno bohužel není povoleno."
 
 #: wp-includes/ms-functions.php:491
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Zadejte platnou e-mailovou adresu."
 
 #: wp-includes/ms-functions.php:493
 msgid "You cannot use that email address to signup. There are problems with them blocking some emails from ClassicPress. Please use another email provider."
-msgstr ""
+msgstr "K registraci nelze použít tuto e-mailovou adresu. Existují problémy s blokováním některých e-mailů od ClassicPressu. Použijte prosím jiného poskytovatele e-mailu."
 
 #: wp-includes/ms-functions.php:497
 msgid "Username must be at least 4 characters."
-msgstr ""
+msgstr "Uživatelské jméno musí mít alespoň 4 znaky."
 
 #: wp-includes/ms-functions.php:501
 msgid "Username may not be longer than 60 characters."
@@ -2183,11 +2183,11 @@ msgstr "Uživatelské jméno nesmí obsahovat více než 60 znaků."
 
 #: wp-includes/ms-functions.php:506
 msgid "Sorry, usernames must have letters too!"
-msgstr ""
+msgstr "Omlouváme se, uživatelská jména musí obsahovat také písmena!"
 
 #: wp-includes/ms-functions.php:514
 msgid "Sorry, that email address is not allowed!"
-msgstr ""
+msgstr "Omlouváme se, tato e-mailová adresa není povolena!"
 
 #: wp-includes/ms-functions.php:520
 msgid "Sorry, that username already exists!"
@@ -2200,54 +2200,54 @@ msgstr "<strong>Chyba:</strong> Tato e-mailová adresa je již zaregistrována. 
 
 #: wp-includes/ms-functions.php:545
 msgid "That username is currently reserved but may be available in a couple of days."
-msgstr ""
+msgstr "Toto uživatelské jméno je momentálně rezervováno, ale může být k dispozici za několik dní."
 
 #: wp-includes/ms-functions.php:556
 msgid "That email address has already been used. Please check your inbox for an activation email. It will become available in a couple of days if you do nothing."
-msgstr ""
+msgstr "Tato e-mailová adresa již byla použita. Zkontrolujte prosím svou doručenou poštu pro aktivační email. Pokud nic neuděláte, bude k dispozici za několik dní."
 
 #: wp-includes/ms-functions.php:645
 msgid "Please enter a site name."
-msgstr ""
+msgstr "Zadejte prosím název webu."
 
 #: wp-includes/ms-functions.php:649
 msgid "Site names can only contain lowercase letters (a-z) and numbers."
-msgstr ""
+msgstr "Názvy webů mohou obsahovat pouze malá písmena (a-z) a čísla."
 
 #: wp-includes/ms-functions.php:653
 msgid "That name is not allowed."
-msgstr ""
+msgstr "Tento název není povolen."
 
 #. translators: %s: Minimum site name length.
 #: wp-includes/ms-functions.php:667
 msgid "Site name must be at least %s character."
 msgid_plural "Site name must be at least %s characters."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Název webu musí obsahovat alespoň %s znak."
+msgstr[1] "Název webu musí obsahovat alespoň %s znaky."
+msgstr[2] "Název webu musí obsahovat alespoň %s znaků."
 msgstr[3] ""
 
 #: wp-includes/ms-functions.php:672
 msgid "Sorry, you may not use that site name."
-msgstr ""
+msgstr "Omlouváme se, ale tento název webu nelze použít."
 
 #: wp-includes/ms-functions.php:677
 msgid "Sorry, site names must have letters too!"
-msgstr ""
+msgstr "Omlouváme se, názvy stránek musí obsahovat také písmena!"
 
 #: wp-includes/ms-functions.php:695
 msgid "Please enter a site title."
-msgstr ""
+msgstr "Zadejte název webu."
 
 #: wp-includes/ms-functions.php:707
 #: wp-includes/ms-functions.php:1372
 #: wp-includes/ms-site.php:624
 msgid "Sorry, that site already exists!"
-msgstr ""
+msgstr "Omlouváme se, tento web již existuje!"
 
 #: wp-includes/ms-functions.php:716
 msgid "Sorry, that site is reserved!"
-msgstr ""
+msgstr "Omlouváme se, ale tento web je rezervován!"
 
 #: wp-includes/ms-functions.php:735
 msgid "That site is currently reserved but may be available in a couple days."

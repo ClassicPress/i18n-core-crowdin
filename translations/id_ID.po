@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-03-26 04:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -88,7 +88,7 @@ msgstr ""
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:159
 msgid "Cron unschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Kesalahan acara tidak terjadwal cron untuk hook: %1$s, Kode kesalahan: %2$s, Pesan kesalahan: %3$s, Data: %4$s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:136
@@ -337,7 +337,7 @@ msgstr ""
 #: wp-includes/capabilities.php:374
 #: wp-includes/capabilities.php:430
 msgid "When checking for the %s capability, you must always check it against a specific post."
-msgstr ""
+msgstr "Ketika memeriksa kemampuan %s, anda harus selalu memeriksanya terhadap pos tertentu."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:82

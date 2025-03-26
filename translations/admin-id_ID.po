@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-02-23 21:21\n"
+"PO-Revision-Date: 2025-03-26 10:34\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2752,7 +2752,7 @@ msgstr[0] "%s Komentar"
 #: wp-admin/menu.php:94
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s Komentar dalam jumlah sedang"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -19255,7 +19255,7 @@ msgstr[0] ""
 #: wp-admin/js/updates.js:361
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
+msgstr[0] "%s pembaruan tersedia"
 
 #. translators: %s: Plugin name and version.
 #: wp-admin/js/updates.js:467

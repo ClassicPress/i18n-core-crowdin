@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-03-05 22:15\n"
+"PO-Revision-Date: 2025-05-03 17:43\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -13975,7 +13975,7 @@ msgstr "Succes!"
 #. translators: link to Open Collective donation page
 #: wp-admin/install.php:426
 msgid "ClassicPress has been installed. Consider making a donation to support <a href=\"%s\">ClassicPress</a>, please. Thank you, and enjoy!"
-msgstr "ClassicPress is geïnstalleerd. Overweeg een donatie te doen om <a href=\"%s\">ClassicPress</a>te ondersteunen. Bedankt en geniet ervan!"
+msgstr "ClassicPress is geïnstalleerd. Overweeg een donatie te doen om <a href=\"%s\">ClassicPress</a> te ondersteunen. Bedankt en geniet ervan!"
 
 #: wp-admin/link-add.php:13
 msgid "Sorry, you are not allowed to add links to this site."

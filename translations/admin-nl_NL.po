@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-03 17:43\n"
+"PO-Revision-Date: 2025-05-08 17:42\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -13318,7 +13318,7 @@ msgstr "ClassicPress is bijgewerkt"
 #: wp-admin/includes/update-core.php:944
 #: wp-admin/update-core.php:776
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
-msgstr "Welkom bij ClassicPress %1$s. Je wordt doorverwezen naar het &#39;Over&#39; ClassicPress scherm. Zo niet, klik <a href=\"%2$s\">hier</a>."
+msgstr "Welkom bij ClassicPress %1$s. Je wordt doorverwezen naar het Over ClassicPress scherm. Zo niet, klik <a href=\"%2$s\">hier</a>."
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
 #: wp-admin/includes/update-core.php:952
@@ -16760,7 +16760,7 @@ msgstr "Als om wat voor reden dan ook deze automatische bestandsaanmaak niet wer
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-admin/setup-config.php:195
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel op %2$s</a>."
+msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel over %2$s</a>."
 
 #: wp-admin/setup-config.php:196
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"

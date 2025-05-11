@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-11 11:13\n"
+"PO-Revision-Date: 2025-05-11 17:11\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12135,7 +12135,7 @@ msgstr "Klaar"
 
 #: wp-admin/index.php:33
 msgid "Welcome to your ClassicPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of ClassicPress. You can get help for any screen by clicking the Help tab above the screen title."
-msgstr "Welkom bij je ClassicPress Dashboard. Dit is het scherm dat je krijgt te zien zodra je inlogt op je website. Het geeft je toegang tot alle beheerfuncties van ClassicPress. Wanneer je klikt op de Hulp tab rechtsboven de schermtitel, krijg je meer informatie te zien over de functionaliteiten en werking van het betreffende onderdeel. "
+msgstr "Welkom bij je ClassicPress Dashboard. Dit is het scherm dat je krijgt te zien zodra je inlogt op je website. Het geeft je toegang tot alle beheerfuncties van ClassicPress. Wanneer je klikt op de Hulp tab rechtsboven de schermtitel, krijg je meer informatie te zien over de functionaliteiten en werking van het betreffende onderdeel."
 
 #: wp-admin/index.php:45
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."

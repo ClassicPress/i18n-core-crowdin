@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-08 17:42\n"
+"PO-Revision-Date: 2025-05-11 23:11\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -13946,7 +13946,7 @@ msgstr "Admin Configuratie"
 
 #: wp-admin/install.php:365
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
-msgstr "Geef uw site een geweldige titel en vul de gegevens van uw beheerdersaccount in. Neem nota van uw gebruikersnaam en wachtwoord - u zult deze in een ogenblik opnieuw nodig hebben."
+msgstr "Geef je site een geweldige titel en vul de gegevens van je beheerdersaccount in. Let op je gebruikersnaam en wachtwoord - je zult deze in een ogenblik opnieuw nodig hebben."
 
 #: wp-admin/install.php:396
 msgid "Please provide a valid username."

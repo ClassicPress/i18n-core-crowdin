@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-23 21:20\n"
+"PO-Revision-Date: 2025-05-11 11:13\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -12238,7 +12238,7 @@ msgstr ""
 
 #: wp-admin/install.php:190
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
-msgstr "Geef uw site een geweldige titel en vul de gegevens van uw beheerdersaccount in. Neem nota van uw gebruikersnaam en wachtwoord - u zult deze in een ogenblik opnieuw nodig hebben."
+msgstr "Geef je site een geweldige titel en vul de gegevens van je beheerdersaccount in. Let op je gebruikersnaam en wachtwoord - je zult deze in een ogenblik opnieuw nodig hebben."
 
 #: wp-admin/install.php:227
 msgid "Please provide a valid username."

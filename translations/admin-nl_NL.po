@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-11 23:11\n"
+"PO-Revision-Date: 2025-05-12 12:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -15122,7 +15122,7 @@ msgstr "Siteadres (URL)"
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
 msgid "Enter the same address here unless you <a href=\"%s\">want your site home page to be different from your ClassicPress installation directory</a>."
-msgstr "Voer hier het adres in als je <a href=\"%s\">je site's homepage een andere wil laten zijn dan de ClassicPress installatie folder</a>."
+msgstr "Voer hier hetzelfde adres in tenzij je <a href=\"%s\">wil dat de homepage van je site anders is, dan die van je ClassicPress installatie folder</a>."
 
 #: wp-admin/options-general.php:225
 msgid "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"

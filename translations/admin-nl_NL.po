@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-12 18:21\n"
+"PO-Revision-Date: 2025-05-26 22:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2672,7 +2672,7 @@ msgstr "De %s importeerfunctie is ongeldig of niet geïnstalleerd."
 
 #: wp-admin/import.php:72
 msgid "If you have posts or comments in another system, ClassicPress can import those into this site. To get started, choose a system to import from below:"
-msgstr "Je kunt berichten of reacties uit andere systemen importeren naar deze site. Kies hieronder uit welk systeem je wilt importeren:"
+msgstr "Als je berichten of reacties in een ander systeem hebt, kan ClassicPress deze in deze site importeren. Om te beginnen, kies een systeem om van hieronder te importeren:"
 
 #: wp-admin/import.php:95
 msgid "No importers are available."

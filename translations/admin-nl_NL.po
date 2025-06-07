@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 16\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-26 12:51\n"
+"PO-Revision-Date: 2025-05-26 22:21\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1141,7 +1141,7 @@ msgstr "In de <strong>Auteur</strong> kolom, naast de auteursnaam, het e-mailadr
 
 #: wp-admin/edit-comments.php:201
 msgid "In the <strong>Comment</strong> column, hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
-msgstr "Beweeg in de kolom <strong>Reactie</strong> met de cursor over een reactie om de opties goedkeuren, antwoorden (en goedkeuren), snel bewerken, als spam markeren, of verwijderen voor die reactie zichtbaar te maken."
+msgstr "In de <strong>Reactie</strong> kolom, als je over een reactie hovert, krijg je de opties om die reactie goed te keuren, te beantwoorden (en goed te keuren), snel te bewerken, te bewerken, als spam te markeren, of te verwijderen."
 
 #: wp-admin/edit-comments.php:202
 msgid "In the <strong>In response to</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If there are pending comments, a red notification circle with the number of pending comments is displayed. Clicking the notification circle will filter the comments screen to show only pending comments on that post."
@@ -1149,7 +1149,7 @@ msgstr "In de <strong>Als reactie op</strong>kolom bevinden zich drie elementen.
 
 #: wp-admin/edit-comments.php:203
 msgid "In the <strong>Submitted on</strong> column, the date and time the comment was left on your site appears. Clicking on the date/time link will take you to that comment on your live site."
-msgstr "In de <strong>verzonden op</strong> kolom wordt de datum en tijd getoond wanneer de reactie was achtergelaten op de site. Een klik op de datum/tijd link brengt je naar de reactie op de live site."
+msgstr "In de <strong>Ingediend op</strong> kolom wordt de datum en tijd getoond wanneer de reactie was achtergelaten op je site. Een klik op de datum/tijd link brengt je naar die reactie op je live site."
 
 #: wp-admin/edit-comments.php:204
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -1449,7 +1449,7 @@ msgstr "Pagina's zijn vergelijkbaar met berichten doordat ze een titel, hoofdtek
 
 #: wp-admin/edit-form-advanced.php:323
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
-msgstr "Aanmaken van een Pagina lijkt veel op het aanmaken van een Bericht en de schermen kunnen op dezelfde manier worden aangepast door middel van verslepen, de Schermopties tab en het in- en uitvouwen van boxen naar keuze. Dit scherm heeft ook de afleidingsvrije schrijf ruimte, beschikbaar in zowel de visuele- als tekstmodus via de Volledig scherm knoppen. De Pagina-editor werkt grotendeels hetzelfde als de Bericht-editor, maar er zijn enkele Pagina-specifieke functies in de Pagina attributenbox."
+msgstr "Een pagina maken is heel vergelijkbaar met het maken van een bericht, en de schermen kunnen op dezelfde manier worden aangepast met verslepen, de tab voor schermopties en het uitvouwen/invouwen van vakken naar keuze. Dit scherm heeft ook de afleidingsvrije schrijfruimte, beschikbaar in zowel de visuele als code modus via de volledig scherm knoppen. De pagina-editor werkt grotendeels hetzelfde als de bericht-editor, maar er zijn enkele pagina specifieke functies in het vak pagina attributen."
 
 #: wp-admin/edit-form-advanced.php:328
 msgid "About Pages"
@@ -1502,7 +1502,7 @@ msgstr "Media invoegen"
 
 #: wp-admin/edit-form-advanced.php:373
 msgid "Several boxes on this screen contain settings for how your content will be published, including:"
-msgstr "Meerdere blokken op dit scherm bevatten instellingen voor de manier waarop je inhoud zal worden gepubliceerd, met inbegrip van:"
+msgstr "Meerdere vakken op dit scherm bevatten instellingen voor de manier waarop je inhoud zal worden gepubliceerd, inclusief:"
 
 #: wp-admin/edit-form-advanced.php:375
 msgid "<strong>Publish</strong> &mdash; You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). The Password protected option allows you to set an arbitrary password for each post. The Private option hides the post from everyone except editors and administrators. Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
@@ -1998,7 +1998,7 @@ msgstr "<strong>Beschrijving</strong> &mdash; De beschrijving is standaard niet 
 
 #: wp-admin/edit-tags.php:291
 msgid "You can change the display of this screen using the Screen Options tab to set how many items are displayed per screen and to display/hide columns in the table."
-msgstr "Je kunt de weergave van dit scherm wijzigen met de Schermopties tab door te kiezen hoeveel items per scherm worden weergegeven en door kolommen in de tabel te tonen of verbergen."
+msgstr "Je kunt de weergave van dit scherm wijzigen met de Scherminstellingen tab door te kiezen hoeveel items per scherm worden weergegeven en door kolommen in de tabel te tonen of verbergen."
 
 #: wp-admin/edit-tags.php:296
 msgid "Adding Categories"
@@ -2099,7 +2099,7 @@ msgstr "Je kunt de lijst met berichten filteren op berichtstatus met gebruik van
 
 #: wp-admin/edit.php:261
 msgid "You can view posts in a simple title list or with an excerpt using the Screen Options tab."
-msgstr "Je kunt de berichtweergave wisselen tussen een simpel overzicht met titels of een overzicht met titels en samenvatting door de tab Schermopties te kiezen."
+msgstr "Je kunt berichten bekijken in een eenvoudige lijst met titels of met een samenvatting via de tab Scherminstellingen."
 
 #: wp-admin/edit.php:262
 msgid "You can refine the list to show only posts in a specific category or from a specific month by using the dropdown menus above the posts list. Click the Filter button after making your selection. You also can refine the list by clicking on the post author, category or tag in the posts list."
@@ -2258,7 +2258,7 @@ msgstr "In dit scherm beheer je aanvragen om persoonsgegevens te wissen."
 
 #: wp-admin/erase-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to delete, anonymize, or forget the data they collect about an individual. The rights those laws enshrine are sometimes called the \"Right to be Forgotten\"."
-msgstr "Privacywetten over de hele wereld verplichten bedrijven en onlinediensten om de gegevens die zij over een persoon verzamelen te wissen, anonimiseren of te vergeten. De rechten die in die wetten zijn vastgelegd, worden ook wel het \"Recht om te worden vergeten\" genoemd."
+msgstr "Privacywetten over de hele wereld vereisen dat bedrijven en online diensten de gegevens die ze over een individu verzamelen, verwijderen, anonimiseren of vergeten. De rechten die deze wetten verankeren, worden soms het \"Recht om vergeten te worden\" genoemd."
 
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
@@ -2493,7 +2493,7 @@ msgstr "Gehele inhoud"
 
 #: wp-admin/export.php:188
 msgid "This will contain all of your posts, pages, comments, custom fields, terms, navigation menus, and custom posts."
-msgstr "Dit bevat alle berichten, pagina's, reacties, aangepaste velden, termen, navigatie menu's en aangepaste berichttypen."
+msgstr "Dit bevat al je berichten, pagina's, reacties, aangepaste velden, termen, navigatie menu's en aangepaste berichten."
 
 #: wp-admin/export.php:190
 #: wp-admin/includes/class-wp-users-list-table.php:377
@@ -2672,7 +2672,7 @@ msgstr "De %s importeerfunctie is ongeldig of niet geïnstalleerd."
 
 #: wp-admin/import.php:72
 msgid "If you have posts or comments in another system, ClassicPress can import those into this site. To get started, choose a system to import from below:"
-msgstr "Je kunt berichten of reacties uit andere systemen importeren naar deze site. Kies hieronder uit welk systeem je wilt importeren:"
+msgstr "Als je berichten of reacties in een ander systeem hebt, kan ClassicPress deze in deze site importeren. Om te beginnen, kies een systeem om van hieronder te importeren:"
 
 #: wp-admin/import.php:95
 msgid "No importers are available."
@@ -5120,7 +5120,7 @@ msgstr "Reactie"
 #: wp-admin/includes/class-wp-comments-list-table.php:477
 msgctxt "column name"
 msgid "Submitted on"
-msgstr "Verzonden op"
+msgstr "Ingediend op"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:502
 #: wp-admin/includes/class-wp-posts-list-table.php:1894
@@ -5338,7 +5338,7 @@ msgstr "Type omgeving"
 
 #: wp-admin/includes/class-wp-debug-data.php:137
 msgid "Directories and Sizes"
-msgstr "Mappen en groottes"
+msgstr "Folders en groottes"
 
 #: wp-admin/includes/class-wp-debug-data.php:143
 msgid "Drop-ins"
@@ -5447,7 +5447,7 @@ msgstr "Rechten van het bestandssysteem"
 
 #: wp-admin/includes/class-wp-debug-data.php:347
 msgid "Shows whether ClassicPress is able to write to the directories it needs access to."
-msgstr "Toont of ClassicPress kan schrijven in de mappen waar het toegang nodig heeft."
+msgstr "Toont of ClassicPress kan schrijven in de folders waar het toegang nodig heeft."
 
 #: wp-admin/includes/class-wp-debug-data.php:350
 msgid "The main ClassicPress directory"
@@ -5525,7 +5525,7 @@ msgstr "Thema's folder grootte"
 
 #: wp-admin/includes/class-wp-debug-data.php:442
 msgid "Plugins directory location"
-msgstr "Locatie plugins map"
+msgstr "Locatie plugins folder"
 
 #: wp-admin/includes/class-wp-debug-data.php:446
 msgid "Plugins directory size"
@@ -13318,7 +13318,7 @@ msgstr "ClassicPress is bijgewerkt"
 #: wp-admin/includes/update-core.php:944
 #: wp-admin/update-core.php:776
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
-msgstr "Welkom bij ClassicPress %1$s. Je wordt doorverwezen naar het &#39;Over&#39; ClassicPress scherm. Zo niet, klik <a href=\"%2$s\">hier</a>."
+msgstr "Welkom bij ClassicPress %1$s. Je wordt doorverwezen naar het Over ClassicPress scherm. Zo niet, klik <a href=\"%2$s\">hier</a>."
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
 #: wp-admin/includes/update-core.php:952
@@ -13717,7 +13717,7 @@ msgstr "Het dashboard is de eerste plaats waar je zult komen elke keer dat je in
 
 #: wp-admin/index.php:50
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
-msgstr "Het navigatiemenu aan de linkerkant geeft links naar alle ClassicPress dashboardschermen, met submenu-items die worden getoond bij hoveren. Je kunt dit menu verkleinen naar een smalle strip met iconen door te klikken op de Menu invouwen pijl aan de onderkant."
+msgstr "Het linker navigatiemenu bevat links naar alle ClassicPress beheerdersschermen, met submenu items weergegeven op hoveren. Je kunt dit menu minimaliseren tot een smalle strook met iconen door op de pijl menu samenvouwen aan de onderkant te klikken."
 
 #: wp-admin/index.php:51
 msgid "Links in the Toolbar at the top of the screen connect your dashboard and the front end of your site, and provide access to your profile and helpful ClassicPress information."
@@ -13733,15 +13733,15 @@ msgstr "Je kunt de volgende besturingselementen gebruiken om je dashboardscherm 
 
 #: wp-admin/index.php:62
 msgid "<strong>Screen Options</strong> &mdash; Use the Screen Options tab to choose which Dashboard boxes to show."
-msgstr "<strong>Scherminstellingen</strong> &mdash; gebruik de Scherminstellingen tab om te kiezen welke vakken in het dashboard getoond moeten worden."
+msgstr "<strong>Scherminstellingen</strong> &mdash; Gebruik de Scherminstellingen tab om te kiezen welke vakken in het dashboard getoond moeten worden."
 
 #: wp-admin/index.php:63
 msgid "<strong>Drag and Drop</strong> &mdash; To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
-msgstr "<strong>Verslepen</strong> &mdash; Om de boxen te herschikken, versleep je ze door te klikken op de titelbalk van de geselecteerde box. Wanneer je een grijze stippellijn ziet verschijnen op de plaats waar je de box wilt plaatsen kun je de muisknop loslaten."
+msgstr "<strong>Verslepen</strong> &mdash; Om de vakken opnieuw te rangschikken, verslepen door op de titelbalk van het geselecteerde vak te klikken en laat los wanneer je een grijze gestippelde rechthoek ziet verschijnen op de plek waar je het vak wil plaatsen."
 
 #: wp-admin/index.php:64
 msgid "<strong>Box Controls</strong> &mdash; Click the title bar of the box to expand or collapse it. Some boxes added by plugins may have configurable content, and will show a &#8220;Configure&#8221; link in the title bar if you hover over it."
-msgstr "<strong>Box opties</strong> &mdash; Klik op de titelbalk van een box om deze in- of uit te vouwen. Sommige (door plugins) toegevoegde boxen hebben instelbare inhoud, deze kun je aanpassen door in de titel van de box boven de titel te hoveren en op &#8220;Configureren&#8221; te klikken."
+msgstr "<strong>Vak opties</strong> &mdash; Klik op de titelbalk van een vak om deze in- of uit te vouwen. Sommige (door plugins) toegevoegde vakken hebben instelbare inhoud, deze kun je aanpassen door in de titel van het vak boven de titel te hoveren en op “Configureren” te klikken."
 
 #: wp-admin/index.php:74
 msgid "The boxes on your Dashboard screen are:"
@@ -13946,7 +13946,7 @@ msgstr "Admin Configuratie"
 
 #: wp-admin/install.php:365
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
-msgstr "Geef uw site een geweldige titel en vul de gegevens van uw beheerdersaccount in. Neem nota van uw gebruikersnaam en wachtwoord - u zult deze in een ogenblik opnieuw nodig hebben."
+msgstr "Geef je site een geweldige titel en vul de gegevens van je beheerdersaccount in. Let op je gebruikersnaam en wachtwoord - je zult deze in een ogenblik opnieuw nodig hebben."
 
 #: wp-admin/install.php:396
 msgid "Please provide a valid username."
@@ -13975,7 +13975,7 @@ msgstr "Succes!"
 #. translators: link to Open Collective donation page
 #: wp-admin/install.php:426
 msgid "ClassicPress has been installed. Consider making a donation to support <a href=\"%s\">ClassicPress</a>, please. Thank you, and enjoy!"
-msgstr "ClassicPress is geïnstalleerd. Overweeg een donatie te doen om <a href=\"%s\">ClassicPress</a>te ondersteunen. Bedankt en geniet ervan!"
+msgstr "ClassicPress is geïnstalleerd. Overweeg een donatie te doen om <a href=\"%s\">ClassicPress</a> te ondersteunen. Bedankt en geniet ervan!"
 
 #: wp-admin/link-add.php:13
 msgid "Sorry, you are not allowed to add links to this site."
@@ -13988,7 +13988,7 @@ msgstr "Nieuwe link toevoegen"
 #. translators: %s: URL to Widgets screen.
 #: wp-admin/link-manager.php:61
 msgid "You can add links here to be displayed on your site, usually using <a href=\"%s\">Widgets</a>. By default, links to several sites in the ClassicPress community are included as examples."
-msgstr "Je kunt links op je site tonen, normaal gesproken doe je dat middels <a href=\"%s\">Widgets</a>. Als voorbeeld worden er standaard links toegevoegd naar diverse sites in de ClassicPress community."
+msgstr "Je kunt hier links toevoegen die op je site worden weergegeven, meestal met behulp van <a href=\"%s\">Widgets</a>. Standaard zijn links naar verschillende sites in de ClassicPress community opgenomen als voorbeeld."
 
 #: wp-admin/link-manager.php:64
 msgid "Links may be separated into Link Categories; these are different than the categories used on your posts."
@@ -14004,7 +14004,7 @@ msgstr "Links verwijderen"
 
 #: wp-admin/link-manager.php:73
 msgid "If you delete a link, it will be removed permanently, as Links do not have a Trash function yet."
-msgstr "Het verwijderen van een link is permanent aangezien er nog geen prullenbak functionaliteit aanwezig is voor Links."
+msgstr "Als je een link verwijdert, wordt deze permanent verwijderd, omdat links nog geen prullenbak functie heeft."
 
 #: wp-admin/link-manager.php:79
 msgid "<a href=\"https://codex.wordpress.org/Links_Screen\">Documentation on Managing Links</a>"
@@ -14560,7 +14560,7 @@ msgstr "Elk navigatiemenu kan een mix van links naar pagina's, categorieën, aan
 
 #: wp-admin/nav-menus.php:712
 msgid "<strong>Clicking the arrow to the right of any menu item</strong> in the editor will reveal a standard group of settings. Additional settings such as link target, CSS classes, link relationships, and link descriptions can be enabled and disabled via the Screen Options tab."
-msgstr "<strong>Een klik op de pijl rechts naast het menu-item</strong> in de editor zal inzage geven in standaard groepsinstellingen. Extra instellingen zoals target link, CSS classes, link relaties en link beschrijvingen kunnen in- en uitgeschakeld worden via de schermopties tab."
+msgstr "<strong>Een klik op de pijl rechts naast het menu-item</strong> in de editor zal inzage geven in standaard groepsinstellingen. Extra instellingen zoals target link, CSS classes, link relaties en link beschrijvingen kunnen in- en uitgeschakeld worden via de scherminstellingen tab."
 
 #: wp-admin/nav-menus.php:713
 msgid "Add one or several items at once by <strong>selecting the checkbox next to each item and clicking Add to Menu</strong>"
@@ -14572,7 +14572,7 @@ msgstr "Voor het toevoegen van aangepaste links, <strong>breidt de aangepaste li
 
 #: wp-admin/nav-menus.php:715
 msgid "To reorganize menu items, <strong>drag and drop items with your mouse or use your keyboard</strong>. Drag or move a menu item a little to the right to make it a submenu"
-msgstr "Om menu-items te herschikken, <strong>versleep onderdelen met je muis of gebruik je toetsenbord</strong>. Een menu-item iets naar rechts slepen of verplaatsen om er een submenu van te maken"
+msgstr "Om menu items te reorganiseren, <strong>versleep en zet items neer met je muis of gebruik je toetsenbord</strong>. Sleep of verplaats een menu item een beetje naar rechts om er een submenu van te maken"
 
 #: wp-admin/nav-menus.php:716
 msgid "Delete a menu item by <strong>expanding it and clicking the Remove link</strong>"
@@ -14938,7 +14938,7 @@ msgstr "Avatarweergave"
 
 #: wp-admin/options-discussion.php:270
 msgid "Show Avatars"
-msgstr "Avatars tonen"
+msgstr "Avatars weergeven"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-discussion.php:275
@@ -14974,7 +14974,7 @@ msgstr "Standaard avatar"
 
 #: wp-admin/options-discussion.php:312
 msgid "For users without a custom avatar of their own, you can either display a generic logo or a generated one based on their email address."
-msgstr "Voor gebruikers zonder eigen avatar, kan een algemeen logo worden getoond of een gegenereerd logo gebaseerd op hun e-mailadres."
+msgstr "Voor gebruikers die zelf geen aangepaste avatar hebben, kun je een algemeen logo weergeven of een gegenereerd logo op basis van hun e-mailadres."
 
 #: wp-admin/options-discussion.php:317
 msgid "Mystery Person"
@@ -15122,7 +15122,7 @@ msgstr "Siteadres (URL)"
 #. translators: %s: Documentation URL.
 #: wp-admin/options-general.php:224
 msgid "Enter the same address here unless you <a href=\"%s\">want your site home page to be different from your ClassicPress installation directory</a>."
-msgstr "Voer hier het adres in als je <a href=\"%s\">je site's homepage een andere wil laten zijn dan de ClassicPress installatie folder</a>."
+msgstr "Voer hier hetzelfde adres in tenzij je <a href=\"%s\">wil dat de homepage van je site anders is, dan die van je ClassicPress installatie folder</a>."
 
 #: wp-admin/options-general.php:225
 msgid "https://wordpress.org/documentation/article/giving-wordpress-its-own-directory/"
@@ -15485,7 +15485,7 @@ msgstr "Dit scherm stelt je in staat om je permalinkstructuur te kiezen. Je kunt
 
 #: wp-admin/options-permalink.php:34
 msgid "Permalinks can contain useful information, such as the post date, title, or other elements. You can choose from any of the suggested permalink formats, or you can craft your own if you select Custom Structure."
-msgstr "Permalinks kunnen bruikbare informatie bevatten, zoals publicatie datum, titel of andere elementen. Je kunt kiezen uit diverse voorgestelde formaten of je kunt je eigen aangepaste structuur creëren."
+msgstr "Permalinks kunnen bruikbare informatie bevatten, zoals publicatie datum, titel of andere elementen. Je kunt kiezen uit diverse voorgestelde permalink formaten of je kunt je eigen aangepaste structuur creëren."
 
 #. translators: %s: Percent sign (%).
 #: wp-admin/options-permalink.php:37
@@ -15986,7 +15986,7 @@ msgstr "Update diensten"
 
 #: wp-admin/options-writing.php:46
 msgid "If desired, ClassicPress will automatically alert various services of your new posts."
-msgstr "Indien gewenst, zal ClassicPress automatisch bericht geven aan verschillende diensten van je berichten."
+msgstr "Indien gewenst zal ClassicPress automatisch verschillende diensten waarschuwen voor je nieuwe berichten."
 
 #: wp-admin/options-writing.php:53
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-writing-screen/\">Documentation on Writing Settings</a>"
@@ -16760,7 +16760,7 @@ msgstr "Als om wat voor reden dan ook deze automatische bestandsaanmaak niet wer
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-admin/setup-config.php:195
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel op %2$s</a>."
+msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel over %2$s</a>."
 
 #: wp-admin/setup-config.php:196
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
@@ -17749,7 +17749,7 @@ msgstr "ClassicPress updates"
 
 #: wp-admin/update-core.php:828
 msgid "On this screen, you can update to the latest version of ClassicPress, as well as update your themes, plugins, and translations from the ClassicPress.net repositories."
-msgstr "Via dit scherm kun je ClassicPress bijwerken naar de laatste versie. Ook kun je je thema's, plugins en vertalingen bijwerken vanuit de ClassicPress.net directories."
+msgstr "Op dit scherm kun je updaten naar de nieuwste versie van ClassicPress, evenals je thema's, plugins en vertalingen updaten vanuit de ClassicPress.net repositories."
 
 #: wp-admin/update-core.php:829
 msgid "If an update is available, you&#8127;ll see a notification appear in the Toolbar and navigation menu."
@@ -18147,7 +18147,7 @@ msgstr "Alle bestanden die geüpload zijn bevinden zich in de mediabibliotheek, 
 
 #: wp-admin/upload.php:812
 msgid "You can narrow the list by file type/status or by date using the dropdown menus above the media table."
-msgstr "Het is mogelijk de lijst te verkleinen door te filteren op type/status of op datum door gebruik te maken van de dropdown boven de mediatabel."
+msgstr "Je kunt de lijst verfijnen op bestandstype/status of op datum met de dropdown menu's boven de tabel met media."
 
 #: wp-admin/upload.php:821
 msgid "Hovering over a row reveals action links that allow you to manage media items. You can perform the following actions:"
@@ -18163,7 +18163,7 @@ msgstr "<strong>Permanent verwijderen</strong> zal het bestand verwijderen uit d
 
 #: wp-admin/upload.php:825
 msgid "<strong>View</strong> will take you to a public display page for that file."
-msgstr "<strong>Weergave</strong> brengt je naar een publieke weergavepagina voor dat bestand."
+msgstr "<strong>Bekijken</strong> brengt je naar een openbare weergavepagina voor dat bestand."
 
 #: wp-admin/upload.php:826
 msgid "<strong>Copy URL</strong> copies the URL for the media file to your clipboard."
@@ -18209,7 +18209,7 @@ msgstr "Je profiel bevat informatie over je (je &#8220;account&#8221;) evenals e
 
 #: wp-admin/user-edit.php:60
 msgid "You can change your password, turn on keyboard shortcuts, change the color scheme of your ClassicPress administration screens, and turn off the WYSIWYG (Visual) editor, among other things. You can hide the Toolbar (formerly called the Admin Bar) from the front end of your site, however it cannot be disabled on the admin screens."
-msgstr "Je kunt je wachtwoord wijzigen, de sneltoetsen inschakelen, het kleurenschema van je Dashboard wijzigen en de WYSIWYG (What-You-See-Is-What-You-Get) editor uitschakelen, en wat andere dingen. Je kunt de toolbar (voorheen adminbar genoemd) verbergen van de voorkant van je site. Deze toolbar kan echter niet verwijderd worden op de dashboardschermen."
+msgstr "Je kunt onder andere je wachtwoord wijzigen, sneltoetsen inschakelen, het kleurenschema van je ClassicPress beheerdersschermen wijzigen en de WYSIWYG (visuele) editor uitschakelen. Je kunt de toolbar (voorheen admin bar genoemd) verbergen op de voorkant van je site, maar deze kan niet worden uitgeschakeld op de beheerdersschermen."
 
 #: wp-admin/user-edit.php:61
 msgid "You can select the language you wish to use while using the ClassicPress administration screen without affecting the language site visitors see."
@@ -18688,7 +18688,7 @@ msgstr "Gebruiker toevoegen zonder dat er een e-mail voor bevestiging wordt vers
 
 #: wp-admin/user-new.php:514
 msgid "Create a brand new user and add them to this site."
-msgstr "Nieuwe gebruiker aanmaken en koppelen aan deze site."
+msgstr "Maak een gloednieuwe gebruiker aan en voeg hem toe aan deze site."
 
 #: wp-admin/user-new.php:595
 msgid "Generate password"
@@ -18950,7 +18950,7 @@ msgstr "Widgets zijn onafhankelijke secties met inhoud die je in elk widgetgebie
 
 #: wp-admin/widgets-form.php:47
 msgid "The Available Widgets section contains all the widgets you can choose from. Once you drag a widget into a sidebar, it will open to allow you to configure its settings. When you are happy with the widget settings, click the Save button and the widget will go live on your site. If you click Delete, it will remove the widget."
-msgstr "De beschikbare widgetsectie bevat alle widgets waaruit je kan kiezen. Op het moment dat je een widget naar een zijbalk sleept, zal deze openen zodat je de instellingen kan configureren. Als je tevreden bent met de widgetinstellingen, klik je op Opslaan en zal de widget op je site worden getoond. Als je op Verwijderen klikt, zal de widget worden verwijderd."
+msgstr "De sectie beschikbare widgets bevat alle widgets waaruit je kunt kiezen. Zodra je een widget naar een zijbalk sleept, wordt deze geopend zodat je de instellingen kunt configureren. Als je tevreden bent met de instellingen van de widget, klik je op opslaan en wordt de widget live gezet op je site. Als je op verwijderen klikt, wordt de widget verwijderd."
 
 #: wp-admin/widgets-form.php:53
 msgid "Removing and Reusing"
@@ -19242,7 +19242,7 @@ msgstr "URL slug"
 
 #: wp-admin/js/postbox.js:25
 msgid "Add boxes from the Screen Options menu"
-msgstr "Voeg boxen toe vanuit het Scherm opties menu"
+msgstr "Vakken toevoegen vanuit het menu Scherminstellingen"
 
 #: wp-admin/js/postbox.js:25
 msgid "Drag boxes here"

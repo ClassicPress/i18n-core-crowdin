@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-03-26 10:34\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -83,12 +83,12 @@ msgstr "Kegagalan Pengiriman Komentar"
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:132
 msgid "Cron reschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Kesalahan acara penjadwalan ulang cron untuk hook: %1$s, Kode kesalahan: %2$s, Pesan kesalahan: %3$s, Data: %4$s"
 
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:159
 msgid "Cron unschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Kesalahan acara tidak terjadwal cron untuk hook: %1$s, Kode kesalahan: %2$s, Pesan kesalahan: %3$s, Data: %4$s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:136
@@ -114,7 +114,7 @@ msgstr "Bantuan"
 
 #: wp-includes/admin-bar.php:188
 msgid "https://forums.classicpress.net/"
-msgstr ""
+msgstr "https://forums.classicpress.net/"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:207
@@ -124,7 +124,7 @@ msgstr "Menu"
 
 #: wp-includes/admin-bar.php:309
 msgid "Edit Profile"
-msgstr ""
+msgstr "Edit Profil"
 
 #: wp-includes/admin-bar.php:319
 #: wp-includes/class-wp-admin-bar.php:477
@@ -210,7 +210,7 @@ msgstr "Tampilkan Pengguna"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "Debugging Diaktifkan"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -235,7 +235,7 @@ msgstr "Baru"
 #: wp-includes/admin-bar.php:956
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s Komentar dalam jumlah sedang"
 
 #: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-widgets.php:416
@@ -261,7 +261,7 @@ msgstr "Tajuk"
 #: wp-includes/admin-bar.php:1082
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
+msgstr[0] "%s pembaruan tersedia"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1115
@@ -274,7 +274,7 @@ msgstr "Cari"
 
 #: wp-includes/admin-bar.php:1153
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "Keluar dari Mode Pemulihan"
 
 #: wp-includes/atomlib.php:155
 #: wp-includes/feed.php:582
@@ -324,11 +324,11 @@ msgstr "Marka buku"
 
 #: wp-includes/cache-compat.php:144
 msgid "Your object cache implementation does not support flushing the in-memory runtime cache."
-msgstr ""
+msgstr "Implementasi cache objek anda tidak mendukung pembersihan cache waktu berjalan dalam memori."
 
 #: wp-includes/cache-compat.php:176
 msgid "Your object cache implementation does not support flushing individual groups."
-msgstr ""
+msgstr "Implementasi cache objek anda tidak mendukung pembersihan grup secara individual."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:79
@@ -337,14 +337,14 @@ msgstr ""
 #: wp-includes/capabilities.php:374
 #: wp-includes/capabilities.php:430
 msgid "When checking for the %s capability, you must always check it against a specific post."
-msgstr ""
+msgstr "Ketika memeriksa kemampuan %s, anda harus selalu memeriksanya terhadap pos tertentu."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:82
 #: wp-includes/capabilities.php:185
 #: wp-includes/capabilities.php:284
 msgid "When checking for the %s capability, you must always check it against a specific page."
-msgstr ""
+msgstr "Saat memeriksa kemampuan %s, anda harus selalu memeriksanya pada halaman tertentu."
 
 #. translators: 1: Post type, 2: Capability name.
 #: wp-includes/capabilities.php:114
@@ -352,29 +352,29 @@ msgstr ""
 #: wp-includes/capabilities.php:314
 #: wp-includes/capabilities.php:395
 msgid "The post type %1$s is not registered, so it may not be reliable to check the capability %2$s against a post of that type."
-msgstr ""
+msgstr "Jenis posting %1$ tidak terdaftar, sehingga mungkin tidak dapat dipastikan untuk memeriksa kapabilitas %2$ terhadap posting dengan jenis tersebut."
 
 #. translators: 1: Post status, 2: Capability name.
 #: wp-includes/capabilities.php:342
 msgid "The post status %1$s is not registered, so it may not be reliable to check the capability %2$s against a post with that status."
-msgstr ""
+msgstr "Status postingan %1$ tidak terdaftar, sehingga mungkin tidak dapat dipastikan untuk memeriksa kemampuan %2$ terhadap postingan dengan status tersebut."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:433
 #: wp-includes/capabilities.php:549
 msgid "When checking for the %s capability, you must always check it against a specific comment."
-msgstr ""
+msgstr "Ketika memeriksa kemampuan %s, anda harus selalu memeriksanya terhadap komentar tertentu."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:436
 #: wp-includes/capabilities.php:703
 msgid "When checking for the %s capability, you must always check it against a specific term."
-msgstr ""
+msgstr "Saat memeriksa kemampuan %s, anda harus selalu memeriksanya dengan istilah yang spesifik."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:439
 msgid "When checking for the %s capability, you must always check it against a specific user."
-msgstr ""
+msgstr "Ketika memeriksa kemampuan %s, anda harus selalu memeriksanya terhadap pengguna tertentu."
 
 #. translators: User role for administrators.
 #: wp-includes/capabilities.php:1263
@@ -445,7 +445,7 @@ msgstr "Tag: "
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "Kelas PHPMailer telah dipindahkan ke subdirektori wp-includes/PHPMailer dan sekarang menggunakan ruang nama PHPMailer\\PHPMailer."
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"

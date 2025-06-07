@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-02-23 21:21\n"
+"PO-Revision-Date: 2025-03-11 22:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -83,12 +83,12 @@ msgstr "Falha ao submeter o comentário"
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:132
 msgid "Cron reschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Erro ao reagendar no Cron para o hook: %1$s, Código de erro: %2$s, Mensagem de erro: %3$s, dados: %4$s"
 
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:159
 msgid "Cron unschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "Erro ao cancelar agendamento no Cron para o hook: %1$s, Código de erro: %2$s, Mensagem de erro: %3$s, dados: %4$s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:136
@@ -98,7 +98,7 @@ msgstr "Sobre o ClassicPress"
 
 #: wp-includes/admin-bar.php:167
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/admin-bar.php:177
 msgid "Documentation"
@@ -106,25 +106,25 @@ msgstr "Documentação"
 
 #: wp-includes/admin-bar.php:178
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:187
 msgid "Support"
-msgstr ""
+msgstr "Suporte"
 
 #: wp-includes/admin-bar.php:188
 msgid "https://forums.classicpress.net/"
-msgstr ""
+msgstr "https://forums.classicpress.net/"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:207
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:51
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: wp-includes/admin-bar.php:309
 msgid "Edit Profile"
-msgstr ""
+msgstr "Editar perfil"
 
 #: wp-includes/admin-bar.php:319
 #: wp-includes/class-wp-admin-bar.php:477
@@ -189,7 +189,7 @@ msgstr "Temas"
 #: wp-includes/admin-bar.php:548
 #: wp-includes/admin-bar.php:993
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: wp-includes/admin-bar.php:559
 msgid "Settings"
@@ -210,7 +210,7 @@ msgstr "Ver usuário"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "Depuração ativada"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -219,7 +219,7 @@ msgstr "Editar usuário"
 #: wp-includes/admin-bar.php:885
 msgctxt "add new from admin bar"
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: wp-includes/admin-bar.php:909
 msgctxt "add new from admin bar"
@@ -235,20 +235,20 @@ msgstr "Novo"
 #: wp-includes/admin-bar.php:956
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s comentário em moderação"
+msgstr[1] "%s comentários em moderação"
 
 #: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-widgets.php:416
 #: wp-includes/functions.php:5354
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: wp-includes/admin-bar.php:1030
 #: wp-includes/class-wp-customize-nav-menus.php:673
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:113
 msgid "Menus"
-msgstr ""
+msgstr "Menus"
 
 #: wp-includes/admin-bar.php:1041
 msgid "Background"
@@ -262,8 +262,8 @@ msgstr "Cabeçalho"
 #: wp-includes/admin-bar.php:1082
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s atualização disponível"
+msgstr[1] "%s atualizações disponíveis"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1115
@@ -276,7 +276,7 @@ msgstr "Pesquisar"
 
 #: wp-includes/admin-bar.php:1153
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "Sair do modo de recuperação"
 
 #: wp-includes/atomlib.php:155
 #: wp-includes/feed.php:582
@@ -313,7 +313,7 @@ msgstr "Posts de %s"
 #: wp-includes/user.php:2292
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: %s: Date and time of last update.
 #: wp-includes/bookmark-template.php:90
@@ -388,7 +388,7 @@ msgstr "Administrador"
 #: wp-includes/capabilities.php:1265
 msgctxt "User role"
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 #. translators: User role for authors.
 #: wp-includes/capabilities.php:1267
@@ -439,7 +439,7 @@ msgstr "Categorias"
 #: wp-includes/category-template.php:889
 msgid "%s item"
 msgid_plural "%s items"
-msgstr[0] ""
+msgstr[0] "%s item"
 msgstr[1] "%s itens"
 
 #: wp-includes/category-template.php:1233
@@ -448,11 +448,11 @@ msgstr "Tags:"
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "A classe PHPMailer foi movida para o subdiretório wp-includes/PHPMailer e agora usa o namespace PHPMailer\\PHPMailer."
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
-msgstr ""
+msgstr "Nenhum servidor especificado"
 
 #: wp-includes/class-pop3.php:102
 #: wp-includes/class-pop3.php:114
@@ -466,25 +466,25 @@ msgstr ""
 #: wp-includes/class-pop3.php:537
 #: wp-includes/class-pop3.php:560
 msgid "Error "
-msgstr ""
+msgstr "Erro "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
-msgstr ""
+msgstr "não foi enviado nenhum ID de usuário"
 
 #: wp-includes/class-pop3.php:130
 #: wp-includes/class-pop3.php:150
 msgid "connection not established"
-msgstr ""
+msgstr "conexão não estabelecida"
 
 #: wp-includes/class-pop3.php:147
 #: wp-includes/class-pop3.php:183
 msgid "No password submitted"
-msgstr ""
+msgstr "Nenhuma senha foi enviada"
 
 #: wp-includes/class-pop3.php:155
 msgid "Authentication failed"
-msgstr ""
+msgstr "Falha na autenticação"
 
 #: wp-includes/class-pop3.php:174
 #: wp-includes/class-pop3.php:217
@@ -497,11 +497,11 @@ msgstr ""
 #: wp-includes/class-pop3.php:525
 #: wp-includes/class-pop3.php:590
 msgid "No connection to server"
-msgstr ""
+msgstr "Sem conexão com o servidor"
 
 #: wp-includes/class-pop3.php:180
 msgid "No login ID submitted"
-msgstr ""
+msgstr "Não foi enviado nenhum ID de usuário"
 
 #: wp-includes/class-pop3.php:188
 msgid "No server banner"
@@ -510,31 +510,31 @@ msgstr ""
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
 msgid "abort"
-msgstr ""
+msgstr "abortar"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
-msgstr ""
+msgstr "falha na autenticação apop"
 
 #: wp-includes/class-pop3.php:335
 msgid "Premature end of list"
-msgstr ""
+msgstr "Final prematuro da lista"
 
 #: wp-includes/class-pop3.php:468
 msgid "Empty command string"
-msgstr ""
+msgstr "String de comando vazia"
 
 #: wp-includes/class-pop3.php:488
 msgid "connection does not exist"
-msgstr ""
+msgstr "a conexão não existe"
 
 #: wp-includes/class-pop3.php:595
 msgid "No msg number submitted"
-msgstr ""
+msgstr "Não foi enviado nenhum número de msg "
 
 #: wp-includes/class-pop3.php:601
 msgid "Command failed "
-msgstr ""
+msgstr "Comando falhou "
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
@@ -547,7 +547,7 @@ msgstr "Feed para todos os posts arquivados em %s"
 
 #: wp-includes/class-walker-comment.php:258
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: wp-includes/class-walker-comment.php:258
 #: wp-includes/class-wp-editor.php:1388
@@ -590,11 +590,11 @@ msgstr "Barra de ferramentas"
 
 #: wp-includes/class-wp-application-passwords.php:80
 msgid "An application name is required to create an application password."
-msgstr ""
+msgstr "É necessário um nome de aplicativo para criar uma senha de aplicativo."
 
 #: wp-includes/class-wp-application-passwords.php:84
 msgid "Each application name should be unique."
-msgstr ""
+msgstr "O nome de aplicativo deve ser único."
 
 #: wp-includes/class-wp-application-passwords.php:105
 #: wp-includes/class-wp-application-passwords.php:267
@@ -606,7 +606,7 @@ msgstr ""
 #: wp-includes/class-wp-application-passwords.php:325
 #: wp-includes/class-wp-application-passwords.php:363
 msgid "Could not find an application password with that id."
-msgstr ""
+msgstr "Não foi possível encontrar uma senha de aplicativo com esse ID."
 
 #: wp-includes/class-wp-application-passwords.php:346
 msgid "Could not delete application password."
@@ -625,7 +625,7 @@ msgstr "&mdash; Selecionar &mdash;"
 #. translators: %s: Add New Page label.
 #: wp-includes/class-wp-customize-control.php:632
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-control.php:639
@@ -950,7 +950,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
-msgstr ""
+msgstr "Logotipo"
 
 #: wp-includes/class-wp-customize-manager.php:5228
 #: wp-includes/class-wp-customize-manager.php:5233
@@ -1088,7 +1088,7 @@ msgstr "Tamanho da imagem"
 #: wp-includes/class-wp-customize-manager.php:5561
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #: wp-includes/class-wp-customize-manager.php:5580
 msgid "Repeat Background Image"
@@ -1132,7 +1132,7 @@ msgstr "Adicione seu próprio código CSS aqui para personalizar a aparência do
 
 #: wp-includes/class-wp-customize-manager.php:5691
 msgid "https://wordpress.org/documentation/article/css/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/css/"
 
 #: wp-includes/class-wp-customize-manager.php:5692
 msgid "Learn more about CSS"
@@ -1477,7 +1477,7 @@ msgstr "Tipo de post inválido."
 
 #: wp-includes/class-wp-customize-nav-menus.php:952
 msgid "Empty title."
-msgstr ""
+msgstr "Título em branco."
 
 #: wp-includes/class-wp-customize-nav-menus.php:955
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2973
@@ -1604,7 +1604,7 @@ msgstr "Links personalizados"
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:176
 #: wp-includes/widgets/class-wp-widget-media-image.php:113
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1279
 #: wp-includes/class-wp-editor.php:1890
@@ -1765,7 +1765,7 @@ msgstr "Os seguintes valores não descrevem uma data válida: mês %1$s, dia %2$
 #: wp-includes/class-wp-editor.php:1392
 msgctxt "Name for the Visual editor tab"
 msgid "Visual"
-msgstr ""
+msgstr "Visual"
 
 #: wp-includes/class-wp-editor.php:192
 #: wp-includes/class-wp-editor.php:1393
@@ -1829,12 +1829,12 @@ msgstr "Bloco de citação"
 #: wp-includes/class-wp-editor.php:1148
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1149
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1150
 msgctxt "HTML tag"
@@ -1849,7 +1849,7 @@ msgstr "Endereço"
 #: wp-includes/class-wp-editor.php:1153
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:1154
 msgid "Underline"
@@ -1944,7 +1944,7 @@ msgstr "Refazer"
 
 #: wp-includes/class-wp-editor.php:1180
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-includes/class-wp-editor.php:1181
 #: wp-includes/class-wp-editor.php:1932
@@ -2042,7 +2042,7 @@ msgstr "Propriedades do documento"
 
 #: wp-includes/class-wp-editor.php:1207
 msgid "Robots"
-msgstr ""
+msgstr "Robots"
 
 #: wp-includes/class-wp-editor.php:1208
 #: wp-includes/media-template.php:528
@@ -2190,7 +2190,7 @@ msgstr "Esquerda para a direita"
 
 #: wp-includes/class-wp-editor.php:1244
 msgid "Emoticons"
-msgstr ""
+msgstr "Emoticons"
 
 #: wp-includes/class-wp-editor.php:1245
 msgid "Nonbreaking space"
@@ -2243,7 +2243,7 @@ msgstr "Remover link"
 
 #: wp-includes/class-wp-editor.php:1259
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: wp-includes/class-wp-editor.php:1260
 #: wp-includes/script-loader.php:574
@@ -2290,17 +2290,17 @@ msgstr "Nenhuma cor"
 #: wp-includes/class-wp-editor.php:1275
 msgctxt "Short for red in RGB"
 msgid "R"
-msgstr ""
+msgstr "R"
 
 #: wp-includes/class-wp-editor.php:1276
 msgctxt "Short for green in RGB"
 msgid "G"
-msgstr ""
+msgstr "G"
 
 #: wp-includes/class-wp-editor.php:1277
 msgctxt "Short for blue in RGB"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #: wp-includes/class-wp-editor.php:1280
 msgid "Could not find the specified string."
@@ -2868,7 +2868,7 @@ msgstr ""
 #. translators: Documentation about troubleshooting.
 #: wp-includes/class-wp-fatal-error-handler.php:201
 msgid "https://wordpress.org/documentation/article/faq-troubleshooting/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
@@ -2922,7 +2922,7 @@ msgstr "Não há  transportes HTTP disponíveis para completar o pedido solicita
 #: wp-includes/class-wp-image-editor-gd.php:103
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "O arquivo não existe?"
 
 #: wp-includes/class-wp-image-editor-gd.php:127
 #: wp-includes/class-wp-image-editor-imagick.php:161
@@ -2947,7 +2947,7 @@ msgstr "Não foi possível calcular o tamanho da imagem redimensionada"
 #: wp-includes/class-wp-image-editor-gd.php:289
 #: wp-includes/class-wp-image-editor-imagick.php:554
 msgid "Cannot resize the image. Both width and height are not set."
-msgstr ""
+msgstr "Não é possível redimensionar a imagem. Tanto a largura quanto a altura não foram definidas."
 
 #: wp-includes/class-wp-image-editor-gd.php:350
 #: wp-includes/class-wp-image-editor-gd.php:374
@@ -2973,16 +2973,16 @@ msgstr "Falha ao salvar a edição da imagem"
 
 #: wp-includes/class-wp-image-editor-imagick.php:573
 msgid "The image already has the requested size."
-msgstr ""
+msgstr "A imagem já tem o tamanho solicitado."
 
 #: wp-includes/class-wp-image-editor-imagick.php:728
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
-msgstr ""
+msgstr "A imagem não pode ser girada porque os metadados incorporados não podem ser atualizados."
 
 #. translators: %s: PHP function name.
 #: wp-includes/class-wp-image-editor-imagick.php:850
 msgid "%s failed while writing image to stream."
-msgstr ""
+msgstr "%s falhou ao gravar a imagem para transmissão."
 
 #. translators: %s: Directory path.
 #: wp-includes/class-wp-image-editor-imagick.php:866
@@ -3004,7 +3004,7 @@ msgstr "Tentou configurar a qualidade da imagem fora do limite [1,100]."
 #: wp-includes/class-wp-list-util.php:174
 #: wp-includes/class-wp-list-util.php:205
 msgid "Values for the input array must be either objects or arrays."
-msgstr ""
+msgstr "Valores para o vetor de entrada devem ser objetos ou matrizes."
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:148
@@ -3324,16 +3324,16 @@ msgstr "dez"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
-msgstr ""
+msgstr "am"
 
 #: wp-includes/class-wp-locale.php:218
 msgid "pm"
-msgstr ""
+msgstr "pm"
 
 #: wp-includes/class-wp-locale.php:219
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-includes/class-wp-locale.php:220
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
@@ -6439,7 +6439,7 @@ msgstr ""
 #: wp-includes/functions.php:486
 msgctxt "unit symbol"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. translators: %s: Time duration in minute or minutes.
 #: wp-includes/functions.php:556
@@ -6921,7 +6921,7 @@ msgstr ""
 #: wp-includes/general-template.php:1745
 msgctxt "archive title"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #. translators: 1: Month, 2: Year.
@@ -6934,7 +6934,7 @@ msgstr ""
 #: wp-includes/general-template.php:2288
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. translators: Post calendar label. %s: Date.
 #: wp-includes/general-template.php:2360
@@ -7244,7 +7244,7 @@ msgstr "Ações"
 #: wp-includes/media-template.php:177
 msgctxt "media modal menu"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:188
@@ -8536,7 +8536,7 @@ msgstr "Galeria"
 #: wp-includes/post-formats.php:102
 msgctxt "Post format"
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: wp-includes/post-formats.php:103
 msgctxt "Post format"
@@ -14045,7 +14045,7 @@ msgstr "Desenvolvido com ClassicPress, uma plataforma semântica de vanguarda pa
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."

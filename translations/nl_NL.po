@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-02-25 17:11\n"
+"PO-Revision-Date: 2025-05-08 17:42\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14238,7 +14238,7 @@ msgstr "Er lijkt geen %s bestand te zijn. Het is nodig voordat de installatie ka
 #. translators: 1: Documentation URL, 2: wp-config.php
 #: wp-load.php:93
 msgid "Need more help? <a href=\"%1$s\">Read the support article on %2$s</a>."
-msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel op %2$s</a>."
+msgstr "Meer hulp nodig? <a href=\"%1$s\">Lees het ondersteuningsartikel over %2$s</a>."
 
 #: wp-load.php:94
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"

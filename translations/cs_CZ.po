@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-26 05:10\n"
+"PO-Revision-Date: 2025-03-14 22:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14259,7 +14259,7 @@ msgstr "Možnost zobrazení příspěvků z libovolného RSS zdroje."
 #: wp-includes/widgets/class-wp-widget-rss.php:35
 #: wp-includes/widgets/class-wp-widget-rss.php:98
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: wp-includes/widgets/class-wp-widget-rss.php:84
 msgid "Unknown Feed"
@@ -14308,7 +14308,7 @@ msgstr "Libovolný text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:43
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -14339,7 +14339,7 @@ msgstr "Potřebujete další pomoc? <a href=\"%1$s\">Přečtěte si článek pod
 
 #: wp-load.php:94
 msgid "https://wordpress.org/documentation/article/editing-wp-config-php/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/editing-wp-config-php/"
 
 #. translators: %s: wp-config.php
 #: wp-load.php:99
@@ -14353,7 +14353,7 @@ msgstr "Vytvořit konfigurační soubor"
 #. translators: Login screen title. 1: Login screen name, 2: Network or site name.
 #: wp-login.php:72
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Login screen title.
 #: wp-login.php:76
@@ -14385,7 +14385,7 @@ msgstr "Zkontrolujte, zda je <strong>administrační e-mail</strong> tohoto webu
 #. translators: URL to the WordPress help section about admin email.
 #: wp-login.php:656
 msgid "https://wordpress.org/documentation/article/settings-general-screen/#email-address"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/settings-general-screen/#email-address"
 
 #: wp-login.php:667
 msgid "Why is this important?"
@@ -14529,16 +14529,16 @@ msgstr "<strong>CHYBA</strong>: Cookies jsou blokovány kvůli neočekávanému 
 
 #: wp-login.php:1316
 msgid "https://wordpress.org/documentation/article/cookies/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/"
 
 #. translators: %s: Browser cookie documentation URL.
 #: wp-login.php:1326
 msgid "<strong>Error:</strong> Cookies are blocked or not supported by your browser. You must <a href=\"%s\">enable cookies</a> to use ClassicPress."
-msgstr ""
+msgstr "<strong>Chyba:</strong> cookies jsou blokovány nebo nepodporovány vaším prohlížečem. Musíte <a href=\"%s\">povolit cookies</a>, abyste mohli ClassicPress používat."
 
 #: wp-login.php:1327
 msgid "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/cookies/#enable-cookies-in-your-browser"
 
 #: wp-login.php:1347
 msgid "You have logged in successfully."
@@ -14558,7 +14558,7 @@ msgstr "<strong>Chyba</strong>: Registrace uživatele není nyní povolena."
 
 #: wp-login.php:1432
 msgid "<strong>You have successfully updated ClassicPress!</strong> Please log back in to see what&#8217;s new."
-msgstr ""
+msgstr "<strong>Úspěšně jste aktualizovali ClassicPress!</strong> Přihlaste se prosím znovu, abyste viděli, co je nového."
 
 #: wp-login.php:1434
 msgid "Recovery Mode Initialized. Please log in to continue."
@@ -14899,7 +14899,7 @@ msgstr[3] ""
 
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "⌘ + letter:"
-msgstr ""
+msgstr "⌘ + písmeno:"
 
 #: wp-includes/js/wp-auth-check.js:27
 msgid "Your session has expired. You can log in again from this page or go to the login page."

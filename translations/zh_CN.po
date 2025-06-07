@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-02-03 00:20\n"
+"PO-Revision-Date: 2025-06-07 13:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2810,7 +2810,7 @@ msgstr "下一组格式化快捷方式将在您键入时或在同一段的纯文
 
 #: wp-includes/class-wp-editor.php:1816
 msgid "Y/m/d"
-msgstr "年/月/日"
+msgstr "Y/m/d"
 
 #: wp-includes/class-wp-editor.php:1884
 msgid "Enter the destination URL"

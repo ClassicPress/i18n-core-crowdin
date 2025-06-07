@@ -49,9 +49,31 @@ pushd "$locales" > /dev/null
 	echo 'Creating mo files'
 	for n in ${pofiles[@]};
 	do
-		echo "$(grep -E "\"PO-Revision-Date: " "${n}" | cut -c 20- | cut -c -16)"
+		pofiledate="$(grep -E "\"PO-Revision-Date: " "${n}" | cut -c 20- | cut -c -16)"
+		podates+="$(printf  '%s,' "${pofiledate}")"
 		wp i18n make-mo "${n}"
 	done
+
+	IFS=',' read -ra podatesarr <<< "$podates"
+	most_recent_ts=0
+
+	for podate in "${podatesarr[@]}";
+	do
+		if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+			ts="$(date -d "${podate}" +%s)"
+		elif [[ "$OSTYPE" == "darwin"* ]]; then
+			ts="$(date -j -f "%Y-%m-%d %H:%M" "${podate}" "+%s")"
+		fi
+		
+		if [[ -n "${ts}" && ( "${most_recent_ts}" -eq 0 || "${ts}" -gt "${most_recent_ts}" ) ]]; then
+			most_recent_ts="${ts}"
+			most_recent="${podate}"
+		fi
+	done
+
+	echo ''
+	echo 'Most recent update'
+	echo "${most_recent}"
 
 	echo ''
 	echo 'Creating JSON files'

@@ -2,13 +2,13 @@
 # This file is distributed under the same license as the ClassicPress package.
 msgid ""
 msgstr ""
-"Project-Id-Version: ClassicPress 2.4.0\n"
+"Project-Id-Version: ClassicPress 2.5.0\n"
 "Report-Msgid-Bugs-To: https://forums.classicpress.net/c/team-discussions/internationalisation/42\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-02-06T17:08:33+00:00\n"
-"X-Generator: WP-CLI 2.11.0\n"
+"POT-Creation-Date: 2025-08-14T11:08:21+00:00\n"
+"X-Generator: WP-CLI 2.12.0\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -38,6 +38,7 @@ msgstr ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:221
+#, php-format
 msgctxt "sites"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
@@ -46,6 +47,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:228
+#, php-format
 msgid "Public <span class=\"count\">(%s)</span>"
 msgid_plural "Public <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -53,6 +55,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:234
+#, php-format
 msgid "Archived <span class=\"count\">(%s)</span>"
 msgid_plural "Archived <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -60,6 +63,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:240
+#, php-format
 msgid "Mature <span class=\"count\">(%s)</span>"
 msgid_plural "Mature <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -67,6 +71,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:246
+#, php-format
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
@@ -75,6 +80,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
+#, php-format
 msgid "Deleted <span class=\"count\">(%s)</span>"
 msgid_plural "Deleted <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -139,11 +145,13 @@ msgstr ""
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:408
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:520
 #: wp-admin/includes/class-wp-ms-users-list-table.php:241
+#, php-format
 msgid "Select %s"
 msgstr ""
 
 #. translators: 1: Site title, 2: Site tagline.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
+#, php-format
 msgid "%1$s &#8211; %2$s"
 msgstr ""
 
@@ -238,6 +246,7 @@ msgstr ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:378
+#, php-format
 msgctxt "themes"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
@@ -246,6 +255,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:387
+#, php-format
 msgctxt "themes"
 msgid "Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Enabled <span class=\"count\">(%s)</span>"
@@ -254,6 +264,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:396
+#, php-format
 msgctxt "themes"
 msgid "Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Disabled <span class=\"count\">(%s)</span>"
@@ -262,6 +273,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:405
+#, php-format
 msgctxt "themes"
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
@@ -270,6 +282,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:414
+#, php-format
 msgctxt "themes"
 msgid "Broken <span class=\"count\">(%s)</span>"
 msgid_plural "Broken <span class=\"count\">(%s)</span>"
@@ -278,6 +291,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:423
+#, php-format
 msgid "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -285,6 +299,7 @@ msgstr[1] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
+#, php-format
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -324,26 +339,31 @@ msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:576
+#, php-format
 msgid "Enable %s"
 msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:579
+#, php-format
 msgid "Network Enable %s"
 msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:602
+#, php-format
 msgid "Disable %s"
 msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:605
+#, php-format
 msgid "Network Disable %s"
 msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:633
+#, php-format
 msgctxt "theme"
 msgid "Delete %s"
 msgstr ""
@@ -354,16 +374,19 @@ msgstr ""
 
 #. translators: %s: Theme version.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:722
+#, php-format
 msgid "Version %s"
 msgstr ""
 
 #. translators: %s: Theme author.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:726
+#, php-format
 msgid "By %s"
 msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:730
+#, php-format
 msgid "Visit theme site for %s"
 msgstr ""
 
@@ -373,6 +396,7 @@ msgstr ""
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:743
+#, php-format
 msgid "Child theme of %s"
 msgstr ""
 
@@ -416,6 +440,7 @@ msgstr ""
 
 #. translators: Number of users.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:144
+#, php-format
 msgctxt "users"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
@@ -424,6 +449,7 @@ msgstr[1] ""
 
 #. translators: Number of users.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:159
+#, php-format
 msgid "Super Admin <span class=\"count\">(%s)</span>"
 msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
 msgstr[0] ""
@@ -465,6 +491,7 @@ msgstr ""
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:303
+#, php-format
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
 msgstr ""
@@ -482,17 +509,20 @@ msgstr ""
 #. translators: %s: Allowed space allocation.
 #: wp-admin/includes/ms-deprecated.php:35
 #: wp-admin/includes/ms.php:239
+#, php-format
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
 msgstr ""
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-admin/includes/ms.php:36
+#, php-format
 msgid "Not enough space to upload. %s KB needed."
 msgstr ""
 
 #. translators: %s: Maximum allowed file size in kilobytes.
 #: wp-admin/includes/ms.php:41
 #: wp-includes/ms-functions.php:2091
+#, php-format
 msgid "This file is too big. Files must be less than %s KB in size."
 msgstr ""
 
@@ -506,6 +536,7 @@ msgstr ""
 
 #. translators: Storage space that's been used. 1: Percentage of used space, 2: Total space allowed in megabytes or gigabytes.
 #: wp-admin/includes/ms.php:265
+#, php-format
 msgid "Used: %1$s%% of %2$s"
 msgstr ""
 
@@ -526,6 +557,7 @@ msgstr ""
 #. translators: 1: Site title.
 #: wp-admin/includes/ms.php:575
 #: wp-admin/includes/ms.php:584
+#, php-format
 msgid "You attempted to access the \"%1$s\" dashboard, but you do not currently have privileges on this site. If you believe you should be able to access the \"%1$s\" dashboard, please contact your network administrator."
 msgstr ""
 
@@ -559,6 +591,7 @@ msgstr ""
 
 #. translators: %s: URL to Upgrade Network screen.
 #: wp-admin/includes/ms.php:696
+#, php-format
 msgid "Thank you for Updating! Please visit the <a href=\"%s\">Upgrade Network</a> page to update all your sites."
 msgstr ""
 
@@ -581,16 +614,19 @@ msgstr ""
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:888
+#, php-format
 msgid "Warning! User %s cannot be deleted."
 msgstr ""
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:898
+#, php-format
 msgid "Warning! User cannot be deleted. The user %s is a network administrator."
 msgstr ""
 
 #. translators: %s: User login.
 #: wp-admin/includes/ms.php:917
+#, php-format
 msgid "What should be done with content owned by %s?"
 msgstr ""
 
@@ -601,6 +637,7 @@ msgstr ""
 
 #. translators: %s: Link to user's site.
 #: wp-admin/includes/ms.php:957
+#, php-format
 msgid "Site: %s"
 msgstr ""
 
@@ -674,6 +711,7 @@ msgstr ""
 
 #. translators: %s: URL to Network Themes screen.
 #: wp-admin/includes/ms.php:1150
+#, php-format
 msgid "<strong>Themes</strong> &mdash; This area shows themes that are not already enabled across the network. Enabling a theme in this menu makes it accessible to this site. It does not activate the theme, but allows it to show in the site&#8217;s Appearance menu. To enable a theme for the entire network, see the <a href=\"%s\">Network Themes</a> screen."
 msgstr ""
 
@@ -723,6 +761,7 @@ msgstr ""
 
 #. translators: %s: Network title.
 #: wp-admin/ms-delete-site.php:26
+#, php-format
 msgid "Thank you for using %s, your site has been deleted. Happy trails to you until we meet again."
 msgstr ""
 
@@ -756,6 +795,7 @@ msgstr ""
 
 #. translators: %s: Site title.
 #: wp-admin/ms-delete-site.php:93
+#, php-format
 msgid "[%s] Delete My Site"
 msgstr ""
 
@@ -765,6 +805,7 @@ msgstr ""
 
 #. translators: %s: Network title.
 #: wp-admin/ms-delete-site.php:113
+#, php-format
 msgid "If you do not want to use your %s site any more, you can delete it using the form below. When you click <strong>Delete My Site Permanently</strong> you will be sent an email with a link in it. Click on this link to delete your site."
 msgstr ""
 
@@ -774,6 +815,7 @@ msgstr ""
 
 #. translators: %s: Site address.
 #: wp-admin/ms-delete-site.php:127
+#, php-format
 msgid "I'm sure I want to permanently delete my site, and I am aware I can never get it back or use %s again."
 msgstr ""
 
@@ -855,6 +897,7 @@ msgstr ""
 
 #. translators: 1: WP_ALLOW_MULTISITE, 2: wp-config.php
 #: wp-admin/network.php:44
+#, php-format
 msgid "You must define the %1$s constant as true in your %2$s file to allow creation of a Network."
 msgstr ""
 
@@ -967,6 +1010,7 @@ msgstr ""
 
 #. translators: %s: Number of available updates.
 #: wp-admin/network/menu.php:30
+#, php-format
 msgid "Updates %s"
 msgstr ""
 
@@ -997,6 +1041,7 @@ msgstr ""
 
 #. translators: %s: Number of available theme updates.
 #: wp-admin/network/menu.php:63
+#, php-format
 msgid "Themes %s"
 msgstr ""
 
@@ -1016,6 +1061,7 @@ msgstr ""
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/network/menu.php:88
+#, php-format
 msgid "Plugins %s"
 msgstr ""
 
@@ -1096,6 +1142,7 @@ msgstr ""
 
 #. translators: %s: New network admin email.
 #: wp-admin/network/settings.php:177
+#, php-format
 msgid "There is a pending change of the network admin email to %s."
 msgstr ""
 
@@ -1134,6 +1181,7 @@ msgstr ""
 
 #. translators: 1: NOBLOGREDIRECT, 2: wp-config.php
 #: wp-admin/network/settings.php:227
+#, php-format
 msgid "If registration is disabled, please set %1$s in %2$s to a URL you will redirect visitors to if they visit a non-existent site."
 msgstr ""
 
@@ -1255,6 +1303,7 @@ msgstr ""
 
 #. translators: %s: Number of megabytes to limit uploads to.
 #: wp-admin/network/settings.php:412
+#, php-format
 msgid "Limit total size of files uploaded to %s MB"
 msgstr ""
 
@@ -1272,6 +1321,7 @@ msgstr ""
 
 #. translators: %s: File size in kilobytes.
 #: wp-admin/network/settings.php:442
+#, php-format
 msgid "%s KB"
 msgstr ""
 
@@ -1330,6 +1380,7 @@ msgstr ""
 #: wp-admin/network/site-settings.php:84
 #: wp-admin/network/site-themes.php:170
 #: wp-admin/network/site-users.php:200
+#, php-format
 msgid "Edit Site: %s"
 msgstr ""
 
@@ -1371,6 +1422,7 @@ msgstr ""
 
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
+#, php-format
 msgid "The following words are reserved for use by ClassicPress functions and cannot be used as site names: %s"
 msgstr ""
 
@@ -1396,6 +1448,7 @@ msgstr ""
 
 #. translators: 1: Dashboard URL, 2: Network admin edit URL.
 #: wp-admin/network/site-new.php:170
+#, php-format
 msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
 msgstr ""
 
@@ -1460,6 +1513,7 @@ msgstr ""
 #. translators: %s: Number of themes.
 #: wp-admin/network/site-themes.php:195
 #: wp-admin/network/themes.php:378
+#, php-format
 msgid "%s theme enabled."
 msgid_plural "%s themes enabled."
 msgstr[0] ""
@@ -1473,6 +1527,7 @@ msgstr ""
 #. translators: %s: Number of themes.
 #: wp-admin/network/site-themes.php:212
 #: wp-admin/network/themes.php:389
+#, php-format
 msgid "%s theme disabled."
 msgid_plural "%s themes disabled."
 msgstr[0] ""
@@ -1647,46 +1702,55 @@ msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:66
+#, php-format
 msgid "You are about to activate the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:68
+#, php-format
 msgid "You are about to deactivate the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:70
+#, php-format
 msgid "You are about to unarchive the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:72
+#, php-format
 msgid "You are about to archive the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:74
+#, php-format
 msgid "You are about to unspam the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:76
+#, php-format
 msgid "You are about to mark the site %s as spam."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:78
+#, php-format
 msgid "You are about to delete the site %s."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:80
+#, php-format
 msgid "You are about to mark the site %s as mature."
 msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:82
+#, php-format
 msgid "You are about to mark the site %s as not mature."
 msgstr ""
 
@@ -1711,6 +1775,7 @@ msgstr ""
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:168
+#, php-format
 msgid "Sorry, you are not allowed to delete the site %s."
 msgstr ""
 
@@ -1766,6 +1831,7 @@ msgstr ""
 #: wp-admin/network/sites.php:385
 #: wp-admin/network/themes.php:358
 #: wp-admin/network/users.php:300
+#, php-format
 msgid "Search results for: %s"
 msgstr ""
 
@@ -1816,6 +1882,7 @@ msgstr ""
 
 #. translators: 1: Theme name, 2: Theme author.
 #: wp-admin/network/themes.php:150
+#, php-format
 msgctxt "theme"
 msgid "%1$s by %2$s"
 msgstr ""
@@ -1894,6 +1961,7 @@ msgstr ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:400
+#, php-format
 msgid "%s theme deleted."
 msgid_plural "%s themes deleted."
 msgstr[0] ""
@@ -1905,6 +1973,7 @@ msgstr ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:411
+#, php-format
 msgid "%s theme will be auto-updated."
 msgid_plural "%s themes will be auto-updated."
 msgstr[0] ""
@@ -1916,6 +1985,7 @@ msgstr ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:422
+#, php-format
 msgid "%s theme will no longer be auto-updated."
 msgid_plural "%s themes will no longer be auto-updated."
 msgstr[0] ""
@@ -1951,6 +2021,7 @@ msgstr ""
 
 #. translators: 1: Site URL, 2: Server error message.
 #: wp-admin/network/upgrade.php:99
+#, php-format
 msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
 msgstr ""
 
@@ -2005,6 +2076,7 @@ msgstr ""
 
 #. translators: %s: User login.
 #: wp-admin/network/users.php:87
+#, php-format
 msgid "Warning! User cannot be modified. The user %s is a network administrator."
 msgstr ""
 
@@ -2062,11 +2134,13 @@ msgstr ""
 
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL, 3: wp-config.php, 4: is_subdomain_install()
 #: wp-includes/ms-default-constants.php:140
+#, php-format
 msgid "The constant %1$s <strong>is deprecated</strong>. Use the boolean constant %2$s in %3$s to enable a subdomain configuration. Use %4$s to check whether a subdomain configuration is enabled."
 msgstr ""
 
 #. translators: 1: VHOST, 2: SUBDOMAIN_INSTALL
 #: wp-includes/ms-default-constants.php:151
+#, php-format
 msgid "<strong>Conflicting values for the constants %1$s and %2$s.</strong> The value of %2$s will be assumed to be your subdomain configuration setting."
 msgstr ""
 
@@ -2151,6 +2225,7 @@ msgstr ""
 
 #. translators: %s: Link to the login page.
 #: wp-includes/ms-functions.php:529
+#, php-format
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
 msgstr ""
 
@@ -2176,6 +2251,7 @@ msgstr ""
 
 #. translators: %s: Minimum site name length.
 #: wp-includes/ms-functions.php:667
+#, php-format
 msgid "Site name must be at least %s character."
 msgid_plural "Site name must be at least %s characters."
 msgstr[0] ""
@@ -2209,6 +2285,7 @@ msgstr ""
 
 #. translators: New site notification email. 1: Activation URL, 2: New site URL.
 #: wp-includes/ms-functions.php:980
+#, php-format
 msgid ""
 "To activate your site, please click the following link:\n"
 "\n"
@@ -2223,12 +2300,14 @@ msgstr ""
 
 #. translators: New site notification email subject. 1: Network title, 2: New site URL.
 #: wp-includes/ms-functions.php:1012
+#, php-format
 msgctxt "New site notification email subject"
 msgid "[%1$s] Activate %2$s"
 msgstr ""
 
 #. translators: New user notification email. %s: Activation URL.
 #: wp-includes/ms-functions.php:1100
+#, php-format
 msgid ""
 "To activate your user, please click the following link:\n"
 "\n"
@@ -2239,6 +2318,7 @@ msgstr ""
 
 #. translators: New user notification email subject. 1: Network title, 2: New user login.
 #: wp-includes/ms-functions.php:1124
+#, php-format
 msgctxt "New user notification email subject"
 msgid "[%1$s] Activate %2$s"
 msgstr ""
@@ -2265,6 +2345,7 @@ msgstr ""
 
 #. translators: New site notification email. 1: Site URL, 2: User IP address, 3: URL to Network Settings screen.
 #: wp-includes/ms-functions.php:1445
+#, php-format
 msgid ""
 "New Site: %1$s\n"
 "URL: %2$s\n"
@@ -2275,11 +2356,13 @@ msgstr ""
 
 #. translators: New site notification email subject. %s: New site URL.
 #: wp-includes/ms-functions.php:1470
+#, php-format
 msgid "New Site Registration: %s"
 msgstr ""
 
 #. translators: New user notification email. 1: User login, 2: User IP address, 3: URL to Network Settings screen.
 #: wp-includes/ms-functions.php:1503
+#, php-format
 msgid ""
 "New User: %1$s\n"
 "Remote IP address: %2$s\n"
@@ -2289,6 +2372,7 @@ msgstr ""
 
 #. translators: New user notification email subject. %s: User login.
 #: wp-includes/ms-functions.php:1526
+#, php-format
 msgid "New User Registration: %s"
 msgstr ""
 
@@ -2313,16 +2397,19 @@ msgstr ""
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
+#, php-format
 msgid "New %1$s Site: %2$s"
 msgstr ""
 
 #. translators: New site notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:1748
+#, php-format
 msgid "[%s] New Site Created"
 msgstr ""
 
 #. translators: New site notification email. 1: User login, 2: Site URL, 3: Site title.
 #: wp-includes/ms-functions.php:1754
+#, php-format
 msgid ""
 "New site created by %1$s\n"
 "\n"
@@ -2337,6 +2424,7 @@ msgstr ""
 
 #. translators: New user notification email subject. 1: Network title, 2: New user login.
 #: wp-includes/ms-functions.php:1884
+#, php-format
 msgid "New %1$s User: %2$s"
 msgstr ""
 
@@ -2346,11 +2434,13 @@ msgstr ""
 
 #. translators: %s: Home URL.
 #: wp-includes/ms-functions.php:2187
+#, php-format
 msgid "An error occurred adding you to this site. Go to the <a href=\"%s\">homepage</a>."
 msgstr ""
 
 #. translators: 1: Home URL, 2: Admin URL.
 #: wp-includes/ms-functions.php:2196
+#, php-format
 msgid "You have been added to this site. Please visit the <a href=\"%1$s\">homepage</a> or <a href=\"%2$s\">log in</a> using your username and password."
 msgstr ""
 
@@ -2398,6 +2488,7 @@ msgstr ""
 
 #. translators: Email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2787
+#, php-format
 msgid "[%s] Network Admin Email Change Request"
 msgstr ""
 
@@ -2419,6 +2510,7 @@ msgstr ""
 
 #. translators: Network admin email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2850
+#, php-format
 msgid "[%s] Network Admin Email Changed"
 msgstr ""
 
@@ -2428,6 +2520,7 @@ msgstr ""
 
 #. translators: %s: Admin email link.
 #: wp-includes/ms-load.php:111
+#, php-format
 msgid "This site has not been activated yet. If you are having problems activating your site, please contact %s."
 msgstr ""
 
@@ -2449,11 +2542,13 @@ msgstr ""
 
 #. translators: %s: Table name.
 #: wp-includes/ms-load.php:480
+#, php-format
 msgid "<strong>Database tables are missing.</strong> This means that your host&#8217;s database server is not running, ClassicPress was not installed properly, or someone deleted %s. You really should look at your database now."
 msgstr ""
 
 #. translators: 1: Site URL, 2: Table name, 3: Database name.
 #: wp-includes/ms-load.php:486
+#, php-format
 msgid "<strong>Could not find site %1$s.</strong> Searched for table %2$s in database %3$s. Is that right?"
 msgstr ""
 
@@ -2463,6 +2558,7 @@ msgstr ""
 
 #. translators: %s: Documentation URL.
 #: wp-includes/ms-load.php:495
+#, php-format
 msgid "Read the <a href=\"%s\" target=\"_blank\">Debugging a ClassicPress Network</a> article. Some of the suggestions there may help you figure out what went wrong."
 msgstr ""
 
@@ -2533,6 +2629,7 @@ msgstr ""
 
 #. translators: %d: Site ID.
 #: wp-includes/ms-site.php:680
+#, php-format
 msgid "Site %d"
 msgstr ""
 
@@ -2542,5 +2639,6 @@ msgstr ""
 
 #. translators: %s: Database table name.
 #: wp-includes/ms-site.php:1319
+#, php-format
 msgid "The %s table is not installed. Please run the network database upgrade."
 msgstr ""

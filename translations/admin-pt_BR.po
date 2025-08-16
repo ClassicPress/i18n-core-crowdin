@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -332,7 +332,7 @@ msgstr ""
 #: wp-admin/admin-header.php:68
 #, php-format
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
@@ -1782,7 +1782,7 @@ msgstr "Revisão pendente"
 
 #: wp-admin/edit-form-comment.php:123
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:133
@@ -1802,7 +1802,7 @@ msgstr "Revisão pendente"
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
@@ -2898,14 +2898,14 @@ msgstr "Se o importador que você precisa não estiver listado, <a href=\"%s\">p
 #: wp-admin/js/tags-box.js:9
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #. translators: 1: User login, 2: User email address.
 #: wp-admin/includes/ajax-actions.php:336
 #, php-format
 msgctxt "user autocomplete result"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/ajax-actions.php:424
@@ -3064,7 +3064,7 @@ msgstr "Data"
 #: wp-admin/includes/class-wp-posts-list-table.php:1938
 #: wp-admin/includes/class-wp-privacy-requests-table.php:44
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: wp-admin/includes/ajax-actions.php:2182
 #: wp-admin/includes/media.php:3289
@@ -4128,7 +4128,7 @@ msgstr "Esquerda"
 #: wp-admin/includes/media.php:1175
 #: wp-admin/includes/media.php:2942
 msgid "Center"
-msgstr ""
+msgstr "Centralizar"
 
 #: wp-admin/includes/class-custom-background.php:401
 #: wp-admin/includes/media.php:1176
@@ -5031,7 +5031,7 @@ msgstr "Para o topo"
 #: wp-admin/includes/class-walker-nav-menu-edit.php:267
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
 #: wp-admin/includes/class-wp-users-list-table.php:276
@@ -5659,7 +5659,7 @@ msgstr "Marcar esse comentário como spam"
 #: wp-admin/includes/dashboard.php:783
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:778
 msgid "Restore this comment from the spam"
@@ -6312,7 +6312,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:1345
 #, php-format
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-admin/includes/class-wp-debug-data.php:1104
 #: wp-admin/includes/class-wp-debug-data.php:1199
@@ -6550,7 +6550,7 @@ msgstr "Todas as datas"
 #: wp-admin/includes/class-wp-list-table.php:748
 #, php-format
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-list-table.php:805
@@ -7171,7 +7171,7 @@ msgstr[1] "Indispensáveis<span class=\"count\">(%s)</span>"
 msgid "Drop-in <span class=\"count\">(%s)</span>"
 msgid_plural "Drop-ins <span class=\"count\">(%s)</span>"
 msgstr[0] ""
-msgstr[1] ""
+msgstr[1] "Drop-ins <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of plugins.
 #: wp-admin/includes/class-wp-plugins-list-table.php:556
@@ -9403,7 +9403,7 @@ msgstr ""
 #: wp-admin/link-manager.php:50
 #: wp-admin/menu.php:80
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-admin/includes/class-wp-terms-list-table.php:200
 msgctxt "Number/count of items"
@@ -12368,7 +12368,7 @@ msgstr ""
 #: wp-admin/includes/update-core.php:1096
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-admin/includes/plugin-install.php:171
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
@@ -17562,7 +17562,7 @@ msgstr ""
 #: wp-admin/site-health.php:16
 msgctxt "Site Health"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #. translators: Tab heading for Site Health Info page.
 #: wp-admin/site-health.php:18

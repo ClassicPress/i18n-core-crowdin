@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -82,7 +82,7 @@ msgstr "Over ons"
 #: wp-admin/freedoms.php:42
 #: wp-admin/privacy.php:41
 msgid "Credits"
-msgstr ""
+msgstr "Credits"
 
 #: wp-admin/about.php:42
 #: wp-admin/credits.php:45
@@ -102,7 +102,7 @@ msgstr "Vrijheden"
 #: wp-admin/privacy.php:13
 #: wp-admin/privacy.php:43
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:53
@@ -196,7 +196,7 @@ msgstr "Deze versie van ClassicPress bevat alle wijzigingen van de volgende Word
 #: wp-admin/about.php:204
 #, php-format
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPress versie %s</strong> loste enkele beveiligingsproblemen op."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -302,7 +302,7 @@ msgstr "Bedankt voor het gebruiken van <a href=\"%s\">ClassicPress</a>."
 #: wp-admin/admin-footer.php:38
 #: wp-admin/upgrade.php:69
 msgid "https://www.classicpress.net/"
-msgstr ""
+msgstr "https://www.classicpress.net/"
 
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
@@ -1730,7 +1730,7 @@ msgstr "Laatst bewerkt op %1$s om %2$s"
 #: wp-admin/edit-form-comment.php:37
 msgctxt "comment"
 msgid "Permalink:"
-msgstr ""
+msgstr "Permalink:"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:53
@@ -1771,7 +1771,7 @@ msgstr "Opslaan"
 #: wp-admin/export.php:286
 #: wp-admin/includes/meta-boxes.php:104
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: wp-admin/edit-form-comment.php:117
 msgid "Approved"
@@ -1993,7 +1993,7 @@ msgstr "Naam"
 #: wp-admin/includes/meta-boxes.php:959
 #: wp-admin/includes/meta-boxes.php:1710
 msgid "Slug"
-msgstr ""
+msgstr "Slug"
 
 #: wp-admin/edit-tag-form.php:188
 #: wp-admin/edit-tags.php:473
@@ -2722,7 +2722,7 @@ msgstr "Exportbestand downloaden"
 #: wp-admin/freedoms.php:48
 #, php-format
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPress is gratis en open source software, gebouwd door een gedistribueerde gemeenschap van vrijwilligers uit de hele wereld. ClassicPress komt met een aantal geweldige, wereldbeeld-veranderende rechten, dankzij de <a href=\"%s\">licentie</a>, de GPL."
 
 #: wp-admin/freedoms.php:50
 msgid "The Four Freedoms"
@@ -2765,13 +2765,13 @@ msgstr "Om kopieën van je gewijzigde versies met anderen te delen."
 #: wp-admin/plugin-install.php:98
 #: wp-admin/plugins.php:550
 msgid "https://wordpress.org/plugins/"
-msgstr ""
+msgstr "https://nl.wordpress.org/plugins/"
 
 #: wp-admin/freedoms.php:62
 #: wp-admin/theme-install.php:119
 #: wp-admin/themes.php:157
 msgid "https://wordpress.org/themes/"
-msgstr ""
+msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:65
 #, php-format
@@ -3051,7 +3051,7 @@ msgstr "Titel"
 
 #: wp-admin/includes/ajax-actions.php:2179
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/ajax-actions.php:3458
@@ -4328,7 +4328,7 @@ msgstr "Afbeeldingen moeten minimaal %s breed zijn."
 #: wp-admin/includes/class-custom-image-header.php:645
 #, php-format
 msgid "%d pixels"
-msgstr ""
+msgstr "%d pixels"
 
 #. translators: %s: Size in pixels.
 #: wp-admin/includes/class-custom-image-header.php:614
@@ -5089,7 +5089,7 @@ msgstr "Bijwerken naar ClassicPress %s"
 #: wp-admin/includes/class-wp-automatic-updater.php:407
 #, php-format
 msgid "ClassicPress %s"
-msgstr ""
+msgstr "ClassicPress %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-automatic-updater.php:419
@@ -5395,13 +5395,13 @@ msgstr "Om je thema's op je site te beheren ga naar de thema pagina: %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:1311
 msgid "https://forums.classicpress.net/c/support/"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support/"
 
 #. translators: %s: Network home URL.
 #: wp-admin/includes/class-wp-automatic-updater.php:1369
 #, php-format
 msgid "ClassicPress site: %s"
-msgstr ""
+msgstr "ClassicPress site: %s"
 
 #. translators: %s: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:1377
@@ -5482,7 +5482,8 @@ msgstr "[%s] Achtergrond update gereed"
 #: wp-admin/includes/class-wp-automatic-updater.php:1462
 msgid "UPDATE LOG\n"
 "=========="
-msgstr ""
+msgstr "UPDATE LOG\n"
+"=========="
 
 #. translators: 1: Error code, 2: Error message.
 #: wp-admin/includes/class-wp-automatic-updater.php:1497
@@ -5550,8 +5551,8 @@ msgstr[1] "Goedgekeurd <span class=\"count\">(%s)</span>"
 msgctxt "comments"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-comments-list-table.php:277
@@ -5606,7 +5607,7 @@ msgstr "Permanent verwijderen"
 #: wp-admin/includes/class-wp-media-list-table.php:268
 #: wp-admin/includes/class-wp-posts-list-table.php:600
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:429
 msgid "Empty Spam"
@@ -5632,7 +5633,7 @@ msgstr "Geschreven op"
 #: wp-admin/includes/class-wp-comments-list-table.php:505
 #: wp-admin/includes/class-wp-posts-list-table.php:1895
 msgid "Pings"
-msgstr ""
+msgstr "Pings"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-comments-list-table.php:513
@@ -5753,7 +5754,7 @@ msgstr "(Nieuwste versie: %s)"
 #: wp-admin/setup-config.php:115
 #: wp-admin/upgrade.php:69
 msgid "ClassicPress"
-msgstr ""
+msgstr "ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:76
 #: wp-admin/options-general.php:367
@@ -6966,7 +6967,7 @@ msgstr "Geen plugins gevonden. Probeer een andere zoekopdracht."
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:450
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Performance"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:451
 msgctxt "Plugin installer group title"
@@ -7124,7 +7125,7 @@ msgstr "Geïnstalleerde plugins zoeken..."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:472
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:477
 msgid "Automatic Updates"
@@ -7345,8 +7346,8 @@ msgstr[1] "Alles <span class=\"count\">(%s)</span>"
 msgctxt "posts"
 msgid "Sticky <span class=\"count\">(%s)</span>"
 msgid_plural "Sticky <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Sticky <span class=\"count\">(%s)</span>"
+msgstr[1] "Sticky <span class=\"count\">(%s)</span>"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-posts-list-table.php:540
@@ -7481,7 +7482,7 @@ msgstr "Pings toestaan"
 #: wp-admin/includes/class-wp-posts-list-table.php:1962
 #: wp-admin/includes/class-wp-posts-list-table.php:1965
 msgid "Sticky"
-msgstr ""
+msgstr "Sticky"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1966
 msgid "Not Sticky"
@@ -7743,7 +7744,7 @@ msgstr "Standaard bevat ClassicPress geen contact formulier. Als je een contact 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:511
 msgid "Cookies"
-msgstr ""
+msgstr "Cookies"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:515
@@ -7788,7 +7789,7 @@ msgstr "Deze websites kunnen data over jou verzamelen, cookies gebruiken, tracki
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:538
 msgid "Analytics"
-msgstr ""
+msgstr "Analytics"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:540
@@ -8086,7 +8087,7 @@ msgstr "Kolommen"
 #: wp-admin/includes/theme.php:369
 #: wp-admin/index.php:69
 msgid "Layout"
-msgstr ""
+msgstr "Opmaak"
 
 #. translators: %s: Number of columns on the page.
 #: wp-admin/includes/class-wp-screen.php:1209
@@ -8244,7 +8245,7 @@ msgstr "ClassicPress beveiliging en onderhoud releases zijn geblokkeerd door het
 #: wp-admin/includes/class-wp-site-health.php:2443
 #: wp-admin/includes/class-wp-site-health.php:2568
 msgid "Performance"
-msgstr ""
+msgstr "Performance"
 
 #. translators: %s: Your current version of ClassicPress.
 #: wp-admin/includes/class-wp-site-health.php:275
@@ -9650,7 +9651,7 @@ msgstr[1] "Alles <span class=\"count\">(%s)</span>"
 #: wp-admin/includes/class-wp-users-list-table.php:249
 #, php-format
 msgid "%1$s <span class=\"count\">(%2$s)</span>"
-msgstr ""
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:246
 msgid "No role"
@@ -9838,8 +9839,8 @@ msgstr[1] "%s gebruikers"
 #, php-format
 msgid "%s site"
 msgid_plural "%s sites"
-msgstr[0] ""
-msgstr[1] "%s sites"
+msgstr[0] "%s site"
+msgstr[1] ""
 
 #. translators: 1: Text indicating the number of sites on the network, 2: Text indicating the number of users on the network.
 #: wp-admin/includes/dashboard.php:474
@@ -10004,7 +10005,7 @@ msgstr "Doneren"
 #: wp-admin/includes/dashboard.php:1364
 #: wp-admin/index.php:97
 msgid "https://www.classicpress.net/blog/"
-msgstr ""
+msgstr "https://www.classicpress.net/blog/"
 
 #: wp-admin/includes/dashboard.php:1373
 msgid "https://www.classicpress.net/feed/"
@@ -10283,7 +10284,7 @@ msgstr "Zoekformulier"
 
 #: wp-admin/includes/file.php:22
 msgid "404 Template"
-msgstr ""
+msgstr "404 template"
 
 #: wp-admin/includes/file.php:23
 msgid "Links Template"
@@ -10363,23 +10364,23 @@ msgstr "Applicatie bijlage template"
 
 #: wp-admin/includes/file.php:47
 msgid "Embed Template"
-msgstr ""
+msgstr "Insluit template"
 
 #: wp-admin/includes/file.php:48
 msgid "Embed 404 Template"
-msgstr ""
+msgstr "404 template insluiten"
 
 #: wp-admin/includes/file.php:49
 msgid "Embed Content Template"
-msgstr ""
+msgstr "Inhoud insluiten template"
 
 #: wp-admin/includes/file.php:50
 msgid "Embed Header Template"
-msgstr ""
+msgstr "Header insluiten template"
 
 #: wp-admin/includes/file.php:51
 msgid "Embed Footer Template"
-msgstr ""
+msgstr "Footer insluiten template"
 
 #: wp-admin/includes/file.php:53
 #: wp-admin/includes/file.php:61
@@ -10622,15 +10623,15 @@ msgstr "<strong>Fout:</strong> kon niet verbinden met de server, controleer of d
 
 #: wp-admin/includes/file.php:2400
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #: wp-admin/includes/file.php:2403
 msgid "FTPS (SSL)"
-msgstr ""
+msgstr "FTPS (SSL)"
 
 #: wp-admin/includes/file.php:2406
 msgid "SSH2"
-msgstr ""
+msgstr "SSH2"
 
 #: wp-admin/includes/file.php:2432
 msgid "Connection Information"
@@ -10827,7 +10828,7 @@ msgstr "Nadat je een selectie hebt gemaakt kun je dit aanpassen door het aantal 
 
 #: wp-admin/includes/image-edit.php:210
 msgid "Aspect ratio:"
-msgstr ""
+msgstr "Aspect ratio:"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/image-edit.php:215
@@ -10936,7 +10937,7 @@ msgstr "Het toegevoegde bestand kon niet worden gevonden."
 
 #: wp-admin/includes/import.php:186
 msgid "Blogger"
-msgstr ""
+msgstr "Blogger"
 
 #: wp-admin/includes/import.php:187
 msgid "Import posts, comments, and users from a Blogger blog."
@@ -10954,7 +10955,7 @@ msgstr "Bestaande categorie&euml;n omzetten naar tags, of bestaande tags naar ca
 
 #: wp-admin/includes/import.php:198
 msgid "LiveJournal"
-msgstr ""
+msgstr "LiveJournal"
 
 #: wp-admin/includes/import.php:199
 msgid "Import posts from LiveJournal using their API."
@@ -10986,7 +10987,7 @@ msgstr "Berichten importeren van een RSS-feed."
 
 #: wp-admin/includes/import.php:222
 msgid "Tumblr"
-msgstr ""
+msgstr "Tumblr"
 
 #: wp-admin/includes/import.php:223
 msgid "Import posts &amp; media from Tumblr using their API."
@@ -11066,11 +11067,11 @@ msgstr "Track %s."
 #: wp-admin/includes/media.php:384
 #, php-format
 msgid "Genre: %s."
-msgstr ""
+msgstr "Genre: %s."
 
 #: wp-admin/includes/media.php:553
 msgid "Uploads"
-msgstr ""
+msgstr "Uploads"
 
 #: wp-admin/includes/media.php:674
 msgid "Add Media"
@@ -11318,7 +11319,7 @@ msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2835
 msgid "Filter &#187;"
-msgstr ""
+msgstr "Filter &#187;"
 
 #: wp-admin/includes/media.php:2881
 msgid "Image Caption"
@@ -11521,7 +11522,7 @@ msgstr "Gepubliceerd op: %s"
 #: wp-admin/includes/meta-boxes.php:246
 #: wp-admin/includes/meta-boxes.php:260
 msgid "Publish <b>immediately</b>"
-msgstr ""
+msgstr "<strong>Onmiddellijk</strong> publiceren"
 
 #. translators: Post date information. %s: Date on which the post is to be published.
 #: wp-admin/includes/meta-boxes.php:249
@@ -11722,7 +11723,7 @@ msgstr "Kies het doelframe voor je link."
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1337
 msgid "rel:"
-msgstr ""
+msgstr "rel:"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
@@ -11745,7 +11746,7 @@ msgstr "vriendschap"
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1364
 msgid "contact"
-msgstr ""
+msgstr "contact"
 
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1367
@@ -11915,7 +11916,7 @@ msgstr "Reacties"
 #: wp-admin/includes/misc.php:42
 #, php-format
 msgid "commit %s"
-msgstr ""
+msgstr "commit %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/misc.php:468
@@ -12401,13 +12402,13 @@ msgstr "Je kunt ook zoeken met behulp van de populairste tags in de Plugin Direc
 #: wp-admin/includes/plugin-install.php:275
 #, php-format
 msgid "%s plugin"
-msgstr ""
+msgstr "%s plugin"
 
 #. translators: %s: Number of plugins.
 #: wp-admin/includes/plugin-install.php:277
 #, php-format
 msgid "%s plugins"
-msgstr ""
+msgstr "%s plugins"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/plugin-install.php:301
@@ -12474,11 +12475,11 @@ msgstr "Pagina Bouwers"
 
 #: wp-admin/includes/plugin-install.php:379
 msgid "eCommerce"
-msgstr ""
+msgstr "eCommerce"
 
 #: wp-admin/includes/plugin-install.php:381
 msgid "SEO"
-msgstr ""
+msgstr "SEO"
 
 #: wp-admin/includes/plugin-install.php:382
 msgid "Advertising"
@@ -12501,7 +12502,7 @@ msgstr "Nieuwsbrieven"
 
 #: wp-admin/includes/plugin-install.php:386
 msgid "Forums"
-msgstr ""
+msgstr "Forums"
 
 #: wp-admin/includes/plugin-install.php:390
 msgid "These are some of the most common types of plugins. Not all categories are represented here."
@@ -12530,7 +12531,7 @@ msgstr "Installatie"
 #: wp-admin/includes/plugin-install.php:602
 msgctxt "Plugin installer section title"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: wp-admin/includes/plugin-install.php:603
 msgctxt "Plugin installer section title"
@@ -12540,12 +12541,12 @@ msgstr "Schermafbeeldingen"
 #: wp-admin/includes/plugin-install.php:604
 msgctxt "Plugin installer section title"
 msgid "Changelog"
-msgstr ""
+msgstr "Changelog"
 
 #: wp-admin/includes/plugin-install.php:605
 msgctxt "Plugin installer section title"
 msgid "Reviews"
-msgstr ""
+msgstr "Beoordelingen"
 
 #: wp-admin/includes/plugin-install.php:606
 msgctxt "Plugin installer section title"
@@ -12611,7 +12612,7 @@ msgstr[1] "(Gebaseerd op %s waarderingen)"
 
 #: wp-admin/includes/plugin-install.php:763
 msgid "Reviews"
-msgstr ""
+msgstr "Beoordelingen"
 
 #: wp-admin/includes/plugin-install.php:764
 msgid "Read all reviews on WordPress.org or write your own!"
@@ -12635,7 +12636,7 @@ msgstr[1] "%d sterren"
 
 #: wp-admin/includes/plugin-install.php:804
 msgid "Contributors"
-msgstr ""
+msgstr "Bijdragers"
 
 #: wp-admin/includes/plugin-install.php:838
 msgid "<strong>Error:</strong> This plugin <strong>requires a newer version of PHP</strong>."
@@ -12892,7 +12893,7 @@ msgstr "Je hebt geen toestemming om berichten of concepten aan te maken op deze 
 #: wp-admin/includes/post.php:1520
 #: wp-admin/includes/post.php:1545
 msgid "Permalink:"
-msgstr ""
+msgstr "Permalink:"
 
 #: wp-admin/includes/post.php:1533
 msgid "Change Permalink Structure"
@@ -13127,13 +13128,13 @@ msgstr "j F Y H:i"
 #: wp-admin/includes/revision.php:291
 msgctxt "revision date short format"
 msgid "j M @ H:i"
-msgstr ""
+msgstr "j M @ H:i"
 
 #. translators: default GMT offset or timezone string. Must be either a valid offset (-12 to 14) or a valid timezone string (America/New_York). See https://www.php.net/manual/en/timezones.php for all timezone strings currently supported by PHP. Important: When a previous timezone string, like `Europe/Kiev`, has been superseded by an updated one, like `Europe/Kyiv`, as a rule of thumb, the **old** timezone name should be used in the "translation" to allow for the default timezone setting to be PHP cross-version compatible, as old timezone names will be recognized in new PHP versions, while new timezone names cannot be recognized in old PHP versions. To verify which timezone strings are available in the _oldest_ PHP version supported, you can use https://3v4l.org/6YQAt#v5.6.20 and replace the "BR" (Brazil) in the code line with the country code for which you want to look up the supported timezone names.
 #: wp-admin/includes/schema.php:423
 msgctxt "default GMT offset or timezone string"
 msgid "0"
-msgstr ""
+msgstr "Europa/Amsterdam"
 
 #: wp-admin/includes/schema.php:433
 msgid "My Site"
@@ -13143,7 +13144,7 @@ msgstr "Mijn site"
 #: wp-admin/includes/schema.php:441
 msgctxt "start of week"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. translators: Links last updated date format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/schema.php:462
@@ -13402,7 +13403,7 @@ msgstr "Wachtend"
 #: wp-admin/includes/template.php:2206
 msgctxt "post status"
 msgid "Sticky"
-msgstr ""
+msgstr "Sticky"
 
 #: wp-admin/includes/template.php:2210
 msgctxt "post status"
@@ -13607,7 +13608,7 @@ msgstr "Blog"
 
 #: wp-admin/includes/theme.php:308
 msgid "E-Commerce"
-msgstr ""
+msgstr "E-commerce"
 
 #: wp-admin/includes/theme.php:309
 msgid "Education"
@@ -13635,7 +13636,7 @@ msgstr "Fotografie"
 
 #: wp-admin/includes/theme.php:315
 msgid "Portfolio"
-msgstr ""
+msgstr "Portfolio"
 
 #: wp-admin/includes/theme.php:318
 #: wp-admin/includes/theme.php:370
@@ -13668,7 +13669,7 @@ msgstr "Uitgelichte afbeeldingen"
 
 #: wp-admin/includes/theme.php:327
 msgid "Footer Widgets"
-msgstr ""
+msgstr "Footer widgets"
 
 #: wp-admin/includes/theme.php:328
 msgid "Full Width Template"
@@ -13684,7 +13685,7 @@ msgstr "Thema opties"
 
 #: wp-admin/includes/theme.php:335
 msgid "Grid Layout"
-msgstr ""
+msgstr "Raster lay-out"
 
 #: wp-admin/includes/theme.php:336
 msgid "One Column"
@@ -13921,7 +13922,7 @@ msgstr "Bijwerken naar versie %s"
 #: wp-admin/includes/update.php:295
 #, php-format
 msgid "https://www.classicpress.net/version/%s"
-msgstr ""
+msgstr "https://www.classicpress.net/version/%s"
 
 #. translators: 1: URL to ClassicPress release notes, 2: New ClassicPress version, 3: URL to network admin, 4: Accessibility text.
 #: wp-admin/includes/update.php:302
@@ -14541,7 +14542,7 @@ msgstr "De constante %s kan niet gedefinieerd zijn tijdens het installeren van C
 
 #: wp-admin/install.php:363
 msgid "Admin Setup"
-msgstr ""
+msgstr "Admin Configuratie"
 
 #: wp-admin/install.php:365
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
@@ -14854,7 +14855,7 @@ msgstr "Mijn sites"
 #: wp-admin/menu.php:49
 #, php-format
 msgid "Updates %s"
-msgstr ""
+msgstr "Updates %s"
 
 #: wp-admin/menu.php:67
 msgid "Library"
@@ -14904,7 +14905,7 @@ msgstr "Redacteur"
 #: wp-admin/menu.php:256
 #, php-format
 msgid "Plugins %s"
-msgstr ""
+msgstr "Plugins %s"
 
 #: wp-admin/menu.php:258
 msgid "Installed Plugins"
@@ -15004,7 +15005,7 @@ msgstr "Lezen"
 
 #: wp-admin/menu.php:356
 msgid "Permalinks"
-msgstr ""
+msgstr "Permalinks"
 
 #: wp-admin/nav-menus.php:19
 msgid "Your theme does not support navigation menus or widgets."
@@ -15252,7 +15253,7 @@ msgstr "Locaties beheren"
 
 #: wp-admin/nav-menus.php:805
 msgid "Your theme supports one menu. Select which menu you would like to use."
-msgstr ""
+msgstr "Je thema ondersteunt één menu. Selecteer welk menu je wilt gebruiken."
 
 #. translators: %s: Number of menus.
 #: wp-admin/nav-menus.php:809
@@ -15563,7 +15564,7 @@ msgstr "Wanneer een reactie één van deze woorden bevat in zijn inhoud, auteurs
 
 #: wp-admin/options-discussion.php:250
 msgid "Avatars"
-msgstr ""
+msgstr "Avatars"
 
 #: wp-admin/options-discussion.php:252
 msgid "An avatar is an image that can be associated with a user across multiple websites. In this area, you can choose to display avatars of users who interact with the site."
@@ -15623,7 +15624,7 @@ msgstr "Leeg"
 
 #: wp-admin/options-discussion.php:319
 msgid "Gravatar Logo"
-msgstr ""
+msgstr "Gravatar logo"
 
 #: wp-admin/options-discussion.php:320
 msgid "Identicon (Generated)"
@@ -16664,7 +16665,7 @@ msgstr "Publiceren via e-mailinstellingen geeft je de mogelijkheid je ClassicPre
 #: wp-admin/options-writing.php:45
 #: wp-admin/options-writing.php:207
 msgid "Update Services"
-msgstr ""
+msgstr "Update diensten"
 
 #: wp-admin/options-writing.php:46
 msgid "If desired, ClassicPress will automatically alert various services of your new posts."
@@ -18212,7 +18213,7 @@ msgstr ""
 
 #: wp-admin/themes.php:1019
 msgid "Tags:"
-msgstr ""
+msgstr "Tags:"
 
 #: wp-admin/tools.php:49
 msgid "Categories have hierarchy, meaning that you can nest sub-categories. Tags do not have hierarchy and cannot be nested. Sometimes people start out using one on their posts, then later realize that the other would work better for their content."
@@ -18281,7 +18282,7 @@ msgstr ""
 #: wp-admin/update-core.php:101
 #, php-format
 msgid "You can update to <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> automatically:"
-msgstr ""
+msgstr "Je kunt automatisch updaten naar <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a>:"
 
 #: wp-admin/update-core.php:129
 msgid "Hide this update"
@@ -18345,7 +18346,7 @@ msgstr "Een nieuwe versie van ClassicPress is beschikbaar."
 
 #: wp-admin/update-core.php:255
 msgid "BETA TESTERS:"
-msgstr ""
+msgstr "BETA TESTERS:"
 
 #: wp-admin/update-core.php:255
 msgid "This site is set up to install updates of future beta versions automatically."
@@ -18473,7 +18474,7 @@ msgstr "Gelieve <strong>15 minuten</strong> te wachten en probeer het dan opnieu
 #: wp-admin/update-core.php:759
 #, php-format
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Als je dit bericht ziet na 15 minuten wachten en het opnieuw proberen van de update, plaats dan een bericht op ons <a href=\"%s\">ondersteuningsforum</a>."
 
 #: wp-admin/update-core.php:767
 msgid "Installation Failed"
@@ -19144,7 +19145,7 @@ msgstr "<a href=\"%s\" rel=\"noreferrer\">Je kan je profielafbeelding wijzigen o
 
 #: wp-admin/user-edit.php:741
 msgid "https://en.gravatar.com/"
-msgstr ""
+msgstr "https://en.gravatar.com/"
 
 #: wp-admin/user-edit.php:778
 msgid "Account Management"
@@ -19592,7 +19593,7 @@ msgstr "ID #%1$s: %2$s <strong>De huidige gebruiker wordt niet verwijderd.</stro
 #: wp-admin/users.php:487
 #, php-format
 msgid "ID #%1$s: %2$s"
-msgstr ""
+msgstr "ID #%1$s: %2$s"
 
 #: wp-admin/users.php:363
 msgid "What should be done with content owned by this user?"
@@ -19774,7 +19775,7 @@ msgstr "Sleep de widgets hierheen om deze te verwijderen van de sidebar, maar om
 #: wp-admin/widgets-form.php:283
 #, php-format
 msgid "Widget %s"
-msgstr ""
+msgstr "Widget %s"
 
 #: wp-admin/widgets-form.php:298
 msgid "Select both the sidebar for this widget and the position of the widget in that sidebar."

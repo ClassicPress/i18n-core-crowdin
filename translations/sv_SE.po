@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-08-16 11:38\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1849,7 +1849,7 @@ msgstr "Visuellt"
 #: wp-includes/class-wp-editor.php:1402
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/class-wp-editor.php:1142
 msgid "New document"
@@ -3142,7 +3142,7 @@ msgstr "lördag"
 #: wp-includes/class-wp-locale.php:157
 msgctxt "Sunday initial"
 msgid "S"
-msgstr ""
+msgstr "L"
 
 #. translators: One-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:158
@@ -3178,7 +3178,7 @@ msgstr ""
 #: wp-includes/class-wp-locale.php:163
 msgctxt "Saturday initial"
 msgid "S"
-msgstr ""
+msgstr "L"
 
 #. translators: Three-letter abbreviation of the weekday.
 #: wp-includes/class-wp-locale.php:166
@@ -8952,7 +8952,7 @@ msgstr ""
 #: wp-includes/post-formats.php:106
 msgctxt "Post format"
 msgid "Video"
-msgstr ""
+msgstr "Videoklipp"
 
 #: wp-includes/post-formats.php:107
 msgctxt "Post format"
@@ -9375,7 +9375,7 @@ msgstr[1] "Ljud <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:2900
 msgctxt "file type group"
 msgid "Video"
-msgstr ""
+msgstr "Videoklipp"
 
 #: wp-includes/post.php:2901
 msgid "Manage Video"
@@ -12927,7 +12927,7 @@ msgstr "Format"
 #: wp-includes/taxonomy.php:184
 msgctxt "post format"
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 #: wp-includes/taxonomy.php:200
 msgid "Media Categories"
@@ -14190,15 +14190,15 @@ msgstr ""
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
-msgstr ""
+msgstr "Första sidan"
 
 #: wp-includes/widgets.php:2096
 msgid "Current Page"
-msgstr ""
+msgstr "Nuvarande sida"
 
 #: wp-includes/widgets.php:2116
 msgid "Last page"
-msgstr ""
+msgstr "Sista sidan"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
@@ -14221,7 +14221,7 @@ msgstr ""
 
 #: wp-includes/widgets.php:2234
 msgid "File URL"
-msgstr ""
+msgstr "Fil-URL"
 
 #: wp-includes/widgets.php:2244
 msgid "Taxonomy updated successfully!"
@@ -14574,7 +14574,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:289
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
 msgid "Error:"
-msgstr ""
+msgstr "Fel:"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:290
 #: wp-includes/widgets/class-wp-widget-media-image.php:520
@@ -14699,7 +14699,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
 msgid "Video"
-msgstr ""
+msgstr "Videoklipp"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:30
 msgid "Displays a video from the media library or from YouTube, Vimeo, or another provider."
@@ -14934,7 +14934,7 @@ msgstr "Godtycklig text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:43
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:503
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

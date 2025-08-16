@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:44\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -84,8 +84,8 @@ msgstr[1] "Per adulti <span class=\"count\">(%s)</span>"
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
@@ -162,7 +162,7 @@ msgstr "Seleziona %s"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
 #, php-format
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:474
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
@@ -496,7 +496,7 @@ msgstr "Siti"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:285
 msgid "Super Admin"
-msgstr ""
+msgstr "Super Admin"
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:303
@@ -950,7 +950,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/tools-network-scre
 
 #: wp-admin/network.php:74
 msgid "Network"
-msgstr ""
+msgstr "Network"
 
 #: wp-admin/network/index.php:24
 msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
@@ -1327,7 +1327,7 @@ msgstr "Dimensione massima dei file"
 #: wp-admin/network/settings.php:442
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449

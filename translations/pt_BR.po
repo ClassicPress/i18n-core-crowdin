@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-16 11:38\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -7140,7 +7140,7 @@ msgstr "Citações"
 #: wp-includes/general-template.php:1708
 msgctxt "post format archive title"
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-includes/general-template.php:1710
 msgctxt "post format archive title"
@@ -8948,7 +8948,7 @@ msgstr "Citação"
 #: wp-includes/post-formats.php:105
 msgctxt "Post format"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: wp-includes/post-formats.php:106
 msgctxt "Post format"
@@ -9482,7 +9482,7 @@ msgstr "Modelo de página inválido."
 #: wp-includes/post.php:5068
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #: wp-includes/query.php:165
 #: wp-includes/query.php:191
@@ -9586,7 +9586,7 @@ msgstr "%1$s (desde %2$s; %3$s)"
 #: wp-includes/rest-api.php:664
 #, php-format
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/rest-api.php:1028
 msgid "Cookie check failed"
@@ -13531,7 +13531,7 @@ msgstr ""
 #: wp-includes/update.php:665
 #: wp-login.php:1317
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-includes/update.php:390
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
@@ -13649,7 +13649,7 @@ msgstr ""
 #, php-format
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:2141
 msgid "Cannot create a user with an empty login name."
@@ -14358,7 +14358,7 @@ msgstr "A sua lista de links"
 
 #: wp-includes/widgets/class-wp-widget-links.php:29
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-includes/widgets/class-wp-widget-links.php:147
 msgid "Select Link Category:"
@@ -14982,7 +14982,7 @@ msgstr "Criar um Arquivo de Configuração"
 #: wp-login.php:72
 #, php-format
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Login screen title.
 #: wp-login.php:76

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-16 11:38\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -13539,7 +13539,7 @@ msgstr "翻译更新"
 
 #: wp-includes/update.php:1061
 msgid "Unable to locate ClassicPress content directory (wp-content)."
-msgstr ""
+msgstr "无法定位 ClassicPress 内容目录（wp-content）。"
 
 #: wp-includes/user.php:148
 msgid "<strong>Error:</strong> The username field is empty."
@@ -14192,15 +14192,15 @@ msgstr ""
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
-msgstr ""
+msgstr "首页"
 
 #: wp-includes/widgets.php:2096
 msgid "Current Page"
-msgstr ""
+msgstr "当前页"
 
 #: wp-includes/widgets.php:2116
 msgid "Last page"
-msgstr ""
+msgstr "末页"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
@@ -14223,7 +14223,7 @@ msgstr "已保存！"
 
 #: wp-includes/widgets.php:2234
 msgid "File URL"
-msgstr ""
+msgstr "文件 URL"
 
 #: wp-includes/widgets.php:2244
 msgid "Taxonomy updated successfully!"
@@ -14575,7 +14575,7 @@ msgstr "更新媒体失败："
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:289
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
 msgid "Error:"
-msgstr ""
+msgstr "错误："
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:290
 #: wp-includes/widgets/class-wp-widget-media-image.php:520
@@ -14602,7 +14602,7 @@ msgstr "您即将从您的站点中永久删除这些项目。\n"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
-msgstr ""
+msgstr "0"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"

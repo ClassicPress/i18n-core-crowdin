@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:44\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -29,7 +29,7 @@ msgstr "Arquivados"
 #: wp-admin/network/site-info.php:199
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:40
 #: wp-admin/network/site-info.php:200

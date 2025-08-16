@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:44\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -84,8 +84,8 @@ msgstr[1] "Reife <span class=\"count\">(%s)</span>"
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
@@ -162,7 +162,7 @@ msgstr "%s auswählen"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
 #, php-format
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:474
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
@@ -243,7 +243,7 @@ msgstr "Derzeit sind keine Themes verfügbar."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:330
 msgid "Theme"
-msgstr ""
+msgstr "Theme"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:331
 msgid "Description"
@@ -676,7 +676,7 @@ msgstr "Löschen bestätigen"
 
 #: wp-admin/includes/ms.php:1062
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: wp-admin/includes/ms.php:1072
 #: wp-admin/network/menu.php:78
@@ -1055,7 +1055,7 @@ msgstr "Datei hinzufügen"
 #: wp-admin/network/menu.php:63
 #, php-format
 msgid "Themes %s"
-msgstr ""
+msgstr "Themes %s"
 
 #: wp-admin/network/menu.php:80
 msgid "Installed Themes"
@@ -1075,7 +1075,7 @@ msgstr "Theme-Datei-Editor"
 #: wp-admin/network/menu.php:88
 #, php-format
 msgid "Plugins %s"
-msgstr ""
+msgstr "Plugins %s"
 
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
@@ -1336,7 +1336,7 @@ msgstr "Maximale Dateigröße eines Uploads"
 #: wp-admin/network/settings.php:442
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449
@@ -2400,7 +2400,15 @@ msgid "Hello USERNAME,\n\n"
 "Log in here: BLOG_URLwp-login.php\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihre neue SITE_NAME Seite wurde erfolgreich eingerichtet unter:\n"
+"BLOG_URL\n\n"
+"Sie können sich in das Administratorkonto mit den folgenden Informationen einloggen:\n\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"Anmelden hier: BLOG_URLwp-login. hp\n\n"
+"Wir hoffen, dass dir deine neue Seite gefällt. Danke!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2465,7 +2473,14 @@ msgid "Hello USERNAME,\n\n"
 "LOGINLINK\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihr neues Konto wurde eingerichtet.\n\n"
+"Sie können sich mit den folgenden Informationen anmelden:\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"LOGINLINK\n\n"
+"Vielen Dank!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
@@ -2480,7 +2495,17 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die Netzwerk-Admin-E-Mail-Adresse auf\n"
+"deines Netzwerks zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #. translators: Email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2787

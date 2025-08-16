@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2025-08-16 11:38\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5204,7 +5204,7 @@ msgstr "Learn more."
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr ""
+msgstr "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
@@ -14235,7 +14235,7 @@ msgstr "Display item date?"
 
 #: wp-includes/widgets.php:2087
 msgid "2 items"
-msgstr ""
+msgstr "2 items"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
@@ -14251,7 +14251,7 @@ msgstr "Last page"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
-msgstr ""
+msgstr "Edit details"
 
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303
@@ -14278,7 +14278,7 @@ msgstr "Taxonomy updated successfully!"
 
 #: wp-includes/widgets.php:2303
 msgid "Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "Leave empty if the image is purely decorative."
 
 #: wp-includes/widgets.php:2330
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
@@ -14498,7 +14498,7 @@ msgstr "Add Media"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:235
 msgid "Add to widget"
-msgstr ""
+msgstr "Add to widget"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:236
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
@@ -14538,14 +14538,14 @@ msgstr "Looks like this is not the correct kind of file. Please link to an audio
 #: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #: wp-includes/widgets/class-wp-widget-media-video.php:303
 msgid "No file exists at that URL"
-msgstr ""
+msgstr "No file exists at that URL"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:257
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
 #: wp-includes/widgets/class-wp-widget-media-image.php:507
 #: wp-includes/widgets/class-wp-widget-media-video.php:308
 msgid "media items"
-msgstr ""
+msgstr "media items"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:294
 #: wp-includes/widgets/class-wp-widget-media-video.php:345
@@ -14592,7 +14592,7 @@ msgstr "Create Gallery"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
-msgstr ""
+msgstr "Cancel Gallery"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:276
 #: wp-includes/widgets/class-wp-widget-media-image.php:428
@@ -14654,7 +14654,7 @@ msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
@@ -14662,27 +14662,27 @@ msgstr "3"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:343
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:344
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:345
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:346
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:347
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -14722,11 +14722,11 @@ msgstr "Looks like this is not the correct kind of file. Please link to an appro
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
 msgid "The current image has no alternative text. The file name is: "
-msgstr ""
+msgstr "The current image has no alternative text. The file name is: "
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 msgid "No file exists at the URL provided."
-msgstr ""
+msgstr "No file exists at the URL provided."
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:515
 msgid "Upload failed"

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2025-08-16 11:39\n"
+"PO-Revision-Date: 2025-08-16 17:43\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1698,7 +1698,7 @@ msgstr "Add title"
 
 #: wp-admin/edit-form-advanced.php:579
 msgid "Skip to Editor"
-msgstr ""
+msgstr "Skip to Editor"
 
 #: wp-admin/edit-form-advanced.php:603
 msgid "Get Shortlink"
@@ -2797,7 +2797,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/tools-import-scree
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:856
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
 
 #: wp-admin/import.php:64
 #: wp-admin/includes/network.php:116
@@ -3236,7 +3236,7 @@ msgstr "Caption"
 
 #: wp-admin/includes/ajax-actions.php:3749
 msgid "Current "
-msgstr ""
+msgstr "Current "
 
 #: wp-admin/includes/ajax-actions.php:3771
 #: wp-admin/includes/ajax-actions.php:3784
@@ -8914,7 +8914,7 @@ msgstr "The %s directory used to improve the stability of plugin and theme updat
 #: wp-admin/includes/class-wp-site-health.php:1948
 #, php-format
 msgid "Unable to locate ClassicPress content directory (%s)"
-msgstr ""
+msgstr "Unable to locate ClassicPress content directory (%s)"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1953
@@ -10072,7 +10072,7 @@ msgstr "Dismiss the browser warning panel"
 #: wp-admin/includes/dashboard.php:1652
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1658
@@ -10084,7 +10084,7 @@ msgstr "Your site is running on an outdated version of PHP (%s), which does not 
 #: wp-admin/includes/dashboard.php:1665
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1671
@@ -12651,17 +12651,17 @@ msgstr "<a href=\"%s\" target=\"_blank\">Click here to learn more about updating
 
 #: wp-admin/includes/plugin-install.php:862
 msgid "<strong>Warning:</strong> This plugin <strong>has not been tested</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>Warning:</strong> This plugin <strong>has not been tested</strong> with your version of ClassicPress."
 
 #: wp-admin/includes/plugin-install.php:869
 msgid "<strong>Error:</strong> This plugin <strong>does not work</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>Error:</strong> This plugin <strong>does not work</strong> with your version of ClassicPress."
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/plugin-install.php:873
 #, php-format
 msgid "<a href=\"%s\" target=\"_parent\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_parent\">Please update ClassicPress</a>."
 
 #: wp-admin/includes/plugin-install.php:921
 msgid "Install Update Now"
@@ -15648,11 +15648,11 @@ msgstr "RoboHash (Generated)"
 
 #: wp-admin/options-discussion.php:325
 msgid "Initials (Generated)"
-msgstr ""
+msgstr "Initials (Generated)"
 
 #: wp-admin/options-discussion.php:326
 msgid "Color (Generated)"
-msgstr ""
+msgstr "Colour (Generated)"
 
 #: wp-admin/options-general.php:20
 msgid "General Settings"
@@ -17572,11 +17572,11 @@ msgstr "All right, sparky! You&#8217;ve made it through this part of the install
 #: wp-admin/setup-config.php:534
 #, php-format
 msgid "The %1$s file has been created with open permissions. See <a href=\"%2$s\">Working with wp-config.php file</a> for more information."
-msgstr ""
+msgstr "The %1$s file has been created with open permissions. See <a href=\"%2$s\">Working with wp-config.php file</a> for more information."
 
 #: wp-admin/setup-config.php:536
 msgid "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
 
 #: wp-admin/site-health-info.php:23
 #: wp-admin/site-health.php:226
@@ -17882,7 +17882,7 @@ msgstr "Installing... please wait."
 
 #: wp-admin/theme-install.php:82
 msgid "ratings"
-msgstr ""
+msgstr "ratings"
 
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:118
@@ -17940,7 +17940,7 @@ msgstr "Popular"
 
 #: wp-admin/theme-install.php:236
 msgid "Search Themes..."
-msgstr ""
+msgstr "Search Themes..."
 
 #: wp-admin/theme-install.php:242
 #: wp-admin/theme-install.php:264
@@ -18197,19 +18197,19 @@ msgstr "Install Parent Theme"
 
 #: wp-admin/themes.php:917
 msgid "There is a new version of this theme available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "There is a new version of this theme available, but it does not work with your versions of ClassicPress and PHP."
 
 #: wp-admin/themes.php:953
 msgid "There is a new version of this theme available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "There is a new version of this theme available, but it does not work with your version of ClassicPress."
 
 #: wp-admin/themes.php:966
 msgid "There is a new version of this theme available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "There is a new version of this theme available, but it does not work with your version of PHP."
 
 #: wp-admin/themes.php:1016
 msgid "This is a child theme of:"
-msgstr ""
+msgstr "This is a child theme of:"
 
 #: wp-admin/themes.php:1019
 msgid "Tags:"
@@ -18264,19 +18264,19 @@ msgstr "Re-install Now"
 #: wp-admin/update-core.php:93
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required PHP version number, 4: Current PHP version number
 #: wp-admin/update-core.php:96
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number
 #: wp-admin/update-core.php:99
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number including locale if necessary
 #: wp-admin/update-core.php:101
@@ -18797,7 +18797,7 @@ msgstr "Clicking an item will display an Attachment Details dialog, which allows
 
 #: wp-admin/upload.php:169
 msgid "Use the arrow buttons at the top of the dialog, the left and right arrow keys on your keyboard, or swipe left and right on a touch device to navigate between media items."
-msgstr ""
+msgstr "Use the arrow buttons at the top of the dialog, the left and right arrow keys on your keyboard, or swipe left and right on a touch device to navigate between media items."
 
 #: wp-admin/upload.php:170
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
@@ -19096,7 +19096,7 @@ msgstr "Display name publicly as"
 
 #: wp-admin/user-edit.php:557
 msgid "User Taxonomies"
-msgstr ""
+msgstr "User Taxonomies"
 
 #: wp-admin/user-edit.php:617
 msgid "Contact Info"

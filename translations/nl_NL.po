@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-08-21 14:14\n"
+"PO-Revision-Date: 2025-08-21 20:13\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5204,7 +5204,7 @@ msgstr "Meer informatie."
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr "Je kunt deze lijst resetten door de <a href=\"%s\">compatibiliteit van blokken</a> naar \"Aan\" en terug naar \"Probleemoplossing\" te zetten."
+msgstr "Je kunt deze lijst resetten door de <a href=\"%s\">compatibiliteit van blokken</a> op \"Aan\" en terug naar \"Probleemoplossing\" te zetten."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
@@ -14234,7 +14234,7 @@ msgstr "Toon item datum?"
 
 #: wp-includes/widgets.php:2087
 msgid "2 items"
-msgstr ""
+msgstr "2 items"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
@@ -14250,7 +14250,7 @@ msgstr "Laatste pagina"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
-msgstr ""
+msgstr "Bewerk details"
 
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-08-21 20:13\n"
+"PO-Revision-Date: 2025-08-22 16:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -14497,7 +14497,7 @@ msgstr "Media toevoegen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:235
 msgid "Add to widget"
-msgstr ""
+msgstr "Aan widget toevoegen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:236
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"

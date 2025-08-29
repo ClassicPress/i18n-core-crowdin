@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-16 17:43\n"
+"PO-Revision-Date: 2025-08-29 23:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -170,7 +170,7 @@ msgstr "ClassicPress 1.0.1 ～ %s"
 #: wp-admin/about.php:136
 #, php-format
 msgid "The changes and new features included in recent versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "最新版本的 ClassicPress 中包含的更改和新功能可以在我们的<a href=\"%s\"><strong>发布注脚</strong></a>中找到。"
 
 #: wp-admin/about.php:141
 msgid "ClassicPress 1.0.0"
@@ -956,7 +956,7 @@ msgstr "未知操作。"
 
 #: wp-admin/credits.php:52
 msgid "ClassicPress is created by a worldwide team of passionate individuals."
-msgstr ""
+msgstr "ClassicPress 是由一个充满热情的全球团队创建的。"
 
 #. translators: %s: https://www.classicpress.net/community
 #: wp-admin/credits.php:58
@@ -1686,7 +1686,7 @@ msgstr "添加标题"
 
 #: wp-admin/edit-form-advanced.php:579
 msgid "Skip to Editor"
-msgstr ""
+msgstr "跳过并前往编辑器"
 
 #: wp-admin/edit-form-advanced.php:603
 msgid "Get Shortlink"
@@ -2703,7 +2703,7 @@ msgstr "ClassicPress 是一个由来自世界各地的志愿开发者构成的�
 
 #: wp-admin/freedoms.php:50
 msgid "The Four Freedoms"
-msgstr ""
+msgstr "四大自由"
 
 #: wp-admin/freedoms.php:52
 msgid "The 1st Freedom"

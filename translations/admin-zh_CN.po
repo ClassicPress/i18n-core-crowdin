@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-29 23:51\n"
+"PO-Revision-Date: 2025-08-30 05:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2707,35 +2707,35 @@ msgstr "四大自由"
 
 #: wp-admin/freedoms.php:52
 msgid "The 1st Freedom"
-msgstr ""
+msgstr "自由之一"
 
 #: wp-admin/freedoms.php:52
 msgid "To run the program for any purpose."
-msgstr ""
+msgstr "以任何目的运行该软件。"
 
 #: wp-admin/freedoms.php:53
 msgid "The 2nd Freedom"
-msgstr ""
+msgstr "自由之二"
 
 #: wp-admin/freedoms.php:53
 msgid "To study how the program works and change it to make it do what you wish."
-msgstr ""
+msgstr "研究软件的工作原理，并且对其做出修改，以使软件按您的意愿工作。"
 
 #: wp-admin/freedoms.php:54
 msgid "The 3rd Freedom"
-msgstr ""
+msgstr "自由之三"
 
 #: wp-admin/freedoms.php:54
 msgid "To redistribute."
-msgstr ""
+msgstr "将软件重新分发。"
 
 #: wp-admin/freedoms.php:55
 msgid "The 4th Freedom"
-msgstr ""
+msgstr "自由之四"
 
 #: wp-admin/freedoms.php:55
 msgid "To distribute copies of your modified versions to others."
-msgstr ""
+msgstr "向其他人分发经由您修改后的软件。"
 
 #: wp-admin/freedoms.php:61
 #: wp-admin/includes/plugin-install.php:731
@@ -2775,7 +2775,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/tools-import-scree
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:856
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">支持论坛</a>"
 
 #: wp-admin/import.php:64
 #: wp-admin/includes/network.php:116
@@ -3211,7 +3211,7 @@ msgstr "标题"
 
 #: wp-admin/includes/ajax-actions.php:3749
 msgid "Current "
-msgstr ""
+msgstr "当前"
 
 #: wp-admin/includes/ajax-actions.php:3771
 #: wp-admin/includes/ajax-actions.php:3784
@@ -3848,7 +3848,7 @@ msgstr "无法将链接插入数据库。"
 #: wp-admin/includes/bookmark.php:351
 #, php-format
 msgid "If you are looking to use the link manager, please enable it in the <a href=\"%s\">General Settings</a>."
-msgstr ""
+msgstr "如果您希望使用链接管理器，请在<a href=\"%s\">通用设置</a>中启用它。"
 
 #. translators: %s: A link to activate the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:366
@@ -5434,7 +5434,13 @@ msgid "BETA TESTING?\n"
 " * Open a thread in the support forums: https://forums.classicpress.net/c/support/\n"
 " * Or, if you're comfortable writing a bug report: https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
 "Thanks! -- The ClassicPress Team"
-msgstr ""
+msgstr "正在进行 BETA 测试吗？\n"
+"=============\n\n"
+"此调试用电子邮件会在您使用开发版本的 ClassicPress 时发送。\n\n"
+"如果您认为上述失败有可能是由于 ClassicPress 中的故障导致的，或许您可以报告这一问题。\n"
+"* 在支持论坛中发表帖子：https://forums.classicpress.net/c/support\n"
+"* 如果您对撰写问题报告比较熟悉的话：https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
+"在此献上我们诚挚的感谢 —— ClassicPress 团队"
 
 #. translators: Background update failed notification email subject. %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1455
@@ -8812,111 +8818,111 @@ msgstr "您的站点可能无法顺利进行主题和插件的自动更新"
 
 #: wp-admin/includes/class-wp-site-health.php:1880
 msgid "Disk space available to safely perform updates"
-msgstr ""
+msgstr "可用于安全执行更新的磁盘空间"
 
 #. translators: %s: Available disk space in MB or GB.
 #: wp-admin/includes/class-wp-site-health.php:1888
 #, php-format
 msgid "%s available disk space was detected, update routines can be performed safely."
-msgstr ""
+msgstr "检测到 %s 剩余磁盘空间可用，可以安全地进行更新。"
 
 #: wp-admin/includes/class-wp-site-health.php:1896
 msgid "Could not determine available disk space for updates."
-msgstr ""
+msgstr "无法确定可用于更新的磁盘空间。"
 
 #: wp-admin/includes/class-wp-site-health.php:1899
 msgid "Available disk space is critically low, less than 20 MB available. Proceed with caution, updates may fail."
-msgstr ""
+msgstr "可用磁盘空间严重不足（不到 20 MB 的可用空间）。更新时请注意，可能会失败。"
 
 #: wp-admin/includes/class-wp-site-health.php:1902
 msgid "Available disk space is low, less than 100 MB available."
-msgstr ""
+msgstr "可用磁盘空间不足（不到 100 MB 的可用空间）。"
 
 #: wp-admin/includes/class-wp-site-health.php:1922
 msgid "Plugin and theme temporary backup directory is writable"
-msgstr ""
+msgstr "插件和主题临时备份目录可写"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:1930
 #, php-format
 msgid "The %s directory used to improve the stability of plugin and theme updates is writable."
-msgstr ""
+msgstr "用于提高插件和主题更新稳定性的 %s 目录是可写的。"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1948
 #, php-format
 msgid "Unable to locate ClassicPress content directory (%s)"
-msgstr ""
+msgstr "无法定位 ClassicPress 内容目录（%s）"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1953
 #, php-format
 msgid "The %s directory cannot be located."
-msgstr ""
+msgstr "无法找到 %s 目录。"
 
 #: wp-admin/includes/class-wp-site-health.php:1971
 msgid "Plugin and theme temporary backup directories exist but are not writable"
-msgstr ""
+msgstr "插件和主题临时备份目录存在，但不可写"
 
 #. translators: 1: wp-content/upgrade-temp-backup/plugins, 2: wp-content/upgrade-temp-backup/themes.
 #: wp-admin/includes/class-wp-site-health.php:1974
 #, php-format
 msgid "The %1$s and %2$s directories exist but are not writable. These directories are used to improve the stability of plugin updates. Please make sure the server has write permissions to these directories."
-msgstr ""
+msgstr "%1$s 和 %2$s 目录存在，但不可写。 这些目录可用于提高插件更新的稳定性。请确保服务器拥有这些目录的写权限。"
 
 #: wp-admin/includes/class-wp-site-health.php:1983
 msgid "Plugin temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "插件临时备份目录存在，但不可写"
 
 #. translators: %s: wp-content/upgrade-temp-backup/plugins
 #: wp-admin/includes/class-wp-site-health.php:1986
 #, php-format
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "%s 目录存在，但不可写。 该目录可用于提高插件更新的稳定性。请确保服务器拥有这些目录的写权限。"
 
 #: wp-admin/includes/class-wp-site-health.php:1994
 msgid "Theme temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "主题临时备份目录存在，但不可写"
 
 #. translators: %s: wp-content/upgrade-temp-backup/themes
 #: wp-admin/includes/class-wp-site-health.php:1997
 #, php-format
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "%s 目录存在，但不可写。 该目录可用于提高主题更新的稳定性。请确保服务器拥有这些目录的写权限。"
 
 #: wp-admin/includes/class-wp-site-health.php:2005
 msgid "The temporary backup directory exists but is not writable"
-msgstr ""
+msgstr "临时备份目录存在，但不可写"
 
 #. translators: %s: wp-content/upgrade-temp-backup
 #: wp-admin/includes/class-wp-site-health.php:2008
 #, php-format
 msgid "The %s directory exists but is not writable. This directory is used to improve the stability of plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "%s 目录存在，但不可写。 该目录可用于提高插件与主题更新的稳定性。请确保服务器拥有这些目录的写权限。"
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2018
 #, php-format
 msgid "The %s directory exists but is not writable"
-msgstr ""
+msgstr "%s 目录存在，但不可写"
 
 #. translators: %s: wp-content/upgrade
 #: wp-admin/includes/class-wp-site-health.php:2023
 #, php-format
 msgid "The %s directory exists but is not writable. This directory is used for plugin and theme updates. Please make sure the server has write permissions to this directory."
-msgstr ""
+msgstr "%s 目录存在，但不可写。 该目录用于执行插件与主题更新。请确保服务器拥有这些目录的写权限。"
 
 #. translators: %s: upgrade
 #: wp-admin/includes/class-wp-site-health.php:2033
 #, php-format
 msgid "The %s directory cannot be created"
-msgstr ""
+msgstr "无法创建 %s 目录"
 
 #. translators: 1: wp-content/upgrade, 2: wp-content.
 #: wp-admin/includes/class-wp-site-health.php:2038
 #, php-format
 msgid "The %1$s directory does not exist, and the server does not have write permissions in %2$s to create it. This directory is used for plugin and theme updates. Please make sure the server has write permissions in %2$s."
-msgstr ""
+msgstr "%1$s 目录不存在，且服务器在 %2$s 中没有写权限来创建该目录。 此目录用于执行插件和主题更新。请确保服务器拥有 %2$s 的写权限。"
 
 #: wp-admin/includes/class-wp-site-health.php:2061
 msgid "Your site can perform loopback requests"
@@ -9253,11 +9259,11 @@ msgstr "插件和主题自动更新"
 
 #: wp-admin/includes/class-wp-site-health.php:2721
 msgid "Plugin and theme temporary backup directory access"
-msgstr ""
+msgstr "插件和主题临时备份目录可访问性"
 
 #: wp-admin/includes/class-wp-site-health.php:2725
 msgid "Available disk space"
-msgstr ""
+msgstr "可用磁盘空间"
 
 #: wp-admin/includes/class-wp-site-health.php:2731
 msgid "Communication with ClassicPress.net"
@@ -9542,25 +9548,25 @@ msgstr "正在停用维护模式&#8230;"
 #: wp-admin/includes/class-wp-upgrader.php:210
 #, php-format
 msgid "Could not create the %s directory."
-msgstr ""
+msgstr "无法创建 %s 目录。"
 
 #. translators: %s: upgrade-temp-backup
 #: wp-admin/includes/class-wp-upgrader.php:212
 #, php-format
 msgid "Could not move the old version to the %s directory."
-msgstr ""
+msgstr "无法将旧版本移动到 %s 目录。"
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:214
 #, php-format
 msgid "Could not restore the original version of %s."
-msgstr ""
+msgstr "无法恢复原始版本的 %s。"
 
 #. translators: %s: The plugin or theme slug.
 #: wp-admin/includes/class-wp-upgrader.php:216
 #, php-format
 msgid "Could not delete the temporary backup directory for %s."
-msgstr ""
+msgstr "无法删除 %s 的临时备份目录。"
 
 #: wp-admin/includes/class-wp-users-list-table.php:158
 #: wp-admin/includes/deprecated.php:578
@@ -9997,7 +10003,7 @@ msgstr "关闭浏览器警告面板"
 #: wp-admin/includes/dashboard.php:1652
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "您的站点正在运行着一个过时的 PHP 版本（%s），其不会再接收安全更新，并且即将不被 ClassicPress 所支持。请尽快更新您服务器上的 PHP 版本，否则您将无法继续升级 ClassicPress。"
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1658
@@ -10009,7 +10015,7 @@ msgstr "您的站点正在运行着一个过世的 PHP 版本（%s），其不�
 #: wp-admin/includes/dashboard.php:1665
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "您的站点正在运行着一个过时的 PHP 版本（%s），其即将不被 ClassicPress 所支持。请尽快更新您服务器上的 PHP 版本，否则您将无法继续升级 ClassicPress。"
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1671
@@ -12570,17 +12576,17 @@ msgstr "<a href=\"%s\" target=\"_blank\">了解更多关于更新 PHP 的信息<
 
 #: wp-admin/includes/plugin-install.php:862
 msgid "<strong>Warning:</strong> This plugin <strong>has not been tested</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>警告：</strong>此插件未与您的 ClassicPress 版本<strong>进行兼容性测试</strong>。"
 
 #: wp-admin/includes/plugin-install.php:869
 msgid "<strong>Error:</strong> This plugin <strong>does not work</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>错误：</strong>此插件与您的 ClassicPress 版本<strong>不兼容</strong>。"
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/plugin-install.php:873
 #, php-format
 msgid "<a href=\"%s\" target=\"_parent\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_parent\">请升级 ClassicPress</a>。"
 
 #: wp-admin/includes/plugin-install.php:921
 msgid "Install Update Now"
@@ -14143,7 +14149,7 @@ msgstr "注意："
 
 #: wp-admin/includes/user.php:554
 msgid "You are using the auto-generated password for your account. Would you like to change it?"
-msgstr ""
+msgstr "您正在使用一个自动生成的密码。您希望更改它吗？"
 
 #: wp-admin/includes/user.php:559
 msgid "Yes, take me to my profile page"
@@ -15560,11 +15566,11 @@ msgstr "Robohash（自动生成）"
 
 #: wp-admin/options-discussion.php:325
 msgid "Initials (Generated)"
-msgstr ""
+msgstr "初始值（自动生成的）"
 
 #: wp-admin/options-discussion.php:326
 msgid "Color (Generated)"
-msgstr ""
+msgstr "颜色（自动生成的）"
 
 #: wp-admin/options-general.php:20
 msgid "General Settings"
@@ -15894,11 +15900,11 @@ msgstr "XML-RPC 服务器已禁用"
 #: wp-admin/options-general.php:673
 #: wp-admin/options-general.php:677
 msgid "Enable Link Manager"
-msgstr ""
+msgstr "启用链接管理器"
 
 #: wp-admin/options-general.php:681
 msgid "Link Manager enabled"
-msgstr ""
+msgstr "链接管理器已启用"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:354
@@ -16674,11 +16680,11 @@ msgstr "对不起，您无权编辑此站点未被注册的选项。"
 #: wp-admin/options.php:315
 #, php-format
 msgid "The %1$s setting is unregistered. Unregistered settings are deprecated. See <a href=\"%2$s\">documentation on the Settings API</a>."
-msgstr ""
+msgstr "%1$s 设置尚未被注册。未注册的设置已被废弃。请参阅<a href=\"%2$s\">设置 API 文档</a>。"
 
 #: wp-admin/options.php:317
 msgid "https://developer.wordpress.org/plugins/settings/settings-api/"
-msgstr ""
+msgstr "https://developer.wordpress.org/plugins/settings/settings-api/"
 
 #: wp-admin/options.php:345
 msgid "Settings save failed."
@@ -16841,7 +16847,7 @@ msgstr "添加插件"
 #: wp-admin/plugin-install.php:97
 #, php-format
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by developers all over the world. All plugins in the <a href=\"%s\">WordPress Plugin Directory</a> are compatible with the license WordPress uses."
-msgstr ""
+msgstr "插件可以通过注入 ClassicPress 来扩展其功能。插件是由与 ClassicPress 核心独立的来自全球的开发者开发的。所有在 <a href=\"%s\">WordPress 插件目录</a>中的插件都和 WordPress 的许可证相兼容。"
 
 #: wp-admin/plugin-install.php:100
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -16860,7 +16866,7 @@ msgstr "添加插件"
 
 #: wp-admin/plugin-install.php:109
 msgid "If you know what you are looking for, Search is your best bet. The Search screen has options to search the WordPress Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr ""
+msgstr "如果您知道你在寻找什么，搜索是您最好的朋友。可按照特定条目、作者或标签来搜索 WordPress 插件目录。您也可以通过选择热门标签来搜索目录。标签的字体越大，意味着越多插件已被标记为该标签。"
 
 #: wp-admin/plugin-install.php:110
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links above the plugins list. These sections rotate regularly."
@@ -17003,7 +17009,7 @@ msgstr "搜索已安装的插件将搜索其名称、描述或作者。"
 #: wp-admin/plugins.php:549
 #, php-format
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "如果您希望有更多插件可供选择，请单击「添加插件」按钮，这样您就可以从 <a href=\"%s\">WordPress 插件目录</a>浏览或搜索新的插件。在 WordPress 插件目录中的插件是由第三方设计与编写的，并且与 WordPress 所使用的许可证兼容。还有，它们都是免费的！"
 
 #: wp-admin/plugins.php:557
 msgid "Troubleshooting"
@@ -17483,11 +17489,11 @@ msgstr "好样的！您已经完成了这一步的安装。ClassicPress 已经�
 #: wp-admin/setup-config.php:534
 #, php-format
 msgid "The %1$s file has been created with open permissions. See <a href=\"%2$s\">Working with wp-config.php file</a> for more information."
-msgstr ""
+msgstr "已经创建了具有开放权限的 %1$s 文件。请参阅<a href=\"%2$s\">配置 wp-config.php 文件</a>来了解更多信息。"
 
 #: wp-admin/setup-config.php:536
 msgid "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
 
 #: wp-admin/site-health-info.php:23
 #: wp-admin/site-health.php:226
@@ -17790,13 +17796,13 @@ msgstr "正在安装... 请稍候。"
 
 #: wp-admin/theme-install.php:82
 msgid "ratings"
-msgstr ""
+msgstr "评分"
 
 #. translators: %s: Theme Directory URL.
 #: wp-admin/theme-install.php:118
 #, php-format
 msgid "You can find additional themes for your site by using the Theme Browser/Installer on this screen, which will display themes from the <a href=\"%s\">WordPress Theme Directory</a>. These themes are designed and developed by third parties, are available free of charge, and are compatible with the license WordPress uses."
-msgstr ""
+msgstr "您可以在此屏幕上的主题安装器为您的站点找到来自于 <a href=\"%s\">WordPress 主题目录</a>中的主题。这些主题由第三方所设计，免费使用，并且与 WordPress 所使用的许可证兼容。"
 
 #: wp-admin/theme-install.php:121
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter."
@@ -17848,7 +17854,7 @@ msgstr "热门"
 
 #: wp-admin/theme-install.php:236
 msgid "Search Themes..."
-msgstr ""
+msgstr "搜索主题……"
 
 #: wp-admin/theme-install.php:242
 #: wp-admin/theme-install.php:264
@@ -17908,7 +17914,7 @@ msgstr "主题"
 
 #: wp-admin/themes.php:132
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your ClassicPress installation, themes are designed and developed by third parties."
-msgstr ""
+msgstr "此屏幕用于管理您已安装的主题。除了包含在您的 ClassicPress 安装中的默认主题之外，主题是由第三方设计和开发的。"
 
 #: wp-admin/themes.php:134
 msgid "Hover or tap to see Activate and Live Preview buttons"
@@ -17938,7 +17944,7 @@ msgstr "在多站点上安装主题只能从网络管理界面完成。"
 #: wp-admin/themes.php:156
 #, php-format
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">WordPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "如果您希望有更多主题可供选择，请单击「添加主题」按钮，这样您就可以从 <a href=\"%s\">WordPress 主题目录</a>浏览或搜索新的主题。在 WordPress 主题目录中的主题是由第三方设计与编写的，并且与 WordPress 所使用的许可证兼容。还有，它们都是免费的！"
 
 #: wp-admin/themes.php:164
 msgid "Adding Themes"
@@ -18105,19 +18111,19 @@ msgstr "安装父主题"
 
 #: wp-admin/themes.php:917
 msgid "There is a new version of this theme available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "该主题有一个新版本可用，但它不适用于您的 ClassicPress 和 PHP 版本。"
 
 #: wp-admin/themes.php:953
 msgid "There is a new version of this theme available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "该主题有一个新版本可用，但它不适用于您的 ClassicPress 版本。"
 
 #: wp-admin/themes.php:966
 msgid "There is a new version of this theme available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "该主题有一个新版本可用，但它不适用于您的 PHP 版本。"
 
 #: wp-admin/themes.php:1016
 msgid "This is a child theme of:"
-msgstr ""
+msgstr "这是一个子主题，父主题为："
 
 #: wp-admin/themes.php:1019
 msgid "Tags:"
@@ -18172,19 +18178,19 @@ msgstr "立即重新安装"
 #: wp-admin/update-core.php:93
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> 需要 PHP %3$s 或更高版本以及 MySQL 版本 %4$s 或更高版本。您正在运行 PHP 版本 %5$s 和 MySQL 版本 %6$s。"
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required PHP version number, 4: Current PHP version number
 #: wp-admin/update-core.php:96
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> 需要 PHP %3$s 或更高版本。您正在运行版本 %4$s。"
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number
 #: wp-admin/update-core.php:99
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "无法安装更新，因为 <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> 需要 MySQL %3$s 或更高版本。您正在运行版本 %4$s。"
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number including locale if necessary
 #: wp-admin/update-core.php:101
@@ -18282,7 +18288,7 @@ msgstr "以下插件有可用的新版本。请检查您想要更新的版本，
 #: wp-admin/update-core.php:360
 #, php-format
 msgid "Potentially compatible with ClassicPress %1$s."
-msgstr ""
+msgstr "有可能与 ClassicPress %1$s 兼容。"
 
 #: wp-admin/update-core.php:352
 #: wp-admin/update-core.php:355
@@ -18700,7 +18706,7 @@ msgstr "点击项目将显示附件详情对话框，允许您预览媒体并快
 
 #: wp-admin/upload.php:169
 msgid "Use the arrow buttons at the top of the dialog, the left and right arrow keys on your keyboard, or swipe left and right on a touch device to navigate between media items."
-msgstr ""
+msgstr "使用对话框顶部的箭头按钮，键盘上的左箭头和右箭头键， 或在触摸设备上向左和向右滑动以在媒体项目之间导航。"
 
 #: wp-admin/upload.php:170
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
@@ -18765,7 +18771,7 @@ msgstr "附件预览"
 
 #: wp-admin/upload.php:551
 msgid "Media Navigation"
-msgstr ""
+msgstr "媒体导航"
 
 #: wp-admin/upload.php:582
 msgid "Uploaded on:"
@@ -18999,7 +19005,7 @@ msgstr "公开显示名称为"
 
 #: wp-admin/user-edit.php:557
 msgid "User Taxonomies"
-msgstr ""
+msgstr "用户分类"
 
 #: wp-admin/user-edit.php:617
 msgid "Contact Info"

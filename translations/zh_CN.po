@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-16 17:43\n"
+"PO-Revision-Date: 2025-08-30 05:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1712,7 +1712,7 @@ msgstr "按回车键以打开此分区"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr ""
+msgstr "小工具是一些可以放置于由主题被配置为接受小工具的部分（俗称侧边栏）中的独立的内容模块。"
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
@@ -5196,7 +5196,7 @@ msgstr "了解更多。"
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr ""
+msgstr "您可以在设置中将<a href=\"%s\">区块兼容性</a>设置为「开启」并再次返回「疑难解答」来重置这个列表。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
@@ -6917,7 +6917,7 @@ msgstr "%1$s 只接受一个非空的路径字符串，已接收 %2$s。"
 #: wp-includes/functions.php:8663
 #, php-format
 msgid "The %s key must be a string without spaces."
-msgstr ""
+msgstr "%s 键必须是一个没有空格的字符串。"
 
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
@@ -8110,7 +8110,7 @@ msgstr "作为应用程序图标"
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5737
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
-msgstr ""
+msgstr "一张图像不能被同时标记为需要懒加载和高优先级。"
 
 #: wp-includes/media.php:3078
 msgid "Genre"
@@ -9003,7 +9003,7 @@ msgstr "首页"
 
 #: wp-includes/post-template.php:1778
 msgid "Invalid password."
-msgstr ""
+msgstr "密码无效。"
 
 #: wp-includes/post-template.php:1785
 msgid "This content is password protected. To view it please enter your password below:"
@@ -13763,7 +13763,7 @@ msgstr "[%s] 密码重置"
 
 #: wp-includes/user.php:3278
 msgid "<strong>Error:</strong> The email could not be sent. The site may not be correctly configured to send emails."
-msgstr ""
+msgstr "<strong>错误：</strong>无法发送电子邮件。站点可能没有为发送电子邮件正确配置。"
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> Please enter a username."
@@ -14188,7 +14188,7 @@ msgstr "是否显示项目日期？"
 
 #: wp-includes/widgets.php:2087
 msgid "2 items"
-msgstr ""
+msgstr "2 个项目"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
@@ -14204,7 +14204,7 @@ msgstr "末页"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
-msgstr ""
+msgstr "编辑详情"
 
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303
@@ -14231,7 +14231,7 @@ msgstr "类别更新成功！"
 
 #: wp-includes/widgets.php:2303
 msgid "Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "如果图像纯粹用作装饰，则留空。"
 
 #: wp-includes/widgets.php:2330
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
@@ -14451,7 +14451,7 @@ msgstr "添加媒体"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:235
 msgid "Add to widget"
-msgstr ""
+msgstr "添加至小工具"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:236
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
@@ -14471,7 +14471,7 @@ msgstr "无法找到该音频文件。请检查您的<a href=\"%s\">媒体库</a
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:245
 msgid "Audio Details"
-msgstr ""
+msgstr "音频详情"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:247
 #, php-format
@@ -14490,14 +14490,14 @@ msgstr "看起来此文件类型不正确。请链接到一个音频文件。"
 #: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #: wp-includes/widgets/class-wp-widget-media-video.php:303
 msgid "No file exists at that URL"
-msgstr ""
+msgstr "在该 URL 上没有文件"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:257
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
 #: wp-includes/widgets/class-wp-widget-media-image.php:507
 #: wp-includes/widgets/class-wp-widget-media-video.php:308
 msgid "media items"
-msgstr ""
+msgstr "媒体项目"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:294
 #: wp-includes/widgets/class-wp-widget-media-video.php:345
@@ -14540,11 +14540,11 @@ msgstr "编辑相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:274
 msgid "Create Gallery"
-msgstr ""
+msgstr "创建相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
-msgstr ""
+msgstr "取消相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:276
 #: wp-includes/widgets/class-wp-widget-media-image.php:428
@@ -14555,7 +14555,7 @@ msgstr "添加图像"
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:277
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:321
 msgid "Add to Gallery"
-msgstr ""
+msgstr "添加至相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
 #: wp-includes/widgets/class-wp-widget-media-image.php:511
@@ -14606,7 +14606,7 @@ msgstr "0"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
@@ -14614,27 +14614,27 @@ msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:343
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:344
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:345
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:346
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:347
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -14664,7 +14664,7 @@ msgstr "编辑图像"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:499
 msgid "Image Details"
-msgstr ""
+msgstr "图像详情"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:501
 #: wp-includes/widgets/class-wp-widget-media-video.php:297
@@ -14674,11 +14674,11 @@ msgstr "看起来此文件类型不正确。请链接到一个合适的文件。
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
 msgid "The current image has no alternative text. The file name is: "
-msgstr ""
+msgstr "当前图像没有替代文本。文件名为："
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 msgid "No file exists at the URL provided."
-msgstr ""
+msgstr "在提供的 URL 上没有文件。"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:515
 msgid "Upload failed"
@@ -14750,11 +14750,11 @@ msgstr "无法找到该文件。请检查您的<a href=\"%s\">媒体库</a>并�
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:298
 msgid "Add Subtitles"
-msgstr ""
+msgstr "添加字幕"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:301
 msgid "Video Details"
-msgstr ""
+msgstr "视频详情"
 
 #: wp-includes/widgets/class-wp-widget-media.php:138
 msgid "Attachment post ID"

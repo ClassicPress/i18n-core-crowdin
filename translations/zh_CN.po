@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-02-23 21:20\n"
+"PO-Revision-Date: 2025-06-07 13:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -634,7 +634,7 @@ msgstr "%1$s %2$s"
 #: wp-admin/includes/class-wp-posts-list-table.php:987
 #: wp-includes/class-wp-editor.php:1640
 msgid "Y/m/d"
-msgstr "年/月/日"
+msgstr "Y/m/d"
 
 #. translators: field name in comment form
 #: wp-admin/comment.php:213 wp-includes/comment-template.php:1082

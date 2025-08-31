@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-02-26 05:10\n"
+"PO-Revision-Date: 2025-03-14 22:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -302,7 +302,7 @@ msgstr ""
 #. name
 #: wp-admin/admin-header.php:50 wp-login.php:62
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #: wp-admin/admin-header.php:230
 msgid "Main content"
@@ -8873,7 +8873,7 @@ msgstr ""
 #: wp-admin/includes/import.php:195
 #: wp-includes/widgets/class-wp-widget-rss.php:30
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: wp-admin/includes/import.php:196
 msgid "Import posts from an RSS feed."
@@ -12479,7 +12479,7 @@ msgstr "XML rozšíření jazyka PHP není k dispozici. Obraťte se na svého po
 #. translators: 1: error message, 2: line number
 #: wp-admin/link-parse-opml.php:88 wp-includes/atomlib.php:175
 msgid "XML Error: %1$s at line %2$s"
-msgstr "Chyba XML: %1$s (řádek %2$s)"
+msgstr "Chyba XML: %1$s na řádku %2$s"
 
 #: wp-admin/link.php:104
 msgid "Edit Link"
@@ -18259,7 +18259,7 @@ msgstr "Editor"
 #: wp-includes/class-wp-editor.php:184 wp-includes/class-wp-editor.php:1262
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "HTML"
+msgstr "Text"
 
 #: wp-includes/class-wp-editor.php:1002
 msgid "New document"
@@ -21036,7 +21036,7 @@ msgstr "&#8220;"
 #: wp-includes/formatting.php:103
 msgctxt "apostrophe"
 msgid "&#8217;"
-msgstr "&#8216;"
+msgstr "&#8217;"
 
 #. translators: prime, for example in 9' (nine feet)
 #: wp-includes/formatting.php:106
@@ -21060,7 +21060,7 @@ msgstr "&#8218;"
 #: wp-includes/formatting.php:113
 msgctxt "closing curly single quote"
 msgid "&#8217;"
-msgstr "&#8216;"
+msgstr "&#8217;"
 
 #. translators: en dash
 #: wp-includes/formatting.php:116
@@ -27405,7 +27405,7 @@ msgstr "Libovolný text."
 
 #: wp-includes/widgets/class-wp-widget-text.php:42
 msgid "Text"
-msgstr "HTML"
+msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -27788,7 +27788,7 @@ msgstr ""
 
 #: wp-login.php:995
 msgid "<strong>You have successfully updated ClassicPress!</strong> Please log back in to see what&#8217;s new."
-msgstr ""
+msgstr "<strong>Úspěšně jste aktualizovali ClassicPress!</strong> Přihlaste se prosím znovu, abyste viděli, co je nového."
 
 #: wp-mail.php:15 wp-mail.php:20
 msgid "This action has been disabled by the administrator."

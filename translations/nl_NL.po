@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-08-22 16:31\n"
+"PO-Revision-Date: 2025-09-03 21:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1718,7 +1718,7 @@ msgstr "Druk op Return of Enter om deze sectie te openen"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr "Widgets zijn onafhankelijke gedeeltes met inhoud die in de widgetruimtes van je thema geplaatst kunnen worden."
+msgstr "Widgets zijn onafhankelijke secties met inhoud die in de widget gebieden van je thema geplaatst kunnen worden (gewoonlijk zijbalken genoemd)."
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
@@ -3688,7 +3688,7 @@ msgstr "Uitgelichte afbeelding instellen"
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "page"
 msgid "Set featured image"
-msgstr "Uitgelichte afbeelding instellen"
+msgstr "Uitgelichte afbeelding kiezen"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "post"
@@ -6180,7 +6180,7 @@ msgstr "Wijzig thema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Wijzigen"
+msgstr "Veranderen"
 
 #. translators: %s: Themes panel title in the Customizer.
 #: wp-includes/customize/class-wp-customize-themes-panel.php:81
@@ -9277,7 +9277,7 @@ msgstr[1] "Prullenbak <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:978
 msgctxt "request status"
 msgid "Pending"
-msgstr "Wachtend"
+msgstr "In behandeling"
 
 #: wp-includes/post.php:406
 #: wp-includes/post.php:979
@@ -14277,7 +14277,7 @@ msgstr "Taxonomie succesvol geüpdatet!"
 
 #: wp-includes/widgets.php:2303
 msgid "Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "Laat leeg als de afbeelding puur decoratief is."
 
 #: wp-includes/widgets.php:2330
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
@@ -14537,14 +14537,14 @@ msgstr "Het lijkt erop dat dit niet het juiste soort bestand is. Link in plaats 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #: wp-includes/widgets/class-wp-widget-media-video.php:303
 msgid "No file exists at that URL"
-msgstr ""
+msgstr "Er bestaat geen bestand op deze URL"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:257
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
 #: wp-includes/widgets/class-wp-widget-media-image.php:507
 #: wp-includes/widgets/class-wp-widget-media-video.php:308
 msgid "media items"
-msgstr ""
+msgstr "media items"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:294
 #: wp-includes/widgets/class-wp-widget-media-video.php:345
@@ -14591,7 +14591,7 @@ msgstr "Galerij aanmaken"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
-msgstr ""
+msgstr "Annuleer Galerij"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:276
 #: wp-includes/widgets/class-wp-widget-media-image.php:428
@@ -14653,7 +14653,7 @@ msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
@@ -14661,27 +14661,27 @@ msgstr "3"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:343
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:344
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:345
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:346
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:347
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -14721,11 +14721,11 @@ msgstr "Het lijkt erop dat dit niet het juiste soort bestand is. Link in plaats 
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
 msgid "The current image has no alternative text. The file name is: "
-msgstr ""
+msgstr "De huidige afbeelding heeft geen alternatieve tekst. De bestandsnaam is: "
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 msgid "No file exists at the URL provided."
-msgstr ""
+msgstr "Er bestaat geen bestand op de opgegeven URL."
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:515
 msgid "Upload failed"

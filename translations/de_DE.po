@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-02-23 21:20\n"
+"PO-Revision-Date: 2025-09-30 10:05\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -197,16 +197,16 @@ msgstr "Weitere Informationen findest du in den <a href=\"%s\">Veröffentlichung
 #: wp-admin/about.php:213
 msgid "<strong>WordPress version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed %2$s bugs."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>Version %1$s</strong> behob %2$s Fehler."
+msgstr[1] "<strong>Version %1$s</strong> behob %2$s Fehler."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:141 wp-admin/about.php:177 wp-admin/about.php:231
 #: wp-admin/about.php:249
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>Version %1$s</strong> behob Sicherheitsprobleme und %2$s Fehler."
+msgstr[1] "<strong>Version %1$s</strong> behob Sicherheitsprobleme und %2$s Fehler."
 
 #: wp-admin/about.php:272
 msgid "Maintenance Release"
@@ -284,7 +284,7 @@ msgstr "Benutzer-Dashboard: %s"
 #. translators: Admin screen title. 1: Admin screen name
 #: wp-admin/admin-header.php:47
 msgid "%1$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &#8212; ClassicPress"
 
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site
 #. name
@@ -426,7 +426,7 @@ msgstr "Du kannst einen Kommentartext auch bearbeiten, um zum Beispiel einen Rec
 
 #: wp-admin/comment.php:46
 msgid "You can also moderate the comment from this screen using the Status box, where you can also change the timestamp of the comment."
-msgstr ""
+msgstr "Sie können den Kommentar von dieser Ansicht aus auch mit dem Statusfeld moderieren, wo Sie auch den Zeitstempel des Kommentars ändern können."
 
 #: wp-admin/comment.php:50 wp-admin/custom-background.php:96
 #: wp-admin/custom-header.php:122 wp-admin/edit-comments.php:184
@@ -477,7 +477,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Administration_Screens#Comments\">
 #: wp-admin/upload.php:67 wp-admin/upload.php:213 wp-admin/user-edit.php:62
 #: wp-admin/user-new.php:221 wp-admin/users.php:69 wp-admin/widgets.php:77
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support Forums</a>"
-msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support-Foren</a>"
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Support Forum</a>"
 
 #: wp-admin/comment.php:61 wp-admin/comment.php:255
 #: wp-admin/edit-comments.php:234 wp-includes/class-wp-xmlrpc-server.php:3312
@@ -699,12 +699,12 @@ msgstr "Unbekannte Aktion."
 #. translators: %s: https://www.classicpress.net/contributors/
 #: wp-admin/credits.php:48
 msgid "ClassicPress is created by a <a href=\"%1$s\">worldwide team</a> of passionate individuals."
-msgstr "ClassicPress wird von einem <a href=\"%1$s\">weltweiten Team</a> aus leidenschaftlichen Menschen gemacht."
+msgstr "ClassicPress wird von einem <a href=\"%1$s\">weltweiten Team</a> von leidenschaftlichen Menschen geschaffen."
 
 #. translators: %s: https://www.classicpress.net/get-involved/
 #: wp-admin/credits.php:54
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "Sind Sie daran interessiert, bei der Entwicklung mitzuhelfen? <a href=\"%s\">Nehmen Sie an ClassicPress</a> teil."
 
 #: wp-admin/custom-background.php:65 wp-admin/menu.php:177
 #: wp-includes/admin-bar.php:839
@@ -1961,7 +1961,7 @@ msgstr "Web-Adresse"
 
 #: wp-admin/edit-link-form.php:111
 msgid "Example: <code>https://www.classicpress.net</code> &#8212; don&#8217;t forget the <code>https://</code>"
-msgstr ""
+msgstr "Beispiel: <code>https://www.classicpress.net</code> &#8212; don&#8217;t vergessen die <code>https://</code>"
 
 #: wp-admin/edit-link-form.php:116 wp-admin/edit-tag-form.php:175
 #: wp-admin/edit-tags.php:449
@@ -2260,7 +2260,7 @@ msgstr "<strong>Löschen</strong> verschiebt einen Beitrag in den Papierkorb, wo
 
 #: wp-admin/edit.php:215
 msgid "<strong>Preview</strong> will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
-msgstr ""
+msgstr "<strong>Vorschau</strong> zeigt Ihnen, wie Ihr Beitragsentwurf aussieht, wenn Sie ihn veröffentlichen und macht Ihren Beitrag live sichtbar. Welcher Link verfügbar ist, hängt vom Status Ihres Beitrags&#8217;s ab."
 
 #: wp-admin/edit.php:220 wp-admin/includes/class-wp-list-table.php:436
 msgid "Bulk Actions"
@@ -2454,7 +2454,7 @@ msgstr "Ende:"
 #: wp-admin/export.php:205 wp-admin/export.php:247
 #: wp-admin/includes/meta-boxes.php:84
 msgid "Status:"
-msgstr ""
+msgstr "Statusmitteilung:"
 
 #: wp-admin/export.php:216 wp-includes/post-template.php:1184
 #: wp-includes/theme-compat/sidebar.php:89
@@ -2480,38 +2480,38 @@ msgstr "Von Zeit zu Zeit kann deine ClassicPress-Website Daten an ClassicPress.n
 
 #: wp-admin/freedoms.php:51
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, and how we use it, please visit <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr ""
+msgstr "Wir nehmen Datenschutz und Transparenz sehr ernst. Um mehr darüber zu erfahren, welche Daten wir sammeln und wie wir sie verwenden, besuchen Sie bitte <a href=\"%s\">ClassicPress Datenschutzerklärung</a>."
 
 #: wp-admin/freedoms.php:56
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPress ist Freie und Open-Source-Software, die von einer verteilten Community von freiwilligen Entwicklern aus der ganzen Welt entwickelt wurde. ClassicPress verfügt über einige fantastische, die Sicht auf die Welt verändernde Nutzungsrechte mit der <a href=\"%s\">-Lizenz</a>, der GPL."
 
 #: wp-admin/freedoms.php:59
 msgid "You have the freedom to run the program, for any purpose. (freedom 0)"
-msgstr ""
+msgstr "Sie haben die Freiheit, das Programm für jeden Zweck auszuführen. (Freiheit 0)"
 
 #: wp-admin/freedoms.php:60
 msgid "You have access to the source code, the freedom to study how the program works, and the freedom to change it to make it do what you wish. (freedom 1)"
-msgstr ""
+msgstr "Sie haben Zugriff auf den Quellcode, die Freiheit zu untersuchen, wie das Programm funktioniert und die Freiheit, es zu ändern, damit es tut, was Sie wollen. (Freiheit 1)"
 
 #: wp-admin/freedoms.php:61
 msgid "You have the freedom to redistribute copies of the original program so you can help your neighbor. (freedom 2)"
-msgstr ""
+msgstr "Sie haben die Freiheit, Kopien des ursprünglichen Programms weiterzuverteilen, um Ihrem Nachbarn zu helfen. (Freiheit 2)"
 
 #: wp-admin/freedoms.php:62
 msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. (freedom 3)"
-msgstr ""
+msgstr "Sie haben die Freiheit, Kopien Ihrer veränderten Versionen an andere weiterzugeben. Auf diese Weise können Sie der gesamten Community die Chance geben, von Ihren Änderungen zu profitieren. (Freiheit 3)"
 
 #: wp-admin/freedoms.php:67 wp-admin/includes/plugin-install.php:239
 #: wp-admin/includes/plugin-install.php:654 wp-admin/plugin-install.php:82
 #: wp-admin/plugins.php:418
 msgid "https://wordpress.org/plugins/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/"
 
 #: wp-admin/freedoms.php:68 wp-admin/theme-install.php:92
 #: wp-admin/themes.php:92
 msgid "https://wordpress.org/themes/"
-msgstr ""
+msgstr "https://wordpress.org/themes/"
 
 #: wp-admin/freedoms.php:70
 msgid "Every plugin and theme in ClassicPress.net&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to ask them if it&#8217;s GPL first. If they don&#8217;t respect the ClassicPress license, we don&#8217;t recommend them."
@@ -3622,7 +3622,7 @@ msgstr "[%1$s] DRINGEND: Deine Website ist möglicherweise wegen einer fehlerhaf
 
 #: wp-admin/includes/class-wp-automatic-updater.php:636
 msgid "Hello! Your site at %1$s has been updated automatically to ClassicPress %2$s."
-msgstr ""
+msgstr "Hallo! Ihre Seite bei %1$s wurde automatisch auf ClassicPress %2$s aktualisiert."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:639
 msgid "No further action is needed on your part."
@@ -3887,7 +3887,7 @@ msgstr "Alle Kommentararten"
 #: wp-admin/includes/class-wp-comments-list-table.php:348
 #: wp-admin/includes/class-wp-posts-list-table.php:1607
 msgid "Pings"
-msgstr ""
+msgstr "Pings"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:362
 #: wp-admin/includes/class-wp-links-list-table.php:113
@@ -4588,7 +4588,7 @@ msgstr "Du scheinst zur Zeit keine Themes verfügbar zu haben."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:245
 msgid "Theme"
-msgstr ""
+msgstr "Theme"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:287
 msgctxt "themes"
@@ -4808,7 +4808,7 @@ msgstr "Es wurden keine Plugins gefunden. Versuche es bitte mit einem anderen Su
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:414
 msgctxt "Plugin installer group title"
 msgid "Performance"
-msgstr ""
+msgstr "Leistung"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:415
 msgctxt "Plugin installer group title"
@@ -4929,7 +4929,7 @@ msgstr "Installierte Plugins durchsuchen..."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:384
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:412
 msgctxt "plugins"
@@ -5249,7 +5249,7 @@ msgstr "Spalten"
 #: wp-admin/includes/class-wp-screen.php:1105 wp-admin/includes/theme.php:265
 #: wp-admin/includes/theme.php:295 wp-admin/index.php:61
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: wp-admin/includes/class-wp-screen.php:1111
 msgid "%s column"
@@ -5382,7 +5382,7 @@ msgstr "Installieren"
 #: wp-admin/includes/class-wp-themes-list-table.php:230
 #: wp-admin/includes/plugin-install.php:615
 msgid "Version:"
-msgstr ""
+msgstr "Version:"
 
 #: wp-admin/includes/class-wp-themes-list-table.php:94
 msgid "You only have one theme enabled for this site right now. Visit the Network Admin to <a href=\"%1$s\">enable</a> or <a href=\"%2$s\">install</a> more themes."
@@ -5486,7 +5486,7 @@ msgstr "Abschalten des Wartungsmodus&#160;&hellip;"
 #: wp-admin/includes/class-wp-users-list-table.php:200
 #: wp-admin/includes/class-wp-users-list-table.php:214
 msgid "%1$s <span class=\"count\">(%2$s)</span>"
-msgstr ""
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:212
 msgid "No role"
@@ -7276,15 +7276,15 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:464
 msgid "Mariehamn"
-msgstr ""
+msgstr "Mariehamn"
 
 #: wp-admin/includes/continents-cities.php:465
 msgid "Minsk"
-msgstr ""
+msgstr "Minsk"
 
 #: wp-admin/includes/continents-cities.php:466
 msgid "Monaco"
-msgstr ""
+msgstr "Monaco"
 
 #: wp-admin/includes/continents-cities.php:467
 msgid "Moscow"
@@ -7292,11 +7292,11 @@ msgstr "Moskau"
 
 #: wp-admin/includes/continents-cities.php:469
 msgid "Oslo"
-msgstr ""
+msgstr "Oslo"
 
 #: wp-admin/includes/continents-cities.php:470
 msgid "Paris"
-msgstr ""
+msgstr "Paris"
 
 #: wp-admin/includes/continents-cities.php:471
 msgid "Podgorica"
@@ -7308,7 +7308,7 @@ msgstr "Prag"
 
 #: wp-admin/includes/continents-cities.php:473
 msgid "Riga"
-msgstr ""
+msgstr "Riga"
 
 #: wp-admin/includes/continents-cities.php:474
 msgid "Rome"
@@ -7316,15 +7316,15 @@ msgstr "Rom"
 
 #: wp-admin/includes/continents-cities.php:475
 msgid "Samara"
-msgstr ""
+msgstr "Samara"
 
 #: wp-admin/includes/continents-cities.php:476
 msgid "San Marino"
-msgstr ""
+msgstr "San Marino"
 
 #: wp-admin/includes/continents-cities.php:477
 msgid "Sarajevo"
-msgstr ""
+msgstr "Sarajevo"
 
 #: wp-admin/includes/continents-cities.php:478
 msgid "Saratov"
@@ -7332,23 +7332,23 @@ msgstr "Saratow"
 
 #: wp-admin/includes/continents-cities.php:479
 msgid "Simferopol"
-msgstr ""
+msgstr "Simferopol"
 
 #: wp-admin/includes/continents-cities.php:480
 msgid "Skopje"
-msgstr ""
+msgstr "Skopje"
 
 #: wp-admin/includes/continents-cities.php:481
 msgid "Sofia"
-msgstr ""
+msgstr "Sofia"
 
 #: wp-admin/includes/continents-cities.php:482
 msgid "Stockholm"
-msgstr ""
+msgstr "Stockholm"
 
 #: wp-admin/includes/continents-cities.php:483
 msgid "Tallinn"
-msgstr ""
+msgstr "Tallinn"
 
 #: wp-admin/includes/continents-cities.php:484
 msgid "Tirane"
@@ -7368,7 +7368,7 @@ msgstr "Uschhorod"
 
 #: wp-admin/includes/continents-cities.php:488
 msgid "Vaduz"
-msgstr ""
+msgstr "Vaduz"
 
 #: wp-admin/includes/continents-cities.php:489
 msgid "Vatican"
@@ -7380,7 +7380,7 @@ msgstr "Wien"
 
 #: wp-admin/includes/continents-cities.php:491
 msgid "Vilnius"
-msgstr ""
+msgstr "Vilnius"
 
 #: wp-admin/includes/continents-cities.php:492
 msgid "Volgograd"
@@ -7392,7 +7392,7 @@ msgstr "Warschau"
 
 #: wp-admin/includes/continents-cities.php:494
 msgid "Zagreb"
-msgstr ""
+msgstr "Zagreb"
 
 #: wp-admin/includes/continents-cities.php:495
 msgid "Zaporozhye"
@@ -7460,7 +7460,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:513
 msgid "Auckland"
-msgstr ""
+msgstr "Auckland"
 
 #: wp-admin/includes/continents-cities.php:514
 msgid "Bougainville"
@@ -7516,7 +7516,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:527
 msgid "Honolulu"
-msgstr ""
+msgstr "Honolulu"
 
 #: wp-admin/includes/continents-cities.php:528
 msgid "Johnston"
@@ -7596,11 +7596,11 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:547
 msgid "Samoa"
-msgstr ""
+msgstr "Samoa"
 
 #: wp-admin/includes/continents-cities.php:548
 msgid "Tahiti"
-msgstr ""
+msgstr "Tahiti"
 
 #: wp-admin/includes/continents-cities.php:549
 msgid "Tarawa"
@@ -7656,7 +7656,7 @@ msgstr "Deine letzten Entwürfe"
 
 #: wp-admin/includes/dashboard.php:56
 msgid "ClassicPress News"
-msgstr ""
+msgstr "Neuigkeiten zu ClassicPress"
 
 #: wp-admin/includes/dashboard.php:59
 msgid "ClassicPress Petitions"
@@ -7856,7 +7856,7 @@ msgstr "Unbekannter Feed"
 #. translators: link to ClassicPress blog
 #: wp-admin/includes/dashboard.php:1088
 msgid "You can always find the latest ClassicPress news on our <a href=\"%s\">official&nbsp;blog</a>."
-msgstr ""
+msgstr "Aktuelle Neuigkeiten zu ClassicPress finden Sie in unserem <a href=\"%s\" target=\"_blank\">offiziellen Blog </a>."
 
 #: wp-admin/includes/dashboard.php:1133
 msgid "ClassicPress Blog"
@@ -7900,7 +7900,7 @@ msgstr "Den Bereich für Browser-Warnungen ausblenden"
 
 #: wp-admin/includes/dashboard.php:1350
 msgid "Thank you for trying ClassicPress&nbsp;%s!"
-msgstr ""
+msgstr "Vielen Dank, dass Sie ClassicPress&nbsp;&nbsp;%s ausprobieren!"
 
 #: wp-admin/includes/dashboard.php:1352
 msgid "<strong>Join our growing community</strong> and help us build the platform <strong>you</strong> want to see!"
@@ -8050,11 +8050,11 @@ msgstr "Theme-Funktionen"
 
 #: wp-admin/includes/file.php:17
 msgid "Theme Header"
-msgstr ""
+msgstr "Theme-Header"
 
 #: wp-admin/includes/file.php:18
 msgid "Theme Footer"
-msgstr ""
+msgstr "Theme-Footer"
 
 #: wp-admin/includes/file.php:19 wp-admin/widgets.php:284
 #: wp-includes/widgets.php:179
@@ -8345,15 +8345,15 @@ msgstr "<strong>FEHLER:</strong> Bei der Verbindung zum Server trat ein Fehler a
 
 #: wp-admin/includes/file.php:1656
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #: wp-admin/includes/file.php:1658
 msgid "FTPS (SSL)"
-msgstr ""
+msgstr "FTPS (SSL)"
 
 #: wp-admin/includes/file.php:1660
 msgid "SSH2"
-msgstr ""
+msgstr "SSH2"
 
 #: wp-admin/includes/file.php:1686
 msgid "Connection Information"
@@ -8393,7 +8393,7 @@ msgstr "Falls du deine Zugangsdaten vergessen hast, solltest du bei deinem Provi
 
 #: wp-admin/includes/file.php:1708
 msgid "Hostname"
-msgstr ""
+msgstr "Hostname"
 
 #: wp-admin/includes/file.php:1709
 msgid "example: www.wordpress.org"
@@ -16807,7 +16807,7 @@ msgstr "Autoren können ihre eigenen Beiträge veröffentlichen und verwalten, u
 
 #: wp-admin/user-new.php:213
 msgid "Editors can publish posts, manage posts as well as manage other people&#8217;s posts, etc."
-msgstr "Redakteure können Beiträge und Seiten veröffentlichen und verwalten, und auch die Beiträge, Seiten, etc. von anderen Benutzern verwalten."
+msgstr "Redakteure können Beiträge veröffentlichen, Beiträge verwalten und andere Leute&#8217;s Beiträge verwalten usw."
 
 #: wp-admin/user-new.php:214
 msgid "Administrators have access to all the administration features."

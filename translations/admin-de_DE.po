@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 26\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-08-16 17:43\n"
+"PO-Revision-Date: 2025-11-19 23:54\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -19369,7 +19369,7 @@ msgstr "Autoren können ihre eigenen Beiträge veröffentlichen und verwalten, u
 
 #: wp-admin/user-new.php:293
 msgid "Editors can publish posts, manage posts as well as manage other people&#8217;s posts, etc."
-msgstr "Redakteure können Beiträge und Seiten veröffentlichen und verwalten, und auch die Beiträge, Seiten, etc. von anderen Benutzern verwalten."
+msgstr "Redakteure können Beiträge veröffentlichen, Beiträge verwalten und andere Leute&#8217;s Beiträge verwalten usw."
 
 #: wp-admin/user-new.php:294
 msgid "Administrators have access to all the administration features."

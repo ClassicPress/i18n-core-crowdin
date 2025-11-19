@@ -58,14 +58,16 @@ wp i18n make-pot ./ClassicPress/build ./admin-en_US.pot --ignore-domain --skip-a
 wp i18n make-pot ./ClassicPress/build ./admin-network-en_US.pot --ignore-domain --skip-audit --include="wp-admin/ms-*.php,wp-admin/my-sites.php,wp-admin/network.php,wp-admin/includes/class-wp-ms-*.php,wp-admin/includes/ms.php,wp-admin/includes/ms-*.php,wp-admin/network/,wp-includes/class-wp-network*.php,wp-includes/ms-*.php" --package-name="ClassicPress"
 wp i18n make-pot ./ClassicPress/build ./continents-cities-en_US.pot --ignore-domain --skip-audit --include="wp-admin/includes/continents-cities.php" --package-name="ClassicPress"
 
+year="$(date +%Y)"
+
 for pot in en_US.pot admin-en_US.pot admin-network-en_US.pot continents-cities-en_US.pot; do
 	# Prepend the Copyright notice to POT files
-	$SED_COMMAND -i '1s/^/# Copyright (C) 2024 ClassicPress\n/' ./"$pot"
+	$SED_COMMAND -i "1s/^/# Copyright (C) $year ClassicPress\n/" ./"$pot"
 	$SED_COMMAND -i '2s/^/# This file is distributed under the same license as the ClassicPress package.\n/' ./"$pot"
 	# Delete unused lines from POT files
 	$SED_COMMAND -i '7d;8d;13d' ./"$pot"
 	# Add forum link for bug reporting
-	$SED_COMMAND -ri 's|Report-Msgid-Bugs-To: |Report-Msgid-Bugs-To: https://forums.classicpress.net/c/team-discussions/internationalisation/42|' ./"$pot"
+	$SED_COMMAND -ri 's|Report-Msgid-Bugs-To: |Report-Msgid-Bugs-To: https://https://forums.classicpress.net/c/projects/localization/42|' ./"$pot"
 	# Update version number
 	$SED_COMMAND -ri "s|${WP_VERSION}|${CP_VERSION}|" ./"$pot"
 done

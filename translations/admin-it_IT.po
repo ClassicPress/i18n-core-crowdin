@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-11-19 18:03\n"
+"PO-Revision-Date: 2025-11-20 00:04\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1749,7 +1749,7 @@ msgstr "Ultima modifica il %1$s alle %2$s"
 #: wp-admin/edit-form-comment.php:37
 msgctxt "comment"
 msgid "Permalink:"
-msgstr ""
+msgstr "Permalink:"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:53
@@ -2820,7 +2820,7 @@ msgstr ""
 #: wp-admin/themes.php:361
 #: wp-admin/users.php:329
 msgid "Error:"
-msgstr ""
+msgstr "Errore:"
 
 #. translators: %s: Importer slug.
 #: wp-admin/import.php:67
@@ -5518,7 +5518,8 @@ msgstr "[%s] Aggiornamento in background completato"
 #: wp-admin/includes/class-wp-automatic-updater.php:1462
 msgid "UPDATE LOG\n"
 "=========="
-msgstr ""
+msgstr "UPDATE LOG\n"
+"=========="
 
 #. translators: 1: Error code, 2: Error message.
 #: wp-admin/includes/class-wp-automatic-updater.php:1497
@@ -5586,8 +5587,8 @@ msgstr[1] "<span class=\"count\">(%s)</span> Approvati"
 msgctxt "comments"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of comments.
 #: wp-admin/includes/class-wp-comments-list-table.php:277
@@ -7007,7 +7008,7 @@ msgstr "Prestazioni"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:451
 msgctxt "Plugin installer group title"
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:452
 msgctxt "Plugin installer group title"
@@ -7160,7 +7161,7 @@ msgstr "Cerca tra i plugin installati..."
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:472
 msgid "Plugin"
-msgstr ""
+msgstr "Plugin"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:477
 msgid "Automatic Updates"
@@ -7824,7 +7825,7 @@ msgstr "Questi siti web possono raccogliere dati su di te, usare cookie, integra
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:538
 msgid "Analytics"
-msgstr ""
+msgstr "Analytics"
 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:540
@@ -9681,7 +9682,7 @@ msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
 #: wp-admin/includes/class-wp-users-list-table.php:249
 #, php-format
 msgid "%1$s <span class=\"count\">(%2$s)</span>"
-msgstr ""
+msgstr "%1$s <span class=\"count\">(%2$s)</span>"
 
 #: wp-admin/includes/class-wp-users-list-table.php:246
 msgid "No role"
@@ -9729,7 +9730,7 @@ msgstr "Ruolo"
 #: wp-admin/includes/class-wp-users-list-table.php:474
 #: wp-admin/user-edit.php:484
 msgid "Super Admin"
-msgstr ""
+msgstr "Super Admin"
 
 #. translators: %s: Author's display name.
 #: wp-admin/includes/class-wp-users-list-table.php:516
@@ -10530,7 +10531,7 @@ msgstr "Il file caricato eccede la direttiva %s che è stata indicata nel modulo
 
 #: wp-admin/includes/file.php:877
 msgid "The uploaded file was only partially uploaded."
-msgstr ""
+msgstr "Il file è stato caricato solo parzialmente."
 
 #: wp-admin/includes/file.php:878
 msgid "No file was uploaded."
@@ -10653,15 +10654,15 @@ msgstr "<strong>Errore:</strong> impossibile collegarsi al server. Verifica che 
 
 #: wp-admin/includes/file.php:2400
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 #: wp-admin/includes/file.php:2403
 msgid "FTPS (SSL)"
-msgstr ""
+msgstr "FTPS (SSL)"
 
 #: wp-admin/includes/file.php:2406
 msgid "SSH2"
-msgstr ""
+msgstr "SSH2"
 
 #: wp-admin/includes/file.php:2432
 msgid "Connection Information"
@@ -10967,7 +10968,7 @@ msgstr "Il file allegato non è stato trovato."
 
 #: wp-admin/includes/import.php:186
 msgid "Blogger"
-msgstr ""
+msgstr "Blogger"
 
 #: wp-admin/includes/import.php:187
 msgid "Import posts, comments, and users from a Blogger blog."
@@ -10985,7 +10986,7 @@ msgstr "Converti le categorie esistenti in tag o tag in categorie, in modo selet
 
 #: wp-admin/includes/import.php:198
 msgid "LiveJournal"
-msgstr ""
+msgstr "LiveJournal"
 
 #: wp-admin/includes/import.php:199
 msgid "Import posts from LiveJournal using their API."
@@ -11017,7 +11018,7 @@ msgstr "Importa articoli da un feed RSS."
 
 #: wp-admin/includes/import.php:222
 msgid "Tumblr"
-msgstr ""
+msgstr "Tumblr"
 
 #: wp-admin/includes/import.php:223
 msgid "Import posts &amp; media from Tumblr using their API."
@@ -11067,7 +11068,7 @@ msgstr "\"%1$s\" di %2$s."
 #: wp-admin/includes/media.php:340
 #, php-format
 msgid "\"%s\"."
-msgstr ""
+msgstr "\"%s\"."
 
 #. translators: 1: Audio album title, 2: Artist name.
 #: wp-admin/includes/media.php:346
@@ -11131,7 +11132,7 @@ msgstr "URL dell'allegato"
 
 #: wp-admin/includes/media.php:1428
 msgid "Link URL"
-msgstr ""
+msgstr "Link URL"
 
 #: wp-admin/includes/media.php:1431
 #: wp-admin/includes/media.php:2956
@@ -11339,7 +11340,7 @@ msgstr "Tutti i tipi"
 #: wp-admin/includes/nav-menu.php:462
 #: wp-admin/includes/nav-menu.php:764
 msgid "&laquo;"
-msgstr ""
+msgstr "&laquo;"
 
 #: wp-admin/includes/media.php:2786
 #: wp-admin/includes/nav-menu.php:463
@@ -11753,7 +11754,7 @@ msgstr "Seleziona il frame di destinazione per il tuo link."
 #. translators: xfn: https://gmpg.org/xfn
 #: wp-admin/includes/meta-boxes.php:1337
 msgid "rel:"
-msgstr ""
+msgstr "rel:"
 
 #. translators: xfn: https://gmpg.org/xfn
 #. translators: Hidden accessibility text. xfn: https://gmpg.org/xfn
@@ -12423,7 +12424,7 @@ msgstr "Puoi anche sfogliare in base ai tag pi&ugrave; popolari nella directory 
 #: wp-admin/includes/plugin-install.php:275
 #, php-format
 msgid "%s plugin"
-msgstr ""
+msgstr "%s plugin"
 
 #. translators: %s: Number of plugins.
 #: wp-admin/includes/plugin-install.php:277
@@ -12552,7 +12553,7 @@ msgstr "Installazione"
 #: wp-admin/includes/plugin-install.php:602
 msgctxt "Plugin installer section title"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: wp-admin/includes/plugin-install.php:603
 msgctxt "Plugin installer section title"
@@ -12562,7 +12563,7 @@ msgstr "Schermate di esempio"
 #: wp-admin/includes/plugin-install.php:604
 msgctxt "Plugin installer section title"
 msgid "Changelog"
-msgstr ""
+msgstr "Changelog"
 
 #: wp-admin/includes/plugin-install.php:605
 msgctxt "Plugin installer section title"
@@ -12920,7 +12921,7 @@ msgstr "Non sei autorizzato a creare articoli o bozze su questo sito."
 #: wp-admin/includes/post.php:1520
 #: wp-admin/includes/post.php:1545
 msgid "Permalink:"
-msgstr ""
+msgstr "Permalink:"
 
 #: wp-admin/includes/post.php:1533
 msgid "Change Permalink Structure"
@@ -13154,7 +13155,7 @@ msgstr "j M, Y @ H:i"
 #: wp-admin/includes/revision.php:291
 msgctxt "revision date short format"
 msgid "j M @ H:i"
-msgstr ""
+msgstr "j M @ H:i"
 
 #. translators: default GMT offset or timezone string. Must be either a valid offset (-12 to 14) or a valid timezone string (America/New_York). See https://www.php.net/manual/en/timezones.php for all timezone strings currently supported by PHP. Important: When a previous timezone string, like `Europe/Kiev`, has been superseded by an updated one, like `Europe/Kyiv`, as a rule of thumb, the **old** timezone name should be used in the "translation" to allow for the default timezone setting to be PHP cross-version compatible, as old timezone names will be recognized in new PHP versions, while new timezone names cannot be recognized in old PHP versions. To verify which timezone strings are available in the _oldest_ PHP version supported, you can use https://3v4l.org/6YQAt#v5.6.20 and replace the "BR" (Brazil) in the code line with the country code for which you want to look up the supported timezone names.
 #: wp-admin/includes/schema.php:423
@@ -13170,7 +13171,7 @@ msgstr "Il mio sito"
 #: wp-admin/includes/schema.php:441
 msgctxt "start of week"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #. translators: Links last updated date format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/includes/schema.php:462
@@ -13634,7 +13635,7 @@ msgstr "Blog"
 
 #: wp-admin/includes/theme.php:308
 msgid "E-Commerce"
-msgstr ""
+msgstr "E-commerce"
 
 #: wp-admin/includes/theme.php:309
 msgid "Education"
@@ -13662,7 +13663,7 @@ msgstr "Fotografia"
 
 #: wp-admin/includes/theme.php:315
 msgid "Portfolio"
-msgstr ""
+msgstr "Portfolio"
 
 #: wp-admin/includes/theme.php:318
 #: wp-admin/includes/theme.php:370
@@ -14170,7 +14171,7 @@ msgstr ""
 #. translators: Privacy Policy page slug.
 #: wp-admin/includes/upgrade.php:350
 msgid "privacy-policy"
-msgstr ""
+msgstr "privacy-policy"
 
 #. translators: New site notification email. 1: New site URL, 2: User login, 3: User password or password reset link, 4: Login URL.
 #: wp-admin/includes/upgrade.php:579
@@ -14401,7 +14402,7 @@ msgstr "La pagina di verifica dell'email di amministrazione riapparirà dopo %s.
 
 #: wp-admin/index.php:162
 msgid "Dismiss the welcome panel"
-msgstr ""
+msgstr "Rimuovi il pannello di benvenuto"
 
 #: wp-admin/install.php:73
 msgid "ClassicPress &rsaquo; Installation"
@@ -16618,7 +16619,7 @@ msgstr "Una <a href=\"%s\">pagina statica</a> (selezionata qui sotto)"
 #: wp-admin/options-reading.php:116
 #, php-format
 msgid "Homepage: %s"
-msgstr ""
+msgstr "Homepage: %s"
 
 #. translators: %s: Select field to choose the page for posts.
 #: wp-admin/options-reading.php:133
@@ -18873,7 +18874,7 @@ msgstr ""
 #: wp-admin/upload.php:325
 #, php-format
 msgid "%s items"
-msgstr ""
+msgstr "%s elementi"
 
 #: wp-admin/upload.php:351
 msgid "of"
@@ -19139,7 +19140,7 @@ msgstr "Cognome"
 
 #: wp-admin/user-edit.php:506
 msgid "Nickname"
-msgstr ""
+msgstr "Nickname"
 
 #: wp-admin/user-edit.php:512
 msgid "Display name publicly as"
@@ -19644,7 +19645,7 @@ msgstr "ID #%1$s: %2$s <strong>L'utente corrente non verrà eliminato.</strong>"
 #: wp-admin/users.php:487
 #, php-format
 msgid "ID #%1$s: %2$s"
-msgstr ""
+msgstr "ID #%1$s: %2$s"
 
 #: wp-admin/users.php:363
 msgid "What should be done with content owned by this user?"
@@ -19826,7 +19827,7 @@ msgstr "Trascinare qui i widget per rimuoverli dalla sidebar ma mantenendo le lo
 #: wp-admin/widgets-form.php:283
 #, php-format
 msgid "Widget %s"
-msgstr ""
+msgstr "Widget %s"
 
 #: wp-admin/widgets-form.php:298
 msgid "Select both the sidebar for this widget and the position of the widget in that sidebar."

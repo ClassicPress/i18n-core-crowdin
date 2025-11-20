@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 00:04\n"
+"PO-Revision-Date: 2025-11-20 06:30\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -43,7 +43,7 @@ msgstr "Volwassen"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:206
 msgid "No sites found."
-msgstr "Geen websites gevonden."
+msgstr "Geen sites gevonden."
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:221
@@ -51,8 +51,8 @@ msgstr "Geen websites gevonden."
 msgctxt "sites"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] "Alles <span class=\"count\">(%s)</span>"
-msgstr[1] "Alles <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:228
@@ -125,7 +125,7 @@ msgstr "URL"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:359
 #: wp-admin/network/site-info.php:192
 msgid "Last Updated"
-msgstr "Laatst bijgewerkt"
+msgstr "Laatst geüpdatet"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:360
 #: wp-admin/network/site-info.php:188
@@ -174,7 +174,7 @@ msgstr "j F Y"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:497
 #: wp-admin/includes/class-wp-ms-users-list-table.php:344
 msgid "Y/m/d g:i:s a"
-msgstr "j F Y g:i:s"
+msgstr "j F Y H:i"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:479
 msgid "Never"
@@ -217,7 +217,7 @@ msgstr "Dearchiveren"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:714
 msgctxt "verb; site"
 msgid "Archive"
-msgstr "Archiveren"
+msgstr "Archief"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:718
 msgctxt "site"
@@ -247,11 +247,11 @@ msgstr "Thema"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:331
 msgid "Description"
-msgstr "Beschrijving"
+msgstr "Omschrijving"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:335
 msgid "Automatic Updates"
-msgstr "Auto-updates"
+msgstr "Automatische updates"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:378
@@ -336,21 +336,21 @@ msgstr "Netwerk uitschakelen"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:474
 msgid "Update"
-msgstr "Updaten"
+msgstr "Bijwerken"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:483
 msgid "Enable Auto-updates"
-msgstr "Inschakelen auto-updates"
+msgstr "Auto-updates inschakelen"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:487
 msgid "Disable Auto-updates"
-msgstr "Uitschakelen auto-updates"
+msgstr "Auto-updates uitschakelen"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:576
 #, php-format
 msgid "Enable %s"
-msgstr "%s activeren"
+msgstr "%s inschakelen"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:579
@@ -401,7 +401,7 @@ msgstr "Themasite bezoeken voor %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:736
 msgid "Visit Theme Site"
-msgstr "Themawebsite bezoeken"
+msgstr "Thema site bezoeken"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:743
@@ -431,7 +431,7 @@ msgstr "Actief thema"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:936
 msgid "Active Child Theme"
-msgstr "Actief child-thema"
+msgstr "Actief subthema"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:116
 msgctxt "user"
@@ -453,8 +453,8 @@ msgstr "Geen gebruikers gevonden."
 msgctxt "users"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
-msgstr[0] "Alles <span class=\"count\">(%s)</span>"
-msgstr[1] "Alles <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
 
 #. translators: Number of users.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:159
@@ -503,7 +503,7 @@ msgstr "Superbeheerder"
 #, php-format
 msgctxt "Display name based on first name and last name"
 msgid "%1$s %2$s"
-msgstr "%1$s %2$s"
+msgstr "%1$s op %2$s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:314
@@ -520,7 +520,7 @@ msgstr "Bekijken"
 #: wp-admin/includes/ms.php:239
 #, php-format
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr "Je hebt al je ruimte verbruikt van %s. Verwijder enkele bestanden om meer bestanden te kunnen uploaden."
+msgstr "Sorry, je hebt je toegewezen ruimte van %s gebruikt. Verwijder enkele bestanden om meer bestanden te uploaden."
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-admin/includes/ms.php:36
@@ -537,7 +537,7 @@ msgstr "Dit bestand is te groot. Bestanden moeten kleiner zijn dan %s KB in groo
 
 #: wp-admin/includes/ms.php:45
 msgid "You have used your space quota. Please delete files before uploading."
-msgstr "Je hebt je ruimte quota gebruikt. Verwijder bestanden voordat je uploadt."
+msgstr "Je gebruikt alle beschikbare ruimte. Verwijder bestanden voor het uploaden."
 
 #: wp-admin/includes/ms.php:49
 msgid "Back"
@@ -572,7 +572,7 @@ msgstr "Je probeert toegang te krijgen tot het \"%1$s\" dashboard, maar je hebt 
 
 #: wp-admin/includes/ms.php:587
 msgid "If you reached this screen by accident and meant to visit one of your own sites, here are some shortcuts to help you find your way."
-msgstr "Als je per ongeluk op dit scherm terechtgekomen bent en je dacht &#233;&#233;n van je eigen sites te bezoeken, hier zijn enkele snelkoppelingen die je kunnen helpen de weg te vinden."
+msgstr "Als je per ongeluk op dit scherm terechtgekomen bent en je dacht één van je eigen sites te bezoeken, hier zijn enkele snelkoppelingen die je kunnen helpen de weg te vinden."
 
 #: wp-admin/includes/ms.php:589
 msgid "Your Sites"
@@ -602,7 +602,7 @@ msgstr "Engels"
 #: wp-admin/includes/ms.php:696
 #, php-format
 msgid "Thank you for Updating! Please visit the <a href=\"%s\">Upgrade Network</a> page to update all your sites."
-msgstr "Bedankt voor het bijwerken. Bezoek de <a href=\"%s\">Netwerk bijwerken</a> pagina om al je websites bij te werken."
+msgstr "Bedankt voor het bijwerken. Bezoek de <a href=\"%s\">Netwerk bijwerken</a> pagina om al je sites bij te werken."
 
 #. translators: My Sites label.
 #: wp-admin/includes/ms.php:768
@@ -682,7 +682,7 @@ msgstr "Informatie"
 #: wp-admin/network/menu.php:78
 #: wp-admin/network/themes.php:336
 msgid "Themes"
-msgstr "Thema's"
+msgstr "Thema’s"
 
 #: wp-admin/includes/ms.php:1077
 #: wp-admin/network/menu.php:109
@@ -818,11 +818,11 @@ msgstr "Bedankt. Je inbox controleren voor een link om je actie te bevestigen. J
 #: wp-admin/ms-delete-site.php:113
 #, php-format
 msgid "If you do not want to use your %s site any more, you can delete it using the form below. When you click <strong>Delete My Site Permanently</strong> you will be sent an email with a link in it. Click on this link to delete your site."
-msgstr "Als je de %s website niet meer wilt gebruiken, kun je deze verwijderen met het onderstaande formulier. Wanneer je klikt op <strong>Mijn website definitief verwijderen</strong> wordt er een e-mailbericht verstuurd met een link. Klik op deze link om je site definitief te verwijderen."
+msgstr "Als je de %s site niet meer wilt gebruiken, kun je deze verwijderen met het onderstaande formulier. Wanneer je klikt op <strong>Mijn site definitief verwijderen</strong> wordt er een e-mailbericht verstuurd met een link. Klik op deze link om je site definitief te verwijderen."
 
 #: wp-admin/ms-delete-site.php:118
 msgid "Remember, once deleted your site cannot be restored."
-msgstr "Onthoudt dat als deze website eenmaal is verwijderd het niet kan worden hersteld."
+msgstr "Onthoudt dat als deze site eenmaal is verwijderd het niet kan worden hersteld."
 
 #. translators: %s: Site address.
 #: wp-admin/ms-delete-site.php:127
@@ -832,7 +832,7 @@ msgstr "Ik weet zeker dat ik mijn site permanent wil verwijderen en ik weet dat 
 
 #: wp-admin/ms-delete-site.php:132
 msgid "Delete My Site Permanently"
-msgstr "Mijn website permanent verwijderen"
+msgstr "Mijn site permanent verwijderen"
 
 #: wp-admin/my-sites.php:17
 #: wp-admin/network/index.php:17
@@ -875,7 +875,7 @@ msgstr "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">Docume
 #: wp-admin/network/themes.php:324
 #: wp-admin/network/upgrade.php:33
 msgid "<a href=\"https://wordpress.org/support/forums/\">Support forums</a>"
-msgstr "<a href=\"https://forums.classicpress.net/c/support/\">Ondersteuningsforums</a>"
+msgstr "<a href=\"https://wordpress.org/support/forums/\">Ondersteuningsforums</a>"
 
 #: wp-admin/my-sites.php:60
 #: wp-admin/network/settings.php:142
@@ -892,7 +892,7 @@ msgstr "Nieuwe toevoegen"
 
 #: wp-admin/my-sites.php:86
 msgid "You must be a member of at least one site to use this page."
-msgstr "Je moet lid zijn van minimaal een website om deze pagina te gebruiken."
+msgstr "Je moet lid zijn van minimaal één site om deze pagina te gebruiken."
 
 #: wp-admin/my-sites.php:127
 msgid "Global Settings"
@@ -910,7 +910,7 @@ msgstr "Het netwerk aanmaakpaneel is niet voor ClassicPress MU netwerken."
 #: wp-admin/network.php:44
 #, php-format
 msgid "You must define the %1$s constant as true in your %2$s file to allow creation of a Network."
-msgstr "Het is noodzakelijk om de constante %1$s als 'true' te definiëren in het %2$s bestand om een netwerk te kunnen activeren."
+msgstr "Je moet de constante %1$s als true definiëren in je %2$s bestand om het aanmaken van een netwerk toe te staan."
 
 #: wp-admin/network.php:53
 #: wp-admin/network/menu.php:112
@@ -923,7 +923,7 @@ msgstr "Maak een netwerk van ClassicPress sites"
 
 #: wp-admin/network.php:61
 msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
-msgstr "Dit scherm laat je een netwerk instellen met subdomeinen (<code>site1.example.com</code>) of subdirectories (<code>example.com/site1</code>). Subdomeinen vereisen dat wildcard subdomeinen zijn ingeschakeld in Apache en DNS-records, als je host dit toestaat."
+msgstr "Met dit scherm kun je een netwerk configureren met subdomeinen<code>(site1.example.com</code>) of subfolders<code>(example.com/site1</code>). Voor subdomeinen moeten wildcard subdomeinen zijn ingeschakeld in apache en DNS-records, als je host dat toestaat."
 
 #: wp-admin/network.php:62
 msgid "Choose subdomains or subdirectories; this can only be switched afterwards by reconfiguring your installation. Fill out the network details, and click Install. If this does not work, you may have to add a wildcard DNS record (for subdomains) or change to another setting in Permalinks (for subdirectories)."
@@ -931,15 +931,15 @@ msgstr "Kies subdomeinen of submappen; dit kan alleen achteraf gewisseld worden 
 
 #: wp-admin/network.php:63
 msgid "The next screen for Network Setup will give you individually-generated lines of code to add to your wp-config.php and .htaccess files. Make sure the settings of your FTP client make files starting with a dot visible, so that you can find .htaccess; you may have to create this file if it really is not there. Make backup copies of those two files."
-msgstr "Het volgende scherm voor Netwerk Setup geeft je individueel gegenereerde regels code die je moet toe voegen aan je wp-config.php en .htaccess-bestanden. Zorg ervoor dat de instellingen van je FTP-client zo zijn dat bestanden die met een punt beginnen zichtbaar zijn zodat je het .htaccess bestand kunt vinden. Mogelijk moet je dit bestand maken als het er echt niet is. Maak van beide bestanden uiteraard eerst een kopie. "
+msgstr "Het volgende scherm voor netwerk setup geeft je individueel gegenereerde regels code die je moet toe voegen aan je wp-config.php en .htaccess bestanden. Zorg ervoor dat de instellingen van je FTP client zo zijn dat bestanden die met een punt beginnen zichtbaar zijn zodat je het .htaccess bestand kunt vinden. Mogelijk moet je dit bestand maken als het er echt niet is. Maak van beide bestanden uiteraard eerst een back-up."
 
 #: wp-admin/network.php:64
 msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing ClassicPress rules)."
-msgstr "De volgende gegenereerde regels toevoegen aan wp-config.php (vlak voor <code>/* ...stop editing... */</code> en aan <code>.htaccess</code> (vervang hier de bestaande ClassicPress regels)."
+msgstr "De volgende gegenereerde regels toevoegen aan wp-config.php (vlak voor <code>/*...stop editing...*/</code> en aan <code>.htaccess</code> (vervang hier de bestaande ClassicPress regels)."
 
 #: wp-admin/network.php:65
 msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
-msgstr "Als je deze code eenmaal toegevoegd hebt en je browser vernieuwt, zal de multisite ingeschakeld zijn. Dit scherm, nu in het Netwerk navigatiemenu, zal een archief bewaren van de toegevoegde code. Je kunt wisselen tussen Netwerkbeheerder en sitebeheerder door te klikken op het Hallo (gebruikersnaam) dropdown-menu in de rechter bovenkant van het dashboard."
+msgstr "Als je deze code eenmaal toegevoegd hebt en je browser vernieuwt, zal de multisite ingeschakeld zijn. Dit scherm, nu in het Netwerkbeheer navigatiemenu, zal een archief bewaren van de toegevoegde code. Je kunt wisselen tussen Netwerkbeheerder en Sitebeheerder door te klikken op de Netwerkbeheerder of individuele sitenaam onder de Mijn sites dropdown in de toolbar."
 
 #: wp-admin/network.php:66
 msgid "The choice of subdirectory sites is disabled if this setup is more than a month old because of permalink problems with &#8220;/blog/&#8221; from the main site. This disabling will be addressed in a future version."
@@ -961,11 +961,11 @@ msgstr "Netwerk"
 
 #: wp-admin/network/index.php:24
 msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
-msgstr "Welkom bij het netwerkbeheer. Dit onderdeel van het beheerscherm wordt gebruikt om alle aspecten van multisite te beheren."
+msgstr "Welkom bij je netwerkbeheer. Dit gebied van de beheerschermen wordt gebruikt voor het beheren van alle aspecten van je multisite netwerk."
 
 #: wp-admin/network/index.php:25
 msgid "From here you can:"
-msgstr "Hier kun je:"
+msgstr "Vanaf hier kun je:"
 
 #: wp-admin/network/index.php:26
 msgid "Add and manage sites or users"
@@ -973,11 +973,11 @@ msgstr "Sites en gebruikers toevoegen en beheren"
 
 #: wp-admin/network/index.php:27
 msgid "Install and activate themes or plugins"
-msgstr "Thema&#39;s installeren en activeren"
+msgstr "Thema's op plugins installeren en activeren"
 
 #: wp-admin/network/index.php:28
 msgid "Update your network"
-msgstr "Netwerk bijwerken"
+msgstr "Je netwerk updaten"
 
 #: wp-admin/network/index.php:29
 msgid "Modify global network settings"
@@ -985,7 +985,7 @@ msgstr "Globale instellingen bewerken"
 
 #: wp-admin/network/index.php:39
 msgid "The Right Now widget on this screen provides current user and site counts on your network."
-msgstr "De op-dit-moment widget op dit scherm biedt informatie over gebruikers en website aantallen van je netwerk."
+msgstr "De op-dit-moment widget op dit scherm biedt informatie over gebruikers en site aantallen van je netwerk."
 
 #: wp-admin/network/index.php:40
 msgid "To add a new user, <strong>click Create a New User</strong>."
@@ -1001,7 +1001,7 @@ msgstr "Om te zoeken naar gebruikers of site, maak gebruik van de zoekboxen."
 
 #: wp-admin/network/index.php:43
 msgid "To search for a user, <strong>enter an email address or username</strong>. Use a wildcard to search for a partial username, such as user&#42;."
-msgstr "Om een gebruiker te zoeken, <strong>vul een e-mailadres of gebruikersnaam in</strong>. Gebruik een wildcard om op een gedeelte van een gebruikersnaam te zoeken, zoals gebrui&#42;."
+msgstr "Om een gebruiker te zoeken, <strong>vul een e-mailadres of gebruikersnaam in</strong>. Gebruik een wildcard om op een gedeelte van een gebruikersnaam te zoeken, zoals gebruiker&#42;."
 
 #: wp-admin/network/index.php:44
 msgid "To search for a site, <strong>enter the path or domain</strong>."
@@ -1017,7 +1017,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin/\">D
 
 #: wp-admin/network/menu.php:13
 msgid "Home"
-msgstr "Home"
+msgstr "Startpagina"
 
 #. translators: %s: Number of available updates.
 #: wp-admin/network/menu.php:30
@@ -1054,11 +1054,11 @@ msgstr "Nieuwe toevoegen"
 #: wp-admin/network/menu.php:63
 #, php-format
 msgid "Themes %s"
-msgstr "Thema&#39;s %s"
+msgstr "Thema's %s"
 
 #: wp-admin/network/menu.php:80
 msgid "Installed Themes"
-msgstr "Ge&iuml;nstalleerde thema&#39;s"
+msgstr "Geïnstalleerde thema's"
 
 #: wp-admin/network/menu.php:81
 #: wp-admin/network/themes.php:350
@@ -1083,7 +1083,7 @@ msgstr "Plugins"
 
 #: wp-admin/network/menu.php:105
 msgid "Installed Plugins"
-msgstr "Ge&#239;nstalleerde plugins"
+msgstr "Geïnstalleerde plugins"
 
 #: wp-admin/network/menu.php:106
 msgctxt "plugin"
@@ -1105,19 +1105,19 @@ msgstr "Dit scherm is voor de instellingen en wijzigingen voor het netwerk als g
 
 #: wp-admin/network/settings.php:52
 msgid "Operational settings has fields for the network&#8217;s name and admin email."
-msgstr "Operationele instellingen bevatten velden voor de netwerk naam en admin e-mail."
+msgstr "Operationele instellingen bevatten velden voor de netwerknaam en beheerder e-mail."
 
 #: wp-admin/network/settings.php:53
 msgid "Registration settings can disable/enable public signups. If you let others sign up for a site, install spam plugins. Spaces, not commas, should separate names banned as sites for this network."
-msgstr "Registratie instellingen kunnen ingeschakeld/uitgeschakeld worden voor publieke registraties. Als je anderen laat registreren voor een site, installeer dan anti spam plugins. Namen en sites die je wilt verbannen op dit netwerk, scheiden met spaties, gebruik GEEN komma&#39;s."
+msgstr "Registratie instellingen kunnen ingeschakeld/uitgeschakeld worden voor publieke registraties. Als je anderen laat registreren voor een site, installeer dan anti spam plugins. Spaties, geen komma's zouden de namen moeten scheiden van sites die verbannen zijn van dit netwerk."
 
 #: wp-admin/network/settings.php:54
 msgid "New site settings are defaults applied when a new site is created in the network. These include welcome email for when a new site or user account is registered, and what&#8127;s put in the first post, page, comment, comment author, and comment URL."
-msgstr "Nieuwe site-instellingen zijn standaard toegepast als een nieuwe site in het netwerk wordt gemaakt. Deze bevatten een welkomst-e-mail wanneer een nieuwe gebruiker of gebruikersaccount is geregistreerd. Het bevat ook berichten voor de inhoud van de site voor het eerste bericht, pagina, reactie, reactie-auteur en reactie-URL (internet adres). Al deze berichten kun je naar eigen inzicht wijzigen."
+msgstr "Nieuwe site-instellingen worden standaard toegepast als een nieuwe site in het netwerk wordt gemaakt. Deze bevatten een welkomst e-mail wanneer een nieuwe gebruiker of gebruikersaccount is geregistreerd. Het bevat ook berichten voor de inhoud van de site voor het eerste bericht, pagina, reactie, reactie-auteur en reactie URL (internet adres)."
 
 #: wp-admin/network/settings.php:55
 msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
-msgstr "Uploadinstellingen bepalen de grootte van de geuploade bestanden en de overgebleven uploadruimte die nog beschikbaar is voor elke site. De standaard ruimte voor specifieke sites kan gewijzigd worden door de Super Admin. De toegestane bestandstypen staan in een overzicht (door spaties gescheiden)."
+msgstr "Upload instellingen regelen de grootte van de geüploade bestanden en de hoeveelheid beschikbare uploadruimte voor elke site. Je kunt de standaardwaarde voor specifieke sites wijzigen wanneer je een bepaalde site bewerkt. Toegestane bestandstypen worden ook vermeld (alleen spatie gescheiden)."
 
 #: wp-admin/network/settings.php:56
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -1125,11 +1125,11 @@ msgstr "Je kunt de taal instellen, waarna de vertaalbestanden automatisch gedown
 
 #: wp-admin/network/settings.php:57
 msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
-msgstr "In- of uitschakelen van de plugin menu&#39;s voor niet super admins, zodat alleen super admins -geen site admins- toegang hebben om plugins te activeren."
+msgstr "Menu-instelling schakelt de plugin menu's in/uit voor niet superbeheerders, zodat alleen superbeheerders en niet sitebeheerders toegang hebben om plugins te activeren."
 
 #: wp-admin/network/settings.php:58
 msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."
-msgstr "Super admins kunnen niet langer worden toegevoegd via het opties scherm. Je gaat nu naar de lijst van bestaande gebruikers op Netwerk admin -> Gebruikers en klikt op de gebruikersnaam of de bewerklink onder de naam. Dit gaat naar een bewerk gebruiker pagina waar je een gebruiker super admin rechten kunt geven via een selectievakje."
+msgstr "Super beheerders kunnen niet langer worden toegevoegd via het opties scherm. Je gaat nu naar de lijst van bestaande gebruikers op Netwerk beheer > Gebruikers en klikt op de gebruikersnaam of de bewerklink onder de naam. Dit gaat naar een bewerk gebruiker pagina waar je een gebruiker super beheer rechten kunt geven via een selectievakje."
 
 #: wp-admin/network/settings.php:64
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-settings-screen/\">Documentation on Network Settings</a>"
@@ -1202,7 +1202,7 @@ msgstr "Registratiemelding"
 
 #: wp-admin/network/settings.php:246
 msgid "Send the network admin an email notification every time someone registers a site or user account"
-msgstr "Stuur de netwerkbeheerder een e-mailmelding elke keer dat iemand een site of een gebruikersaccount registreert."
+msgstr "Stuur de netwerkbeheerder een e-mail melding elke keer dat iemand een site of een gebruikersaccount registreert"
 
 #: wp-admin/network/settings.php:251
 msgid "Add New Users"
@@ -1210,11 +1210,11 @@ msgstr "Nieuwe gebruikers toevoegen"
 
 #: wp-admin/network/settings.php:253
 msgid "Allow site administrators to add new users to their site via the \"Users &rarr; Add New\" page"
-msgstr "Sta sitebeheerders toe om nieuwe gebruikers toe te voegen aan hun site via de \"Gebruikers &rarr; Nieuwe Toevoegen\" pagina."
+msgstr "Sta sitebeheerders toe om nieuwe gebruikers toe te voegen aan hun site via de \"Gebruikers &rarr; Nieuwe toevoegen\" pagina"
 
 #: wp-admin/network/settings.php:258
 msgid "Banned Names"
-msgstr "Verboden namen"
+msgstr "Verbande namen"
 
 #: wp-admin/network/settings.php:271
 msgid "Users are not allowed to register these sites. Separate names by spaces."
@@ -1230,7 +1230,7 @@ msgstr "Als je de site registraties wilt beperken tot bepaalde domeinen. Een dom
 
 #: wp-admin/network/settings.php:302
 msgid "Banned Email Domains"
-msgstr "Verboden e-maildomeinnamen"
+msgstr "Verboden e-mail domeinnamen"
 
 #: wp-admin/network/settings.php:316
 msgid "If you want to ban domains from site registrations. One domain per line."
@@ -1238,15 +1238,15 @@ msgstr "Als je domeinen wilt verbieden van site registraties. Een domein per reg
 
 #: wp-admin/network/settings.php:322
 msgid "New Site Settings"
-msgstr "Nieuwe website-instellingen"
+msgstr "Nieuwe site instellingen"
 
 #: wp-admin/network/settings.php:326
 msgid "Welcome Email"
-msgstr "Welkomstbericht"
+msgstr "Welkomst e-mail"
 
 #: wp-admin/network/settings.php:331
 msgid "The welcome email sent to new site owners."
-msgstr "De welkomsbericht is verstuurd naar de nieuwe site eigenaren."
+msgstr "De welkomst e-mail is verstuurd naar de nieuwe site eigenaren."
 
 #: wp-admin/network/settings.php:336
 msgid "Welcome User Email"
@@ -1254,7 +1254,7 @@ msgstr "Welkom gebruiker e-mail"
 
 #: wp-admin/network/settings.php:341
 msgid "The welcome email sent to new users."
-msgstr "Het welkomsbericht is verstuurd naar de nieuwe gebruikers."
+msgstr "De welkomst e-mail verzonden naar nieuwe gebruikers."
 
 #: wp-admin/network/settings.php:346
 msgid "First Post"
@@ -1290,11 +1290,11 @@ msgstr "De auteur van de eerste reactie op een nieuwe site."
 
 #: wp-admin/network/settings.php:385
 msgid "First Comment Email"
-msgstr "De eerste reactie e-mail"
+msgstr "Eerste reactie e-mail"
 
 #: wp-admin/network/settings.php:389
 msgid "The email address of the first comment author on a new site."
-msgstr "Het e-mailadres van de eerste reactie-auteur op een nieuwe site."
+msgstr "Het e-mailadres van de eerste reactie auteur op een nieuwe site."
 
 #: wp-admin/network/settings.php:394
 msgid "First Comment URL"
@@ -1316,7 +1316,7 @@ msgstr "Site uploadruimte"
 #: wp-admin/network/settings.php:412
 #, php-format
 msgid "Limit total size of files uploaded to %s MB"
-msgstr "Maximale opslagruimte voor uploads is %s MB"
+msgstr "De totale grootte beperken van bestanden die worden geüpload tot %s MB"
 
 #: wp-admin/network/settings.php:427
 msgid "Upload file types"
@@ -1355,7 +1355,7 @@ msgstr "Menu instellingen"
 
 #: wp-admin/network/settings.php:514
 msgid "Enable administration menus"
-msgstr "Administratiemenu&#39;s activeren"
+msgstr "Administratiemenu's inschakelen"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:519
@@ -1373,7 +1373,7 @@ msgstr "Je hebt geen toestemming om deze site aan te passen."
 #: wp-admin/network/site-themes.php:46
 #: wp-admin/network/site-users.php:41
 msgid "Invalid site ID."
-msgstr "Ongeldige site-ID."
+msgstr "Ongeldige site ID."
 
 #: wp-admin/network/site-info.php:28
 #: wp-admin/network/site-settings.php:28
@@ -1384,7 +1384,7 @@ msgstr "De opgevraagde site bestaat niet."
 
 #: wp-admin/network/site-info.php:126
 msgid "Site info updated."
-msgstr "Site-informatie bijgewerkt."
+msgstr "Site informatie geüpdatet."
 
 #. translators: %s: Site title.
 #: wp-admin/network/site-info.php:132
@@ -1393,13 +1393,13 @@ msgstr "Site-informatie bijgewerkt."
 #: wp-admin/network/site-users.php:200
 #, php-format
 msgid "Edit Site: %s"
-msgstr "Site wijzigen:%s"
+msgstr "Bewerk site: %s"
 
 #: wp-admin/network/site-info.php:174
 #: wp-admin/network/site-info.php:182
 #: wp-admin/network/site-new.php:210
 msgid "Site Address (URL)"
-msgstr "Site adres (URL)"
+msgstr "Siteadres (URL)"
 
 #: wp-admin/network/site-info.php:196
 msgctxt "site"
@@ -1421,11 +1421,11 @@ msgstr "Je hebt geen toestemming om sites toe te voegen aan dit netwerk."
 
 #: wp-admin/network/site-new.php:25
 msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
-msgstr "Dit scherm is voor Super Admins om nieuwe sites toe te voegen aan het netwerk. Dit wordt niet beïnvloed door registratie instellingen."
+msgstr "Dit scherm is voor super beheerders om nieuwe sites toe te voegen aan het netwerk. Dit wordt niet beïnvloed door registratie instellingen."
 
 #: wp-admin/network/site-new.php:26
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
-msgstr "Als de admin-e-mail voor de nieuwe site niet bestaat in de database zal er een nieuwe gebruiker worden gemaakt. "
+msgstr "Als de beheerder e-mail voor de nieuwe site niet bestaat in de database zal er een nieuwe gebruiker worden gemaakt."
 
 #: wp-admin/network/site-new.php:40
 msgid "Cannot create an empty site."
@@ -1461,7 +1461,7 @@ msgstr "Er is een fout opgetreden bij het aanmaken van de gebruiker."
 #: wp-admin/network/site-new.php:170
 #, php-format
 msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
-msgstr "Site toegevoegd. <a href=\"%1$s\">Bezoek het Dashboard</a> of <a href=\"%2$s\">bewerk de site </a>"
+msgstr "Site toegevoegd. <a href=\"%1$s\">Bezoek het dashboard</a> of <a href=\"%2$s\">bewerk de site</a>"
 
 #: wp-admin/network/site-new.php:178
 #: wp-admin/network/site-new.php:188
@@ -1474,11 +1474,11 @@ msgstr "Alleen kleine letters (a-z), cijfers en koppeltekens zijn toegestaan."
 
 #: wp-admin/network/site-new.php:233
 msgid "Site Title"
-msgstr "Site titel"
+msgstr "Sitetitel"
 
 #: wp-admin/network/site-new.php:246
 msgid "Site Language"
-msgstr "Websitetaal"
+msgstr "Site taal"
 
 #: wp-admin/network/site-new.php:294
 msgid "Admin Email"
@@ -1494,11 +1494,11 @@ msgstr "De gebruikersnaam en een link om het wachtwoord in te stellen zullen wor
 
 #: wp-admin/network/site-new.php:315
 msgid "Add Site"
-msgstr "Website toevoegen"
+msgstr "Site toevoegen"
 
 #: wp-admin/network/site-settings.php:78
 msgid "Site options updated."
-msgstr "Site-opties bijgewerkt."
+msgstr "Site opties geüpdatet."
 
 #: wp-admin/network/site-themes.php:14
 msgid "Sorry, you are not allowed to manage themes for this site."
@@ -1510,11 +1510,11 @@ msgstr "Thema's van de site filteren"
 
 #: wp-admin/network/site-themes.php:23
 msgid "Site themes list navigation"
-msgstr "Sitethema'slijst navigatie"
+msgstr "Site thema's lijst navigatie"
 
 #: wp-admin/network/site-themes.php:24
 msgid "Site themes list"
-msgstr "Sitethema'slijst"
+msgstr "Lijst site thema's"
 
 #: wp-admin/network/site-themes.php:192
 #: wp-admin/network/themes.php:374
@@ -1551,7 +1551,7 @@ msgstr "Geen thema geselecteerd."
 
 #: wp-admin/network/site-themes.php:235
 msgid "Network enabled themes are not shown on this screen."
-msgstr "Netwerk ingeschakeld thema&#39;s worden niet weergegeven op dit scherm."
+msgstr "Netwerk ingeschakelde thema's worden niet weergegeven op dit scherm."
 
 #: wp-admin/network/site-themes.php:238
 #: wp-admin/network/themes.php:447
@@ -1594,7 +1594,7 @@ msgstr "Gebruikers toegevoegd."
 
 #: wp-admin/network/site-users.php:245
 msgid "User is already a member of this site."
-msgstr "Gebruiker is al lid van deze website."
+msgstr "Gebruiker is al lid van deze site."
 
 #: wp-admin/network/site-users.php:248
 msgid "User could not be added to this site."
@@ -1681,7 +1681,7 @@ msgstr "De Bewerken link verwijst naar een apart site wijzigenscherm."
 
 #: wp-admin/network/sites.php:35
 msgid "Dashboard leads to the Dashboard for that site."
-msgstr "Dashboard leidt naar het Dashboard van de betreffende site."
+msgstr "Dashboard leidt naar het dashboard van de betreffende site."
 
 #: wp-admin/network/sites.php:36
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
@@ -1705,65 +1705,65 @@ msgstr "Klikken op de koppen kan deze tabel hersorteren."
 
 #: wp-admin/network/sites.php:52
 msgid "Sites list navigation"
-msgstr "Sitelijst navigatie"
+msgstr "Sites lijst navigatie"
 
 #: wp-admin/network/sites.php:53
 msgid "Sites list"
-msgstr "Sitelijst"
+msgstr "Sites lijst"
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:66
 #, php-format
 msgid "You are about to activate the site %s."
-msgstr "Je staat op het punt de site %s te activeren."
+msgstr "Je staat op het punt om de site %s te activeren."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:68
 #, php-format
 msgid "You are about to deactivate the site %s."
-msgstr "Je staat op het punt de site %s te deactiveren."
+msgstr "Je staat op het punt om de site %s te deactiveren."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:70
 #, php-format
 msgid "You are about to unarchive the site %s."
-msgstr "Je staat op het punt de site %s te herstellen vanuit het archief."
+msgstr "Je staat op het punt om de site %s te herstellen vanuit het archief."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:72
 #, php-format
 msgid "You are about to archive the site %s."
-msgstr "Je staat op het punt de site %s te archiveren."
+msgstr "Je staat op het punt om de site %s te archiveren."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:74
 #, php-format
 msgid "You are about to unspam the site %s."
-msgstr "Je staat op het punt de site %s te demarkeren als spam."
+msgstr "Je staat op het punt om de site %s te demarkeren als spam."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:76
 #, php-format
 msgid "You are about to mark the site %s as spam."
-msgstr "Je staat op het punt de site %s te markeren als spam. "
+msgstr "Je staat op het punt om de site %s te markeren als spam."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:78
 #, php-format
 msgid "You are about to delete the site %s."
-msgstr "Je staat op het punt om de website %s te verwijderen."
+msgstr "Je staat op het punt om de site %s te verwijderen."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:80
 #, php-format
 msgid "You are about to mark the site %s as mature."
-msgstr "Je staat op het punt de site %s te markeren als volwassen."
+msgstr "Je staat op het punt om de site %s te markeren als volwassen."
 
 #. translators: %s: Site URL.
 #: wp-admin/network/sites.php:82
 #, php-format
 msgid "You are about to mark the site %s as not mature."
-msgstr "Je staat op het punt de site %s te markeren als niet volwassen."
+msgstr "Je staat op het punt om de site %s te markeren als niet volwassen."
 
 #: wp-admin/network/sites.php:90
 msgid "The requested action is not valid."
@@ -1777,7 +1777,7 @@ msgstr "Je hebt geen toestemming om de huidige site te veranderen."
 #: wp-admin/network/sites.php:115
 #: wp-admin/network/sites.php:191
 msgid "Confirm your action"
-msgstr "De acties bevestigen"
+msgstr "Je actie bevestigen"
 
 #: wp-admin/network/sites.php:122
 #: wp-admin/network/sites.php:209
@@ -1788,7 +1788,7 @@ msgstr "Bevestigen"
 #: wp-admin/network/sites.php:168
 #, php-format
 msgid "Sorry, you are not allowed to delete the site %s."
-msgstr "Je hebt geen toestemming om de website %s te verwijderen."
+msgstr "Je hebt geen toestemming om de site %s te verwijderen."
 
 #: wp-admin/network/sites.php:196
 msgid "You are about to delete the following sites:"
@@ -1800,7 +1800,7 @@ msgstr "Sites verwijderd uit spam."
 
 #: wp-admin/network/sites.php:312
 msgid "Sites marked as spam."
-msgstr "Websites gemarkeerd als spam."
+msgstr "Sites gemarkeerd als spam."
 
 #: wp-admin/network/sites.php:315
 msgid "Sites deleted."
@@ -1832,7 +1832,7 @@ msgstr "Site gedeactiveerd."
 
 #: wp-admin/network/sites.php:336
 msgid "Site removed from spam."
-msgstr "Website verwijderd uit spam."
+msgstr "Site verwijderd uit spam."
 
 #: wp-admin/network/sites.php:339
 msgid "Site marked as spam."
@@ -1873,7 +1873,7 @@ msgstr "Waarschuwing:"
 
 #: wp-admin/network/themes.php:138
 msgid "This theme may be active on other sites in the network."
-msgstr "Dit thema kan actief zijn op andere websites in het netwerk."
+msgstr "Dit thema kan actief zijn op andere sites in het netwerk."
 
 #: wp-admin/network/themes.php:139
 msgid "You are about to remove the following theme:"
@@ -1900,7 +1900,7 @@ msgstr "%1$s door %2$s"
 
 #: wp-admin/network/themes.php:158
 msgid "Are you sure you want to delete this theme?"
-msgstr "Weet je zeker dat je dit thema wil verwijderen?"
+msgstr "Weet je zeker dat je dit thema wilt verwijderen?"
 
 #: wp-admin/network/themes.php:160
 msgid "Are you sure you want to delete these themes?"
@@ -1924,15 +1924,15 @@ msgstr "Je hebt geen toestemming de instelling voor het automatisch updaten van 
 
 #: wp-admin/network/themes.php:298
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
-msgstr "Dit scherm laat je kiezen welke thema's beschikbaar zijn in het Weergave menu voor elke site. Het thema dat momenteel gebruikt wordt door een site, wordt hierdoor niet geactiveerd of gedeactiveerd. "
+msgstr "Dit scherm laat je kiezen welke thema's beschikbaar zijn in het Weergave menu voor elke site. Het thema dat momenteel gebruikt wordt door een site, wordt hierdoor niet geactiveerd of gedeactiveerd."
 
 #: wp-admin/network/themes.php:299
 msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
-msgstr "Als de Super Admin een thema uitschakelt wat in gebruik is, kan dat thema nog steeds gebruikt worden door de site-eigenaars die deze site in gebruik hebben. Kiest een site-eigenaar echter een ander thema, dan zal het uitgeschakelde thema niet meer verschijnen in het Weergave > Thema scherm."
+msgstr "Als het netwerkbeheer een thema uitschakelt dat in gebruik is, kan het nog steeds geselecteerd blijven op die site. Als een ander thema wordt gekozen, zal het uitgeschakelde thema niet verschijnen op het scherm Weergave > Thema's van de site."
 
 #: wp-admin/network/themes.php:300
 msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
-msgstr "Thema&#39;s kunnen worden geactiveerd per site door de netwerkbeheerder op de pagina Site-scherm (welke een tabblad Thema&#39;s heeft). Je komt daar via het de link Bewerken op het overzicht van alle sites. Alleen netwerkbeheerders kunnen them&#39;'s installeren of bewerken."
+msgstr "Thema's kunnen per site worden ingeschakeld door de netwerkbeheerder op het Site bewerken scherm (dat een Thema's tab heeft); ga daarheen via de Bewerken actie link op het Alle sites scherm. Alleen netwerkbeheerders kunnen thema's installeren of bewerken."
 
 #: wp-admin/network/themes.php:310
 msgid "Auto-updates"
@@ -1940,15 +1940,15 @@ msgstr "Auto-updates"
 
 #: wp-admin/network/themes.php:312
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr "Auto-updates kan voor elk afzonderlijk thema worden in- of uitgeschakeld. Thema's waarbij auto-updates is ingeschakeld, tonen de geschatte datum van de volgende auto-update. Auto-updates is afhankelijk van het WP-Cron taak planningssysteem."
+msgstr "Auto-updates kunnen worden ingeschakeld of uitgeschakeld voor elk individueel thema. Thema's met geactiveerde auto-updates tonen de geschatte datum van de volgende auto-update. Auto-updates zijn afhankelijk van het WP-Cron taak planning systeem."
 
 #: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr "Let op: thema's en plugins van derden of aangepaste code kunnen de planning van ClassicPress overschrijven."
+msgstr "Let op: thema's en plugins van derden of aangepaste code kunnen de ClassicPress planning overschrijven."
 
 #: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentatie over automatische updates</a>"
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentatie over auto-updates</a>"
 
 #: wp-admin/network/themes.php:322
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
@@ -1960,7 +1960,7 @@ msgstr "Themalijst filteren"
 
 #: wp-admin/network/themes.php:330
 msgid "Themes list navigation"
-msgstr "Themalijst navigatie"
+msgstr "Thema's lijst navigatie"
 
 #: wp-admin/network/themes.php:331
 msgid "Themes list"
@@ -1980,7 +1980,7 @@ msgstr[1] "%s thema's zijn verwijderd."
 
 #: wp-admin/network/themes.php:407
 msgid "Theme will be auto-updated."
-msgstr "Thema zal automatisch geüpdatet worden."
+msgstr "Thema zal automatisch worden geüpdatet."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:411
@@ -1992,7 +1992,7 @@ msgstr[1] "%s thema's zullen automatisch worden geüpdatet."
 
 #: wp-admin/network/themes.php:418
 msgid "Theme will no longer be auto-updated."
-msgstr "Thema zal niet langer automatisch geüpdatet worden."
+msgstr "Thema zal niet langer automatisch worden geüpdatet."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:422
@@ -2020,7 +2020,7 @@ msgstr "Als er geen versie-update aan de core is gedaan, zal klikken op deze kno
 
 #: wp-admin/network/upgrade.php:26
 msgid "If this process fails for any reason, users logging in to their sites will force the same update."
-msgstr "Indien dit proces mislukt om wat voor reden dan ook, zullen gebruikers die op hun site inloggen dezelfde update forceren."
+msgstr "Indien dit proces mislukt om wat voor reden dan ook, zullen gebruikers die op hun sites inloggen dezelfde update forceren."
 
 #: wp-admin/network/upgrade.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-updates-screen/\">Documentation on Upgrade Network</a>"
@@ -2028,13 +2028,13 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-upda
 
 #: wp-admin/network/upgrade.php:74
 msgid "All done!"
-msgstr "Klaar."
+msgstr "Alles gedaan!"
 
 #. translators: 1: Site URL, 2: Server error message.
 #: wp-admin/network/upgrade.php:99
 #, php-format
 msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
-msgstr "Waarschuwing. Er is een probleem met het bijwerken van %1$s. De server is mogelijk niet in staat om verbinding te maken met de sites die er op draaien. Foutmelding: %2$s"
+msgstr "Waarschuwing. Er is een probleem met het updaten van %1$s. Je server is mogelijk niet in staat om verbinding te maken met de sites die er op draaien. Foutmelding: %2$s"
 
 #: wp-admin/network/upgrade.php:125
 msgid "If your browser does not start loading the next page automatically, click this link:"
@@ -2042,7 +2042,7 @@ msgstr "Als je browser de volgende pagina niet automatisch laadt, klik op deze l
 
 #: wp-admin/network/upgrade.php:125
 msgid "Next Sites"
-msgstr "Volgende websites"
+msgstr "Volgende sites"
 
 #: wp-admin/network/upgrade.php:140
 msgid "Database Update Required"
@@ -2083,7 +2083,7 @@ msgstr "Toevoegen gebruiker niet mogelijk."
 
 #: wp-admin/network/user-new.php:94
 msgid "Edit user"
-msgstr "Bewerk gebruiker"
+msgstr "Gebruiker bewerken"
 
 #. translators: %s: User login.
 #: wp-admin/network/users.php:87
@@ -2101,11 +2101,11 @@ msgstr "Hover over een gebruiker in de lijst om de bewerklink te tonen. De linke
 
 #: wp-admin/network/users.php:233
 msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
-msgstr "Je kunt ook naar de gebruikers profiel pagina door op de individuele gebruikersnaam te klikken."
+msgstr "Je kunt ook naar de gebruikers profielpagina gaan door op de individuele gebruikersnaam te klikken."
 
 #: wp-admin/network/users.php:234
 msgid "You can sort the table by clicking on any of the table headings and switch between list and excerpt views by using the icons above the users list."
-msgstr "Je kunt het overzicht sorteren door te klikken op &#233;&#233;n van de vetgedrukte teksten en wisselen tussen lijst en samenvattingen met gebruik van de icoontjes in de rechter bovenhoek."
+msgstr "Je kunt de tabel sorteren door op een van de kopteksten te klikken en schakelen tussen de lijst- en samenvatting weergave met de iconen boven de gebruikerslijst."
 
 #: wp-admin/network/users.php:235
 msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
@@ -2163,7 +2163,7 @@ msgstr "Een verkeerde variabele combinatie is ontdekt."
 #: wp-includes/ms-deprecated.php:277
 #: wp-includes/ms-deprecated.php:296
 msgid "Sorry, you are not allowed to view this item."
-msgstr "Je hebt geen toestemming om dit item te bekijken."
+msgstr "Sorry, je hebt geen toestemming om dit item te bekijken."
 
 #: wp-includes/ms-deprecated.php:406
 msgid "<strong>Error:</strong> Site URL you&#8217;ve entered is already taken."
@@ -2179,7 +2179,7 @@ msgstr "Reeds ge&#239;nstalleerd"
 
 #: wp-includes/ms-deprecated.php:619
 msgid "You appear to have already installed ClassicPress. To reinstall please clear your old database tables first."
-msgstr "Het lijkt erop dat ClassicPress al is ge&#239;nstalleerd. Wis je oude databasetabellen om ClassicPress opnieuw te installeren."
+msgstr "Het lijkt erop dat ClassicPress al is geïnstalleerd. Wis je oude databasetabellen om ClassicPress opnieuw te installeren."
 
 #: wp-includes/ms-functions.php:159
 msgid "The requested user does not exist."
@@ -2232,13 +2232,13 @@ msgstr "Sorry, dit e-mailadres is niet toegestaan!"
 
 #: wp-includes/ms-functions.php:520
 msgid "Sorry, that username already exists!"
-msgstr "Deze gebruikersnaam bestaat al!"
+msgstr "Sorry, deze gebruikersnaam bestaat al!"
 
 #. translators: %s: Link to the login page.
 #: wp-includes/ms-functions.php:529
 #, php-format
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
-msgstr "<strong>Fout:</strong> dit e-mailadres is al geregistreerd. <a href=\"%s\">Log in</a> met dit adres of kies een ander adres."
+msgstr "<strong>Fout:</strong> Dit e-mailadres is al geregistreerd. <a href=\"%s\">Log in</a> met dit adres of kies een andere."
 
 #: wp-includes/ms-functions.php:545
 msgid "That username is currently reserved but may be available in a couple of days."
@@ -2398,14 +2398,14 @@ msgid "Hello USERNAME,\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
 msgstr "Hallo USERNAME,\n\n"
-"Uw nieuwe SITE_NAME site is succesvol klaar gezet op:\n"
+"Je nieuwe site SITE_NAME is klaar voor je op:\n"
 "BLOG_URL\n\n"
-"U kunt inloggen op het beheerdersaccount met de volgende informatie:\n\n"
+"Je kunt nu inloggen met het beheerdersaccount met de volgende informatie:\n\n"
 "Gebruikersnaam: USERNAME\n"
 "Wachtwoord: PASSWORD\n"
 "Log hier in: BLOG_URLwp-login.php\n\n"
-"Wij hopen dat u veel plezier heeft van uw nieuwe site. Dankjewel!\n\n"
-"--Het Team @ SITE_NAME"
+"We hopen dat je plezier beleeft met je nieuwe site. Bedankt.\n\n"
+"--Het team van SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2417,7 +2417,7 @@ msgstr "Nieuw %1$s site: %2$s"
 #: wp-includes/ms-functions.php:1748
 #, php-format
 msgid "[%s] New Site Created"
-msgstr "[%s] Nieuwe website aangemaakt"
+msgstr "[%s] Nieuwe site aangemaakt"
 
 #. translators: New site notification email. 1: User login, 2: Site URL, 3: Site title.
 #: wp-includes/ms-functions.php:1754
@@ -2425,7 +2425,7 @@ msgstr "[%s] Nieuwe website aangemaakt"
 msgid "New site created by %1$s\n\n"
 "Address: %2$s\n"
 "Name: %3$s"
-msgstr "Nieuwe website gemaakt door %1$s\n\n"
+msgstr "Nieuwe site aangemaakt door %1$s\n\n"
 "Adres: %2$s\n"
 "Naam: %3$s"
 
@@ -2471,13 +2471,13 @@ msgid "Hello USERNAME,\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
 msgstr "Hallo USERNAME,\n\n"
-"Je nieuwe account is opgezet.\n\n"
-"Je kunt inloggen met de volgende gegevens:\n"
+"Je nieuwe account is aangemaakt.\n\n"
+"e kunt inloggen met de volgende gegevens:\n"
 "Gebruikersnaam: USERNAME\n"
 "Wachtwoord: PASSWORD\n"
 "LOGINLINK\n\n"
-"Dankjewel!\n\n"
-"--Het Team @ SITE_NAME"
+"Bedankt.\n\n"
+"--Het team van SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
@@ -2493,13 +2493,13 @@ msgid "Hello ###USERNAME###,\n\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
 msgstr "Hallo ###USERNAME###,\n\n"
-"Je hebt onlangs verzocht om het administrator e-mailadres op uw netwerk te veranderen.\n\n"
-"Als dit juist is, klik je op de volgende link om het te veranderen: \n"
+"Je hebt onlangs aangevraagd om het e-mailadres van de netwerkbeheerder van je netwerk te wijzigen.\n\n"
+"Indien dit juist is, klik dan op de volgende link om het e-mailadres te wijzigen: \n"
 "###ADMIN_URL### \n\n"
-"Je kunt deze e-mail veilig negeren en verwijderen als u deze actie niet wilt ondernemen.\n\n"
+"Als je het e-mailadres niet wil wijzigen, kun je zonder problemen dit bericht negeren en verwijderen.\n\n"
 "Deze e-mail is verzonden naar ###EMAIL###\n\n"
 "Met vriendelijke groet,\n"
-"Iedereen op ###SITENAME###\n"
+"Iedereen van ###SITENAME###\n"
 "###SITEURL###"
 
 #. translators: Email change notification email subject. %s: Network title.
@@ -2518,11 +2518,11 @@ msgid "Hi,\n\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
 msgstr "Hallo,\n\n"
-"Dit bericht is een bevestiging dat het e-mailadres van de netwerkadmin is gewijzigd van ###SITENAME###.\n\n"
-"Het nieuwe e-mailadres van de netwerkadmin is ###NEW_EMAIL###.\n\n"
+"Dit bericht is een bevestiging dat het e-mailadres van de netwerkbeheerder is gewijzigd op ###SITENAME###.\n\n"
+"Het nieuwe e-mailadres van de netwerkbeheerder is ###NEW_EMAIL###.\n\n"
 "Dit bericht is verstuurd naar ###OLD_EMAIL###\n\n"
 "Met vriendelijke groet,\n"
-"van ###SITENAME###\n"
+"Iedereen op ###SITENAME###\n"
 "###SITEURL###"
 
 #. translators: Network admin email change notification email subject. %s: Network title.

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 06:30\n"
+"PO-Revision-Date: 2025-11-20 12:32\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3959,11 +3959,11 @@ msgstr "Sluiten herstel mode mislukt. Probeer later opnieuw."
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "Ontbrekende vereiste id sleutel in invoer tussen dependencies array."
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "Invoer in dependencies array moeten ofwel strings of arrays met een id sleutel zijn."
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
@@ -3975,13 +3975,13 @@ msgstr "De parameter %1$s moet een array zijn. Gebruik in plaats daarvan de func
 #: wp-includes/class-wp-scripts.php:805
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "Ongeldige strategie `%1$s` gedefinieerd voor `%2$s` tijdens de script registratie."
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "Kan geen strategie geven `%1$s` voor script `%2$s` omdat het een alias is (het heeft geen `src` waarde)."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -6982,7 +6982,7 @@ msgstr "Geef niet de %1$s tags door aan %2$s."
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` paramater instead."
-msgstr ""
+msgstr "Gebruik in plaats daarvan de `$args` parameter."
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -12294,31 +12294,31 @@ msgstr "De bestands-URL is naar je klembord gekopieerd"
 
 #: wp-includes/script-loader.php:837
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Bestanden slepen en neerzetten of <span class=\"filepond--label-action\">Bladeren</span>"
 
 #: wp-includes/script-loader.php:838
 msgid "Field contains invalid files"
-msgstr ""
+msgstr "Veld bevat ongeldige bestanden"
 
 #: wp-includes/script-loader.php:839
 msgid "Waiting for size"
-msgstr ""
+msgstr "Wachten op grootte"
 
 #: wp-includes/script-loader.php:840
 msgid "Size not available"
-msgstr ""
+msgstr "Grootte niet beschikbaar"
 
 #: wp-includes/script-loader.php:841
 msgid "file in list"
-msgstr ""
+msgstr "bestand in lijst"
 
 #: wp-includes/script-loader.php:842
 msgid "files in list"
-msgstr ""
+msgstr "bestanden in lijst"
 
 #: wp-includes/script-loader.php:843
 msgid "Loading"
-msgstr ""
+msgstr "Laden"
 
 #: wp-includes/script-loader.php:844
 msgid "Added"
@@ -12326,7 +12326,7 @@ msgstr "Toegevoegd"
 
 #: wp-includes/script-loader.php:845
 msgid "Error during load"
-msgstr ""
+msgstr "Fout tijdens laden"
 
 #: wp-includes/script-loader.php:846
 msgid "Removed"
@@ -12334,39 +12334,39 @@ msgstr "Verwijderd"
 
 #: wp-includes/script-loader.php:847
 msgid "Error during remove"
-msgstr ""
+msgstr "Fout tijdens verwijderen"
 
 #: wp-includes/script-loader.php:849
 msgid "Upload complete"
-msgstr ""
+msgstr "Uploaden voltooid"
 
 #: wp-includes/script-loader.php:850
 msgid "Upload cancelled"
-msgstr ""
+msgstr "Uploaden geannuleerd"
 
 #: wp-includes/script-loader.php:851
 msgid "Error during upload"
-msgstr ""
+msgstr "Fout tijdens het uploaden"
 
 #: wp-includes/script-loader.php:852
 msgid "Error during revert"
-msgstr ""
+msgstr "Fout tijdens herstellen"
 
 #: wp-includes/script-loader.php:853
 msgid "tap to cancel"
-msgstr ""
+msgstr "tik om te annuleren"
 
 #: wp-includes/script-loader.php:854
 msgid "tap to retry"
-msgstr ""
+msgstr "tik om opnieuw te proberen"
 
 #: wp-includes/script-loader.php:855
 msgid "tap to undo"
-msgstr ""
+msgstr "tik om ongedaan te maken"
 
 #: wp-includes/script-loader.php:857
 msgid "Abort"
-msgstr ""
+msgstr "Afbreken"
 
 #: wp-includes/script-loader.php:858
 #: wp-includes/script-loader.php:861
@@ -12379,7 +12379,7 @@ msgstr "Uploaden"
 
 #: wp-includes/script-loader.php:919
 msgid "Download File"
-msgstr ""
+msgstr "Bestand downloaden"
 
 #: wp-includes/script-loader.php:921
 #: wp-includes/theme.php:1661
@@ -12405,11 +12405,11 @@ msgstr "Live uitzending"
 
 #: wp-includes/script-loader.php:926
 msgid "Current time"
-msgstr ""
+msgstr "Huidige tijd"
 
 #: wp-includes/script-loader.php:927
 msgid "Total duration"
-msgstr ""
+msgstr "Totale duur"
 
 #: wp-includes/script-loader.php:928
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -12878,7 +12878,7 @@ msgstr "Uploaden mislukt"
 
 #: wp-includes/script-loader.php:1353
 msgid "Upload aborted for"
-msgstr ""
+msgstr "Upload afgebroken voor"
 
 #: wp-includes/script-loader.php:1354
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
@@ -13165,43 +13165,43 @@ msgstr "&larr; Ga naar media tags"
 
 #: wp-includes/taxonomy.php:285
 msgid "User Groups"
-msgstr ""
+msgstr "Gebruikersgroepen"
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr ""
+msgstr "Gebruikersgroep"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
-msgstr ""
+msgstr "Gebruikersgroepen zoeken"
 
 #: wp-includes/taxonomy.php:289
 msgid "All User Groups"
-msgstr ""
+msgstr "Alle gebruikersgroepen"
 
 #: wp-includes/taxonomy.php:290
 msgid "Edit User Group"
-msgstr ""
+msgstr "Gebruikersgroep bewerken"
 
 #: wp-includes/taxonomy.php:291
 msgid "Update User Group"
-msgstr ""
+msgstr "Gebruikersgroep bijwerken"
 
 #: wp-includes/taxonomy.php:292
 msgid "Add New User Group"
-msgstr ""
+msgstr "Nieuwe gebruikersgroep toevoegen"
 
 #: wp-includes/taxonomy.php:293
 msgid "New User Group Name"
-msgstr ""
+msgstr "Nieuwe gebruikersgroep naam"
 
 #: wp-includes/taxonomy.php:297
 msgid "&larr; Go to User Groups"
-msgstr ""
+msgstr "&larr; Ga naar gebruikersgroepen"
 
 #: wp-includes/taxonomy.php:298
 msgid "Filter by user group"
-msgstr ""
+msgstr "Filteren op gebruikersgroep"
 
 #: wp-includes/taxonomy.php:585
 #: wp-includes/taxonomy.php:586
@@ -14361,7 +14361,7 @@ msgstr "De bevestigingssleutel is verlopen voor deze persoonlijke gegevens aanvr
 
 #: wp-includes/user.php:5038
 msgid "Invalid User ID."
-msgstr ""
+msgstr "Ongeldige gebruikers-ID."
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -15680,11 +15680,11 @@ msgstr "Meldingen"
 
 #: wp-includes/js/dist/api-fetch.js:173
 msgid "Unable to connect. Please check your Internet connection."
-msgstr ""
+msgstr "Kan geen verbinding maken. Controleer je internetverbinding."
 
 #: wp-includes/js/dist/api-fetch.js:180
 msgid "Could not get a valid response from the server."
-msgstr ""
+msgstr "Kan geen geldig antwoord van de server ophalen."
 
 #: wp-includes/js/dist/api-fetch.js:1607
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 06:30\n"
+"PO-Revision-Date: 2025-11-20 12:32\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -56,7 +56,7 @@ msgstr "Versie %s"
 #: wp-admin/about.php:38
 #, php-format
 msgid "You must visit the <a href=\"%s\">Updates Page</a> and Press the Re-Install Now button to complete the migration process!"
-msgstr ""
+msgstr "Ga naar de <a href=\"%s\">Updatepagina</a> en klik op de knop Nu opnieuw installeren om het migratieproces te voltooien!"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -125,7 +125,7 @@ msgstr "Over ClassicPress"
 #: wp-admin/about.php:86
 #, php-format
 msgid "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is een fork van de WordPress %2$s branch, inclusief de geteste en bewezen klassieke editor interface die TinyMCE gebruikt."
 
 #: wp-admin/about.php:94
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
@@ -135,7 +135,7 @@ msgstr "Dit is al vele jaren een solide basis voor miljoenen sites, en wij gelov
 #: wp-admin/about.php:103
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "Met de <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin krijg je toegang tot plugins en thema's die speciaal voor ClassicPress zijn ontwikkeld. Deze verschijnen in het scherm Plugins > CP plugins installeren of Weergave > CP thema's installeren."
 
 #: wp-admin/about.php:108
 msgid "Join our growing community"
@@ -151,7 +151,7 @@ msgstr "Voor algemene discussie over ClassicPress, <a href=\"%1$s\"><strong>word
 #: wp-admin/about.php:123
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Als je hulp nodig hebt met iets anders, kun je onze <a href=\"%1$s\"><strong>Documentatie</strong></a> raadplegen. Als je vraag daar niet wordt beantwoord, kan je een nieuw bericht maken op ons <a href=\"%2$s\"><strong>ondersteuningsforum</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:133
@@ -171,7 +171,7 @@ msgstr "ClassicPress 2.0.0"
 #: wp-admin/about.php:146
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 2.0.0 is een fork van de WordPress %1$s branch. zie de <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release log</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:156
@@ -183,7 +183,7 @@ msgstr "ClassicPress 1.0.1 - %s"
 #: wp-admin/about.php:165
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "De wijzigingen en nieuwe functies in recente en vorige versies van ClassicPress kunnen worden gevonden in ons <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
 
 #: wp-admin/about.php:170
 msgid "ClassicPress 1.0.0"
@@ -193,7 +193,7 @@ msgstr "ClassicPress 1.0.0"
 #: wp-admin/about.php:175
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 1.0.0 is een fork van de WordPress %1$s branch. zie de <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release log</strong></a>."
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"
@@ -2486,7 +2486,7 @@ msgstr "Veel plugins kunnen persoonlijke gegevens verzamelen of opslaan in de Cl
 
 #: wp-admin/erase-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "Plugin auteurs kunnen <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\"> meer lezen over hoe support voor de persoonsgegevens wisser aan een plugin toe te voegen</a>."
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
@@ -2787,11 +2787,11 @@ msgstr "Om kopieën van je gewijzigde versies met anderen te delen."
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr ""
+msgstr "Elke plugin en elk thema in de <a href=\"%1$s\">ClassicPress.org directory</a> is gelicentieerd onder de <a href=\"%2$s\">GPL</a> of een gelijkwaardige gratis en compatibele licentie."
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
-msgstr ""
+msgstr "Als je een plugin of thema vanaf een andere bron haalt, ga dan na of het de juiste licentie heeft. Als ze de ClassicPress licentie niet respecteren, bevelen we het niet aan."
 
 #: wp-admin/freedoms.php:73
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -4013,24 +4013,24 @@ msgstr "De update kan niet worden geïnstalleerd omdat sommige bestanden niet ko
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:25
 msgid "Revision ID"
-msgstr ""
+msgstr "Revisie-ID"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:27
 msgid "Revised by"
-msgstr ""
+msgstr "Revisie door"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:28
 msgid "Date of Revision"
-msgstr ""
+msgstr "Revisie datum"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:29
 msgid "View in Modal"
-msgstr ""
+msgstr "Bekijk in modal"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:69
 #, php-format
 msgid "Select Revision %1$d"
-msgstr ""
+msgstr "Selecteer revisie %1$d"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:179
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
@@ -16046,11 +16046,11 @@ msgstr "Bestanden uploaden laat je de map en het pad kiezen waar de geüploade b
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading. By default uploads are organized into month- and year-based folders."
-msgstr ""
+msgstr "Je kunt kiezen hoe uploads worden georganiseerd na het uploaden. Standaard zijn uploads in maand- en jaarmappen georganiseerd."
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have attachment pages. An attachment page displays information about a particular media file you have uploaded to your site. You can choose to enable or disable attachment pages."
-msgstr ""
+msgstr "Mediabijlagen, waaronder afbeeldingen, audio, videobestanden, kunnen bijlagepagina's hebben. Op een bijlagepagina wordt informatie weergegeven over een bepaald mediabestand dat je naar je site hebt geüpload. Je kunt kiezen om bijlagepagina's in of uit te schakelen."
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -16164,7 +16164,7 @@ msgstr "Bijlagepagina's"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable media attachment pages?"
-msgstr ""
+msgstr "Wil je media bijlagepagina's inschakelen?"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
@@ -17131,12 +17131,12 @@ msgstr "Het zoeken naar geïnstalleerde plugins vindt plaats op basis van termen
 #: wp-admin/plugins.php:549
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins screen."
-msgstr ""
+msgstr "Met de <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin krijg je toegang tot plugins die speciaal voor ClassicPress zijn ontwikkeld. Deze verschijnen in het scherm Plugins > CP plugins installeren."
 
 #: wp-admin/plugins.php:550
 #: wp-admin/themes.php:157
 msgid "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
-msgstr ""
+msgstr "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
 
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:554
@@ -17374,7 +17374,7 @@ msgstr "&larr; Ga naar editor"
 
 #: wp-admin/revision.php:115
 msgid "Go to list of revisions &rarr;"
-msgstr ""
+msgstr "Ga naar revisielijst &rarr;"
 
 #: wp-admin/revision.php:148
 msgid "This screen is used for managing your content revisions."
@@ -17445,51 +17445,51 @@ msgstr "Er ging iets mis. De aangevraagde vergelijking kon niet worden geladen."
 
 #: wp-admin/revisions-list.php:16
 msgid "No post."
-msgstr ""
+msgstr "Geen bericht."
 
 #: wp-admin/revisions-list.php:20
 msgid "Sorry, you are not allowed to review these revisions."
-msgstr ""
+msgstr "Sorry, je mag deze revisies niet beoordelen."
 
 #: wp-admin/revisions-list.php:35
 msgid "You cannot do this."
-msgstr ""
+msgstr "Je kunt dit niet doen."
 
 #: wp-admin/revisions-list.php:42
 msgid "No revision ID."
-msgstr ""
+msgstr "Geen revisie-ID."
 
 #: wp-admin/revisions-list.php:51
 msgid "Incorrect revision ID."
-msgstr ""
+msgstr "Ongeldig revisie-ID."
 
 #: wp-admin/revisions-list.php:66
 msgid "Revisions List"
-msgstr ""
+msgstr "Revisielijst"
 
 #: wp-admin/revisions-list.php:84
 msgid "This screen enables the deletion of unwanted content revisions. Note that, however many revisions you delete, the post itself will not be deleted."
-msgstr ""
+msgstr "Met dit scherm kun je ongewenste inhoud revisies verwijderen. Houd er rekening mee dat, ongeacht het aantal revisies dat je verwijdert, het bericht zelf niet wordt verwijderd."
 
 #: wp-admin/revisions-list.php:85
 msgid "Revisions are saved copies of your post or page, which are periodically created as you update your content."
-msgstr ""
+msgstr "Revisies zijn opgeslagen kopieën van je bericht of pagina, die periodiek worden gemaakt als je de inhoud bijwerkt."
 
 #: wp-admin/revisions-list.php:86
 msgid "From this screen you can review a revision by clicking on the corresponding View button."
-msgstr ""
+msgstr "Vanaf dit scherm kun je een revisie bekijken door op de bijbehorende Bekijken knop te klikken."
 
 #: wp-admin/revisions-list.php:87
 msgid "To delete a revision, click on the corresponding Delete link."
-msgstr ""
+msgstr "Om een revisie te verwijderen klik op de corresponderende Verwijderen link."
 
 #: wp-admin/revisions-list.php:101
 msgid "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "Je kunt ook meerdere revisies tegelijk verwijderen. Selecteer de betreffende revisies via de selectievakjes, selecteer vervolgens de actie Verwijderen uit het menu Bulkacties en klik op Toepassen."
 
 #: wp-admin/revisions-list.php:107
 msgid "<a href=\"https://forums.classicpress.net/c/support/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support/\">Ondersteuningsforums</a>"
 
 #. translators: %s: Number of posts.
 #. translators: %s: Number of pages.
@@ -17498,21 +17498,21 @@ msgstr ""
 #, php-format
 msgid "%s revision permanently deleted."
 msgid_plural "%s revisions permanently deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s revisie permanent verwijderd."
+msgstr[1] "%s revisies permanent verwijderd."
 
 #: wp-admin/revisions-list.php:175
 msgid "List of Revisions of "
-msgstr ""
+msgstr "Revisielijst van "
 
 #: wp-admin/revisions-list.php:177
 msgid "&larr; Go to revisions"
-msgstr ""
+msgstr "&larr; Ga naar revisies"
 
 #: wp-admin/revisions-list.php:185
 #, php-format
 msgid "Revision ID %1$d successfully deleted."
-msgstr ""
+msgstr "Revisie-ID %1$d succesvol verwijderd."
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
@@ -18158,7 +18158,7 @@ msgstr "Thema's voor een multisite kunnen alleen via de Netwerk beheer-sectie wo
 #: wp-admin/themes.php:156
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to themes that are built for ClassicPress. They will appear in the Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "Met de <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin krijg je toegang tot thema's die speciaal voor ClassicPress zijn ontwikkeld. Deze verschijnen in het scherm Weergave > CP thema's installeren."
 
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:161

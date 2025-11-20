@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2025-11-19 18:05\n"
+"PO-Revision-Date: 2025-11-20 00:05\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -56,7 +56,7 @@ msgstr "Version %s"
 #: wp-admin/about.php:38
 #, php-format
 msgid "You must visit the <a href=\"%s\">Updates Page</a> and Press the Re-Install Now button to complete the migration process!"
-msgstr ""
+msgstr "You must visit the <a href=\"%s\">Updates Page</a> and Press the Re-Install Now button to complete the migration process!"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -125,7 +125,7 @@ msgstr "About ClassicPress"
 #: wp-admin/about.php:86
 #, php-format
 msgid "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
 
 #: wp-admin/about.php:94
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
@@ -135,7 +135,7 @@ msgstr "This has been a solid foundation for millions of sites for many years, a
 #: wp-admin/about.php:103
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
 
 #: wp-admin/about.php:108
 msgid "Join our growing community"
@@ -151,7 +151,7 @@ msgstr "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join
 #: wp-admin/about.php:123
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:133
@@ -171,7 +171,7 @@ msgstr "ClassicPress 2.0.0"
 #: wp-admin/about.php:146
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:156
@@ -183,7 +183,7 @@ msgstr "ClassicPress 1.0.1 - %s"
 #: wp-admin/about.php:165
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
 
 #: wp-admin/about.php:170
 msgid "ClassicPress 1.0.0"
@@ -193,7 +193,7 @@ msgstr "ClassicPress 1.0.0"
 #: wp-admin/about.php:175
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"
@@ -2486,7 +2486,7 @@ msgstr "Many plugins may collect or store personal data either in the ClassicPre
 
 #: wp-admin/erase-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
@@ -2787,11 +2787,11 @@ msgstr "To distribute copies of your modified versions to others."
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr ""
+msgstr "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
-msgstr ""
+msgstr "If you get a plugin or theme from another source, make sure it has the right licence. If it does not respect the ClassicPress licence, we do not recommend it."
 
 #: wp-admin/freedoms.php:73
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -4013,24 +4013,24 @@ msgstr "The update cannot be installed because some files could not be copied. T
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:25
 msgid "Revision ID"
-msgstr ""
+msgstr "Revision ID"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:27
 msgid "Revised by"
-msgstr ""
+msgstr "Revised by"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:28
 msgid "Date of Revision"
-msgstr ""
+msgstr "Date of Revision"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:29
 msgid "View in Modal"
-msgstr ""
+msgstr "View in Modal"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:69
 #, php-format
 msgid "Select Revision %1$d"
-msgstr ""
+msgstr "Select Revision %1$d"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:179
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
@@ -16047,11 +16047,11 @@ msgstr "Uploading Files allows you to choose the folder and path for storing you
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading. By default uploads are organized into month- and year-based folders."
-msgstr ""
+msgstr "You can choose how you would like uploads to be organized after uploading. By default, uploads are organized into month- and year-based folders."
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have attachment pages. An attachment page displays information about a particular media file you have uploaded to your site. You can choose to enable or disable attachment pages."
-msgstr ""
+msgstr "Media attachments, including image, audio, video files, can have attachment pages. An attachment page displays information about a particular media file you have uploaded to your site. You can choose to enable or disable attachment pages."
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -16165,7 +16165,7 @@ msgstr "Attachment Pages"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable media attachment pages?"
-msgstr ""
+msgstr "Do you want to enable media attachment pages?"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
@@ -17131,12 +17131,12 @@ msgstr "The search for installed plugins will search for terms in their name, de
 #: wp-admin/plugins.php:549
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins screen."
-msgstr ""
+msgstr "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins screen."
 
 #: wp-admin/plugins.php:550
 #: wp-admin/themes.php:157
 msgid "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
-msgstr ""
+msgstr "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
 
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:554
@@ -17374,7 +17374,7 @@ msgstr "&larr; Go to editor"
 
 #: wp-admin/revision.php:115
 msgid "Go to list of revisions &rarr;"
-msgstr ""
+msgstr "Go to list of revisions &rarr;"
 
 #: wp-admin/revision.php:148
 msgid "This screen is used for managing your content revisions."
@@ -17445,51 +17445,51 @@ msgstr "Sorry, something went wrong. The requested comparison could not be loade
 
 #: wp-admin/revisions-list.php:16
 msgid "No post."
-msgstr ""
+msgstr "No post."
 
 #: wp-admin/revisions-list.php:20
 msgid "Sorry, you are not allowed to review these revisions."
-msgstr ""
+msgstr "Sorry, you are not allowed to review these revisions."
 
 #: wp-admin/revisions-list.php:35
 msgid "You cannot do this."
-msgstr ""
+msgstr "You cannot do this."
 
 #: wp-admin/revisions-list.php:42
 msgid "No revision ID."
-msgstr ""
+msgstr "No revision ID."
 
 #: wp-admin/revisions-list.php:51
 msgid "Incorrect revision ID."
-msgstr ""
+msgstr "Incorrect revision ID."
 
 #: wp-admin/revisions-list.php:66
 msgid "Revisions List"
-msgstr ""
+msgstr "Revisions List"
 
 #: wp-admin/revisions-list.php:84
 msgid "This screen enables the deletion of unwanted content revisions. Note that, however many revisions you delete, the post itself will not be deleted."
-msgstr ""
+msgstr "This screen enables the deletion of unwanted content revisions. Note that, however many revisions you delete, the post itself will not be deleted."
 
 #: wp-admin/revisions-list.php:85
 msgid "Revisions are saved copies of your post or page, which are periodically created as you update your content."
-msgstr ""
+msgstr "Revisions are saved copies of your post or page, which are periodically created as you update your content."
 
 #: wp-admin/revisions-list.php:86
 msgid "From this screen you can review a revision by clicking on the corresponding View button."
-msgstr ""
+msgstr "From this screen you can review a revision by clicking on the corresponding View button."
 
 #: wp-admin/revisions-list.php:87
 msgid "To delete a revision, click on the corresponding Delete link."
-msgstr ""
+msgstr "To delete a revision, click on the corresponding Delete link."
 
 #: wp-admin/revisions-list.php:101
 msgid "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."
 
 #: wp-admin/revisions-list.php:107
 msgid "<a href=\"https://forums.classicpress.net/c/support/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support/\">Support forums</a>"
 
 #. translators: %s: Number of posts.
 #. translators: %s: Number of pages.
@@ -17498,21 +17498,21 @@ msgstr ""
 #, php-format
 msgid "%s revision permanently deleted."
 msgid_plural "%s revisions permanently deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s revision permanently deleted."
+msgstr[1] "%s revisions permanently deleted."
 
 #: wp-admin/revisions-list.php:175
 msgid "List of Revisions of "
-msgstr ""
+msgstr "List of Revisions of "
 
 #: wp-admin/revisions-list.php:177
 msgid "&larr; Go to revisions"
-msgstr ""
+msgstr "&larr; Go to revisions"
 
 #: wp-admin/revisions-list.php:185
 #, php-format
 msgid "Revision ID %1$d successfully deleted."
-msgstr ""
+msgstr "Revision ID %1$d successfully deleted."
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
@@ -18158,7 +18158,7 @@ msgstr "Installing themes on Multisite can only be done from the Network Admin s
 #: wp-admin/themes.php:156
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to themes that are built for ClassicPress. They will appear in the Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to themes that are built for ClassicPress. They will appear in the Appearance > Install CP Themes screen."
 
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:161

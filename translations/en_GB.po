@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2025-11-19 18:05\n"
+"PO-Revision-Date: 2025-11-20 00:05\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3959,11 +3959,11 @@ msgstr "Failed to exit recovery mode. Please try again later."
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "Missing required id key in entry among dependencies array."
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "Entries in dependencies array must be either strings or arrays with an id key."
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
@@ -3975,13 +3975,13 @@ msgstr "The %1$s parameter must be an array. To pass arbitrary data to scripts, 
 #: wp-includes/class-wp-scripts.php:805
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "Invalid strategy `%1$s` defined for `%2$s` during script registration."
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -6981,7 +6981,7 @@ msgstr "Do not pass %1$s tags to %2$s."
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` paramater instead."
-msgstr ""
+msgstr "Use the `$args` parameter instead."
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -12293,31 +12293,31 @@ msgstr "The file URL has been copied to your clipboard"
 
 #: wp-includes/script-loader.php:837
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
 
 #: wp-includes/script-loader.php:838
 msgid "Field contains invalid files"
-msgstr ""
+msgstr "Field contains invalid files"
 
 #: wp-includes/script-loader.php:839
 msgid "Waiting for size"
-msgstr ""
+msgstr "Waiting for size"
 
 #: wp-includes/script-loader.php:840
 msgid "Size not available"
-msgstr ""
+msgstr "Size not available"
 
 #: wp-includes/script-loader.php:841
 msgid "file in list"
-msgstr ""
+msgstr "file in list"
 
 #: wp-includes/script-loader.php:842
 msgid "files in list"
-msgstr ""
+msgstr "files in list"
 
 #: wp-includes/script-loader.php:843
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #: wp-includes/script-loader.php:844
 msgid "Added"
@@ -12325,7 +12325,7 @@ msgstr "Added"
 
 #: wp-includes/script-loader.php:845
 msgid "Error during load"
-msgstr ""
+msgstr "Error during load"
 
 #: wp-includes/script-loader.php:846
 msgid "Removed"
@@ -12333,39 +12333,39 @@ msgstr "Removed"
 
 #: wp-includes/script-loader.php:847
 msgid "Error during remove"
-msgstr ""
+msgstr "Error during remove"
 
 #: wp-includes/script-loader.php:849
 msgid "Upload complete"
-msgstr ""
+msgstr "Upload complete"
 
 #: wp-includes/script-loader.php:850
 msgid "Upload cancelled"
-msgstr ""
+msgstr "Upload cancelled"
 
 #: wp-includes/script-loader.php:851
 msgid "Error during upload"
-msgstr ""
+msgstr "Error during upload"
 
 #: wp-includes/script-loader.php:852
 msgid "Error during revert"
-msgstr ""
+msgstr "Error during revert"
 
 #: wp-includes/script-loader.php:853
 msgid "tap to cancel"
-msgstr ""
+msgstr "tap to cancel"
 
 #: wp-includes/script-loader.php:854
 msgid "tap to retry"
-msgstr ""
+msgstr "tap to retry"
 
 #: wp-includes/script-loader.php:855
 msgid "tap to undo"
-msgstr ""
+msgstr "tap to undo"
 
 #: wp-includes/script-loader.php:857
 msgid "Abort"
-msgstr ""
+msgstr "Abort"
 
 #: wp-includes/script-loader.php:858
 #: wp-includes/script-loader.php:861
@@ -12378,7 +12378,7 @@ msgstr "Upload"
 
 #: wp-includes/script-loader.php:919
 msgid "Download File"
-msgstr ""
+msgstr "Download File"
 
 #: wp-includes/script-loader.php:921
 #: wp-includes/theme.php:1661
@@ -12404,11 +12404,11 @@ msgstr "Live Broadcast"
 
 #: wp-includes/script-loader.php:926
 msgid "Current time"
-msgstr ""
+msgstr "Current time"
 
 #: wp-includes/script-loader.php:927
 msgid "Total duration"
-msgstr ""
+msgstr "Total duration"
 
 #: wp-includes/script-loader.php:928
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -12877,7 +12877,7 @@ msgstr "Upload failed"
 
 #: wp-includes/script-loader.php:1353
 msgid "Upload aborted for"
-msgstr ""
+msgstr "Upload aborted for"
 
 #: wp-includes/script-loader.php:1354
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
@@ -13164,43 +13164,43 @@ msgstr "&larr; Go to Media Tags"
 
 #: wp-includes/taxonomy.php:285
 msgid "User Groups"
-msgstr ""
+msgstr "User Groups"
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr ""
+msgstr "User Group"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
-msgstr ""
+msgstr "Search User Groups"
 
 #: wp-includes/taxonomy.php:289
 msgid "All User Groups"
-msgstr ""
+msgstr "All User Groups"
 
 #: wp-includes/taxonomy.php:290
 msgid "Edit User Group"
-msgstr ""
+msgstr "Edit User Group"
 
 #: wp-includes/taxonomy.php:291
 msgid "Update User Group"
-msgstr ""
+msgstr "Update User Group"
 
 #: wp-includes/taxonomy.php:292
 msgid "Add New User Group"
-msgstr ""
+msgstr "Add New User Group"
 
 #: wp-includes/taxonomy.php:293
 msgid "New User Group Name"
-msgstr ""
+msgstr "New User Group Name"
 
 #: wp-includes/taxonomy.php:297
 msgid "&larr; Go to User Groups"
-msgstr ""
+msgstr "&larr; Go to User Groups"
 
 #: wp-includes/taxonomy.php:298
 msgid "Filter by user group"
-msgstr ""
+msgstr "Filter by user group"
 
 #: wp-includes/taxonomy.php:585
 #: wp-includes/taxonomy.php:586
@@ -14362,7 +14362,7 @@ msgstr "The confirmation key has expired for this personal data request."
 
 #: wp-includes/user.php:5038
 msgid "Invalid User ID."
-msgstr ""
+msgstr "Invalid User ID."
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -15681,11 +15681,11 @@ msgstr "Notifications"
 
 #: wp-includes/js/dist/api-fetch.js:173
 msgid "Unable to connect. Please check your Internet connection."
-msgstr ""
+msgstr "Unable to connect. Please check your Internet connection."
 
 #: wp-includes/js/dist/api-fetch.js:180
 msgid "Could not get a valid response from the server."
-msgstr ""
+msgstr "Could not get a valid response from the server."
 
 #: wp-includes/js/dist/api-fetch.js:1607
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-19 18:04\n"
+"PO-Revision-Date: 2025-11-20 00:05\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -2625,7 +2625,7 @@ msgstr "Esquerda"
 #: wp-includes/media-template.php:1098
 #: wp-includes/media-template.php:1162
 msgid "Center"
-msgstr ""
+msgstr "Centralizar"
 
 #: wp-includes/class-wp-editor.php:1344
 #: wp-includes/customize/class-wp-customize-background-position-control.php:65
@@ -3453,7 +3453,7 @@ msgstr ","
 #: wp-includes/class-wp-locale.php:239
 #: wp-includes/l10n.php:1827
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
@@ -5447,7 +5447,7 @@ msgstr "Aprovado"
 #: wp-includes/comment.php:267
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-includes/comment.php:268
 msgctxt "comment status"
@@ -5928,7 +5928,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:147
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:739
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:862
@@ -7165,7 +7165,7 @@ msgstr "Citações"
 #: wp-includes/general-template.php:1708
 msgctxt "post format archive title"
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-includes/general-template.php:1710
 msgctxt "post format archive title"
@@ -7207,7 +7207,7 @@ msgstr "%1$s %2$s"
 #: wp-includes/media.php:4586
 #, php-format
 msgid "%1$s %2$d"
-msgstr ""
+msgstr "%1$s %2$d"
 
 #. translators: Calendar caption: 1: Month name, 2: 4-digit year.
 #: wp-includes/general-template.php:2288
@@ -8975,7 +8975,7 @@ msgstr "Citação"
 #: wp-includes/post-formats.php:105
 msgctxt "Post format"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: wp-includes/post-formats.php:106
 msgctxt "Post format"
@@ -9509,7 +9509,7 @@ msgstr "Modelo de página inválido."
 #: wp-includes/post.php:5072
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #: wp-includes/query.php:165
 #: wp-includes/query.php:191
@@ -9613,7 +9613,7 @@ msgstr "%1$s (desde %2$s; %3$s)"
 #: wp-includes/rest-api.php:664
 #, php-format
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/rest-api.php:1028
 msgid "Cookie check failed"
@@ -13714,7 +13714,7 @@ msgstr ""
 #: wp-includes/update.php:665
 #: wp-login.php:1317
 msgid "https://forums.classicpress.net/c/support"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support"
 
 #: wp-includes/update.php:390
 msgid "(ClassicPress could not establish a secure connection to WordPress.org. Please contact your server administrator.)"
@@ -13832,7 +13832,7 @@ msgstr ""
 #, php-format
 msgctxt "user dropdown"
 msgid "%1$s (%2$s)"
-msgstr ""
+msgstr "%1$s (%2$s)"
 
 #: wp-includes/user.php:2141
 msgid "Cannot create a user with an empty login name."
@@ -14545,7 +14545,7 @@ msgstr "A sua lista de links"
 
 #: wp-includes/widgets/class-wp-widget-links.php:29
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-includes/widgets/class-wp-widget-links.php:147
 msgid "Select Link Category:"
@@ -15110,7 +15110,7 @@ msgstr "Criar um Arquivo de Configuração"
 #: wp-login.php:72
 #, php-format
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Login screen title.
 #: wp-login.php:76

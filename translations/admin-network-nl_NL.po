@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-19 18:04\n"
+"PO-Revision-Date: 2025-11-20 00:04\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -84,8 +84,8 @@ msgstr[1] "Volwassenen <span class=\"count\">(%s)</span>"
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
@@ -116,7 +116,7 @@ msgstr "Geen spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:335
 msgid "Filter"
-msgstr ""
+msgstr "Filteren"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:358
 msgid "URL"
@@ -162,7 +162,7 @@ msgstr "%s selecteren"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:452
 #, php-format
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:474
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:495
@@ -461,8 +461,8 @@ msgstr[1] "Alles <span class=\"count\">(%s)</span>"
 #, php-format
 msgid "Super Admin <span class=\"count\">(%s)</span>"
 msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Super beheerder <span class=\"count\">(%s)</span>"
+msgstr[1] "Super beheerders <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:193
 #: wp-admin/network/site-users.php:337
@@ -648,7 +648,7 @@ msgstr "Een gebruiker selecteren"
 #: wp-admin/includes/ms.php:957
 #, php-format
 msgid "Site: %s"
-msgstr ""
+msgstr "Site: %s"
 
 #: wp-admin/includes/ms.php:961
 msgid "Delete all content."
@@ -1023,11 +1023,11 @@ msgstr "Home"
 #: wp-admin/network/menu.php:30
 #, php-format
 msgid "Updates %s"
-msgstr ""
+msgstr "Updates %s"
 
 #: wp-admin/network/menu.php:41
 msgid "Updates"
-msgstr ""
+msgstr "Updates"
 
 #: wp-admin/network/menu.php:46
 #: wp-admin/network/upgrade.php:16
@@ -1074,7 +1074,7 @@ msgstr "Thema bestand editor"
 #: wp-admin/network/menu.php:88
 #, php-format
 msgid "Plugins %s"
-msgstr ""
+msgstr "Plugins %s"
 
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
@@ -1334,7 +1334,7 @@ msgstr "Maximale upload bestandsgrootte"
 #: wp-admin/network/settings.php:442
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449
@@ -2071,7 +2071,7 @@ msgstr "Gebruikers die zijn geregistreerd op het netwerk zonder een eigen site, 
 #: wp-admin/network/user-new.php:29
 #: wp-admin/network/users.php:242
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentatie over Netwerk-gebruikers</a>"
 
 #: wp-admin/network/user-new.php:41
 msgid "Cannot create an empty user."

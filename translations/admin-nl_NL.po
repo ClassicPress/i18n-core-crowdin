@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 12:32\n"
+"PO-Revision-Date: 2025-11-20 18:31\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2787,7 +2787,7 @@ msgstr "Om kopieën van je gewijzigde versies met anderen te delen."
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr "Elke plugin en elk thema in de <a href=\"%1$s\">ClassicPress.org directory</a> is gelicentieerd onder de <a href=\"%2$s\">GPL</a> of een gelijkwaardige gratis en compatibele licentie."
+msgstr "Elke plugin en elk thema in de <a href=\"%1$s\">ClassicPress Directory</a> is gelicentieerd onder de <a href=\"%2$s\">GPL</a> of een gelijkwaardige gratis en compatibele licentie."
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
@@ -17481,7 +17481,7 @@ msgstr "Vanaf dit scherm kun je een revisie bekijken door op de bijbehorende Bek
 
 #: wp-admin/revisions-list.php:87
 msgid "To delete a revision, click on the corresponding Delete link."
-msgstr "Om een revisie te verwijderen klik op de corresponderende Verwijderen link."
+msgstr "Om een revisie te verwijderen klik op de bijbehorende Verwijderen link."
 
 #: wp-admin/revisions-list.php:101
 msgid "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2025-11-19 18:03\n"
+"PO-Revision-Date: 2025-11-20 00:04\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -2298,32 +2298,32 @@ msgstr "Tento název není povolen."
 #, php-format
 msgid "Site name must be at least %s character."
 msgid_plural "Site name must be at least %s characters."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
+msgstr[0] "Název webu musí obsahovat alespoň %s znak."
+msgstr[1] "Název webu musí obsahovat alespoň %s znaky."
+msgstr[2] "Název webu musí obsahovat alespoň %s znaků."
+msgstr[3] "Název webu musí obsahovat alespoň %s znaků."
 
 #: wp-includes/ms-functions.php:672
 msgid "Sorry, you may not use that site name."
-msgstr ""
+msgstr "Omlouváme se, ale tento název webu nelze použít."
 
 #: wp-includes/ms-functions.php:677
 msgid "Sorry, site names must have letters too!"
-msgstr ""
+msgstr "Omlouváme se, názvy stránek musí obsahovat také písmena!"
 
 #: wp-includes/ms-functions.php:695
 msgid "Please enter a site title."
-msgstr ""
+msgstr "Zadejte název webu."
 
 #: wp-includes/ms-functions.php:707
 #: wp-includes/ms-functions.php:1372
 #: wp-includes/ms-site.php:624
 msgid "Sorry, that site already exists!"
-msgstr ""
+msgstr "Omlouváme se, tento web již existuje!"
 
 #: wp-includes/ms-functions.php:716
 msgid "Sorry, that site is reserved!"
-msgstr ""
+msgstr "Omlouváme se, ale tento web je rezervován!"
 
 #: wp-includes/ms-functions.php:735
 msgid "That site is currently reserved but may be available in a couple days."

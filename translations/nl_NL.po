@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 12:32\n"
+"PO-Revision-Date: 2025-11-20 18:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3981,7 +3981,7 @@ msgstr "Ongeldige strategie `%1$s` gedefinieerd voor `%2$s` tijdens de script re
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr "Kan geen strategie geven `%1$s` voor script `%2$s` omdat het een alias is (het heeft geen `src` waarde)."
+msgstr "Kan geen strategie `%1$s` geven voor script `%2$s` omdat het een alias is (het heeft geen `src` waarde)."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556

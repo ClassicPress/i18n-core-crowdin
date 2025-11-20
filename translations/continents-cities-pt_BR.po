@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 40\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-19 18:04\n"
+"PO-Revision-Date: 2025-11-20 00:05\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -709,7 +709,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:185
 msgid "Center"
-msgstr ""
+msgstr "Centralizar"
 
 #: wp-admin/includes/continents-cities.php:186
 msgid "New Salem"

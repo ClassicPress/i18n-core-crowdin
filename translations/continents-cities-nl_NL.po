@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 40\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 00:04\n"
+"PO-Revision-Date: 2025-11-20 06:30\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -393,7 +393,7 @@ msgstr "Cayenne"
 
 #: wp-admin/includes/continents-cities.php:106
 msgid "Cayman"
-msgstr "Kaaiman"
+msgstr "Kaaimaneilanden"
 
 #: wp-admin/includes/continents-cities.php:107
 msgid "Chicago"
@@ -653,7 +653,7 @@ msgstr "Metlakatla"
 
 #: wp-admin/includes/continents-cities.php:171
 msgid "Mexico City"
-msgstr "Mexicostad"
+msgstr "Mexico-Stad"
 
 #: wp-admin/includes/continents-cities.php:172
 msgid "Miquelon"
@@ -709,7 +709,7 @@ msgstr "Beulah"
 
 #: wp-admin/includes/continents-cities.php:185
 msgid "Center"
-msgstr "Gecentreerd"
+msgstr "Center"
 
 #: wp-admin/includes/continents-cities.php:186
 msgid "New Salem"
@@ -813,7 +813,7 @@ msgstr "Sao Paulo"
 
 #: wp-admin/includes/continents-cities.php:211
 msgid "Scoresbysund"
-msgstr "Ittoqqortoormiit"
+msgstr "Scoresbysund"
 
 #: wp-admin/includes/continents-cities.php:212
 msgid "Shiprock"
@@ -825,11 +825,11 @@ msgstr "Sitka"
 
 #: wp-admin/includes/continents-cities.php:214
 msgid "St Barthelemy"
-msgstr "Sint-Bartholomeus"
+msgstr "Saint-Barthélemy"
 
 #: wp-admin/includes/continents-cities.php:215
 msgid "St Johns"
-msgstr "St. John's"
+msgstr "Saint John’s"
 
 #: wp-admin/includes/continents-cities.php:216
 msgid "St Kitts"
@@ -845,7 +845,7 @@ msgstr "Saint Thomas"
 
 #: wp-admin/includes/continents-cities.php:219
 msgid "St Vincent"
-msgstr "Saint Vincent en de Grenadines"
+msgstr "Saint Vincent"
 
 #: wp-admin/includes/continents-cities.php:220
 msgid "Swift Current"
@@ -881,7 +881,7 @@ msgstr "Vancouver"
 
 #: wp-admin/includes/continents-cities.php:228
 msgid "Virgin"
-msgstr "Maagden"
+msgstr "Virgin"
 
 #: wp-admin/includes/continents-cities.php:229
 msgid "Whitehorse"
@@ -921,7 +921,7 @@ msgstr "Macquarie"
 
 #: wp-admin/includes/continents-cities.php:239
 msgid "Mawson"
-msgstr "Mawson Peak"
+msgstr "Mawson Station"
 
 #: wp-admin/includes/continents-cities.php:240
 msgid "McMurdo"
@@ -953,7 +953,7 @@ msgstr "Vostok"
 
 #: wp-admin/includes/continents-cities.php:248
 msgid "Arctic"
-msgstr "Arctis"
+msgstr "Noordpoolgebied"
 
 #: wp-admin/includes/continents-cities.php:249
 msgid "Longyearbyen"
@@ -1037,7 +1037,7 @@ msgstr "Calcutta"
 
 #: wp-admin/includes/continents-cities.php:270
 msgid "Chita"
-msgstr "Tsjita"
+msgstr "Chita"
 
 #: wp-admin/includes/continents-cities.php:271
 msgid "Choibalsan"
@@ -1045,7 +1045,7 @@ msgstr "Choibalsan"
 
 #: wp-admin/includes/continents-cities.php:272
 msgid "Chongqing"
-msgstr "Tsjoengking"
+msgstr "Chongqing"
 
 #: wp-admin/includes/continents-cities.php:273
 msgid "Chungking"
@@ -1125,7 +1125,7 @@ msgstr "Jeruzalem"
 
 #: wp-admin/includes/continents-cities.php:292
 msgid "Kabul"
-msgstr "Kaboel"
+msgstr "Kabul"
 
 #: wp-admin/includes/continents-cities.php:293
 msgid "Kamchatka"
@@ -1145,7 +1145,7 @@ msgstr "Kathmandu"
 
 #: wp-admin/includes/continents-cities.php:297
 msgid "Katmandu"
-msgstr "Kathmandu"
+msgstr "Katmandoe"
 
 #: wp-admin/includes/continents-cities.php:298
 msgid "Khandyga"
@@ -1217,7 +1217,7 @@ msgstr "Oral"
 
 #: wp-admin/includes/continents-cities.php:315
 msgid "Phnom Penh"
-msgstr "Phnom-Penh"
+msgstr "Phnom Penh"
 
 #: wp-admin/includes/continents-cities.php:316
 msgid "Pontianak"
@@ -1345,7 +1345,7 @@ msgstr "Jakoetsk"
 
 #: wp-admin/includes/continents-cities.php:347
 msgid "Yangon"
-msgstr "Rangoon"
+msgstr "Yangon"
 
 #: wp-admin/includes/continents-cities.php:348
 msgid "Yekaterinburg"
@@ -1357,7 +1357,7 @@ msgstr "Yerevan"
 
 #: wp-admin/includes/continents-cities.php:351
 msgid "Atlantic"
-msgstr "Atlantische"
+msgstr "Atlantische Oceaan"
 
 #: wp-admin/includes/continents-cities.php:352
 msgid "Azores"
@@ -1369,7 +1369,7 @@ msgstr "Bermuda"
 
 #: wp-admin/includes/continents-cities.php:354
 msgid "Canary"
-msgstr "Canarische"
+msgstr "Canarische Eilanden"
 
 #: wp-admin/includes/continents-cities.php:355
 msgid "Cape Verde"
@@ -1377,7 +1377,7 @@ msgstr "Kaapverdië"
 
 #: wp-admin/includes/continents-cities.php:356
 msgid "Faeroe"
-msgstr "Faroe"
+msgstr "Faeröer"
 
 #: wp-admin/includes/continents-cities.php:357
 msgid "Faroe"
@@ -1397,7 +1397,7 @@ msgstr "Reykjavik"
 
 #: wp-admin/includes/continents-cities.php:361
 msgid "South Georgia"
-msgstr "Zuid-Geogi&#235;"
+msgstr "Zuid-Georgië"
 
 #: wp-admin/includes/continents-cities.php:362
 msgid "St Helena"
@@ -1505,7 +1505,7 @@ msgstr "Yancowinna"
 
 #: wp-admin/includes/continents-cities.php:390
 msgid "Etc"
-msgstr "Enz"
+msgstr "ETC"
 
 #: wp-admin/includes/continents-cities.php:391
 msgid "GMT"
@@ -1689,7 +1689,7 @@ msgstr "Brussel"
 
 #: wp-admin/includes/continents-cities.php:437
 msgid "Bucharest"
-msgstr "Boekarest "
+msgstr "Boekarest"
 
 #: wp-admin/includes/continents-cities.php:438
 msgid "Budapest"
@@ -1725,7 +1725,7 @@ msgstr "Helsinki"
 
 #: wp-admin/includes/continents-cities.php:446
 msgid "Isle of Man"
-msgstr "Man"
+msgstr "Isle of Man"
 
 #: wp-admin/includes/continents-cities.php:447
 msgid "Istanbul"
@@ -1741,7 +1741,7 @@ msgstr "Kaliningrad"
 
 #: wp-admin/includes/continents-cities.php:450
 msgid "Kiev"
-msgstr "Kiëv"
+msgstr "Kiev"
 
 #: wp-admin/includes/continents-cities.php:451
 msgid "Kyiv"
@@ -1905,7 +1905,7 @@ msgstr "Zürich"
 
 #: wp-admin/includes/continents-cities.php:492
 msgid "Indian"
-msgstr "Indische"
+msgstr "Indische Oceaan"
 
 #: wp-admin/includes/continents-cities.php:493
 msgid "Antananarivo"
@@ -1917,7 +1917,7 @@ msgstr "Chagosarchipel"
 
 #: wp-admin/includes/continents-cities.php:495
 msgid "Christmas"
-msgstr "Kerst"
+msgstr "Christmaseiland"
 
 #: wp-admin/includes/continents-cities.php:496
 msgid "Cocos"
@@ -1977,7 +1977,7 @@ msgstr "Chuuk"
 
 #: wp-admin/includes/continents-cities.php:511
 msgid "Easter"
-msgstr "Paas"
+msgstr "Paaseiland"
 
 #: wp-admin/includes/continents-cities.php:512
 msgid "Efate"

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-11-19 18:03\n"
+"PO-Revision-Date: 2025-11-20 00:04\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -2400,7 +2400,15 @@ msgid "Hello USERNAME,\n\n"
 "Log in here: BLOG_URLwp-login.php\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihre neue SITE_NAME Seite wurde erfolgreich eingerichtet unter:\n"
+"BLOG_URL\n\n"
+"Sie können sich in das Administratorkonto mit den folgenden Informationen einloggen:\n\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"Anmelden hier: BLOG_URLwp-login. hp\n\n"
+"Wir hoffen, dass dir deine neue Seite gefällt. Danke!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2465,7 +2473,14 @@ msgid "Hello USERNAME,\n\n"
 "LOGINLINK\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Hallo BENUTZERNAME,\n\n"
+"Ihr neues Konto wurde eingerichtet.\n\n"
+"Sie können sich mit den folgenden Informationen anmelden:\n"
+"Benutzername: USERNAME\n"
+"Passwort: PASSWORD\n"
+"LOGINLINK\n\n"
+"Vielen Dank!\n\n"
+"--Das Team @ SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
@@ -2480,7 +2495,17 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Hallo ###USERNAME###,\n\n"
+"Du hast kürzlich angefordert, die Netzwerk-Admin-E-Mail-Adresse auf\n"
+"deines Netzwerks zu ändern.\n\n"
+"Wenn dies richtig ist, Bitte klicken Sie auf den folgenden Link, um ihn zu ändern:\n"
+"###ADMIN_URL###\n\n"
+"Sie können diese E-Mail sicher ignorieren und löschen, wenn Sie nicht\n"
+"diese Aktion ausführen möchten.\n\n"
+"Diese E-Mail wurde an ###EMAIL###\n\n"
+"Mit freundlichen Grüßen,\n"
+"Alles um ###SITENAME###\n"
+"###SITEURL### gesendet"
 
 #. translators: Email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2787

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-20 18:31\n"
+"PO-Revision-Date: 2025-11-21 11:13\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -171,7 +171,7 @@ msgstr "ClassicPress 2.0.0"
 #: wp-admin/about.php:146
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr "ClassicPress 2.0.0 is een fork van de WordPress %1$s branch. zie de <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release log</strong></a>."
+msgstr "ClassicPress 2.0.0 is een fork van de WordPress %1$s branch. Zie de <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release log</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:156
@@ -193,7 +193,7 @@ msgstr "ClassicPress 1.0.0"
 #: wp-admin/about.php:175
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr "ClassicPress 1.0.0 is een fork van de WordPress %1$s branch. zie de <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release log</strong></a>."
+msgstr "ClassicPress 1.0.0 is een fork van de WordPress %1$s branch. Zie de <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release log</strong></a>."
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-11-21 11:13\n"
+"PO-Revision-Date: 2025-11-21 17:13\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -4025,7 +4025,7 @@ msgstr "Revisie datum"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:29
 msgid "View in Modal"
-msgstr "Bekijk in modal"
+msgstr "Bekijk in dialoogvenster"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:69
 #, php-format
@@ -15457,7 +15457,7 @@ msgstr "Dit scherm biedt vele mogelijkheden om het beheer en de weergave van rea
 #: wp-admin/options-reading.php:37
 #: wp-admin/options-writing.php:25
 msgid "You must click the Save Changes button at the bottom of the screen for new settings to take effect."
-msgstr "Je moet onder aan het scherm op de Wijzigingen opslaan knop klikken om nieuwe instellingen door te voeren."
+msgstr "Je moet onderaan het scherm op de Wijzigingen opslaan knop klikken om nieuwe instellingen door te voeren."
 
 #: wp-admin/options-discussion.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-discussion-screen/\">Documentation on Discussion Settings</a>"
@@ -18992,7 +18992,7 @@ msgstr "<strong>Kopieer URL</strong> kopieert de URL voor het mediabestand naar 
 
 #: wp-admin/upload.php:807
 msgid "<strong>Download file</strong> downloads the original media file to your device."
-msgstr "<strong>Bestand downloaden</strong> downloadt het originele mediabestand naar je apparaat."
+msgstr "<strong>Download bestand</strong> downloadt het originele mediabestand naar je apparaat."
 
 #: wp-admin/upload.php:814
 msgid "Attaching Files"

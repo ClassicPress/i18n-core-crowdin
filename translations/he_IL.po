@@ -1,23 +1,23 @@
-# Copyright (C) 2024 ClassicPress
+# Copyright (C) 2025 ClassicPress
 # This file is distributed under the same license as the ClassicPress package.
 msgid ""
 msgstr ""
 "Project-Id-Version: 485292edd2bb12fd433f184daea7ce95\n"
-"Report-Msgid-Bugs-To: https://forums.classicpress.net/c/team-discussions/internationalisation/42\n"
+"Report-Msgid-Bugs-To: https://https://forums.classicpress.net/c/projects/localization/42\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-08-14T11:07:58+00:00\n"
+"POT-Creation-Date: 2025-11-19T16:55:52+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: he\n"
-"X-Crowdin-File: /v2.5/en_US.pot\n"
-"X-Crowdin-File-ID: 24\n"
+"X-Crowdin-File: /v2.6/en_US.pot\n"
+"X-Crowdin-File-ID: 34\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-16 17:43\n"
+"PO-Revision-Date: 2025-11-20 00:04\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -251,12 +251,12 @@ msgstr[3] ""
 
 #: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-widgets.php:416
-#: wp-includes/functions.php:5354
+#: wp-includes/functions.php:5378
 msgid "Widgets"
 msgstr "וידג'טים"
 
 #: wp-includes/admin-bar.php:1030
-#: wp-includes/class-wp-customize-nav-menus.php:673
+#: wp-includes/class-wp-customize-nav-menus.php:679
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:113
 msgid "Menus"
 msgstr "תפריטים"
@@ -283,8 +283,8 @@ msgstr[3] ""
 #: wp-includes/admin-bar.php:1115
 #: wp-includes/admin-bar.php:1117
 #: wp-includes/class-wp-editor.php:1911
-#: wp-includes/media.php:4659
-#: wp-includes/media.php:4704
+#: wp-includes/media.php:4662
+#: wp-includes/media.php:4707
 #: wp-includes/widgets.php:2160
 msgid "Search"
 msgstr "חיפוש"
@@ -600,9 +600,9 @@ msgstr "התגובה ממתינה לאישור. זוהי תצוגה מקדימה
 #. translators: %d: ID of a term.
 #: wp-includes/class-walker-page-dropdown.php:80
 #: wp-includes/class-walker-page.php:163
-#: wp-includes/class-wp-customize-nav-menus.php:238
-#: wp-includes/class-wp-customize-nav-menus.php:399
-#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:277
+#: wp-includes/class-wp-customize-nav-menus.php:240
+#: wp-includes/class-wp-customize-nav-menus.php:405
+#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:296
 #: wp-includes/nav-menu.php:866
 #: wp-includes/nav-menu.php:908
 #: wp-includes/nav-menu.php:955
@@ -651,7 +651,7 @@ msgid "Could not delete application passwords."
 msgstr "לא ניתן היה למחוק סיסמאות לאפליקציה."
 
 #: wp-includes/class-wp-customize-control.php:590
-#: wp-includes/class-wp-customize-nav-menus.php:707
+#: wp-includes/class-wp-customize-nav-menus.php:713
 #: wp-includes/widgets/class-wp-nav-menu-widget.php:172
 msgid "&mdash; Select &mdash;"
 msgstr "&mdash; בחירה &mdash;"
@@ -672,25 +672,25 @@ msgid "New page title&hellip;"
 msgstr "כותרת חדשה&hellip;"
 
 #: wp-includes/class-wp-customize-control.php:643
-#: wp-includes/class-wp-customize-nav-menus.php:1245
+#: wp-includes/class-wp-customize-nav-menus.php:1251
 msgid "Add"
 msgstr "להוסיף"
 
 #: wp-includes/class-wp-customize-manager.php:450
 #: wp-includes/class-wp-xmlrpc-server.php:4009
-#: wp-includes/functions.php:3599
+#: wp-includes/functions.php:3602
 #: wp-includes/script-loader.php:606
-#: wp-includes/script-loader.php:1111
+#: wp-includes/script-loader.php:1134
 msgid "Something went wrong."
 msgstr "משהו השתבש."
 
 #: wp-includes/class-wp-customize-manager.php:515
-#: wp-includes/script-loader.php:1112
+#: wp-includes/script-loader.php:1135
 msgid "You need a higher level of permission."
 msgstr "אתה צריך הרשאות משתמש גבוהות יותר."
 
 #: wp-includes/class-wp-customize-manager.php:516
-#: wp-includes/script-loader.php:1113
+#: wp-includes/script-loader.php:1136
 msgid "Sorry, you are not allowed to customize this site."
 msgstr "אין לך הרשאות לערוך עיצוב באמצעות ההתאמה האישית."
 
@@ -739,7 +739,7 @@ msgstr "אין לך הרשאות לשנות את ההגדרה."
 
 #: wp-includes/class-wp-customize-manager.php:2380
 #: wp-includes/class-wp-customize-setting.php:594
-#: wp-includes/script-loader.php:1155
+#: wp-includes/script-loader.php:1178
 msgid "Invalid value."
 msgstr "ערך שגוי."
 
@@ -754,14 +754,14 @@ msgstr "השינויים הקודמים כבר פורסמו. יש לנסות ל�
 
 #: wp-includes/class-wp-customize-manager.php:2675
 #: wp-includes/class-wp-customize-manager.php:2690
-#: wp-includes/script-loader.php:1104
+#: wp-includes/script-loader.php:1127
 msgid "You must supply a future date to schedule."
 msgstr "יש לספק תאריך עתידי לתזמון."
 
 #. translators: %s: Number of invalid settings.
 #: wp-includes/class-wp-customize-manager.php:2794
-#: wp-includes/script-loader.php:1141
-#: wp-includes/script-loader.php:1143
+#: wp-includes/script-loader.php:1164
+#: wp-includes/script-loader.php:1166
 #, php-format
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
@@ -876,7 +876,7 @@ msgstr "קישור לתצוגה מקדימה"
 #: wp-includes/class-wp-customize-manager.php:5694
 #: wp-includes/class-wp-customize-manager.php:5715
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:58
-#: wp-includes/functions.php:8260
+#: wp-includes/functions.php:8320
 #: wp-includes/media-template.php:167
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303
@@ -908,17 +908,17 @@ msgid "Live Preview: %s"
 msgstr "תצוגה מקדימה: %s"
 
 #: wp-includes/class-wp-customize-manager.php:4847
-#: wp-includes/script-loader.php:1095
+#: wp-includes/script-loader.php:1118
 msgid "Publish"
 msgstr "פרסום"
 
 #: wp-includes/class-wp-customize-manager.php:4852
-#: wp-includes/script-loader.php:1097
+#: wp-includes/script-loader.php:1120
 msgid "Save Draft"
 msgstr "שמירת טיוטה"
 
 #: wp-includes/class-wp-customize-manager.php:4857
-#: wp-includes/script-loader.php:1100
+#: wp-includes/script-loader.php:1123
 msgctxt "customizer changeset action/button label"
 msgid "Schedule"
 msgstr "תיזמון פרסום"
@@ -1024,7 +1024,8 @@ msgstr "החלפת לוגו"
 #: wp-includes/customize/class-wp-customize-media-control.php:259
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:152
 #: wp-includes/media-template.php:628
-#: wp-includes/media.php:4664
+#: wp-includes/media.php:4667
+#: wp-includes/script-loader.php:856
 msgid "Remove"
 msgstr "הסרה"
 
@@ -1226,10 +1227,9 @@ msgstr "שדה העריכה מדגיש באופן אוטומטי את תחביר
 #: wp-includes/class-wp-editor.php:1191
 #: wp-includes/class-wp-editor.php:1888
 #: wp-includes/script-loader.php:771
-#: wp-includes/script-loader.php:877
-#: wp-includes/script-loader.php:1108
-#: wp-includes/script-loader.php:1267
-#: wp-includes/script-loader.php:1648
+#: wp-includes/script-loader.php:1131
+#: wp-includes/script-loader.php:1290
+#: wp-includes/script-loader.php:1696
 msgid "Close"
 msgstr "סגור"
 
@@ -1281,37 +1281,37 @@ msgid "Please enter a valid YouTube URL."
 msgstr "יש להזין קישור יוטיוב חוקית."
 
 #: wp-includes/class-wp-customize-nav-menus.php:167
-#: wp-includes/class-wp-customize-nav-menus.php:451
+#: wp-includes/class-wp-customize-nav-menus.php:457
 msgctxt "nav menu home label"
 msgid "Home"
 msgstr "ראשי"
 
 #: wp-includes/class-wp-customize-nav-menus.php:169
-#: wp-includes/class-wp-customize-nav-menus.php:458
-#: wp-includes/class-wp-customize-nav-menus.php:507
-#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:321
+#: wp-includes/class-wp-customize-nav-menus.php:464
+#: wp-includes/class-wp-customize-nav-menus.php:513
+#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:339
 #: wp-includes/nav-menu.php:914
 msgid "Custom Link"
 msgstr "קישור מותאם"
 
-#: wp-includes/class-wp-customize-nav-menus.php:198
-#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:319
+#: wp-includes/class-wp-customize-nav-menus.php:200
+#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:337
 #: wp-includes/nav-menu.php:881
 msgid "Post Type Archive"
 msgstr "ארכיון סוגי תוכן"
 
-#: wp-includes/class-wp-customize-nav-menus.php:336
+#: wp-includes/class-wp-customize-nav-menus.php:342
 #: wp-includes/script-loader.php:732
-#: wp-includes/script-loader.php:1064
+#: wp-includes/script-loader.php:1087
 msgid "No results found."
 msgstr "לא נמצאו תוצאות."
 
-#: wp-includes/class-wp-customize-nav-menus.php:494
+#: wp-includes/class-wp-customize-nav-menus.php:500
 msgid "Your theme can display menus in one location."
 msgstr "התבנית יכולה להציג תפריטים במיקום אחד."
 
 #. translators: %s: Number of menu locations.
-#: wp-includes/class-wp-customize-nav-menus.php:497
+#: wp-includes/class-wp-customize-nav-menus.php:503
 #, php-format
 msgid "Your theme can display menus in %s location."
 msgid_plural "Your theme can display menus in %s locations."
@@ -1320,75 +1320,75 @@ msgstr[1] "התבנית יכולה להציג תפריטים ב-%s מיקומי�
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/class-wp-customize-nav-menus.php:505
+#: wp-includes/class-wp-customize-nav-menus.php:511
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
 msgstr "(ללא תווית)"
 
-#: wp-includes/class-wp-customize-nav-menus.php:506
+#: wp-includes/class-wp-customize-nav-menus.php:512
 #: wp-includes/customize/class-wp-customize-nav-menu-setting.php:440
 msgctxt "Missing menu name."
 msgid "(unnamed)"
 msgstr "(ללא שם)"
 
 #. translators: %s: Menu location.
-#: wp-includes/class-wp-customize-nav-menus.php:510
+#: wp-includes/class-wp-customize-nav-menus.php:516
 #, php-format
 msgctxt "menu"
 msgid "(Currently set to: %s)"
 msgstr "(מוגדר עבור: %s)"
 
-#: wp-includes/class-wp-customize-nav-menus.php:511
+#: wp-includes/class-wp-customize-nav-menus.php:517
 msgid "Menu Location"
 msgstr "מיקום תפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:511
+#: wp-includes/class-wp-customize-nav-menus.php:517
 msgid "Menu Locations"
 msgstr "מיקום תפריטים"
 
-#: wp-includes/class-wp-customize-nav-menus.php:513
+#: wp-includes/class-wp-customize-nav-menus.php:519
 msgid "Menu Name"
 msgstr "שם התפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:514
+#: wp-includes/class-wp-customize-nav-menus.php:520
 msgid "If your theme has multiple menus, giving them clear names will help you manage them."
 msgstr "אם התבנית כוללת תפריטים מרובים, מתן שמות ברורים יעזור לנהל אותם."
 
-#: wp-includes/class-wp-customize-nav-menus.php:515
+#: wp-includes/class-wp-customize-nav-menus.php:521
 msgid "Menu item added"
 msgstr "פריט תפריט התווסף"
 
-#: wp-includes/class-wp-customize-nav-menus.php:516
+#: wp-includes/class-wp-customize-nav-menus.php:522
 msgid "Menu item deleted"
 msgstr "פריט תפריט נמחק"
 
-#: wp-includes/class-wp-customize-nav-menus.php:517
+#: wp-includes/class-wp-customize-nav-menus.php:523
 msgid "Menu created"
 msgstr "נוצר תפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:518
+#: wp-includes/class-wp-customize-nav-menus.php:524
 msgid "Menu deleted"
 msgstr "תפריט נמחק"
 
-#: wp-includes/class-wp-customize-nav-menus.php:519
+#: wp-includes/class-wp-customize-nav-menus.php:525
 msgid "Menu item moved up"
 msgstr "פריט בתפריט הועבר למעלה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:520
+#: wp-includes/class-wp-customize-nav-menus.php:526
 msgid "Menu item moved down"
 msgstr "פריט בתפריט הועבר למטה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:521
+#: wp-includes/class-wp-customize-nav-menus.php:527
 msgid "Menu item moved out of submenu"
 msgstr "פריט בתפריט הועבר מחוץ לתפריט המשנה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:522
+#: wp-includes/class-wp-customize-nav-menus.php:528
 msgid "Menu item is now a sub-item"
 msgstr "הפריט עכשיו תת-פריט"
 
 #. translators: &#9656; is the unicode right-pointing triangle. %s: Section title in the Customizer.
-#: wp-includes/class-wp-customize-nav-menus.php:524
-#: wp-includes/class-wp-customize-nav-menus.php:1160
+#: wp-includes/class-wp-customize-nav-menus.php:530
+#: wp-includes/class-wp-customize-nav-menus.php:1166
 #: wp-includes/class-wp-customize-section.php:246
 #: wp-includes/class-wp-customize-widgets.php:842
 #, php-format
@@ -1396,120 +1396,120 @@ msgid "Customizing &#9656; %s"
 msgstr "התאמת &#9666; %s"
 
 #. translators: %s: Title of an invalid menu item.
-#: wp-includes/class-wp-customize-nav-menus.php:526
+#: wp-includes/class-wp-customize-nav-menus.php:532
 #, php-format
 msgid "%s (Invalid)"
 msgstr "%s (שגוי)"
 
 #. translators: %s: Title of a menu item in draft status.
-#: wp-includes/class-wp-customize-nav-menus.php:528
+#: wp-includes/class-wp-customize-nav-menus.php:534
 #, php-format
 msgid "%s (Pending)"
 msgstr "%s (בהמתנה)"
 
 #. translators: %d: Number of menu items found.
-#: wp-includes/class-wp-customize-nav-menus.php:530
+#: wp-includes/class-wp-customize-nav-menus.php:536
 #, php-format
 msgid "Number of items found: %d"
 msgstr "מספר פריטים שנמצאו: %d"
 
 #. translators: %d: Number of additional menu items found.
-#: wp-includes/class-wp-customize-nav-menus.php:532
+#: wp-includes/class-wp-customize-nav-menus.php:538
 #, php-format
 msgid "Additional items found: %d"
 msgstr "פריטים נוספים שנמצאו: %d"
 
-#: wp-includes/class-wp-customize-nav-menus.php:533
+#: wp-includes/class-wp-customize-nav-menus.php:539
 msgid "Loading more results... please wait."
 msgstr "טוען תוצאות נוספות... נא להמתין."
 
-#: wp-includes/class-wp-customize-nav-menus.php:534
+#: wp-includes/class-wp-customize-nav-menus.php:540
 #: wp-includes/class-wp-customize-widgets.php:789
 msgid "Reorder mode enabled"
 msgstr "מצב סידור מחדש מופעל"
 
-#: wp-includes/class-wp-customize-nav-menus.php:535
+#: wp-includes/class-wp-customize-nav-menus.php:541
 #: wp-includes/class-wp-customize-widgets.php:790
 msgid "Reorder mode closed"
 msgstr "מצב סידור מחדש נסגר"
 
-#: wp-includes/class-wp-customize-nav-menus.php:536
+#: wp-includes/class-wp-customize-nav-menus.php:542
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:55
 msgid "Reorder menu items"
 msgstr "סידור מחדש פריטי תפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:537
+#: wp-includes/class-wp-customize-nav-menus.php:543
 msgid "Close reorder mode"
 msgstr "סגירת מצב סידור מחדש"
 
-#: wp-includes/class-wp-customize-nav-menus.php:554
+#: wp-includes/class-wp-customize-nav-menus.php:560
 msgid "Move up one"
 msgstr "העבר אחד למעלה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:555
+#: wp-includes/class-wp-customize-nav-menus.php:561
 msgid "Move down one"
 msgstr "העבר אחד למטה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:556
+#: wp-includes/class-wp-customize-nav-menus.php:562
 msgid "Move to the top"
 msgstr "העבר למעלה"
 
 #. translators: %s: Previous item name.
-#: wp-includes/class-wp-customize-nav-menus.php:558
+#: wp-includes/class-wp-customize-nav-menus.php:564
 #, php-format
 msgid "Move under %s"
 msgstr "העבר לתוך %s"
 
 #. translators: %s: Previous item name.
-#: wp-includes/class-wp-customize-nav-menus.php:560
+#: wp-includes/class-wp-customize-nav-menus.php:566
 #, php-format
 msgid "Move out from under %s"
 msgstr "להוציא מתוך %s"
 
 #. translators: %s: Previous item name.
-#: wp-includes/class-wp-customize-nav-menus.php:562
+#: wp-includes/class-wp-customize-nav-menus.php:568
 #, php-format
 msgid "Under %s"
 msgstr "בתוך %s"
 
 #. translators: %s: Previous item name.
-#: wp-includes/class-wp-customize-nav-menus.php:564
+#: wp-includes/class-wp-customize-nav-menus.php:570
 #, php-format
 msgid "Out from under %s"
 msgstr "להוציא מתוך %s"
 
 #. translators: 1: Item name, 2: Item position, 3: Total number of items.
-#: wp-includes/class-wp-customize-nav-menus.php:566
+#: wp-includes/class-wp-customize-nav-menus.php:572
 #, php-format
 msgid "%1$s. Menu item %2$d of %3$d."
 msgstr "%1$s. פריט %2$d של %3$d."
 
 #. translators: 1: Item name, 2: Item position, 3: Parent item name.
-#: wp-includes/class-wp-customize-nav-menus.php:568
+#: wp-includes/class-wp-customize-nav-menus.php:574
 #, php-format
 msgid "%1$s. Sub item number %2$d under %3$s."
 msgstr "%1$s. תת פריט מספר %2$d בתוך %3$s."
 
-#: wp-includes/class-wp-customize-nav-menus.php:653
+#: wp-includes/class-wp-customize-nav-menus.php:659
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
 msgstr "פאנל זה משמש לניהול תפריט לתוכן שכבר פורסם. ניתן ליצור תפריט חדש ולהוסיף אליו תוכן קיים כגון עמודים, פוסטים, קטגוריות, תגיות או קישורים מותאמים."
 
 #. translators: %s: URL to the Widgets panel of the Customizer.
-#: wp-includes/class-wp-customize-nav-menus.php:657
+#: wp-includes/class-wp-customize-nav-menus.php:663
 #, php-format
 msgid "Menus can be displayed in locations defined by your theme or in <a href=\"%s\">widget areas</a> by adding a &#8220;Navigation Menu&#8221; widget."
 msgstr "ניתן להציג תפריטים במיקומים המוגדרים על ידי התבנית או ב<a href=\"%s\">וידג'טים</a>."
 
-#: wp-includes/class-wp-customize-nav-menus.php:661
+#: wp-includes/class-wp-customize-nav-menus.php:667
 msgid "Menus can be displayed in locations defined by your theme."
 msgstr "תפריטים מוצגים במקומות מוגדרים לפי תבנית."
 
-#: wp-includes/class-wp-customize-nav-menus.php:686
+#: wp-includes/class-wp-customize-nav-menus.php:692
 msgid "Your theme can display menus in one location. Select which menu you would like to use."
 msgstr "התבנית יכולה להציג תפריטים במיקום אחד. יש לבחור באיזה תפריט יש להשתמש."
 
 #. translators: %s: Number of menu locations.
-#: wp-includes/class-wp-customize-nav-menus.php:689
+#: wp-includes/class-wp-customize-nav-menus.php:695
 #, php-format
 msgid "Your theme can display menus in %s location. Select which menu you would like to use."
 msgid_plural "Your theme can display menus in %s locations. Select which menu appears in each location."
@@ -1519,26 +1519,26 @@ msgstr[2] ""
 msgstr[3] ""
 
 #. translators: URL to the Widgets panel of the Customizer.
-#: wp-includes/class-wp-customize-nav-menus.php:694
+#: wp-includes/class-wp-customize-nav-menus.php:700
 #, php-format
 msgid "If your theme has widget areas, you can also add menus there. Visit the <a href=\"%s\">Widgets panel</a> and add a &#8220;Navigation Menu widget&#8221; to display a menu in a sidebar or footer."
 msgstr "אם לתבנית יש אזורי וידג'טים, ניתן להוסיף תפריטים מכאן. בקרו ב<a href=\"%s\">תפריט הוידג'טים</a> והוסיפו \"וידג'ט תפריטים\" כדי להציג תפריטים בסרגלי צד ובפוטר."
 
-#: wp-includes/class-wp-customize-nav-menus.php:700
+#: wp-includes/class-wp-customize-nav-menus.php:706
 msgctxt "menu locations"
 msgid "View Location"
 msgstr "הצג מיקומים"
 
-#: wp-includes/class-wp-customize-nav-menus.php:700
+#: wp-includes/class-wp-customize-nav-menus.php:706
 msgctxt "menu locations"
 msgid "View All Locations"
 msgstr "הצג את כל המיקומים"
 
-#: wp-includes/class-wp-customize-nav-menus.php:846
+#: wp-includes/class-wp-customize-nav-menus.php:852
 msgid "New Menu"
 msgstr "תפריט חדש"
 
-#: wp-includes/class-wp-customize-nav-menus.php:949
+#: wp-includes/class-wp-customize-nav-menus.php:955
 #: wp-includes/class-wp-xmlrpc-server.php:1440
 #: wp-includes/class-wp-xmlrpc-server.php:1996
 #: wp-includes/class-wp-xmlrpc-server.php:3666
@@ -1553,101 +1553,101 @@ msgstr "תפריט חדש"
 msgid "Invalid post type."
 msgstr "סוג תוכן שגוי."
 
-#: wp-includes/class-wp-customize-nav-menus.php:952
+#: wp-includes/class-wp-customize-nav-menus.php:958
 msgid "Empty title."
 msgstr "כותרת ריקה."
 
-#: wp-includes/class-wp-customize-nav-menus.php:955
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2973
+#: wp-includes/class-wp-customize-nav-menus.php:961
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2981
 msgid "Status is forbidden."
 msgstr "סטטוס אסור לשימוש."
 
-#: wp-includes/class-wp-customize-nav-menus.php:1041
+#: wp-includes/class-wp-customize-nav-menus.php:1047
 msgid "Post"
 msgstr "פוסט"
 
 #. translators: 1: Post type name, 2: Error message.
-#: wp-includes/class-wp-customize-nav-menus.php:1046
+#: wp-includes/class-wp-customize-nav-menus.php:1052
 #, php-format
 msgid "%1$s could not be created: %2$s"
 msgstr "לא ניתן ליצור %1$s, שגיאה: %2$s"
 
 #. translators: Hidden accessibility text. 1: Title of a menu item, 2: Type of a menu item.
-#: wp-includes/class-wp-customize-nav-menus.php:1076
+#: wp-includes/class-wp-customize-nav-menus.php:1082
 #, php-format
 msgid "Add to menu: %1$s (%2$s)"
 msgstr "הוספה לתפריט: %1$s (%2$s)"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1096
+#: wp-includes/class-wp-customize-nav-menus.php:1102
 #: wp-includes/class-wp-customize-widgets.php:701
 msgid "Move up"
 msgstr "העבר למעלה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1097
+#: wp-includes/class-wp-customize-nav-menus.php:1103
 #: wp-includes/class-wp-customize-widgets.php:700
 msgid "Move down"
 msgstr "העבר למטה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1098
+#: wp-includes/class-wp-customize-nav-menus.php:1104
 msgid "Move one level up"
 msgstr "העבר רמה אחת למעלה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1099
+#: wp-includes/class-wp-customize-nav-menus.php:1105
 msgid "Move one level down"
 msgstr "העבר רמה אחת למטה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1108
+#: wp-includes/class-wp-customize-nav-menus.php:1114
 msgid "Delete Menu"
 msgstr "מחיקת תפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1114
+#: wp-includes/class-wp-customize-nav-menus.php:1120
 msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
 msgstr "לחץ \"הבא\" כדי להתחיל להוסיף קישורים לתפריט החדש."
 
-#: wp-includes/class-wp-customize-nav-menus.php:1115
-#: wp-includes/script-loader.php:1652
+#: wp-includes/class-wp-customize-nav-menus.php:1121
+#: wp-includes/script-loader.php:1700
 #: wp-signup.php:653
 msgid "Next"
 msgstr "לשלב הבא"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1125
+#: wp-includes/class-wp-customize-nav-menus.php:1131
 msgid "It does not look like your site has any menus yet. Want to build one? Click the button to start."
 msgstr "נראה שבאתר עדיין אין תפריטים. כדי ליצור תפריט חדש יש ללחוץ על הכפתור."
 
-#: wp-includes/class-wp-customize-nav-menus.php:1128
+#: wp-includes/class-wp-customize-nav-menus.php:1134
 msgid "You&#8217;ll create a menu, assign it a location, and add menu items like links to pages and categories. If your theme has multiple menu areas, you might need to create more than one."
 msgstr "ניתן ליצור תפריט, להקצות לו מיקום ולהוסיף פריטים כגון קישורים לדפים ולקטגוריות. אם התבנית כולל אזורי תפריטים מרובים, ייתכן שיהיה צורך ליצור יותר מתפריט אחד."
 
-#: wp-includes/class-wp-customize-nav-menus.php:1132
+#: wp-includes/class-wp-customize-nav-menus.php:1138
 msgid "Create New Menu"
 msgstr "תפריט חדש"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/class-wp-customize-nav-menus.php:1152
+#: wp-includes/class-wp-customize-nav-menus.php:1158
 #: wp-includes/class-wp-customize-panel.php:379
 #: wp-includes/class-wp-customize-section.php:374
 #: wp-includes/class-wp-customize-widgets.php:834
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:75
 #: wp-includes/customize/class-wp-customize-themes-panel.php:73
-#: wp-includes/media.php:4665
+#: wp-includes/media.php:4668
 msgid "Back"
 msgstr "חזרה"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1163
+#: wp-includes/class-wp-customize-nav-menus.php:1169
 msgid "Add Menu Items"
 msgstr "הוספת פריטי תפריט"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/class-wp-customize-nav-menus.php:1171
+#: wp-includes/class-wp-customize-nav-menus.php:1177
 msgid "Search Menu Items"
 msgstr "חיפוש פריטים בתפריט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1174
+#: wp-includes/class-wp-customize-nav-menus.php:1180
 msgid "Search menu items&hellip;"
 msgstr "חיפוש פריטים בתפריט&hellip;"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/class-wp-customize-nav-menus.php:1178
+#: wp-includes/class-wp-customize-nav-menus.php:1184
 #: wp-includes/class-wp-customize-widgets.php:866
 #: wp-includes/customize/class-wp-customize-themes-section.php:138
 #: wp-includes/customize/class-wp-customize-themes-section.php:163
@@ -1655,20 +1655,20 @@ msgid "The search results will be updated as you type."
 msgstr "תוצאות החיפוש יעודכנו במהלך ההקלדה."
 
 #. translators: Hidden accessibility text.
-#: wp-includes/class-wp-customize-nav-menus.php:1187
+#: wp-includes/class-wp-customize-nav-menus.php:1193
 #: wp-includes/class-wp-customize-widgets.php:860
 msgid "Clear Results"
 msgstr "ניקוי תוצאות"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1236
+#: wp-includes/class-wp-customize-nav-menus.php:1242
 msgid "No items"
 msgstr "אין פריטים"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1270
+#: wp-includes/class-wp-customize-nav-menus.php:1276
 msgid "Custom Links"
 msgstr "קישורים מותאמים"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1275
+#: wp-includes/class-wp-customize-nav-menus.php:1281
 #: wp-includes/class-wp-editor.php:1274
 #: wp-includes/class-wp-editor.php:1895
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:88
@@ -1678,8 +1678,8 @@ msgstr "קישורים מותאמים"
 #: wp-includes/media-template.php:1249
 #: wp-includes/media-template.php:1323
 #: wp-includes/media-template.php:1414
-#: wp-includes/media.php:4657
-#: wp-includes/media.php:5381
+#: wp-includes/media.php:4660
+#: wp-includes/media.php:5385
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:62
 #: wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php:176
 #: wp-includes/widgets.php:2258
@@ -1689,13 +1689,13 @@ msgstr "קישורים מותאמים"
 msgid "URL"
 msgstr "כתובת אינטרנט"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1279
+#: wp-includes/class-wp-customize-nav-menus.php:1285
 #: wp-includes/class-wp-editor.php:1899
 #: wp-includes/media-template.php:1058
 msgid "Link Text"
 msgstr "טקסט לקישור"
 
-#: wp-includes/class-wp-customize-nav-menus.php:1284
+#: wp-includes/class-wp-customize-nav-menus.php:1290
 msgid "Add to Menu"
 msgstr "הוספה לתפריט"
 
@@ -1775,7 +1775,7 @@ msgstr[3] ""
 
 #: wp-includes/class-wp-customize-widgets.php:779
 #: wp-includes/class-wp-editor.php:1399
-#: wp-includes/media.php:4701
+#: wp-includes/media.php:4704
 msgid "Apply"
 msgstr "החל"
 
@@ -2029,6 +2029,7 @@ msgid "Select all"
 msgstr "בחר הכל"
 
 #: wp-includes/class-wp-editor.php:1186
+#: wp-includes/script-loader.php:860
 msgid "Undo"
 msgstr "ביטול פעולה אחרונה"
 
@@ -2042,8 +2043,9 @@ msgstr "אישור"
 
 #: wp-includes/class-wp-editor.php:1190
 #: wp-includes/class-wp-editor.php:1941
-#: wp-includes/media.php:4661
-#: wp-includes/script-loader.php:1107
+#: wp-includes/media.php:4664
+#: wp-includes/script-loader.php:859
+#: wp-includes/script-loader.php:1130
 msgid "Cancel"
 msgstr "בטל"
 
@@ -2241,8 +2243,8 @@ msgid "Language"
 msgstr "שפה"
 
 #: wp-includes/class-wp-editor.php:1241
-#: wp-includes/media.php:4656
-#: wp-includes/media.php:5388
+#: wp-includes/media.php:4659
+#: wp-includes/media.php:5392
 msgid "Media"
 msgstr "מדיה"
 
@@ -2314,7 +2316,7 @@ msgid "Save"
 msgstr "שמירה"
 
 #: wp-includes/class-wp-editor.php:1260
-#: wp-includes/script-loader.php:872
+#: wp-includes/script-loader.php:920
 msgid "Fullscreen"
 msgstr "מסך מלא"
 
@@ -2333,7 +2335,7 @@ msgstr "שחזור טיוטה אחרונה"
 #: wp-includes/class-wp-editor.php:1264
 #: wp-includes/class-wp-editor.php:1270
 #: wp-includes/class-wp-editor.php:1884
-#: wp-includes/script-loader.php:1060
+#: wp-includes/script-loader.php:1083
 msgid "Insert/edit link"
 msgstr "הוספת/עריכת קישור"
 
@@ -2753,7 +2755,7 @@ msgid "Rich Text Area. Press Control-Option-H for help."
 msgstr "עורך ויזואלי עשיר. ליחצו Control-Option-H לקבלת עזרה."
 
 #: wp-includes/class-wp-editor.php:1376
-#: wp-includes/script-loader.php:1105
+#: wp-includes/script-loader.php:1128
 #: wp-includes/theme.php:3626
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "ניסית לעבור לעמוד אחר אבל עדיין לא שמרת את השינויים שעשית בעמוד הזה."
@@ -2896,7 +2898,7 @@ msgid "Letter"
 msgstr "אות"
 
 #: wp-includes/class-wp-editor.php:1419
-#: wp-includes/script-loader.php:1109
+#: wp-includes/script-loader.php:1132
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Action"
 msgstr "פעולה"
@@ -2954,7 +2956,7 @@ msgid "Search or use up and down arrow keys to select an item."
 msgstr "חיפוש, או שימוש בחצי המקלדת כדי לבחור פריט."
 
 #: wp-includes/class-wp-editor.php:1944
-#: wp-includes/script-loader.php:1062
+#: wp-includes/script-loader.php:1085
 msgid "Add Link"
 msgstr "הוספת קישור"
 
@@ -2994,13 +2996,13 @@ msgstr "קובץ זה נטען רק לצורך תאימות לאחור עם Simp
 msgid "Could not open handle for %1$s to %2$s."
 msgstr "לא ניתן לפתוח באמצעות %1$s בקובץ %2$s."
 
-#: wp-includes/class-wp-http-curl.php:244
-#: wp-includes/class-wp-http-curl.php:293
+#: wp-includes/class-wp-http-curl.php:252
+#: wp-includes/class-wp-http-curl.php:319
 #: wp-includes/class-wp-http.php:1071
 msgid "Too many redirects."
 msgstr "יותר מדי הפניות."
 
-#: wp-includes/class-wp-http-curl.php:278
+#: wp-includes/class-wp-http-curl.php:293
 #: wp-includes/class-wp-http-streams.php:326
 msgid "Failed to write request to temporary file."
 msgstr "לא ניתן היה לרשום את הבקשה לקובץ זמני."
@@ -3028,75 +3030,75 @@ msgstr "ספריית היעד של הקובץ לא קיימת או לא זמינ
 msgid "There are no HTTP transports available which can complete the requested request."
 msgstr "אין HTTP transports זמינים שיכולים להשלים את הבקשה."
 
-#: wp-includes/class-wp-image-editor-gd.php:94
-#: wp-includes/class-wp-image-editor-gd.php:103
+#: wp-includes/class-wp-image-editor-gd.php:96
+#: wp-includes/class-wp-image-editor-gd.php:105
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
 msgstr "הקובץ אינו קיים?"
 
-#: wp-includes/class-wp-image-editor-gd.php:127
+#: wp-includes/class-wp-image-editor-gd.php:129
 #: wp-includes/class-wp-image-editor-imagick.php:161
 msgid "File is not an image."
 msgstr "הקובץ איננו קובץ תמונה."
 
-#: wp-includes/class-wp-image-editor-gd.php:133
+#: wp-includes/class-wp-image-editor-gd.php:135
 #: wp-includes/class-wp-image-editor-imagick.php:251
 msgid "Could not read image size."
 msgstr "לא ניתן לקרוא את גודל התמונה."
 
-#: wp-includes/class-wp-image-editor-gd.php:199
-#: wp-includes/class-wp-image-editor-gd.php:225
+#: wp-includes/class-wp-image-editor-gd.php:205
+#: wp-includes/class-wp-image-editor-gd.php:231
 msgid "Image resize failed."
 msgstr "שינוי גודל התמונה נכשל."
 
-#: wp-includes/class-wp-image-editor-gd.php:212
-#: wp-includes/class-wp-image-editor-imagick.php:341
+#: wp-includes/class-wp-image-editor-gd.php:218
+#: wp-includes/class-wp-image-editor-imagick.php:347
 msgid "Could not calculate resized image dimensions"
 msgstr "לא ניתן לחשב את מידות התמונה"
 
-#: wp-includes/class-wp-image-editor-gd.php:289
-#: wp-includes/class-wp-image-editor-imagick.php:554
+#: wp-includes/class-wp-image-editor-gd.php:295
+#: wp-includes/class-wp-image-editor-imagick.php:558
 msgid "Cannot resize the image. Both width and height are not set."
 msgstr "לא ניתן לשנות את גודל התמונה. גם הרוחב וגם הגובה אינם מוגדרים."
 
-#: wp-includes/class-wp-image-editor-gd.php:350
-#: wp-includes/class-wp-image-editor-gd.php:374
+#: wp-includes/class-wp-image-editor-gd.php:359
+#: wp-includes/class-wp-image-editor-gd.php:387
 msgid "Image crop failed."
 msgstr "חיתוך התמונה נכשל."
 
-#: wp-includes/class-wp-image-editor-gd.php:401
+#: wp-includes/class-wp-image-editor-gd.php:419
 msgid "Image rotate failed."
 msgstr "סיבוב התמונה נכשל."
 
-#: wp-includes/class-wp-image-editor-gd.php:431
+#: wp-includes/class-wp-image-editor-gd.php:453
 msgid "Image flip failed."
 msgstr "סיבוב התמונה נכשל."
 
-#: wp-includes/class-wp-image-editor-gd.php:493
-#: wp-includes/class-wp-image-editor-gd.php:502
-#: wp-includes/class-wp-image-editor-gd.php:506
-#: wp-includes/class-wp-image-editor-gd.php:510
-#: wp-includes/class-wp-image-editor-gd.php:514
-#: wp-includes/class-wp-image-editor-gd.php:517
+#: wp-includes/class-wp-image-editor-gd.php:515
+#: wp-includes/class-wp-image-editor-gd.php:524
+#: wp-includes/class-wp-image-editor-gd.php:528
+#: wp-includes/class-wp-image-editor-gd.php:532
+#: wp-includes/class-wp-image-editor-gd.php:536
+#: wp-includes/class-wp-image-editor-gd.php:539
 msgid "Image Editor Save Failed"
 msgstr "שמירה נכשלה"
 
-#: wp-includes/class-wp-image-editor-imagick.php:573
+#: wp-includes/class-wp-image-editor-imagick.php:577
 msgid "The image already has the requested size."
 msgstr ""
 
-#: wp-includes/class-wp-image-editor-imagick.php:728
+#: wp-includes/class-wp-image-editor-imagick.php:730
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
 msgstr "לא ניתן לסובב את התמונה מכיוון שלא ניתן לעדכן את נתוני המטא המוטבעים."
 
 #. translators: %s: PHP function name.
-#: wp-includes/class-wp-image-editor-imagick.php:850
+#: wp-includes/class-wp-image-editor-imagick.php:852
 #, php-format
 msgid "%s failed while writing image to stream."
 msgstr "הפונקציה %s כשלה בעת הזרמת התמונה."
 
 #. translators: %s: Directory path.
-#: wp-includes/class-wp-image-editor-imagick.php:866
+#: wp-includes/class-wp-image-editor-imagick.php:868
 #: wp-includes/functions.php:2380
 #: wp-includes/functions.php:2926
 #, php-format
@@ -3104,8 +3106,8 @@ msgid "Unable to create directory %s. Is its parent directory writable by the se
 msgstr "לא ניתן ליצור את התיקייה %s. יש לבדוק שתיקיית האב שלה ניתנת לכתיבה."
 
 #. translators: %s: ImageMagick method name.
-#: wp-includes/class-wp-image-editor-imagick.php:922
-#: wp-includes/class-wp-image-editor-imagick.php:933
+#: wp-includes/class-wp-image-editor-imagick.php:924
+#: wp-includes/class-wp-image-editor-imagick.php:935
 #, php-format
 msgid "%s is required to strip image meta."
 msgstr "המתודה %s נדרשת כדי להסיר פרטי תמונה."
@@ -3465,23 +3467,23 @@ msgstr "."
 
 #. translators: Used between list items, there is a space after the comma.
 #: wp-includes/class-wp-locale.php:239
-#: wp-includes/l10n.php:1821
+#: wp-includes/l10n.php:1827
 msgid ", "
 msgstr ""
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
 #: wp-includes/script-loader.php:505
-#: wp-includes/js/dist/a11y.js:1310
-#: wp-includes/js/dist/api-fetch.js:1310
-#: wp-includes/js/dist/i18n.js:1960
+#: wp-includes/js/dist/a11y.js:703
+#: wp-includes/js/dist/api-fetch.js:904
+#: wp-includes/js/dist/i18n.js:1338
 msgctxt "text direction"
 msgid "ltr"
 msgstr "rtl"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:395
-#: wp-includes/media.php:4231
+#: wp-includes/media.php:4234
 #: wp-includes/script-loader.php:160
 msgid "F j, Y"
 msgstr "j בF Y"
@@ -3735,7 +3737,7 @@ msgid "Filter pages list"
 msgstr "סינון רשימת עמודים"
 
 #: wp-includes/class-wp-post-type.php:822
-#: wp-includes/media.php:4702
+#: wp-includes/media.php:4705
 msgid "Filter by date"
 msgstr "סינון לפי תאריך"
 
@@ -3840,7 +3842,7 @@ msgstr "עוגיה שגויה."
 
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:219
-#: wp-includes/pluggable.php:2447
+#: wp-includes/pluggable.php:2526
 msgid "put your unique phrase here"
 msgstr ""
 
@@ -3961,11 +3963,31 @@ msgstr "פג תוקף קישור יציאה ממצב התאוששות."
 msgid "Failed to exit recovery mode. Please try again later."
 msgstr "יציאה ממצב התאוששות נכשלה. נא לנסות שנית מאוחר יותר."
 
+#: wp-includes/class-wp-script-modules.php:70
+msgid "Missing required id key in entry among dependencies array."
+msgstr ""
+
+#: wp-includes/class-wp-script-modules.php:83
+msgid "Entries in dependencies array must be either strings or arrays with an id key."
+msgstr ""
+
 #. translators: 1: $l10n, 2: wp_add_inline_script()
-#: wp-includes/class-wp-scripts.php:472
+#: wp-includes/class-wp-scripts.php:565
 #, php-format
 msgid "The %1$s parameter must be an array. To pass arbitrary data to scripts, use the %2$s function instead."
 msgstr "הפרמטר %1$s חייב להיות מערך. כדי להעביר מידע לסקריפטים, יש להשתמש בפונקציה %2$s."
+
+#. translators: 1: $strategy, 2: $handle
+#: wp-includes/class-wp-scripts.php:805
+#, php-format
+msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
+msgstr ""
+
+#. translators: 1: $strategy, 2: $handle
+#: wp-includes/class-wp-scripts.php:817
+#, php-format
+msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
+msgstr ""
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -3977,16 +3999,16 @@ msgstr "הפרמטר %1$s חייב להיות מערך. כדי להעביר מי
 #: wp-includes/class-wp-xmlrpc-server.php:2456
 #: wp-includes/class-wp-xmlrpc-server.php:2562
 #: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:189
-#: wp-includes/taxonomy.php:623
-#: wp-includes/taxonomy.php:881
-#: wp-includes/taxonomy.php:982
-#: wp-includes/taxonomy.php:1174
-#: wp-includes/taxonomy.php:1344
-#: wp-includes/taxonomy.php:2259
-#: wp-includes/taxonomy.php:2401
-#: wp-includes/taxonomy.php:2790
-#: wp-includes/taxonomy.php:2977
-#: wp-includes/taxonomy.php:3188
+#: wp-includes/taxonomy.php:666
+#: wp-includes/taxonomy.php:924
+#: wp-includes/taxonomy.php:1025
+#: wp-includes/taxonomy.php:1217
+#: wp-includes/taxonomy.php:1387
+#: wp-includes/taxonomy.php:2302
+#: wp-includes/taxonomy.php:2444
+#: wp-includes/taxonomy.php:2833
+#: wp-includes/taxonomy.php:3020
+#: wp-includes/taxonomy.php:3231
 msgid "Invalid taxonomy."
 msgstr "טקסונומיה שגוי."
 
@@ -4500,8 +4522,8 @@ msgid "Sorry, you cannot stick a private post."
 msgstr "לא ניתן להדביק פוסט פרטי."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1388
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:609
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:820
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:615
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:826
 msgid "Sorry, you are not allowed to make posts sticky."
 msgstr "אין לך הרשאות להפוך פוסטים לדביקים."
 
@@ -4524,12 +4546,12 @@ msgstr "אין לך הרשאות להפוך פוסטים לדביקים."
 #: wp-includes/class-wp-xmlrpc-server.php:6674
 #: wp-includes/class-wp-xmlrpc-server.php:6799
 #: wp-includes/comment.php:2508
-#: wp-includes/post.php:3863
-#: wp-includes/post.php:4588
+#: wp-includes/post.php:3867
+#: wp-includes/post.php:4592
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:363
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:830
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:430
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:456
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:462
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:205
 #: wp-includes/revision.php:342
 msgid "Invalid post ID."
@@ -4545,8 +4567,8 @@ msgstr "מספר פוסט שגוי."
 #: wp-includes/class-wp-xmlrpc-server.php:6431
 #: wp-includes/class-wp-xmlrpc-server.php:6620
 #: wp-includes/class-wp-xmlrpc-server.php:6678
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:489
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:804
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:495
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:810
 msgid "Sorry, you are not allowed to edit this post."
 msgstr "אין לך הרשאות לערוך פוסט זה."
 
@@ -4561,12 +4583,12 @@ msgid "Sorry, you are not allowed to post on this site."
 msgstr "אין לך הרשאות לכתוב פוסטים."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1467
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1443
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1449
 msgid "Sorry, you are not allowed to create private posts in this post type."
 msgstr "אין לך הרשאות ליצור תכנים פרטיים עבור תכנים מהסוג הזה."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1473
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1453
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1459
 msgid "Sorry, you are not allowed to publish posts in this post type."
 msgstr "אין לך הרשאות לפרסם פוסטים מהסוג הזה."
 
@@ -4576,14 +4598,14 @@ msgstr "אין לך הרשאות ליצור תכנים מוגנים בסיסמה
 
 #: wp-includes/class-wp-xmlrpc-server.php:1490
 #: wp-includes/class-wp-xmlrpc-server.php:5440
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:601
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:617
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:607
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:623
 msgid "Sorry, you are not allowed to create posts as this user."
 msgstr "אין לך הרשאות ליצור פוסטים."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1496
 #: wp-includes/class-wp-xmlrpc-server.php:5453
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1297
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1303
 msgid "Invalid author ID."
 msgstr "מספר מחבר שגוי."
 
@@ -4609,7 +4631,7 @@ msgstr "אין לך הרשאות להוסיף שדות לטקסונומיות ז
 #: wp-includes/class-wp-xmlrpc-server.php:2323
 #: wp-includes/class-wp-xmlrpc-server.php:2403
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:422
-#: wp-includes/taxonomy.php:2421
+#: wp-includes/taxonomy.php:2464
 msgid "Invalid term ID."
 msgstr "מספר מונח שגוי."
 
@@ -4639,8 +4661,8 @@ msgstr "קיימת גרסה עדכנית יותר של הפוסט."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1836
 #: wp-includes/class-wp-xmlrpc-server.php:5271
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:974
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1028
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:980
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1034
 msgid "Sorry, you are not allowed to delete this post."
 msgstr "אין לך הרשאות למחוק פוסט זה."
 
@@ -4658,7 +4680,7 @@ msgid "Sorry, you are not allowed to edit posts in this post type."
 msgstr "אין לך הרשאות לערוך תכנים מסוג זה."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2097
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:481
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:485
 msgid "Sorry, you are not allowed to create terms in this taxonomy."
 msgstr "אין לך הרשאות ליצור פריטים בטקסונומיה זו."
 
@@ -4675,10 +4697,10 @@ msgstr "הטקסונומיה איננה היררכית."
 #: wp-includes/class-wp-xmlrpc-server.php:2241
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:207
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:301
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:512
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:659
-#: wp-includes/taxonomy.php:2437
-#: wp-includes/taxonomy.php:3234
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:516
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:663
+#: wp-includes/taxonomy.php:2480
+#: wp-includes/taxonomy.php:3277
 msgid "Parent term does not exist."
 msgstr "מונח אב לא קיים."
 
@@ -4687,16 +4709,16 @@ msgid "Sorry, the term could not be created."
 msgstr "לא ניתן ליצור את המונח."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2217
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:432
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:623
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:436
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:627
 msgid "Sorry, you are not allowed to edit this term."
 msgstr "אין לך הרשאות לערוך מונח זה."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2230
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:201
 #: wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php:295
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:502
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:649
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:506
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:653
 msgid "Cannot set parent term, taxonomy is not hierarchical."
 msgstr "לא ניתן להגדיר מונח אב, הטקסונומיה איננה היררכית."
 
@@ -4705,7 +4727,7 @@ msgid "Sorry, editing the term failed."
 msgstr "עריכת הפריט נכשלה."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2327
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:724
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:728
 msgid "Sorry, you are not allowed to delete this term."
 msgstr "אין לך הרשאות למחוק מונח זה."
 
@@ -4723,13 +4745,14 @@ msgid "Sorry, you are not allowed to assign terms in this taxonomy."
 msgstr "אין לך הרשאות לשייך פריטים לטקסונומיה זו."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2706
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:699
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:449
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:705
 msgid "Sorry, you are not allowed to edit this user."
 msgstr "אין לך הרשאות לערוך משתמש זה."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2712
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:692
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:402
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:406
 #: wp-includes/user.php:2112
 #: wp-includes/user.php:2546
 #: wp-includes/user.php:2552
@@ -4737,9 +4760,7 @@ msgid "Invalid user ID."
 msgstr "מספר משתמש שגוי."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2769
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:213
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:445
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:451
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:457
 msgid "Sorry, you are not allowed to list users."
 msgstr "אין לך הרשאות לראות משתמשים."
 
@@ -5093,7 +5114,7 @@ msgid "ClassicPress database error:"
 msgstr ""
 
 #: wp-includes/class-wpdb.php:2006
-#: wp-includes/functions.php:5409
+#: wp-includes/functions.php:5433
 msgid "Error establishing a database connection"
 msgstr "שגיאת התחברות למסד הנתונים"
 
@@ -5663,7 +5684,7 @@ msgid "Day"
 msgstr "יום"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:151
-#: wp-includes/media.php:3079
+#: wp-includes/media.php:3082
 msgid "Year"
 msgstr "שנה"
 
@@ -5837,7 +5858,7 @@ msgid "No image selected"
 msgstr "לא נבחרה תמונה"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:252
-#: wp-includes/media.php:4739
+#: wp-includes/media.php:4742
 msgid "Choose image"
 msgstr "בחר תמונה"
 
@@ -5929,7 +5950,7 @@ msgstr "אם התבנית הפעילה תומכת בכך, תיאור זה יוצ
 msgid "Original: %s"
 msgstr "מקורי: %s"
 
-#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:730
+#: wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:739
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:862
 msgid "Invalid URL."
 msgstr "כתובת אינטרנט שגויה."
@@ -6264,7 +6285,7 @@ msgstr ""
 #: wp-includes/media-template.php:1244
 #: wp-includes/media-template.php:1364
 #: wp-includes/media-template.php:1463
-#: wp-includes/script-loader.php:883
+#: wp-includes/script-loader.php:936
 #: wp-includes/widgets.php:2069
 #: wp-includes/widgets/class-wp-widget-media-audio.php:296
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:332
@@ -6730,179 +6751,179 @@ msgid "Could not write file %s"
 msgstr "לא ניתן לכתוב לקובץ %s"
 
 #. translators: %s: Site title.
-#: wp-includes/functions.php:3605
+#: wp-includes/functions.php:3608
 #, php-format
 msgid "You are attempting to log out of %s"
 msgstr "ניסית לצאת מהמערכת באתר %s"
 
 #. translators: %s: Logout URL.
-#: wp-includes/functions.php:3615
+#: wp-includes/functions.php:3618
 #, php-format
 msgid "Do you really want to <a href=\"%s\">log out</a>?"
 msgstr "באמת רצית <a href='%s'>לצאת מהמערכת</a>?"
 
-#: wp-includes/functions.php:3619
+#: wp-includes/functions.php:3622
 msgid "The link you followed has expired."
 msgstr "פג תוקפו של הקישור."
 
-#: wp-includes/functions.php:3629
+#: wp-includes/functions.php:3632
 msgid "Please try again."
 msgstr "יש לנסות שנית."
 
-#: wp-includes/functions.php:3801
+#: wp-includes/functions.php:3804
 msgid "&laquo; Back"
 msgstr "&raquo; חזרה"
 
-#: wp-includes/functions.php:4260
+#: wp-includes/functions.php:4263
 #: wp-includes/sitemaps/class-wp-sitemaps-renderer.php:268
 #: wp-load.php:104
 msgid "ClassicPress &rsaquo; Error"
 msgstr ""
 
 #. translators: 1: WP_REST_Response, 2: WP_Error
-#: wp-includes/functions.php:4437
+#: wp-includes/functions.php:4440
 #, php-format
 msgid "Return a %1$s or %2$s object from your callback when using the REST API."
 msgstr "מחזיר אובייקט %1$s או %2$s מפונקציית callback במהלך השימוש ב-REST API."
 
 #. translators: %s: Path to the JSON file.
-#: wp-includes/functions.php:4575
+#: wp-includes/functions.php:4578
 #, php-format
 msgid "File %s doesn't exist!"
 msgstr "קובץ %s אינו קיים!"
 
 #. translators: 1: Path to the JSON file, 2: Error message.
-#: wp-includes/functions.php:4589
+#: wp-includes/functions.php:4592
 #, php-format
 msgid "Error when decoding a JSON file at path %1$s: %2$s"
 msgstr "שגיאה בקידוד של קובץ JSON בנתיב ⁦%1$s⁩: %2$s"
 
-#: wp-includes/functions.php:5409
+#: wp-includes/functions.php:5433
 msgid "Database Error"
 msgstr "שגיאה במסד הנתונים"
 
 #. translators: 1: PHP function name, 2: Version number, 3: Alternative function name.
-#: wp-includes/functions.php:5469
+#: wp-includes/functions.php:5493
 #, php-format
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr "הפונקציה %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s! יש להשתמש ב- %3$s במקום."
 
 #. translators: 1: PHP function name, 2: Version number.
-#: wp-includes/functions.php:5480
+#: wp-includes/functions.php:5504
 #, php-format
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr "הפונקציה %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s ואין לו תחליף חלופי."
 
 #. translators: 1: PHP class name, 2: PHP parent class name, 3: Version number, 4: __construct() method.
-#: wp-includes/functions.php:5561
+#: wp-includes/functions.php:5585
 #, php-format
 msgid "The called constructor method for %1$s class in %2$s is <strong>deprecated</strong> since version %3$s! Use %4$s instead."
 msgstr "המתודה constructor ב-%1$s ב-%2$s <strong>הוצא משימוש</strong> מגרסה %3$s! יש להשתמש ב-%4$s במקום."
 
 #. translators: 1: PHP class name, 2: Version number, 3: __construct() method.
-#: wp-includes/functions.php:5573
+#: wp-includes/functions.php:5597
 #, php-format
 msgid "The called constructor method for %1$s class is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr "המתודה constructor ב-%1$s <strong>הוצא משימוש</strong> בגרסה %2$s! יש להשתמש ב-%3$s במקום."
 
 #. translators: 1: PHP file name, 2: Version number, 3: Alternative file name.
-#: wp-includes/functions.php:5658
+#: wp-includes/functions.php:5682
 #, php-format
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr "הקובץ %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s! יש להשתמש ב- %3$s במקום."
 
 #. translators: 1: PHP file name, 2: Version number.
-#: wp-includes/functions.php:5669
+#: wp-includes/functions.php:5693
 #, php-format
 msgid "File %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr "הקובץ %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s ואין לו תחליף חלופי."
 
 #. translators: 1: PHP function name, 2: Version number, 3: Optional message regarding the change.
-#: wp-includes/functions.php:5752
+#: wp-includes/functions.php:5776
 #, php-format
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s! %3$s"
 msgstr "הפונקציה %1$s נקרא באמצעות ארגומנט ש<strong>הוצא משימוש</strong> בגרסה %2$s! %3$s"
 
 #. translators: 1: PHP function name, 2: Version number.
-#: wp-includes/functions.php:5763
+#: wp-includes/functions.php:5787
 #, php-format
 msgid "Function %1$s was called with an argument that is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr "הפונקצייה %1$s נקרא באמצעות ארגומנט ש<strong>הוצא משימוש</strong> בגרסה %2$s וללא תחליף זמין."
 
 #. translators: 1: WordPress hook name, 2: Version number, 3: Alternative hook name.
-#: wp-includes/functions.php:5843
+#: wp-includes/functions.php:5867
 #, php-format
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
 msgstr "ההוק %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s! יש להשתמש ב- %3$s במקום."
 
 #. translators: 1: WordPress hook name, 2: Version number.
-#: wp-includes/functions.php:5854
+#: wp-includes/functions.php:5878
 #, php-format
 msgid "Hook %1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
 msgstr "ההוק %1$s <strong>הוצאה משימוש</strong> בגרסה %2$s ואין לו תחליף חלופי."
 
 #. translators: %s: Version number.
-#: wp-includes/functions.php:5908
+#: wp-includes/functions.php:5932
 #, php-format
 msgid "(This message was added in version %s.)"
 msgstr "(הודעה זו נוספה בגרסה %s.)"
 
 #. translators: %s: Documentation URL.
-#: wp-includes/functions.php:5913
+#: wp-includes/functions.php:5937
 #, php-format
 msgid "Please see <a href=\"%s\">Debugging in ClassicPress</a> for more information."
 msgstr ""
 
-#: wp-includes/functions.php:5914
+#: wp-includes/functions.php:5938
 msgid "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 msgstr ""
 
 #. translators: Developer debugging message. 1: PHP function name, 2: Explanatory message, 3: WordPress version number.
-#: wp-includes/functions.php:5920
+#: wp-includes/functions.php:5944
 #, php-format
 msgid "Function %1$s was called <strong>incorrectly</strong>. %2$s %3$s"
 msgstr "הפונקציה %1$s נקרא <strong>בצורה לא תקינה</strong>. %2$s %3$s"
 
-#: wp-includes/functions.php:6542
+#: wp-includes/functions.php:6568
 msgid "Select a city"
 msgstr "בחירת עיר"
 
-#: wp-includes/functions.php:6594
-#: wp-includes/functions.php:6599
+#: wp-includes/functions.php:6620
+#: wp-includes/functions.php:6625
 msgid "UTC"
 msgstr ""
 
-#: wp-includes/functions.php:6603
+#: wp-includes/functions.php:6629
 msgid "Manual Offsets"
 msgstr "התאמות ידניות"
 
 #. translators: Hidden accessibility text.
-#: wp-includes/functions.php:7283
+#: wp-includes/functions.php:7309
 #: wp-includes/media-template.php:202
 #: wp-includes/media-template.php:384
 msgid "Close dialog"
 msgstr "סגור חלון"
 
-#: wp-includes/functions.php:7303
-#: wp-includes/script-loader.php:1115
+#: wp-includes/functions.php:7329
+#: wp-includes/script-loader.php:1138
 msgid "Session expired"
 msgstr "פג תוקף ה-Session"
 
-#: wp-includes/functions.php:7304
+#: wp-includes/functions.php:7330
 #: wp-includes/user.php:318
 msgid "Please log in again."
 msgstr "נא להתחבר מחדש."
 
-#: wp-includes/functions.php:7305
+#: wp-includes/functions.php:7331
 msgid "The login page will open in a new tab. After logging in you can close it and return to this page."
 msgstr "עמוד ההתחברות יפתח בחלונית חדשה. אחרי ההתחברות ניתן לסגור את החלונית ולחזור לעמוד זה."
 
-#: wp-includes/functions.php:7724
+#: wp-includes/functions.php:7750
 msgid "Only UUID V4 is supported at this time."
 msgstr "כרגע נתמכת רק UUID גרסה 4."
 
 #. translators: Do not translate OLD_EMAIL, NEW_EMAIL, SITENAME, SITEURL: those are placeholders.
-#: wp-includes/functions.php:7805
+#: wp-includes/functions.php:7865
 msgid "Hi,\n\n"
 "This notice confirms that the admin email address was changed on ###SITENAME###.\n\n"
 "The new admin email address is ###NEW_EMAIL###.\n\n"
@@ -6919,49 +6940,49 @@ msgstr "שלום,\n\n"
 "###SITEURL###"
 
 #. translators: Site admin email change notification email subject. %s: Site title.
-#: wp-includes/functions.php:7822
+#: wp-includes/functions.php:7882
 #, php-format
 msgid "[%s] Admin Email Changed"
 msgstr "[%s] אימייל מנהל השתנה"
 
 #. translators: Deleted text.
-#: wp-includes/functions.php:7969
+#: wp-includes/functions.php:8029
 msgid "[deleted]"
 msgstr "[נמחק]"
 
 #. translators: Deleted long text.
-#: wp-includes/functions.php:7973
+#: wp-includes/functions.php:8033
 msgid "This content was deleted by the author."
 msgstr "תוכן זה נמחק על ידי המחבר."
 
-#: wp-includes/functions.php:8150
+#: wp-includes/functions.php:8210
 msgctxt "localized PHP upgrade information page"
 msgid "https://wordpress.org/support/update-php/"
 msgstr ""
 
 #. translators: %s: Default Update PHP page URL.
-#: wp-includes/functions.php:8201
+#: wp-includes/functions.php:8261
 #, php-format
 msgid "This resource is provided by your web host, and is specific to your site. For more information, <a href=\"%s\" target=\"_blank\">see the official ClassicPress documentation</a>."
 msgstr ""
 
-#: wp-includes/functions.php:8258
+#: wp-includes/functions.php:8318
 msgid "Update PHP"
 msgstr "עדכון PHP"
 
 #. translators: Documentation explaining HTTPS and why it should be used.
-#: wp-includes/functions.php:8317
+#: wp-includes/functions.php:8377
 msgid "https://wordpress.org/documentation/article/why-should-i-use-https/"
 msgstr ""
 
 #. translators: 1: Function name, 2: A variable type, like "boolean" or "integer".
-#: wp-includes/functions.php:8514
+#: wp-includes/functions.php:8574
 #, php-format
 msgid "%1$s only accepts a non-empty path string, received %2$s."
 msgstr ""
 
 #. translators: %s: The "type" key.
-#: wp-includes/functions.php:8663
+#: wp-includes/functions.php:8723
 #, php-format
 msgid "The %s key must be a string without spaces."
 msgstr ""
@@ -6986,8 +7007,12 @@ msgstr "הודעה זו הופעלה על ידי %s."
 msgid "Do not pass %1$s tags to %2$s."
 msgstr "אין להעביר תגיות %1$s אל %2$s."
 
+#: wp-includes/functions.wp-scripts.php:185
+msgid "Use the `$args` paramater instead."
+msgstr ""
+
 #. translators: 1: Script name, 2: wp_enqueue_scripts
-#: wp-includes/functions.wp-scripts.php:311
+#: wp-includes/functions.wp-scripts.php:332
 #, php-format
 msgid "Do not deregister the %1$s script in the administration area. To target the front-end theme, use the %2$s hook."
 msgstr "אין להסיר את הסקריפט %1$s מלוח הבקרה. כדי להשפיע על התבנית, יש להשתמש בהוק %2$s."
@@ -7216,7 +7241,7 @@ msgstr "%1$s לפוסט %2$s"
 #. translators: 1: Month name, 2: 4-digit year.
 #. translators: 1: Month, 2: Year.
 #: wp-includes/general-template.php:2044
-#: wp-includes/media.php:4583
+#: wp-includes/media.php:4586
 #, php-format
 msgid "%1$s %2$d"
 msgstr ""
@@ -7385,17 +7410,17 @@ msgstr "נראה שהתגובה לא הגיעה מאתר זה."
 msgid "When using the %1$s constant, make sure to set these globals to an array: %2$s."
 msgstr ""
 
-#: wp-includes/l10n.php:1581
+#: wp-includes/l10n.php:1587
 msgctxt "translations"
 msgid "Installed"
 msgstr "מותקן"
 
-#: wp-includes/l10n.php:1589
+#: wp-includes/l10n.php:1595
 msgctxt "default site language"
 msgid "Site Default"
 msgstr "ברירת המחדל של האתר"
 
-#: wp-includes/l10n.php:1618
+#: wp-includes/l10n.php:1624
 msgctxt "translations"
 msgid "Available"
 msgstr "זמין"
@@ -7609,7 +7634,7 @@ msgstr "גודל קובץ מקסימלי: %s."
 
 #. translators: 1: Suggested width number, 2: Suggested height number.
 #: wp-includes/media-template.php:323
-#: wp-includes/media.php:4746
+#: wp-includes/media.php:4749
 #, php-format
 msgid "Suggested image dimensions: %1$s by %2$s pixels."
 msgstr "מימדי תמונה מוצעים: %1$s פיקסלים רוחב על %2$s גובה."
@@ -7625,6 +7650,7 @@ msgid "Grid view"
 msgstr "תצוגת רשת"
 
 #: wp-includes/media-template.php:359
+#: wp-includes/script-loader.php:848
 #: wp-includes/widgets.php:2270
 msgid "Uploading"
 msgstr "מעלה"
@@ -7738,14 +7764,14 @@ msgstr "טקסט אלטרנטיבי"
 
 #: wp-includes/media-template.php:535
 #: wp-includes/media-template.php:783
-#: wp-includes/media.php:3073
+#: wp-includes/media.php:3076
 #: wp-includes/widgets/class-wp-widget-media-audio.php:253
 msgid "Artist"
 msgstr "אמן"
 
 #: wp-includes/media-template.php:536
 #: wp-includes/media-template.php:784
-#: wp-includes/media.php:3074
+#: wp-includes/media.php:3077
 #: wp-includes/widgets/class-wp-widget-media-audio.php:254
 msgid "Album"
 msgstr "אלבום"
@@ -7785,25 +7811,26 @@ msgstr "הורד קובץ"
 
 #: wp-includes/media-template.php:587
 #: wp-includes/media-template.php:750
-#: wp-includes/media.php:4698
+#: wp-includes/media.php:4701
 msgid "Restore from Trash"
 msgstr "שחזור מהפח"
 
 #: wp-includes/media-template.php:589
 #: wp-includes/media-template.php:752
-#: wp-includes/media.php:4697
+#: wp-includes/media.php:4700
 msgid "Move to Trash"
 msgstr "להעביר לפח"
 
 #: wp-includes/media-template.php:592
 #: wp-includes/media-template.php:755
-#: wp-includes/media.php:4699
+#: wp-includes/media.php:4702
 #: wp-includes/widgets.php:2201
 msgid "Delete permanently"
 msgstr "למחוק לצמיתות"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:637
+#: wp-includes/script-loader.php:1349
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:279
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:287
 #: wp-includes/widgets/class-wp-widget-media-image.php:505
@@ -7926,7 +7953,7 @@ msgstr "גודל"
 #: wp-includes/media-template.php:917
 #: wp-includes/media-template.php:997
 #: wp-includes/media-template.php:1188
-#: wp-includes/media.php:4294
+#: wp-includes/media.php:4297
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:359
 msgid "Thumbnail"
 msgstr "תמונה מוקטנת"
@@ -7934,7 +7961,7 @@ msgstr "תמונה מוקטנת"
 #: wp-includes/media-template.php:918
 #: wp-includes/media-template.php:998
 #: wp-includes/media-template.php:1189
-#: wp-includes/media.php:4295
+#: wp-includes/media.php:4298
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:360
 msgid "Medium"
 msgstr "בינוני"
@@ -7942,7 +7969,7 @@ msgstr "בינוני"
 #: wp-includes/media-template.php:919
 #: wp-includes/media-template.php:999
 #: wp-includes/media-template.php:1190
-#: wp-includes/media.php:4296
+#: wp-includes/media.php:4299
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:361
 msgid "Large"
 msgstr "גדול"
@@ -7950,7 +7977,7 @@ msgstr "גדול"
 #: wp-includes/media-template.php:920
 #: wp-includes/media-template.php:1000
 #: wp-includes/media-template.php:1191
-#: wp-includes/media.php:4297
+#: wp-includes/media.php:4300
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:362
 msgid "Full Size"
 msgstr "גודל מלא"
@@ -8046,7 +8073,7 @@ msgid "Edit Original"
 msgstr "עריכת מקור"
 
 #: wp-includes/media-template.php:1289
-#: wp-includes/media.php:4663
+#: wp-includes/media.php:4666
 msgid "Replace"
 msgstr "החלף"
 
@@ -8138,7 +8165,7 @@ msgid "There are no associated subtitles."
 msgstr "אין כתוביות משוייכות."
 
 #: wp-includes/media-template.php:1538
-#: wp-includes/media.php:4687
+#: wp-includes/media.php:4690
 msgid "No items found."
 msgstr "פריט לא נמצא."
 
@@ -8155,52 +8182,52 @@ msgid "As an app icon"
 msgstr "סמל אפליקציה"
 
 #: wp-includes/media.php:2004
-#: wp-includes/media.php:5737
+#: wp-includes/media.php:5741
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
 msgstr ""
 
-#: wp-includes/media.php:3078
+#: wp-includes/media.php:3081
 msgid "Genre"
 msgstr "ז'אנר"
 
-#: wp-includes/media.php:3080
+#: wp-includes/media.php:3083
 msgctxt "video or audio"
 msgid "Length"
 msgstr "אורך"
 
-#: wp-includes/media.php:3082
+#: wp-includes/media.php:3085
 msgid "Bitrate"
 msgstr "תעבורת נתונים"
 
-#: wp-includes/media.php:3083
+#: wp-includes/media.php:3086
 msgid "Bitrate Mode"
 msgstr "מצב תעבורת נתונים"
 
-#: wp-includes/media.php:3960
+#: wp-includes/media.php:3963
 msgid "No editor could be selected."
 msgstr "לא ניתן לבחור עורך."
 
-#: wp-includes/media.php:4248
+#: wp-includes/media.php:4251
 msgid "(no author)"
 msgstr "(ללא מחבר)"
 
-#: wp-includes/media.php:4254
-#: wp-includes/script-loader.php:1063
+#: wp-includes/media.php:4257
+#: wp-includes/script-loader.php:1086
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:107
 msgid "(no title)"
 msgstr "(ללא כותרת)"
 
-#: wp-includes/media.php:4658
-#: wp-includes/media.php:4680
+#: wp-includes/media.php:4661
+#: wp-includes/media.php:4683
 msgid "Add media"
 msgstr "הוספת מדיה"
 
-#: wp-includes/media.php:4660
+#: wp-includes/media.php:4663
 msgid "Select"
 msgstr "בחירה"
 
-#: wp-includes/media.php:4662
-#: wp-includes/script-loader.php:1061
+#: wp-includes/media.php:4665
+#: wp-includes/script-loader.php:1084
 #: wp-includes/widgets/class-wp-widget-media-audio.php:312
 #: wp-includes/widgets/class-wp-widget-media-image.php:650
 #: wp-includes/widgets/class-wp-widget-media-video.php:370
@@ -8209,27 +8236,27 @@ msgid "Update"
 msgstr "עדכון"
 
 #. translators: This is a would-be plural string used in the media manager. If there is not a word you can use in your language to avoid issues with the lack of plural support here, turn it into "selected: %d" then translate it.
-#: wp-includes/media.php:4671
+#: wp-includes/media.php:4674
 #, php-format
 msgid "%d selected"
 msgstr "%d נבחרו"
 
-#: wp-includes/media.php:4672
+#: wp-includes/media.php:4675
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:313
 msgid "Drag and drop to reorder media files."
 msgstr "יש לגרור את קבצי המדיה כדי לשנות מיקום."
 
-#: wp-includes/media.php:4675
+#: wp-includes/media.php:4678
 #: wp-includes/widgets.php:2082
 msgid "Upload files"
 msgstr "העלאת קבצים"
 
-#: wp-includes/media.php:4676
+#: wp-includes/media.php:4679
 msgid "Upload images"
 msgstr "העלאת קבצים"
 
 #. translators: %d: Widget count.
-#: wp-includes/media.php:4679
+#: wp-includes/media.php:4682
 #: wp-includes/widgets.php:2083
 #: wp-includes/widgets/class-wp-widget-media-audio.php:244
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:278
@@ -8238,47 +8265,47 @@ msgstr "העלאת קבצים"
 msgid "Media Library"
 msgstr "ספריית מדיה"
 
-#: wp-includes/media.php:4681
+#: wp-includes/media.php:4684
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:370
 msgid "Create a new gallery"
 msgstr "יצירת גלריה חדשה"
 
-#: wp-includes/media.php:4682
+#: wp-includes/media.php:4685
 msgid "Create a new playlist"
 msgstr "יצירת פלייליסט חדש"
 
-#: wp-includes/media.php:4683
+#: wp-includes/media.php:4686
 msgid "Create a new video playlist"
 msgstr "יצירת פלייליסט וידאו חדש"
 
-#: wp-includes/media.php:4684
+#: wp-includes/media.php:4687
 msgid "&#8592; Go to library"
 msgstr "עבור לספרייה"
 
-#: wp-includes/media.php:4685
+#: wp-includes/media.php:4688
 msgid "All media items"
 msgstr "כל פריטי המדיה"
 
-#: wp-includes/media.php:4686
+#: wp-includes/media.php:4689
 msgid "All dates"
 msgstr "כל התאריכים"
 
-#: wp-includes/media.php:4689
+#: wp-includes/media.php:4692
 msgctxt "media items"
 msgid "Unattached"
 msgstr "לא משויך"
 
-#: wp-includes/media.php:4690
+#: wp-includes/media.php:4693
 msgctxt "media items"
 msgid "Mine"
 msgstr "שלי"
 
-#: wp-includes/media.php:4691
+#: wp-includes/media.php:4694
 msgctxt "noun"
 msgid "Trash"
 msgstr "פח"
 
-#: wp-includes/media.php:4693
+#: wp-includes/media.php:4696
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 " 'Cancel' to stop, 'OK' to delete."
@@ -8286,7 +8313,7 @@ msgstr "פריט זה ימחק לצמיתות.\n"
 "פעולה זו לא ניתנת לביטול.\n"
 "'ביטול' כדי להתחרט, 'אישור' כדי למחוק."
 
-#: wp-includes/media.php:4694
+#: wp-includes/media.php:4697
 msgid "You are about to permanently delete these items from your site.\n"
 "This action cannot be undone.\n"
 " 'Cancel' to stop, 'OK' to delete."
@@ -8294,51 +8321,51 @@ msgstr "הפריטים הללו ימחקו לצמיתות.\n"
 "פעולה זו לא ניתנת לביטול.\n"
 "'בטל' כדי להתחרט, 'אישור' למחיקה."
 
-#: wp-includes/media.php:4695
+#: wp-includes/media.php:4698
 msgid "You are about to trash these items.\n"
 "  'Cancel' to stop, 'OK' to delete."
 msgstr "אתה עומד להשליך לפח את הפריטים הבאים.\n"
 "'ביטול' כדי להתחרט, 'אישור' כדי למחוק."
 
-#: wp-includes/media.php:4696
+#: wp-includes/media.php:4699
 msgid "Bulk select"
 msgstr "בחירה קבוצתית"
 
-#: wp-includes/media.php:4700
+#: wp-includes/media.php:4703
 msgid "Error in deleting the attachment."
 msgstr "שגיאה במחיקת הקובץ המצורף."
 
-#: wp-includes/media.php:4703
+#: wp-includes/media.php:4706
 msgid "Filter by type"
 msgstr "סינון לפי סוג"
 
-#: wp-includes/media.php:4705
+#: wp-includes/media.php:4708
 msgid "Search media"
 msgstr "חיפוש מדיה"
 
-#: wp-includes/media.php:4706
+#: wp-includes/media.php:4709
 msgid "Search media items..."
 msgstr "חיפוש בפריטי מדיה..."
 
 #. translators: %d: Number of attachments found in a search.
-#: wp-includes/media.php:4708
+#: wp-includes/media.php:4711
 #, php-format
 msgid "Number of media items found: %d"
 msgstr "מספר פריטי מדיה שנמצאו: %d"
 
-#: wp-includes/media.php:4709
+#: wp-includes/media.php:4712
 msgid "No media items found."
 msgstr "לא נמצאו קבצי מדיה."
 
-#: wp-includes/media.php:4710
+#: wp-includes/media.php:4713
 msgid "No media items found. Try a different search."
 msgstr "לא נמצאו פריטי מדיה. נסו חיפוש אחר."
 
-#: wp-includes/media.php:4713
+#: wp-includes/media.php:4716
 msgid "Attachment details"
 msgstr "פרטי הקובץ"
 
-#: wp-includes/media.php:4716
+#: wp-includes/media.php:4719
 #: wp-includes/widgets/class-wp-widget-media-audio.php:251
 #: wp-includes/widgets/class-wp-widget-media-image.php:500
 #: wp-includes/widgets/class-wp-widget-media-video.php:291
@@ -8346,194 +8373,194 @@ msgstr "פרטי הקובץ"
 msgid "Insert from URL"
 msgstr "הוספה מכתובת באינטרנט"
 
-#: wp-includes/media.php:4723
+#: wp-includes/media.php:4726
 msgid "Create gallery"
 msgstr "יצירת גלרייה"
 
-#: wp-includes/media.php:4724
+#: wp-includes/media.php:4727
 msgid "Edit gallery"
 msgstr "עריכת גלריה"
 
-#: wp-includes/media.php:4725
+#: wp-includes/media.php:4728
 msgid "&#8592; Cancel gallery"
 msgstr "ביטול גלריה"
 
-#: wp-includes/media.php:4726
+#: wp-includes/media.php:4729
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:371
 msgid "Insert gallery"
 msgstr "הוספת גלריה"
 
-#: wp-includes/media.php:4727
+#: wp-includes/media.php:4730
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:372
 msgid "Update gallery"
 msgstr "עדכון גלריה"
 
-#: wp-includes/media.php:4728
-#: wp-includes/media.php:4729
+#: wp-includes/media.php:4731
+#: wp-includes/media.php:4732
 msgid "Add to gallery"
 msgstr "הוספה לגלריה"
 
-#: wp-includes/media.php:4730
+#: wp-includes/media.php:4733
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:314
 msgid "Reverse order"
 msgstr "הפוך סדר"
 
-#: wp-includes/media.php:4733
+#: wp-includes/media.php:4736
 msgid "Image details"
 msgstr "פרטי תמונה"
 
-#: wp-includes/media.php:4734
+#: wp-includes/media.php:4737
 msgid "Replace image"
 msgstr "החלפת תמונה"
 
-#: wp-includes/media.php:4735
-#: wp-includes/media.php:4753
-#: wp-includes/media.php:4759
+#: wp-includes/media.php:4738
+#: wp-includes/media.php:4756
+#: wp-includes/media.php:4762
 #: wp-includes/widgets/class-wp-widget-media-audio.php:255
 #: wp-includes/widgets/class-wp-widget-media-video.php:306
 msgid "Cancel edit"
 msgstr "ביטול עריכה"
 
-#: wp-includes/media.php:4736
+#: wp-includes/media.php:4739
 msgid "Edit image"
 msgstr "עריכת תמונה"
 
-#: wp-includes/media.php:4740
+#: wp-includes/media.php:4743
 msgid "Select and crop"
 msgstr "בחירה וחיתוך"
 
-#: wp-includes/media.php:4741
+#: wp-includes/media.php:4744
 msgid "Skip cropping"
 msgstr "דלג על החיתוך"
 
-#: wp-includes/media.php:4742
+#: wp-includes/media.php:4745
 msgid "Crop image"
 msgstr "חיתוך תמונה"
 
-#: wp-includes/media.php:4743
+#: wp-includes/media.php:4746
 msgid "Crop your image"
 msgstr "לחתוך תמונה"
 
-#: wp-includes/media.php:4744
+#: wp-includes/media.php:4747
 msgid "Cropping&hellip;"
 msgstr "חיתוך&hellip;"
 
-#: wp-includes/media.php:4747
+#: wp-includes/media.php:4750
 msgid "There has been an error cropping your image."
 msgstr "אירעה שגיאה בחיתוך התמונה."
 
-#: wp-includes/media.php:4750
+#: wp-includes/media.php:4753
 #: wp-includes/widgets/class-wp-widget-media-audio.php:246
 msgid "Audio details"
 msgstr "פרטי אודיו"
 
-#: wp-includes/media.php:4751
+#: wp-includes/media.php:4754
 msgid "Replace audio"
 msgstr "החלפת אודיו"
 
-#: wp-includes/media.php:4752
+#: wp-includes/media.php:4755
 msgid "Add audio source"
 msgstr "הוספת מקור אודיו"
 
-#: wp-includes/media.php:4756
+#: wp-includes/media.php:4759
 #: wp-includes/widgets/class-wp-widget-media-video.php:302
 msgid "Video details"
 msgstr "פרטי וידאו"
 
-#: wp-includes/media.php:4757
+#: wp-includes/media.php:4760
 msgid "Replace video"
 msgstr "החלפת וידאו"
 
-#: wp-includes/media.php:4758
+#: wp-includes/media.php:4761
 msgid "Add video source"
 msgstr "הוספת מקור וידאו"
 
-#: wp-includes/media.php:4760
+#: wp-includes/media.php:4763
 msgid "Select poster image"
 msgstr "בחירת תמונת פוסטר"
 
-#: wp-includes/media.php:4761
+#: wp-includes/media.php:4764
 msgid "Add subtitles"
 msgstr "הוספת כתוביות"
 
-#: wp-includes/media.php:4764
+#: wp-includes/media.php:4767
 msgid "Drag and drop to reorder tracks."
 msgstr "יש לגרור את הקבצים כדי לשנות מיקום."
 
-#: wp-includes/media.php:4765
+#: wp-includes/media.php:4768
 msgid "Create audio playlist"
 msgstr "יצירת פלייליסט אודיו"
 
-#: wp-includes/media.php:4766
+#: wp-includes/media.php:4769
 msgid "Edit audio playlist"
 msgstr "עריכת פלייליסט אודיו"
 
-#: wp-includes/media.php:4767
+#: wp-includes/media.php:4770
 msgid "&#8592; Cancel audio playlist"
 msgstr "ביטול פלייליסט אודיו"
 
-#: wp-includes/media.php:4768
+#: wp-includes/media.php:4771
 msgid "Insert audio playlist"
 msgstr "להכניס פלייליסט אודיו"
 
-#: wp-includes/media.php:4769
+#: wp-includes/media.php:4772
 msgid "Update audio playlist"
 msgstr "עדכון פלייליסט אודיו"
 
-#: wp-includes/media.php:4770
+#: wp-includes/media.php:4773
 msgid "Add to audio playlist"
 msgstr "הוספה אל פלייליסט אודיו"
 
-#: wp-includes/media.php:4771
+#: wp-includes/media.php:4774
 msgid "Add to Audio Playlist"
 msgstr "הוספה אל פלייליסט אודיו"
 
-#: wp-includes/media.php:4774
+#: wp-includes/media.php:4777
 msgid "Drag and drop to reorder videos."
 msgstr "יש לגרור את הוידאו כדי לשנות מיקום."
 
-#: wp-includes/media.php:4775
+#: wp-includes/media.php:4778
 msgid "Create video playlist"
 msgstr "יצירת פלייליסט וידאו"
 
-#: wp-includes/media.php:4776
+#: wp-includes/media.php:4779
 msgid "Edit video playlist"
 msgstr "עריכת פלייליסט וידאו"
 
-#: wp-includes/media.php:4777
+#: wp-includes/media.php:4780
 msgid "&#8592; Cancel video playlist"
 msgstr "ביטול פלייליסט וידאו"
 
-#: wp-includes/media.php:4778
+#: wp-includes/media.php:4781
 msgid "Insert video playlist"
 msgstr "הוספת פלייליסט וידאו"
 
-#: wp-includes/media.php:4779
+#: wp-includes/media.php:4782
 msgid "Update video playlist"
 msgstr "עדכון פלייליסט וידאו"
 
-#: wp-includes/media.php:4780
+#: wp-includes/media.php:4783
 msgid "Add to video playlist"
 msgstr "הוספה לפלייליסט וידאו"
 
-#: wp-includes/media.php:4781
+#: wp-includes/media.php:4784
 msgid "Add to video Playlist"
 msgstr "הוספה לפלייליסט וידאו"
 
-#: wp-includes/media.php:4784
+#: wp-includes/media.php:4787
 #: wp-includes/widgets.php:2146
 msgid "Filter media"
 msgstr "סינון מדיה"
 
-#: wp-includes/media.php:4785
+#: wp-includes/media.php:4788
 msgid "Media list"
 msgstr "רשימת מדיה"
 
-#: wp-includes/media.php:5332
+#: wp-includes/media.php:5336
 msgid "ClassicPress Media"
 msgstr ""
 
-#: wp-includes/media.php:5389
+#: wp-includes/media.php:5393
 msgid "User&#8217;s media data."
 msgstr "נתוני המדיה של המשתמש."
 
@@ -8709,180 +8736,180 @@ msgstr "קבוצת ההגדרות \"%s\" הוסרה. יש להשתמש בקבו�
 msgid "%1$s is deprecated. The callback from %2$s is used instead."
 msgstr "%1$s הוצא משימוש. במקום זאת נעשה שימוש בפונקציית ה-callback מתוך %2$s."
 
-#: wp-includes/pluggable.php:621
+#: wp-includes/pluggable.php:700
 msgid "<strong>Error:</strong> Invalid username, email address or incorrect password."
 msgstr "<strong>שגיאה:</strong> שם המשתמש או האימייל שגויים, או שהסיסמה לא נכונה."
 
-#: wp-includes/pluggable.php:1285
-#: wp-includes/pluggable.php:1330
+#: wp-includes/pluggable.php:1364
+#: wp-includes/pluggable.php:1409
 msgid "You should specify an action to be verified by using the first parameter."
 msgstr "כדאי להגדיר פעולה שתהיה מאומתת באמצעות הפרמטר הראשון."
 
-#: wp-includes/pluggable.php:1424
+#: wp-includes/pluggable.php:1503
 msgid "HTTP redirect status code must be a redirection code, 3xx."
 msgstr "קוד סטטוס הפניה מחדש של HTTP חייב להיות קוד הפניה, 3xx."
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1744
+#: wp-includes/pluggable.php:1823
 #, php-format
 msgid "New trackback on your post \"%s\""
 msgstr "טראקבאק חדש בפוסט \"%s\""
 
 #. translators: 1: Trackback/pingback website name, 2: Website IP address, 3: Website hostname.
-#: wp-includes/pluggable.php:1746
-#: wp-includes/pluggable.php:1760
-#: wp-includes/pluggable.php:1936
-#: wp-includes/pluggable.php:1947
+#: wp-includes/pluggable.php:1825
+#: wp-includes/pluggable.php:1839
+#: wp-includes/pluggable.php:2015
+#: wp-includes/pluggable.php:2026
 #, php-format
 msgid "Website: %1$s (IP address: %2$s, %3$s)"
 msgstr "אתר: %1$s (כתובת IP: %2$s, %3$s)"
 
 #. translators: %s: Trackback/pingback/comment author URL.
-#: wp-includes/pluggable.php:1748
-#: wp-includes/pluggable.php:1762
-#: wp-includes/pluggable.php:1778
-#: wp-includes/pluggable.php:1938
-#: wp-includes/pluggable.php:1949
-#: wp-includes/pluggable.php:1962
+#: wp-includes/pluggable.php:1827
+#: wp-includes/pluggable.php:1841
+#: wp-includes/pluggable.php:1857
+#: wp-includes/pluggable.php:2017
+#: wp-includes/pluggable.php:2028
+#: wp-includes/pluggable.php:2041
 #, php-format
 msgid "URL: %s"
 msgstr "כתובת: %s"
 
 #. translators: %s: Comment text.
-#: wp-includes/pluggable.php:1750
-#: wp-includes/pluggable.php:1764
-#: wp-includes/pluggable.php:1786
-#: wp-includes/pluggable.php:1970
+#: wp-includes/pluggable.php:1829
+#: wp-includes/pluggable.php:1843
+#: wp-includes/pluggable.php:1865
+#: wp-includes/pluggable.php:2049
 #, php-format
 msgid "Comment: %s"
 msgstr "תגובה: %s"
 
-#: wp-includes/pluggable.php:1751
+#: wp-includes/pluggable.php:1830
 msgid "You can see all trackbacks on this post here:"
 msgstr "כאן ניתן לראות את כל הטראקבאקים של הפוסט:"
 
 #. translators: Trackback notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1753
+#: wp-includes/pluggable.php:1832
 #, php-format
 msgid "[%1$s] Trackback: \"%2$s\""
 msgstr "[%1$s] טראקבאק: \"%2$s\""
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1758
+#: wp-includes/pluggable.php:1837
 #, php-format
 msgid "New pingback on your post \"%s\""
 msgstr "פינגבאק חדש בפוסט \"%s\""
 
-#: wp-includes/pluggable.php:1765
+#: wp-includes/pluggable.php:1844
 msgid "You can see all pingbacks on this post here:"
 msgstr "כאן ניתן לראות את כל הפינגבאקים של הפוסט:"
 
 #. translators: Pingback notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1767
+#: wp-includes/pluggable.php:1846
 #, php-format
 msgid "[%1$s] Pingback: \"%2$s\""
 msgstr "[%1$s] פינגבאק: \"%2$s\""
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1772
+#: wp-includes/pluggable.php:1851
 #, php-format
 msgid "New comment on your post \"%s\""
 msgstr "תגובה חדשה בפוסט \"%s\""
 
 #. translators: 1: Comment author's name, 2: Comment author's IP address, 3: Comment author's hostname.
-#: wp-includes/pluggable.php:1774
-#: wp-includes/pluggable.php:1958
+#: wp-includes/pluggable.php:1853
+#: wp-includes/pluggable.php:2037
 #, php-format
 msgid "Author: %1$s (IP address: %2$s, %3$s)"
 msgstr "מחבר: %1$s (כתובת IP: %2$s, %3$s)"
 
 #. translators: %s: Comment author email.
 #. translators: %s: User email address.
-#: wp-includes/pluggable.php:1776
-#: wp-includes/pluggable.php:1960
-#: wp-includes/pluggable.php:2159
+#: wp-includes/pluggable.php:1855
+#: wp-includes/pluggable.php:2039
+#: wp-includes/pluggable.php:2238
 #, php-format
 msgid "Email: %s"
 msgstr "אימייל: %s"
 
 #. translators: Comment moderation. %s: Parent comment edit URL.
-#: wp-includes/pluggable.php:1782
-#: wp-includes/pluggable.php:1966
+#: wp-includes/pluggable.php:1861
+#: wp-includes/pluggable.php:2045
 #, php-format
 msgid "In reply to: %s"
 msgstr "בתגובה על: %s"
 
-#: wp-includes/pluggable.php:1787
+#: wp-includes/pluggable.php:1866
 msgid "You can see all comments on this post here:"
 msgstr "כאן ניתן לראות את כל התגובות של הפוסט:"
 
 #. translators: Comment notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1789
+#: wp-includes/pluggable.php:1868
 #, php-format
 msgid "[%1$s] Comment: \"%2$s\""
 msgstr "[%1$s] תגובה: \"%2$s\""
 
 #. translators: %s: Comment URL.
-#: wp-includes/pluggable.php:1795
+#: wp-includes/pluggable.php:1874
 #, php-format
 msgid "Permalink: %s"
 msgstr "קישור ישיר: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1800
-#: wp-includes/pluggable.php:1979
+#: wp-includes/pluggable.php:1879
+#: wp-includes/pluggable.php:2058
 #, php-format
 msgid "Trash it: %s"
 msgstr "מחיקה: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1803
-#: wp-includes/pluggable.php:1982
+#: wp-includes/pluggable.php:1882
+#: wp-includes/pluggable.php:2061
 #, php-format
 msgid "Delete it: %s"
 msgstr "למחיקה: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1806
-#: wp-includes/pluggable.php:1986
+#: wp-includes/pluggable.php:1885
+#: wp-includes/pluggable.php:2065
 #, php-format
 msgid "Spam it: %s"
 msgstr "סימון כתגובת זבל: %s"
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1933
+#: wp-includes/pluggable.php:2012
 #, php-format
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
 msgstr "טראקבאק חדש בפוסט \"%s\" ממתין לאישור"
 
-#: wp-includes/pluggable.php:1939
+#: wp-includes/pluggable.php:2018
 msgid "Trackback excerpt: "
 msgstr "תקציר טראקבאק:"
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1944
+#: wp-includes/pluggable.php:2023
 #, php-format
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
 msgstr "פינגבאק חדש בפוסט \"%s\" ממתין לאישור"
 
-#: wp-includes/pluggable.php:1950
+#: wp-includes/pluggable.php:2029
 msgid "Pingback excerpt: "
 msgstr "תקציר פינגבאק:"
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1955
+#: wp-includes/pluggable.php:2034
 #, php-format
 msgid "A new comment on the post \"%s\" is waiting for your approval"
 msgstr "תגובה חדשה בפוסט \"%s\" ממתינה לאישור"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1975
+#: wp-includes/pluggable.php:2054
 #, php-format
 msgid "Approve it: %s"
 msgstr "לאשר: %s"
 
 #. translators: Comment moderation. %s: Number of comments awaiting approval.
-#: wp-includes/pluggable.php:1990
+#: wp-includes/pluggable.php:2069
 #, php-format
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
@@ -8892,33 +8919,33 @@ msgstr[2] ""
 msgstr[3] ""
 
 #. translators: Comment moderation notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:2000
+#: wp-includes/pluggable.php:2079
 #, php-format
 msgid "[%1$s] Please moderate: \"%2$s\""
 msgstr "[%1$s] צריך לאשר: \"%2$s\""
 
 #. translators: %s: User name.
-#: wp-includes/pluggable.php:2068
+#: wp-includes/pluggable.php:2147
 #, php-format
 msgid "Password changed for user: %s"
 msgstr "שינוי סיסמה למשתמש %s"
 
 #. translators: Password change notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2076
+#: wp-includes/pluggable.php:2155
 #: wp-includes/user.php:2636
 #, php-format
 msgid "[%s] Password Changed"
 msgstr "[%s] שינוי סיסמה"
 
 #. translators: %s: Site title.
-#: wp-includes/pluggable.php:2155
+#: wp-includes/pluggable.php:2234
 #, php-format
 msgid "New user registration on your site %s:"
 msgstr "רישום משתמשים חדשים באתר %s:"
 
 #. translators: %s: User login.
-#: wp-includes/pluggable.php:2157
-#: wp-includes/pluggable.php:2222
+#: wp-includes/pluggable.php:2236
+#: wp-includes/pluggable.php:2301
 #: wp-includes/user.php:3179
 #, php-format
 msgid "Username: %s"
@@ -8926,17 +8953,17 @@ msgstr "שם משתמש:\n"
 "%s"
 
 #. translators: New user registration notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2164
+#: wp-includes/pluggable.php:2243
 #, php-format
 msgid "[%s] New User Registration"
 msgstr "[%s] רישום משתמש חדש"
 
-#: wp-includes/pluggable.php:2223
+#: wp-includes/pluggable.php:2302
 msgid "To set your password, visit the following address:"
 msgstr "לאיפוס סיסמה, גשו לקישור הבא:"
 
 #. translators: Login details notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2231
+#: wp-includes/pluggable.php:2310
 #, php-format
 msgid "[%s] Login Details"
 msgstr "[%s] פרטי התחברות"
@@ -9385,7 +9412,7 @@ msgstr "פרטי"
 
 #: wp-includes/post.php:942
 #: wp-includes/post.php:962
-#: wp-includes/script-loader.php:1096
+#: wp-includes/script-loader.php:1119
 msgid "Published"
 msgstr "פורסם"
 
@@ -9398,16 +9425,16 @@ msgstr "שמות של סוגי תכנים צריכים להכיל עד 20 תוו
 msgid "Unregistering a built-in post type is not allowed"
 msgstr "לא ניתן להסיר סוגי תוכן מובנים"
 
-#: wp-includes/post.php:2882
+#: wp-includes/post.php:2886
 msgid "Images"
 msgstr "תמונות"
 
-#: wp-includes/post.php:2883
+#: wp-includes/post.php:2887
 msgid "Manage Images"
 msgstr "ניהול תמונות"
 
 #. translators: %s: Number of images.
-#: wp-includes/post.php:2885
+#: wp-includes/post.php:2889
 #, php-format
 msgid "Image <span class=\"count\">(%s)</span>"
 msgid_plural "Images <span class=\"count\">(%s)</span>"
@@ -9416,17 +9443,17 @@ msgstr[1] "תמונות <span class=\"count\">(%s)</span>"
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:2891
+#: wp-includes/post.php:2895
 msgctxt "file type group"
 msgid "Audio"
 msgstr "אודיו"
 
-#: wp-includes/post.php:2892
+#: wp-includes/post.php:2896
 msgid "Manage Audio"
 msgstr "ניהול אודיו"
 
 #. translators: %s: Number of audio files.
-#: wp-includes/post.php:2894
+#: wp-includes/post.php:2898
 #, php-format
 msgid "Audio <span class=\"count\">(%s)</span>"
 msgid_plural "Audio <span class=\"count\">(%s)</span>"
@@ -9435,17 +9462,17 @@ msgstr[1] "אודיו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:2900
+#: wp-includes/post.php:2904
 msgctxt "file type group"
 msgid "Video"
 msgstr "וידאו"
 
-#: wp-includes/post.php:2901
+#: wp-includes/post.php:2905
 msgid "Manage Video"
 msgstr "ניהול וידאו"
 
 #. translators: %s: Number of video files.
-#: wp-includes/post.php:2903
+#: wp-includes/post.php:2907
 #, php-format
 msgid "Video <span class=\"count\">(%s)</span>"
 msgid_plural "Video <span class=\"count\">(%s)</span>"
@@ -9454,16 +9481,16 @@ msgstr[1] "וידאו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:2909
+#: wp-includes/post.php:2913
 msgid "Documents"
 msgstr "מסמכים"
 
-#: wp-includes/post.php:2910
+#: wp-includes/post.php:2914
 msgid "Manage Documents"
 msgstr "ניהול מסמכים"
 
 #. translators: %s: Number of documents.
-#: wp-includes/post.php:2912
+#: wp-includes/post.php:2916
 #, php-format
 msgid "Document <span class=\"count\">(%s)</span>"
 msgid_plural "Documents <span class=\"count\">(%s)</span>"
@@ -9472,16 +9499,16 @@ msgstr[1] "מסמכים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:2918
+#: wp-includes/post.php:2922
 msgid "Spreadsheets"
 msgstr "גיליונות אלקטרוניים"
 
-#: wp-includes/post.php:2919
+#: wp-includes/post.php:2923
 msgid "Manage Spreadsheets"
 msgstr "ניהול גיליונות אלקטרוניים"
 
 #. translators: %s: Number of spreadsheets.
-#: wp-includes/post.php:2921
+#: wp-includes/post.php:2925
 #, php-format
 msgid "Spreadsheet <span class=\"count\">(%s)</span>"
 msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
@@ -9490,17 +9517,17 @@ msgstr[1] "גיליונות אלקטרוניים: <span class=\"count\">(%s)</sp
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:2927
+#: wp-includes/post.php:2931
 msgctxt "file type group"
 msgid "Archives"
 msgstr "ארכיונים"
 
-#: wp-includes/post.php:2928
+#: wp-includes/post.php:2932
 msgid "Manage Archives"
 msgstr "ניהול ארכיונים"
 
 #. translators: %s: Number of archives.
-#: wp-includes/post.php:2930
+#: wp-includes/post.php:2934
 #, php-format
 msgid "Archive <span class=\"count\">(%s)</span>"
 msgid_plural "Archives <span class=\"count\">(%s)</span>"
@@ -9509,47 +9536,47 @@ msgstr[1] "ארכיונים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/post.php:3709
+#: wp-includes/post.php:3713
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
 msgstr "לא ניתן יותר להעביר מספר פוסטים. יש להעביר מערך של ארגומנטים."
 
-#: wp-includes/post.php:3912
+#: wp-includes/post.php:3916
 msgid "Content, title, and excerpt are empty."
 msgstr "התוכן, הכותרת והתקציר ריקים."
 
-#: wp-includes/post.php:3985
+#: wp-includes/post.php:3989
 #: wp-includes/rest-api.php:2157
-#: wp-includes/script-loader.php:1154
+#: wp-includes/script-loader.php:1177
 msgid "Invalid date."
 msgstr "תאריך שגוי."
 
-#: wp-includes/post.php:4209
+#: wp-includes/post.php:4213
 msgid "Could not update attachment in the database."
 msgstr "לא ניתן לעדכן קובץ מצורף במסד הנתונים."
 
-#: wp-includes/post.php:4211
+#: wp-includes/post.php:4215
 msgid "Could not update post in the database."
 msgstr "לא ניתן לעדכן את הפוסט במסד הנתונים."
 
-#: wp-includes/post.php:4252
+#: wp-includes/post.php:4256
 msgid "Could not insert attachment into the database."
 msgstr "לא ניתן להוסיף קובץ מצורף למסד הנתונים."
 
-#: wp-includes/post.php:4254
+#: wp-includes/post.php:4258
 msgid "Could not insert post into the database."
 msgstr "לא ניתן להוסיף את הפוסט למסד הנתונים."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/post.php:4318
+#: wp-includes/post.php:4322
 #, php-format
 msgid "Invalid taxonomy: %s."
 msgstr "טקסונומיה שגויה: %s."
 
-#: wp-includes/post.php:4396
+#: wp-includes/post.php:4400
 msgid "Invalid page template."
 msgstr "תבנית עמוד שגויה."
 
-#: wp-includes/post.php:5068
+#: wp-includes/post.php:5072
 msgctxt "tag delimiter"
 msgid ","
 msgstr ""
@@ -9753,7 +9780,7 @@ msgid "Invalid hex color."
 msgstr "צבע אקסדצימלי שגוי."
 
 #: wp-includes/rest-api.php:2163
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:731
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:737
 #: wp-includes/user.php:4573
 msgid "Invalid email address."
 msgstr "כתובת אימייל שגויה."
@@ -10025,7 +10052,7 @@ msgid "Application passwords are not available."
 msgstr "סיסמאות אפליקציות לא זמינות."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php:702
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:493
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:499
 msgid "You are not currently logged in."
 msgstr "אינך מחובר עכשיו."
 
@@ -10300,7 +10327,7 @@ msgid "Invalid item ID."
 msgstr "מספר הפריט שגוי."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:266
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1349
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1355
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:142
 msgid "Invalid post parent ID."
 msgstr "מספר פוסט אב שגוי."
@@ -10501,7 +10528,7 @@ msgstr "הסוג של התגובה."
 
 #. translators: %d: Avatar image size in pixels.
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1517
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1476
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1482
 #, php-format
 msgid "Avatar URL with image size of %d pixels."
 msgstr "הכתובת של צלמית המשתמש עם גודל התמונה של %d פיקסלים."
@@ -10531,37 +10558,37 @@ msgid "Limit response to comments published before a given ISO8601 compliant dat
 msgstr "הגבלת תוצאות לתגובות שפורסמו לפני תאריך מסויים בתקן ISO8601."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1588
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2805
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2813
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:774
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:335
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1101
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1512
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1105
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1518
 msgid "Ensure result set excludes specific IDs."
 msgstr "יש לוודא כי התוצאות לא כוללות מספרי ID מסויימים."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1597
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2814
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2822
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:783
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:344
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1110
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1521
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1114
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1527
 msgid "Limit result set to specific IDs."
 msgstr "הגבלת תוצאות לאלה התואמים למספר פוסט מסויים."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1606
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2830
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2838
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:792
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1120
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1530
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1124
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1536
 msgid "Offset the result set by a specific number of items."
 msgstr "לדלג על מספר מסויים של פריטים בתוצאה."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1611
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:936
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2835
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2843
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:797
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1126
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1536
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1130
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1542
 msgid "Order sort attribute ascending or descending."
 msgstr "סדר מיון עולה או יורד."
 
@@ -10638,8 +10665,8 @@ msgid "Sorry, you are not allowed to view menu items."
 msgstr "אין לך הרשאות לראות פרטי תפריט."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:114
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:591
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:645
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:597
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:651
 msgid "Cannot create existing post."
 msgstr "לא ניתן ליצור פוסט קיים."
 
@@ -10650,7 +10677,7 @@ msgid "Menu items do not support trashing. Set '%s' to delete."
 msgstr "פריטי התפריט לא תומכים בהעברה לפח. להגדיר את '%s' למחיקה."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:294
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1076
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1082
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:488
 msgid "The post cannot be deleted."
 msgstr "לא ניתן למחוק את הפוסט."
@@ -10748,7 +10775,7 @@ msgid "The terms assigned to the object in the %s taxonomy."
 msgstr "המונחים המשוייכים לאובייקט בטקסונומיה \"%s\"."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:931
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2824
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2832
 msgid "Limit result set to posts with a specific menu_order value."
 msgstr "הגבלת תוצאות לפוסטים עם ערך menu_order מסויים."
 
@@ -11047,7 +11074,7 @@ msgid "The icon for the post type."
 msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:112
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2247
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2255
 msgid "Unique identifier for the post."
 msgstr "מזהה יחודי לפוסט."
 
@@ -11061,331 +11088,331 @@ msgstr "יש להגדיר מילות חיפוש כדי לסדר לפי הקשר.
 msgid "You need to define an include parameter to order by include."
 msgstr "יש להגדיר פרמטר include על מנת למיין לפי include."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:411
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:417
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:315
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:160
 msgid "The page number requested is larger than the number of pages available."
 msgstr "מספר העמוד המבוקש גדול יותר מספר העמודים הקיימים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:499
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:505
 msgid "Incorrect post password."
 msgstr "סיסמה שגויה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:625
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:828
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:631
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:834
 msgid "Sorry, you are not allowed to assign the provided terms."
 msgstr "אין לך הרשאות לשייך מונח זה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:812
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:818
 msgid "Sorry, you are not allowed to update posts as this user."
 msgstr "אין לך הרשאות לעדכן פוסטים."
 
 #. translators: %s: force=true
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1052
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1058
 #, php-format
 msgid "The post does not support trashing. Set '%s' to delete."
 msgstr "לא ניתן להעביר פוסטים לפח. יש להגדיר  '%s' כדי למחוק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1061
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1067
 msgid "The post has already been deleted."
 msgstr "הפוסט כבר נמחק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1314
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1320
 msgid "A post can not be sticky and have a password."
 msgstr "פוסט לא יכול להיות דביק ולהכיל סיסמה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1322
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1328
 msgid "A sticky post can not be password protected."
 msgstr "פוסט דביק לא יכול להיות מוגן בסיסמה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1333
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1339
 msgid "A password protected post can not be set to sticky."
 msgstr "פוסט מוגן בסיסמה לא יכול להיות דביק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1487
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1493
 msgid "Invalid featured media ID."
 msgstr "מספר המדיה שגוי."
 
 #. translators: 1: Parameter, 2: List of valid values.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1534
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1540
 #, php-format
 msgid "%1$s is not one of %2$s."
 msgstr "%1$s אינו אחד מ-%2$s."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2215
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2223
 msgid "The date the post was published, in the site's timezone."
 msgstr "תאריך פרסום הפוסט, לפי אזור הזמן של האתר."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2221
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2229
 msgid "The date the post was published, as GMT."
 msgstr "תאריך פרסום האובייקט, ב-GMT."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2227
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2235
 msgid "The globally unique identifier for the post."
 msgstr "המזהה היחודי הגלובי עבור הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2233
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2241
 msgid "GUID for the post, as it exists in the database."
 msgstr "המספר המזהה של הפוסט, כפי שהוא מופיע במסד הנתונים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2239
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2247
 msgid "GUID for the post, transformed for display."
 msgstr "המספר המזהה של הפוסט, ששוה לצורך תצוגה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2253
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2261
 msgid "URL to the post."
 msgstr "כתובת הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2260
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2268
 msgid "The date the post was last modified, in the site's timezone."
 msgstr "תאריך העדכון האחרון של הפוסט, באזור הזמן של האתר."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2267
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2275
 msgid "The date the post was last modified, as GMT."
 msgstr "תאריך העדכון האחרון של הפוסט, ב-GMT."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2274
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2282
 msgid "An alphanumeric identifier for the post unique to its type."
 msgstr "מזהה אלפאנומרי עבור הפוסט הייחודי לסוגו."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2282
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2290
 msgid "A named status for the post."
 msgstr "שם הסטטוס של הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2291
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2299
 msgid "Type of post."
 msgstr "סוג הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2297
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2305
 msgid "A password to protect access to the content and excerpt."
 msgstr "סיסמה להגנת הגישה לתוכן ולתיאור."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2307
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2315
 msgid "Permalink template for the post."
 msgstr "תבנית מבנה הקישור עבור הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2314
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2322
 msgid "Slug automatically generated from the post title."
 msgstr "מזהה כתובת נוצר באופן אוטומטי מתוך כותרת הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2323
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2331
 msgid "The ID for the parent of the post."
 msgstr "ה-ID של הפוסט ההורה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2384
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2392
 msgid "The title for the post."
 msgstr "כותרת הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2393
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2401
 msgid "Title for the post, as it exists in the database."
 msgstr "הכותרת של הפוסט, כפי שהיא מופיעה במסד הנתונים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2398
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2406
 msgid "HTML title for the post, transformed for display."
 msgstr "כותרת HTML של הפוסט, ששונתה לצורך תצוגה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2409
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2417
 msgid "The content for the post."
 msgstr "התוכן של הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2418
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2426
 msgid "Content for the post, as it exists in the database."
 msgstr "התוכן של הפוסט, כפי שהוא מופיע במסד הנתונים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2423
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2431
 msgid "HTML content for the post, transformed for display."
 msgstr "תוכן HTML של הפוסט, ששונה לצורך תצוגה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2429
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2437
 msgid "Whether the content is protected with a password."
 msgstr "האם התוכן מוגן בסיסמה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2440
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2448
 msgid "The ID for the author of the post."
 msgstr "המזהה של המחבר הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2448
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2456
 msgid "The excerpt for the post."
 msgstr "התקציר של הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2457
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2465
 msgid "Excerpt for the post, as it exists in the database."
 msgstr "התקציר של הפוסט, כפי שהוא מופיע במסד הנתונים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2462
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2470
 msgid "HTML excerpt for the post, transformed for display."
 msgstr "תקציר HTML של הפוסט, ששונה לצורך תצוגה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2468
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2476
 msgid "Whether the excerpt is protected with a password."
 msgstr "האם התקציר מוגן בסיסמה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2479
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2487
 msgid "The ID of the featured media for the post."
 msgstr "ה-ID של התמונה הראשית."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2487
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2495
 msgid "Whether or not comments are open on the post."
 msgstr "האם הפוסט פתוח לתגובות."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2493
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2501
 msgid "Whether or not the post can be pinged."
 msgstr "האם הפוסט פתוח לפינגים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2502
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2510
 msgid "The order of the post in relation to other posts."
 msgstr "מיקום הפוסט ביחס לפוסטים אחרים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2513
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2521
 msgid "The format for the post."
 msgstr "הפורמט של הפוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2529
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2537
 msgid "Whether or not the post should be treated as sticky."
 msgstr "האם להתייחס לפוסט כדביק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2536
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2544
 msgid "The theme file to use to display the post."
 msgstr "קובץ בתבנית שצריך להשתמש בו כדי להציג את הפוסט."
 
 #. translators: 1: The taxonomy name, 2: The property name, either 'rest_base' or 'name', 3: The conflicting value.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2555
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2563
 #, php-format
 msgid "The \"%1$s\" taxonomy \"%2$s\" property (%3$s) conflicts with an existing property on the REST API Posts Controller. Specify a custom \"rest_base\" when registering the taxonomy to avoid this error."
 msgstr "התכונה \"%2$s\" (%3$s) של הטקסונומיה \"%1$s\" מתנגשת עם תכונה קיימת ב- REST API Posts Controller. יש לציין \"rest_base\" מותאם בעת רישום הטקסונומיה כדי למנוע שגיאה זו."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2566
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2574
 #, php-format
 msgid "The terms assigned to the post in the %s taxonomy."
 msgstr "המונחים המשוייכים לפוסט בטקסונומיה \"%s\"."
 
 #. translators: %s: register_rest_field
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2609
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2617
 #, php-format
 msgid "Please use %s to add new schema properties."
 msgstr "יש להשתמש ב-%s כדי להוסיף מאפייני סכמה חדשים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2637
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2645
 msgid "The current user can publish this post."
 msgstr "המשתמש הנוכחי יכול לפרסם את הפוסט הזה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2653
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2661
 msgid "The current user can post unfiltered HTML markup and JavaScript."
 msgstr "המשתמש הנוכחי יכול לפרסם HTML לא מסונן ו-JavaScript."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2670
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2678
 msgid "The current user can sticky this post."
 msgstr "המשתמש הנוכחי יכול להפוך את הפוסט הזה לדביק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2686
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2694
 msgid "The current user can change the author on this post."
 msgstr "המשתמש הנוכחי יכול לשנות את המחבר של הפוסט הזה."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2705
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2713
 #, php-format
 msgid "The current user can assign terms in the %s taxonomy."
 msgstr "המשתמש הנוכחי יכול להקצות מונחים בטקסונומיה %s."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2707
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2715
 #, php-format
 msgid "The current user can create terms in the %s taxonomy."
 msgstr "המשתמש הנוכחי יכול ליצור מונחים בטקסונומיה %s."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2762
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2770
 msgid "Limit response to posts published after a given ISO8601 compliant date."
 msgstr "הגבלת תוצאות לפוסטים שפורסמו אחריי תאריך מסויים בתקן ISO8601."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2768
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2776
 msgid "Limit response to posts modified after a given ISO8601 compliant date."
 msgstr "הגבלת תוצאות לפוסטים ששונו אחרי תאריך מסויים בתקן ISO8601."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2775
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2783
 msgid "Limit result set to posts assigned to specific authors."
 msgstr "הגבלת תוצאות לפוסטים המשוייכים למחבר מסויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2783
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2791
 msgid "Ensure result set excludes posts assigned to specific authors."
 msgstr "יש לוודא כי התוצאות לא כוללות פוסטים המשוייכים למחברים מסויימים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2793
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2801
 msgid "Limit response to posts published before a given ISO8601 compliant date."
 msgstr "הגבלת תוצאות לפוסטים שפורסמו לפני תאריך מסויים בתקן ISO8601."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2799
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2807
 msgid "Limit response to posts modified before a given ISO8601 compliant date."
 msgstr "הגבלת תוצאות לפוסטים ששונו לפני תאריך מסויים בתקן ISO8601."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2842
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2850
 msgid "Sort collection by post attribute."
 msgstr "מיון אוסף לפי תכונות פוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2867
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2875
 msgid "Limit result set to items with particular parent IDs."
 msgstr "הגבלת תוצאות לאלה התואמים למספר פוסט אב מסויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2875
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2883
 msgid "Limit result set to all items except those of a particular parent ID."
 msgstr "הגבלת תוצאות לפריטים שאינם משוייכים למספר פוסט אב מסויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2886
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2894
 msgid "Array of column names to be searched."
 msgstr ""
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2895
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2903
 msgid "Limit result set to posts with one or more specific slugs."
 msgstr "הגבלת תוצאות לפוסטים עם מזהה כתובת אחד או יותר."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2904
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2912
 msgid "Limit result set to posts assigned one or more statuses."
 msgstr "הגבלת תוצאות לפוסטים המשוייכים לסטטוס אחד או יותר."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2917
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2925
 msgid "Limit result set to items that are sticky."
 msgstr "הגבלת תוצאות לפריטים דביקים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3078
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3086
 msgid "Limit result set based on relationship between multiple taxonomies."
 msgstr "הגבל הגדרת תוצאת על בסיס קשרים בין טקסונומיות מרובות."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3087
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3095
 msgid "Term ID List"
 msgstr "רשימת מזהיי מונחים"
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3088
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3096
 msgid "Match terms with the listed IDs."
 msgstr "התאם מונחים עם מזהים רשומים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3095
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3103
 msgid "Term ID Taxonomy Query"
 msgstr "מזהה מונח שאילתת טקסונומיה"
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3096
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3104
 msgid "Perform an advanced term query."
 msgstr "ביצוע שאילתא מתקדמת."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3100
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3108
 msgid "Term IDs."
 msgstr "מזהה מונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3108
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3116
 msgid "Whether to include child terms in the terms limiting the result set."
 msgstr "האם לכלול מונחי משנה בתנאים המגבילים את מערך התוצאות."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3121
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3129
 #, php-format
 msgid "Limit result set to items with specific terms assigned in the %s taxonomy."
 msgstr "הגבלת תוצאות לפריטים בעלי מונח מסויים בטקסונומיה %s."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3127
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3135
 msgid "Whether items must be assigned all or any of the specified terms."
 msgstr "האם לשייך רכיבים למונחים האלו."
 
 #. translators: %s: Taxonomy name.
-#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3136
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:3144
 #, php-format
 msgid "Limit result set to items except those with specific terms assigned in the %s taxonomy."
 msgstr "הגבלת תוצאות לפריטים בעלי מונח מסויים בטקסונומיה %s."
@@ -11661,7 +11688,7 @@ msgid "Limit results to taxonomies associated with a specific post type."
 msgstr "הגבלת תוצאות לטקסונומיות המשוייכות לסוגי תוכן מסויימים."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:111
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1020
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1024
 msgid "Unique identifier for the term."
 msgstr "מזהה ייחודי למונח זה."
 
@@ -11677,65 +11704,65 @@ msgstr "אין לך הרשאות לערוך פריטים בטקסונומיה ז
 msgid "Sorry, you are not allowed to view terms for this post."
 msgstr "אין לך הרשאות לראות מונחים של הפוסט הזה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:394
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:398
 msgid "Term does not exist."
 msgstr "מונח לא קיים."
 
 #. translators: %s: force=true
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:753
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:757
 #, php-format
 msgid "Terms do not support trashing. Set '%s' to delete."
 msgstr "לא ניתן להעביר מונחים לפח. יש להגדיר  '%s' כדי למחוק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:767
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:771
 msgid "The term cannot be deleted."
 msgstr "לא ניתן למחוק את המונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1026
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1030
 msgid "Number of published posts for the term."
 msgstr "מספר הפוסטים שפורסמו למונח זה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1032
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1036
 msgid "HTML description of the term."
 msgstr "תיאור HTML של המונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1037
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1041
 msgid "URL of the term."
 msgstr "הכתובת של המונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1044
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1048
 msgid "HTML title for the term."
 msgstr "כותרת HTML למונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1053
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1057
 msgid "An alphanumeric identifier for the term unique to its type."
 msgstr "מזהה אלפאנומרי עבור המונח היחודי מסוגו."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1061
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1065
 msgid "Type attribution for the term."
 msgstr "סוגי תוכונות של המונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1074
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1078
 msgid "The parent term ID."
 msgstr "המספר של מונח האב."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1136
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1140
 msgid "Sort collection by term attribute."
 msgstr "מיון אוסף לפי תכונות מונח."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1152
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1156
 msgid "Whether to hide terms not assigned to any posts."
 msgstr "האם להסתיר מונחים שלא משוייכים לאף פוסט."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1159
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1163
 msgid "Limit result set to terms assigned to a specific parent."
 msgstr "הגבלת תוצאות למונחים המשוייכים לאב מסויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1165
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1169
 msgid "Limit result set to terms assigned to a specific post."
 msgstr "הגבלת תוצאות למונחים המשוייכים לפוסט מסויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1171
+#: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1175
 msgid "Limit result set to terms with one or more specific slugs."
 msgstr "הגבלת תוצאות למונחים עם מזהה כתובת אחד או יותר."
 
@@ -11866,7 +11893,7 @@ msgid "Limit result set to themes assigned one or more statuses."
 msgstr "הגבלת התוצאות לתבניות בסטטוס אחד או יותר."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:74
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1344
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1350
 msgid "Unique identifier for the user."
 msgstr "מזהה יחודי למשתמש."
 
@@ -11881,7 +11908,7 @@ msgid "Reassign the deleted user's posts and links to this user ID."
 msgstr "העברת תכנים של משתמש שנמחק אל המשתמש הזה."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:178
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:561
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:567
 msgid "Invalid user parameter(s)."
 msgstr "פרמטר משתמש שגוי."
 
@@ -11893,6 +11920,10 @@ msgstr "אין לך הרשאות לסנן משתמשים לפי תפקיד."
 msgid "Sorry, you are not allowed to filter users by capability."
 msgstr "אין לך הרשאות לסנן משתמשים לפי יכולות."
 
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:213
+msgid "Sorry, you are not allowed to edit users."
+msgstr "אין לך הרשאות לערוך משתמשים."
+
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:221
 msgid "Sorry, you are not allowed to order users by this parameter."
 msgstr "אין לך הרשאות לסדר משתמשים לפי פרמטר זה."
@@ -11901,168 +11932,168 @@ msgstr "אין לך הרשאות לסדר משתמשים לפי פרמטר זה.
 msgid "Sorry, you are not allowed to query users by this parameter."
 msgstr "אין לך הרשאות לסנן משתמשים על פי משתנה זה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:518
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:524
 msgid "Sorry, you are not allowed to create new users."
 msgstr "אין לך הרשאות ליצור משתמשים חדשים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:538
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:544
 msgid "Cannot create existing user."
 msgstr "לא ניתן ליצור משתמש קיים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:586
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:592
 msgid "Error creating new user."
 msgstr "שגיאה ביצירת משתמש חדש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:682
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:688
 msgid "Sorry, you are not allowed to edit roles of this user."
 msgstr "אין לך הרשאות לערוך תפקידים למשתמש זה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:739
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:745
 msgid "Username is not editable."
 msgstr "שם המשתמש אינו ניתן לעריכה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:747
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:753
 msgid "Invalid slug."
 msgstr "מזהה כתובת שגוי."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:853
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:859
 msgid "Sorry, you are not allowed to delete this user."
 msgstr "אין לך הרשאות למחוק משתמש זה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:874
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:921
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:880
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:927
 msgid "The user cannot be deleted."
 msgstr "לא ניתן למחוק משתמש."
 
 #. translators: %s: force=true
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:894
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:900
 #, php-format
 msgid "Users do not support trashing. Set '%s' to delete."
 msgstr "לא ניתן להעביר משתמשים לפח. יש להגדיר  '%s' כדי למחוק."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:903
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:909
 msgid "Invalid user ID for reassignment."
 msgstr "מספר משתמש שגוי."
 
 #. translators: %s: Role key.
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1210
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1216
 #, php-format
 msgid "The role %s does not exist."
 msgstr "התפקיד %s לא קיים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1228
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1242
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1234
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1248
 msgid "Sorry, you are not allowed to give users that role."
 msgstr "אין לך הרשאות לתת למשתמשים את התפקיד הזה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1269
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1275
 msgid "This username is invalid because it uses illegal characters. Please enter a valid username."
 msgstr "שם המשתמש מכיל תווים שגויים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1280
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1286
 #: wp-includes/user.php:2160
 msgid "Sorry, that username is not allowed."
 msgstr "שם המשתמש אינו מורשה."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1306
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1312
 msgid "Passwords cannot be empty."
 msgstr "סיסמה לא יכולה להיות ריקה."
 
 #. translators: %s: The '\' character.
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1316
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1322
 #, php-format
 msgid "Passwords cannot contain the \"%s\" character."
 msgstr "סיסמא לא יכולה להכיל את התו \"%s\"."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1350
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1356
 msgid "Login name for the user."
 msgstr "שם המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1359
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1365
 msgid "Display name for the user."
 msgstr "השם של המשתמש שיוצג."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1367
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1373
 msgid "First name for the user."
 msgstr "השם הפרטי של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1375
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1381
 msgid "Last name for the user."
 msgstr "שם המשפחה של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1383
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1389
 msgid "The email address for the user."
 msgstr "כתובת האימייל של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1390
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1396
 msgid "URL of the user."
 msgstr "הכתובת של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1396
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1402
 msgid "Description of the user."
 msgstr "התיאור של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1401
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1407
 msgid "Author URL of the user."
 msgstr "כתובת המחבר של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1408
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1414
 msgid "Locale for the user."
 msgstr "השפה של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1414
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1420
 msgid "The nickname for the user."
 msgstr "הכינוי של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1422
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1428
 msgid "An alphanumeric identifier for the user."
 msgstr "מזהה אלפאנומרי עבור המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1430
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1436
 msgid "Registration date for the user."
 msgstr "תאריך רישום של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1437
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1443
 msgid "Roles assigned to the user."
 msgstr "תפקידים המשוייכים למשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1445
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1451
 msgid "Password for the user (never included)."
 msgstr "הסיסמה של המשתמש (לעולם לא כלול)."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1454
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1460
 msgid "All capabilities assigned to the user."
 msgstr "כל היכולות המשוייכות למשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1460
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1466
 msgid "Any extra capabilities assigned to the user."
 msgstr "יכולות נוספות המשוייכות למשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1484
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1490
 msgid "Avatar URLs for the user."
 msgstr "כתובת צלמית-משתמש של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1543
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1549
 msgid "Sort collection by user attribute."
 msgstr "מיין קבוצות לפי התכונות של המשתמש."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1558
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1564
 msgid "Limit result set to users with one or more specific slugs."
 msgstr "הגבלת תוצאות למשתמשים עם מזהה כתובת אחד או יותר."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1566
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1572
 msgid "Limit result set to users matching at least one specific role provided. Accepts csv list or single role."
 msgstr "הגבלת תוצאות למשתמשים בעלי לפחות תפקיד אחד שהוזן. מקבל רשימת CSV או תפקיד בודד."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1574
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1580
 msgid "Limit result set to users matching at least one specific capability provided. Accepts csv list or single capability."
 msgstr "הגבלת תוצאות למשתמשים בעלי לפחות יכול אחת שהוזנה. מקבל רשימת CSV או יכולת בודדת."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1582
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1588
 msgid "Limit result set to users who are considered authors."
 msgstr "הגבל תוצאות למשתמשים הנחשבים מחברים."
 
-#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1590
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1596
 msgid "Limit result set to users who have published posts."
 msgstr "להגביל את התוצאות למשתמשים שפרסמו פוסטים."
 
@@ -12110,7 +12141,7 @@ msgstr ""
 msgid "Sorry, you are not allowed to preview drafts."
 msgstr "אין לך הרשאות לראות טיוטות."
 
-#: wp-includes/rss.php:909
+#: wp-includes/rss.php:912
 #: wp-includes/widgets.php:1603
 msgid "An error has occurred, which probably means the feed is down. Try again later."
 msgstr "לא ניתן להגיע לפיד, השרת כנראה לא פעיל. יש לנסות שנית מאוחר יותר."
@@ -12224,7 +12255,7 @@ msgid "of"
 msgstr "מתוך"
 
 #: wp-includes/script-loader.php:772
-#: wp-includes/script-loader.php:1268
+#: wp-includes/script-loader.php:1291
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
 msgstr "תכונה זו מחייבת מסגרות מוטמעות. הדפדפן שלך אינו תומך ב-iframes או שהתמיכה בהם כובתה."
 
@@ -12333,482 +12364,519 @@ msgstr "השרת לא יכול לעבד תמונה. יש להמיר ל-JPEG או
 msgid "The file URL has been copied to your clipboard"
 msgstr "הכתובת של הקובץ הועתקה ללוח"
 
-#: wp-includes/script-loader.php:869
-msgid "Turn off Fullscreen"
+#: wp-includes/script-loader.php:837
+msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
 msgstr ""
 
-#: wp-includes/script-loader.php:870
-msgid "Go Fullscreen"
+#: wp-includes/script-loader.php:838
+msgid "Field contains invalid files"
 msgstr ""
 
-#: wp-includes/script-loader.php:871
-msgid "Download Video"
+#: wp-includes/script-loader.php:839
+msgid "Waiting for size"
 msgstr ""
 
-#: wp-includes/script-loader.php:873
-msgid "Jump forward 1 second"
+#: wp-includes/script-loader.php:840
+msgid "Size not available"
 msgstr ""
 
-#: wp-includes/script-loader.php:873
-msgid "Jump forward %1 seconds"
+#: wp-includes/script-loader.php:841
+msgid "file in list"
 msgstr ""
 
-#: wp-includes/script-loader.php:874
-msgid "Toggle Loop"
+#: wp-includes/script-loader.php:842
+msgid "files in list"
 msgstr ""
 
-#: wp-includes/script-loader.php:875
+#: wp-includes/script-loader.php:843
+msgid "Loading"
+msgstr ""
+
+#: wp-includes/script-loader.php:844
+msgid "Added"
+msgstr "נוסף"
+
+#: wp-includes/script-loader.php:845
+msgid "Error during load"
+msgstr ""
+
+#: wp-includes/script-loader.php:846
+msgid "Removed"
+msgstr "נמחק"
+
+#: wp-includes/script-loader.php:847
+msgid "Error during remove"
+msgstr ""
+
+#: wp-includes/script-loader.php:849
+msgid "Upload complete"
+msgstr ""
+
+#: wp-includes/script-loader.php:850
+msgid "Upload cancelled"
+msgstr ""
+
+#: wp-includes/script-loader.php:851
+msgid "Error during upload"
+msgstr ""
+
+#: wp-includes/script-loader.php:852
+msgid "Error during revert"
+msgstr ""
+
+#: wp-includes/script-loader.php:853
+msgid "tap to cancel"
+msgstr ""
+
+#: wp-includes/script-loader.php:854
+msgid "tap to retry"
+msgstr ""
+
+#: wp-includes/script-loader.php:855
+msgid "tap to undo"
+msgstr ""
+
+#: wp-includes/script-loader.php:857
+msgid "Abort"
+msgstr ""
+
+#: wp-includes/script-loader.php:858
+#: wp-includes/script-loader.php:861
+msgid "Retry"
+msgstr "נסה שוב"
+
+#: wp-includes/script-loader.php:862
+msgid "Upload"
+msgstr ""
+
+#: wp-includes/script-loader.php:919
+msgid "Download File"
+msgstr ""
+
+#: wp-includes/script-loader.php:921
 #: wp-includes/theme.php:1661
 msgid "Play"
 msgstr "נגן"
 
-#: wp-includes/script-loader.php:876
+#: wp-includes/script-loader.php:922
 #: wp-includes/theme.php:1660
 msgid "Pause"
 msgstr "השהייה"
 
-#: wp-includes/script-loader.php:878
+#: wp-includes/script-loader.php:923
 msgid "Time Slider"
 msgstr "סרגל התקדמות"
 
-#: wp-includes/script-loader.php:879
+#: wp-includes/script-loader.php:924
 msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
 msgstr "השתמש במקש שמאל/ימין להתקדם שניה אחת, מקש למעלה/למטה להתקדם עשר שניות."
 
-#: wp-includes/script-loader.php:880
-msgid "Skip back 1 second"
-msgstr ""
-
-#: wp-includes/script-loader.php:880
-msgid "Skip back %1 seconds"
-msgstr ""
-
-#: wp-includes/script-loader.php:881
-msgid "Captions/Subtitles"
-msgstr "כתוביות"
-
-#: wp-includes/script-loader.php:882
-msgid "Chapters"
-msgstr "פרקים"
-
-#: wp-includes/script-loader.php:884
-msgid "Mute Toggle"
-msgstr ""
-
-#: wp-includes/script-loader.php:885
-msgid "Use Up/Down Arrow keys to increase or decrease volume."
-msgstr "השתמש במקש למעלה/למטה כדי להגביר או להנמיך עוצמת שמע."
-
-#: wp-includes/script-loader.php:886
-msgid "Unmute"
-msgstr "בטל השתקה"
-
-#: wp-includes/script-loader.php:887
-msgid "Mute"
-msgstr "להשתיק"
-
-#: wp-includes/script-loader.php:888
-msgid "Volume Slider"
-msgstr "עוצמת שמע"
-
-#: wp-includes/script-loader.php:889
-msgid "Video Player"
-msgstr "נגן וידאו"
-
-#: wp-includes/script-loader.php:890
-msgid "Audio Player"
-msgstr "נגן אודיו"
-
-#: wp-includes/script-loader.php:891
-msgid "Skip ad"
-msgstr ""
-
-#: wp-includes/script-loader.php:892
-msgid "Skip in 1 second"
-msgstr ""
-
-#: wp-includes/script-loader.php:892
-msgid "Skip in %1 seconds"
-msgstr ""
-
-#: wp-includes/script-loader.php:893
-msgid "Source Chooser"
-msgstr ""
-
-#: wp-includes/script-loader.php:894
-msgid "Stop"
-msgstr ""
-
-#: wp-includes/script-loader.php:895
-msgid "Speed Rate"
-msgstr ""
-
-#: wp-includes/script-loader.php:896
+#: wp-includes/script-loader.php:925
 msgid "Live Broadcast"
 msgstr "שידור חי"
 
-#: wp-includes/script-loader.php:897
+#: wp-includes/script-loader.php:926
+msgid "Current time"
+msgstr ""
+
+#: wp-includes/script-loader.php:927
+msgid "Total duration"
+msgstr ""
+
+#: wp-includes/script-loader.php:928
+msgid "Use Up/Down Arrow keys to increase or decrease volume."
+msgstr "השתמש במקש למעלה/למטה כדי להגביר או להנמיך עוצמת שמע."
+
+#: wp-includes/script-loader.php:929
+msgid "Unmute"
+msgstr "בטל השתקה"
+
+#: wp-includes/script-loader.php:930
+msgid "Mute"
+msgstr "להשתיק"
+
+#: wp-includes/script-loader.php:931
+msgid "Volume Slider"
+msgstr "עוצמת שמע"
+
+#: wp-includes/script-loader.php:932
+msgid "Video Player"
+msgstr "נגן וידאו"
+
+#: wp-includes/script-loader.php:933
+msgid "Audio Player"
+msgstr "נגן אודיו"
+
+#: wp-includes/script-loader.php:934
+msgid "Captions/Subtitles"
+msgstr "כתוביות"
+
+#: wp-includes/script-loader.php:935
+msgid "Chapters"
+msgstr "פרקים"
+
+#: wp-includes/script-loader.php:937
 msgid "Afrikaans"
 msgstr "אפריקנס"
 
-#: wp-includes/script-loader.php:898
+#: wp-includes/script-loader.php:938
 msgid "Albanian"
 msgstr "אלבנית"
 
-#: wp-includes/script-loader.php:899
+#: wp-includes/script-loader.php:939
 msgid "Arabic"
 msgstr "ערבית"
 
-#: wp-includes/script-loader.php:900
+#: wp-includes/script-loader.php:940
 msgid "Belarusian"
 msgstr "בלרוסית"
 
-#: wp-includes/script-loader.php:901
+#: wp-includes/script-loader.php:941
 msgid "Bulgarian"
 msgstr "בולגרית"
 
-#: wp-includes/script-loader.php:902
+#: wp-includes/script-loader.php:942
 msgid "Catalan"
 msgstr "קטלונית"
 
-#: wp-includes/script-loader.php:903
+#: wp-includes/script-loader.php:943
 msgid "Chinese"
 msgstr "סינית"
 
-#: wp-includes/script-loader.php:904
+#: wp-includes/script-loader.php:944
 msgid "Chinese (Simplified)"
 msgstr "סינית (מופשטת)"
 
-#: wp-includes/script-loader.php:905
+#: wp-includes/script-loader.php:945
 msgid "Chinese (Traditional)"
 msgstr "סינית (מסורתית)"
 
-#: wp-includes/script-loader.php:906
+#: wp-includes/script-loader.php:946
 msgid "Croatian"
 msgstr "קרואטית"
 
-#: wp-includes/script-loader.php:907
+#: wp-includes/script-loader.php:947
 msgid "Czech"
 msgstr "צ'כית"
 
-#: wp-includes/script-loader.php:908
+#: wp-includes/script-loader.php:948
 msgid "Danish"
 msgstr "דנית"
 
-#: wp-includes/script-loader.php:909
+#: wp-includes/script-loader.php:949
 msgid "Dutch"
 msgstr "הולנדית"
 
-#: wp-includes/script-loader.php:910
+#: wp-includes/script-loader.php:950
 msgid "English"
 msgstr "אנגלית"
 
-#: wp-includes/script-loader.php:911
+#: wp-includes/script-loader.php:951
 msgid "Estonian"
 msgstr "אסטונית"
 
-#: wp-includes/script-loader.php:912
+#: wp-includes/script-loader.php:952
 msgid "Filipino"
 msgstr "פיליפינית"
 
-#: wp-includes/script-loader.php:913
+#: wp-includes/script-loader.php:953
 msgid "Finnish"
 msgstr "פינית"
 
-#: wp-includes/script-loader.php:914
+#: wp-includes/script-loader.php:954
 msgid "French"
 msgstr "צרפתית"
 
-#: wp-includes/script-loader.php:915
+#: wp-includes/script-loader.php:955
 msgid "Galician"
 msgstr "גליציאנית"
 
-#: wp-includes/script-loader.php:916
+#: wp-includes/script-loader.php:956
 msgid "German"
 msgstr "גרמנית"
 
-#: wp-includes/script-loader.php:917
+#: wp-includes/script-loader.php:957
 msgid "Greek"
 msgstr "יוונית"
 
-#: wp-includes/script-loader.php:918
+#: wp-includes/script-loader.php:958
 msgid "Haitian Creole"
 msgstr "קריאולית האיטי"
 
-#: wp-includes/script-loader.php:919
+#: wp-includes/script-loader.php:959
 msgid "Hebrew"
 msgstr "עברית"
 
-#: wp-includes/script-loader.php:920
+#: wp-includes/script-loader.php:960
 msgid "Hindi"
 msgstr "הינדית"
 
-#: wp-includes/script-loader.php:921
+#: wp-includes/script-loader.php:961
 msgid "Hungarian"
 msgstr "הונגרית"
 
-#: wp-includes/script-loader.php:922
+#: wp-includes/script-loader.php:962
 msgid "Icelandic"
 msgstr "איסלנדית"
 
-#: wp-includes/script-loader.php:923
+#: wp-includes/script-loader.php:963
 msgid "Indonesian"
 msgstr "אינדונזית"
 
-#: wp-includes/script-loader.php:924
+#: wp-includes/script-loader.php:964
 msgid "Irish"
 msgstr "אירית"
 
-#: wp-includes/script-loader.php:925
+#: wp-includes/script-loader.php:965
 msgid "Italian"
 msgstr "איטלקית"
 
-#: wp-includes/script-loader.php:926
+#: wp-includes/script-loader.php:966
 msgid "Japanese"
 msgstr "יפנית"
 
-#: wp-includes/script-loader.php:927
+#: wp-includes/script-loader.php:967
 msgid "Korean"
 msgstr "קוראנית"
 
-#: wp-includes/script-loader.php:928
+#: wp-includes/script-loader.php:968
 msgid "Latvian"
 msgstr "לטבית"
 
-#: wp-includes/script-loader.php:929
+#: wp-includes/script-loader.php:969
 msgid "Lithuanian"
 msgstr "ליטאית"
 
-#: wp-includes/script-loader.php:930
+#: wp-includes/script-loader.php:970
 msgid "Macedonian"
 msgstr "מקדונית"
 
-#: wp-includes/script-loader.php:931
+#: wp-includes/script-loader.php:971
 msgid "Malay"
 msgstr "מאלי"
 
-#: wp-includes/script-loader.php:932
+#: wp-includes/script-loader.php:972
 msgid "Maltese"
 msgstr "מלטזית"
 
-#: wp-includes/script-loader.php:933
+#: wp-includes/script-loader.php:973
 msgid "Norwegian"
 msgstr "נורבגית"
 
-#: wp-includes/script-loader.php:934
+#: wp-includes/script-loader.php:974
 msgid "Persian"
 msgstr "פרסית"
 
-#: wp-includes/script-loader.php:935
+#: wp-includes/script-loader.php:975
 msgid "Polish"
 msgstr "פולנית"
 
-#: wp-includes/script-loader.php:936
+#: wp-includes/script-loader.php:976
 msgid "Portuguese"
 msgstr "פורטוגזית"
 
-#: wp-includes/script-loader.php:937
+#: wp-includes/script-loader.php:977
 msgid "Romanian"
 msgstr "רומנית"
 
-#: wp-includes/script-loader.php:938
+#: wp-includes/script-loader.php:978
 msgid "Russian"
 msgstr "רוסית"
 
-#: wp-includes/script-loader.php:939
+#: wp-includes/script-loader.php:979
 msgid "Serbian"
 msgstr "סרבית"
 
-#: wp-includes/script-loader.php:940
+#: wp-includes/script-loader.php:980
 msgid "Slovak"
 msgstr "סלובקית"
 
-#: wp-includes/script-loader.php:941
+#: wp-includes/script-loader.php:981
 msgid "Slovenian"
 msgstr "סלובנית"
 
-#: wp-includes/script-loader.php:942
+#: wp-includes/script-loader.php:982
 msgid "Spanish"
 msgstr "ספרדית"
 
-#: wp-includes/script-loader.php:943
+#: wp-includes/script-loader.php:983
 msgid "Swahili"
 msgstr "סוואהילית"
 
-#: wp-includes/script-loader.php:944
+#: wp-includes/script-loader.php:984
 msgid "Swedish"
 msgstr "שבדית"
 
-#: wp-includes/script-loader.php:945
+#: wp-includes/script-loader.php:985
 msgid "Tagalog"
 msgstr "טגלוג"
 
-#: wp-includes/script-loader.php:946
+#: wp-includes/script-loader.php:986
 msgid "Thai"
 msgstr "תאילנדית"
 
-#: wp-includes/script-loader.php:947
+#: wp-includes/script-loader.php:987
 msgid "Turkish"
 msgstr "טורקית"
 
-#: wp-includes/script-loader.php:948
+#: wp-includes/script-loader.php:988
 msgid "Ukrainian"
 msgstr "אוקראינית"
 
-#: wp-includes/script-loader.php:949
+#: wp-includes/script-loader.php:989
 msgid "Vietnamese"
 msgstr "ויאטנמית"
 
-#: wp-includes/script-loader.php:950
+#: wp-includes/script-loader.php:990
 msgid "Welsh"
 msgstr "וולשית"
 
-#: wp-includes/script-loader.php:951
+#: wp-includes/script-loader.php:991
 msgid "Yiddish"
 msgstr "יידיש"
 
-#: wp-includes/script-loader.php:1023
+#: wp-includes/script-loader.php:1046
 msgctxt "password strength"
 msgid "Password strength unknown"
 msgstr "חוזק סיסמה לא ידוע"
 
-#: wp-includes/script-loader.php:1024
+#: wp-includes/script-loader.php:1047
 msgctxt "password strength"
 msgid "Very weak"
 msgstr "חלש מאוד"
 
-#: wp-includes/script-loader.php:1025
+#: wp-includes/script-loader.php:1048
 msgctxt "password strength"
 msgid "Weak"
 msgstr "חלש"
 
-#: wp-includes/script-loader.php:1026
+#: wp-includes/script-loader.php:1049
 msgctxt "password strength"
 msgid "Medium"
 msgstr "בינוני"
 
-#: wp-includes/script-loader.php:1027
+#: wp-includes/script-loader.php:1050
 msgctxt "password strength"
 msgid "Strong"
 msgstr "חזק"
 
-#: wp-includes/script-loader.php:1028
+#: wp-includes/script-loader.php:1051
 msgctxt "password mismatch"
 msgid "Mismatch"
 msgstr "שגוי"
 
-#: wp-includes/script-loader.php:1065
+#: wp-includes/script-loader.php:1088
 msgid "Link selected."
 msgstr "קישור נבחר."
 
-#: wp-includes/script-loader.php:1066
+#: wp-includes/script-loader.php:1089
 msgid "Link inserted."
 msgstr "קישור הוגדר."
 
 #. translators: Minimum input length in characters to start searching posts in the "Insert/edit link" modal.
-#: wp-includes/script-loader.php:1068
+#: wp-includes/script-loader.php:1091
 msgctxt "minimum input length for searching post links"
 msgid "3"
 msgstr ""
 
-#: wp-includes/script-loader.php:1093
+#: wp-includes/script-loader.php:1116
 msgid "Activate &amp; Publish"
 msgstr "הפעל ופרסם"
 
-#: wp-includes/script-loader.php:1094
+#: wp-includes/script-loader.php:1117
 msgid "Save &amp; Publish"
 msgstr "שמירה ופרסום"
 
-#: wp-includes/script-loader.php:1098
+#: wp-includes/script-loader.php:1121
 msgid "Draft Saved"
 msgstr "טיוטה נשמרה"
 
-#: wp-includes/script-loader.php:1099
+#: wp-includes/script-loader.php:1122
 msgid "Updating"
 msgstr "מעדכן"
 
-#: wp-includes/script-loader.php:1101
+#: wp-includes/script-loader.php:1124
 msgctxt "customizer changeset status"
 msgid "Scheduled"
 msgstr "מתוזמן לפרסום"
 
-#: wp-includes/script-loader.php:1102
+#: wp-includes/script-loader.php:1125
 msgid "Invalid"
 msgstr "שגוי"
 
-#: wp-includes/script-loader.php:1103
+#: wp-includes/script-loader.php:1126
 msgid "Please save your changes in order to share the preview."
 msgstr "יש לשמור את השינויים כדי לשתף תצוגה מקדימה. "
 
-#: wp-includes/script-loader.php:1106
+#: wp-includes/script-loader.php:1129
 msgid "Saved"
 msgstr "נשמר"
 
-#: wp-includes/script-loader.php:1110
+#: wp-includes/script-loader.php:1133
 msgid "Discard changes"
 msgstr "בטל שינויים"
 
-#: wp-includes/script-loader.php:1114
+#: wp-includes/script-loader.php:1137
 msgid "Site Preview"
 msgstr "תצוגה מקדימה"
 
-#: wp-includes/script-loader.php:1116
+#: wp-includes/script-loader.php:1139
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
 msgstr "הסתר פקדים"
 
-#: wp-includes/script-loader.php:1117
+#: wp-includes/script-loader.php:1140
 msgctxt "label for hide controls button without length constraints"
 msgid "Show Controls"
 msgstr "הצג בקרים"
 
-#: wp-includes/script-loader.php:1118
+#: wp-includes/script-loader.php:1141
 msgid "(Untitled)"
 msgstr "(ללא כותרת)"
 
-#: wp-includes/script-loader.php:1119
+#: wp-includes/script-loader.php:1142
 msgid "Looks like something&#8217;s gone wrong. Wait a couple seconds, and then try again."
 msgstr "נראה שמשהו השתבש. יש להמתין מספר שניות ולנסות שוב."
 
-#: wp-includes/script-loader.php:1120
+#: wp-includes/script-loader.php:1143
 msgid "Downloading your new theme&hellip;"
 msgstr "מוריד את התבנית החדשה &hellip;"
 
-#: wp-includes/script-loader.php:1121
+#: wp-includes/script-loader.php:1144
 msgid "Setting up your live preview. This may take a bit."
 msgstr "הגדרת תצוגה מקדימה עלולה לקחת קצת זמן."
 
-#: wp-includes/script-loader.php:1122
+#: wp-includes/script-loader.php:1145
 msgid "Reverting unpublished changes&hellip;"
 msgstr "ביטול שינויים שלא פורסמו&hellip;"
 
-#: wp-includes/script-loader.php:1123
+#: wp-includes/script-loader.php:1146
 msgid "Are you sure you want to discard your unpublished changes?"
 msgstr "האם אתה בטוח שברצונך לבטל שינויים שלא פורסמו?"
 
 #. translators: %s: Display name of the user who has taken over the changeset in customizer.
-#: wp-includes/script-loader.php:1125
+#: wp-includes/script-loader.php:1148
 #, php-format
 msgid "%s has taken over and is currently customizing."
 msgstr "%s השתלט על ההתאמה האישית כדי לבצע שינויים."
 
 #. translators: %s: URL to the Customizer to load the autosaved version.
-#: wp-includes/script-loader.php:1127
+#: wp-includes/script-loader.php:1150
 #, php-format
 msgid "There is a more recent autosave of your changes than the one you are previewing. <a href=\"%s\">Restore the autosave</a>"
 msgstr "ישנה גרסת עדכנית יותר שנשמרה אוטומטית. <a href=\"%s\">שחזר את מהשמירה האוטומטית</a>"
 
-#: wp-includes/script-loader.php:1128
+#: wp-includes/script-loader.php:1151
 msgid "This theme does not support video headers on this page. Navigate to the front page or another page that supports video headers."
 msgstr "התבנית אינה תומכת בכותרות וידאו בעמוד זה. יש לנווט לעמוד הראשי או לעמוד אחר שתומך בכותרות וידאו."
 
-#: wp-includes/script-loader.php:1130
+#: wp-includes/script-loader.php:1153
 msgid "Allowed Files"
 msgstr "קבצים מותרים"
 
 #. translators: %d: Error count.
-#: wp-includes/script-loader.php:1133
-#: wp-includes/script-loader.php:1135
+#: wp-includes/script-loader.php:1156
+#: wp-includes/script-loader.php:1158
 #, php-format
 msgid "There is %d error which must be fixed before you can save."
 msgid_plural "There are %d errors which must be fixed before you can save."
@@ -12817,71 +12885,148 @@ msgstr[1] "קיימות %d שגיאות שדורשות תיקון לפני שנ�
 msgstr[2] ""
 msgstr[3] ""
 
-#: wp-includes/script-loader.php:1138
+#: wp-includes/script-loader.php:1161
 msgid "Homepage and posts page must be different."
 msgstr "עמוד ראשי ועמוד הפוסטים צריכים להיות עמודים שונים."
 
-#: wp-includes/script-loader.php:1146
+#: wp-includes/script-loader.php:1169
 msgid "Schedule your customization changes to publish (\"go live\") at a future date."
 msgstr "ניתן לתזמן את שינוי ההתאמות כדי להתפרסם (\"לעלות לאויר\") בתאריך עתידי."
 
-#: wp-includes/script-loader.php:1147
+#: wp-includes/script-loader.php:1170
 msgid "Sorry, you cannot preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
 msgstr "אין אפשרות לקרטת תצוגה מקדימה של תבניות חדשות כאשר קיימים שינויים מתוזמנים או שמורים כטיוטה. יש לפרסם את השינויים, או להמתין עד שיפורסמו, כדי לראות תצוגה מקדימה של תבניות חדשות."
 
 #. translators: %s: URL to Add Themes admin screen.
-#: wp-includes/script-loader.php:1150
+#: wp-includes/script-loader.php:1173
 #, php-format
 msgid "You will not be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
 msgstr "לא ניתן להתקין מכאן תבניות חדשות מכיוון שנדרשים פרטי SFTP. נכון לעכשיו, ניתן <a href=\"%s\">להוסיף תבניות מלוח הבקרה</a>."
 
-#: wp-includes/script-loader.php:1153
+#: wp-includes/script-loader.php:1176
 msgid "Publish Settings"
 msgstr "פרסם הגדרות"
 
 #. translators: 1: Link to Site Editor documentation on HelpHub, 2: HTML button.
-#: wp-includes/script-loader.php:1158
+#: wp-includes/script-loader.php:1181
 #, php-format
 msgid "Hurray! Your theme supports site editing with blocks. <a href=\"%1$s\">Tell me more</a>. %2$s"
 msgstr ""
 
-#: wp-includes/script-loader.php:1159
+#: wp-includes/script-loader.php:1182
 msgid "https://wordpress.org/documentation/article/site-editor/"
 msgstr ""
 
-#: wp-includes/script-loader.php:1163
+#: wp-includes/script-loader.php:1186
 msgid "Use Site Editor"
 msgstr ""
 
 #: wp-includes/script-loader.php:1347
-msgid "Select an image"
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:285
+#: wp-includes/widgets/class-wp-widget-media-image.php:511
+msgid "by"
 msgstr ""
 
 #: wp-includes/script-loader.php:1348
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:286
+#: wp-includes/widgets/class-wp-widget-media-image.php:512
+msgid "pixels"
+msgstr ""
+
+#: wp-includes/script-loader.php:1350
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:288
+#: wp-includes/widgets/class-wp-widget-media-image.php:513
+msgid "Failed to update media:"
+msgstr ""
+
+#: wp-includes/script-loader.php:1351
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:289
+#: wp-includes/widgets/class-wp-widget-media-image.php:514
+msgid "Error:"
+msgstr "שגיאה:"
+
+#: wp-includes/script-loader.php:1352
+#: wp-includes/widgets/class-wp-widget-media-image.php:515
+msgid "Upload failed"
+msgstr ""
+
+#: wp-includes/script-loader.php:1353
+msgid "Upload aborted for"
+msgstr ""
+
+#: wp-includes/script-loader.php:1354
+#: wp-includes/widgets/class-wp-widget-media-image.php:516
+msgid "Tap to close"
+msgstr ""
+
+#: wp-includes/script-loader.php:1355
+#: wp-includes/widgets/class-wp-widget-media-image.php:517
+msgid "Enter new filename"
+msgstr ""
+
+#: wp-includes/script-loader.php:1356
+#: wp-includes/widgets/class-wp-widget-media-image.php:518
+msgid "Invalid file type"
+msgstr ""
+
+#: wp-includes/script-loader.php:1357
+#: wp-includes/widgets/class-wp-widget-media-image.php:519
+msgid "Check the list of accepted file types."
+msgstr ""
+
+#: wp-includes/script-loader.php:1358
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:290
+#: wp-includes/widgets/class-wp-widget-media-image.php:520
+msgid "Failed to delete attachment."
+msgstr ""
+
+#: wp-includes/script-loader.php:1359
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:291
+#: wp-includes/widgets/class-wp-widget-media-image.php:521
+msgid "You are about to permanently delete this item from your site.\n"
+"This action cannot be undone.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: wp-includes/script-loader.php:1360
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:292
+#: wp-includes/widgets/class-wp-widget-media-image.php:522
+msgid "You are about to permanently delete these items from your site.\n"
+"This action cannot be undone.\n"
+"'Cancel' to stop, 'OK' to delete."
+msgstr "הפריטים הללו ימחקו לצמיתות.\n"
+"פעולה זו לא ניתנת לביטול.\n"
+"'בטל' כדי להתחרט, 'אישור' למחיקה."
+
+#: wp-includes/script-loader.php:1395
+msgid "Select an image"
+msgstr ""
+
+#: wp-includes/script-loader.php:1396
 msgid "Use this image"
 msgstr ""
 
-#: wp-includes/script-loader.php:1349
+#: wp-includes/script-loader.php:1397
 msgid "Please choose an image!"
 msgstr ""
 
 #. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1401
+#: wp-includes/script-loader.php:1449
 msgctxt "Open Sans font: on or off"
 msgid "on"
 msgstr "off"
 
 #. translators: To add an additional Open Sans character subset specific to your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1408
+#: wp-includes/script-loader.php:1456
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
 msgstr ""
 
-#: wp-includes/script-loader.php:1649
+#: wp-includes/script-loader.php:1697
 msgid "Today"
 msgstr "היום"
 
-#: wp-includes/script-loader.php:1653
+#: wp-includes/script-loader.php:1701
 msgid "Previous"
 msgstr "קודם"
 
@@ -13090,68 +13235,108 @@ msgstr ""
 msgid "&larr; Go to Media Tags"
 msgstr ""
 
-#: wp-includes/taxonomy.php:542
-#: wp-includes/taxonomy.php:543
+#: wp-includes/taxonomy.php:285
+msgid "User Groups"
+msgstr ""
+
+#: wp-includes/taxonomy.php:286
+msgid "User Group"
+msgstr ""
+
+#: wp-includes/taxonomy.php:287
+msgid "Search User Groups"
+msgstr ""
+
+#: wp-includes/taxonomy.php:289
+msgid "All User Groups"
+msgstr ""
+
+#: wp-includes/taxonomy.php:290
+msgid "Edit User Group"
+msgstr ""
+
+#: wp-includes/taxonomy.php:291
+msgid "Update User Group"
+msgstr ""
+
+#: wp-includes/taxonomy.php:292
+msgid "Add New User Group"
+msgstr ""
+
+#: wp-includes/taxonomy.php:293
+msgid "New User Group Name"
+msgstr ""
+
+#: wp-includes/taxonomy.php:297
+msgid "&larr; Go to User Groups"
+msgstr ""
+
+#: wp-includes/taxonomy.php:298
+msgid "Filter by user group"
+msgstr ""
+
+#: wp-includes/taxonomy.php:585
+#: wp-includes/taxonomy.php:586
 msgid "Taxonomy names must be between 1 and 32 characters in length."
 msgstr "שמות של טקסונומיות צריכות להכיל עד 32 תווים."
 
-#: wp-includes/taxonomy.php:630
+#: wp-includes/taxonomy.php:673
 msgid "Unregistering a built-in taxonomy is not allowed."
 msgstr "לא ניתן להסיר טקסונומיות ברירת מחדל."
 
-#: wp-includes/taxonomy.php:978
-#: wp-includes/taxonomy.php:3201
-#: wp-includes/taxonomy.php:4628
+#: wp-includes/taxonomy.php:1021
+#: wp-includes/taxonomy.php:3244
+#: wp-includes/taxonomy.php:4671
 msgid "Empty Term."
 msgstr "מונח ריק."
 
-#: wp-includes/taxonomy.php:1393
-#: wp-includes/taxonomy.php:1457
+#: wp-includes/taxonomy.php:1436
+#: wp-includes/taxonomy.php:1500
 msgid "Term meta cannot be added to terms that are shared between taxonomies."
 msgstr "לא ניתן להוסיף שדות מיוחדים למונחים משותפים."
 
-#: wp-includes/taxonomy.php:2425
-#: wp-includes/taxonomy.php:3230
+#: wp-includes/taxonomy.php:2468
+#: wp-includes/taxonomy.php:3273
 msgid "A name is required for this term."
 msgstr "לא הוזן שם."
 
-#: wp-includes/taxonomy.php:2535
+#: wp-includes/taxonomy.php:2578
 msgid "A term with the name provided already exists with this parent."
 msgstr "כבר יש מונח עם אותו שם ועם אותו הורה."
 
-#: wp-includes/taxonomy.php:2538
+#: wp-includes/taxonomy.php:2581
 msgid "A term with the name provided already exists in this taxonomy."
 msgstr "כבר קיים מונח עם השם והמזהה הזה בטקסונומיה זו."
 
-#: wp-includes/taxonomy.php:2559
+#: wp-includes/taxonomy.php:2602
 msgid "Could not insert term into the database."
 msgstr "לא ניתן להוסיף את המונח למסד הנתונים."
 
-#: wp-includes/taxonomy.php:2586
+#: wp-includes/taxonomy.php:2629
 msgid "Could not insert term taxonomy into the database."
 msgstr "לא ניתן להוסיף טקסונומיית מונחים למסד הנתונים."
 
-#: wp-includes/taxonomy.php:2920
+#: wp-includes/taxonomy.php:2963
 msgid "Could not insert term relationship into the database."
 msgstr "לא ניתן להוסיף קשרי טקסונומיה למסד הנתונים."
 
 #. translators: %s: Taxonomy term slug.
-#: wp-includes/taxonomy.php:3296
+#: wp-includes/taxonomy.php:3339
 #, php-format
 msgid "The slug &#8220;%s&#8221; is already in use by another term."
 msgstr "מזהה כתובת \"%s\" כבר נמצא בשימוש."
 
-#: wp-includes/taxonomy.php:4258
+#: wp-includes/taxonomy.php:4301
 msgid "Could not split shared term."
 msgstr "לא ניתן לפצל מונח משותף."
 
 #. translators: %s: Taxonomy label, %l: List of terms formatted as per $term_template.
-#: wp-includes/taxonomy.php:4777
+#: wp-includes/taxonomy.php:4820
 #, php-format
 msgid "%s: %l."
 msgstr ""
 
-#: wp-includes/taxonomy.php:4851
+#: wp-includes/taxonomy.php:4894
 msgid "Invalid object ID."
 msgstr "מספר אובייקט שגוי."
 
@@ -14215,6 +14400,10 @@ msgstr "מפתח האימות לבקשת המידע האישי לא תקין."
 msgid "The confirmation key has expired for this personal data request."
 msgstr "פג תוקף מפתח אימות לבקשת המידע האישי."
 
+#: wp-includes/user.php:5038
+msgid "Invalid User ID."
+msgstr ""
+
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
 #: wp-includes/widgets.php:268
@@ -14649,47 +14838,6 @@ msgstr "הוספת תמונה"
 msgid "Add to Gallery"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:285
-#: wp-includes/widgets/class-wp-widget-media-image.php:511
-msgid "by"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:286
-#: wp-includes/widgets/class-wp-widget-media-image.php:512
-msgid "pixels"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:288
-#: wp-includes/widgets/class-wp-widget-media-image.php:513
-msgid "Failed to update media:"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:289
-#: wp-includes/widgets/class-wp-widget-media-image.php:514
-msgid "Error:"
-msgstr "שגיאה:"
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:290
-#: wp-includes/widgets/class-wp-widget-media-image.php:520
-msgid "Failed to delete attachment."
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:291
-#: wp-includes/widgets/class-wp-widget-media-image.php:521
-msgid "You are about to permanently delete this item from your site.\n"
-"This action cannot be undone.\n"
-"'Cancel' to stop, 'OK' to delete."
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:292
-#: wp-includes/widgets/class-wp-widget-media-image.php:522
-msgid "You are about to permanently delete these items from your site.\n"
-"This action cannot be undone.\n"
-"'Cancel' to stop, 'OK' to delete."
-msgstr "הפריטים הללו ימחקו לצמיתות.\n"
-"פעולה זו לא ניתנת לביטול.\n"
-"'בטל' כדי להתחרט, 'אישור' למחיקה."
-
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
 msgstr "0"
@@ -14768,26 +14916,6 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 msgid "No file exists at the URL provided."
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-image.php:515
-msgid "Upload failed"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-image.php:516
-msgid "Tap to close"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-image.php:517
-msgid "Enter new filename"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-image.php:518
-msgid "Invalid file type"
-msgstr ""
-
-#: wp-includes/widgets/class-wp-widget-media-image.php:519
-msgid "Check the list of accepted file types."
 msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
@@ -15591,25 +15719,25 @@ msgstr "פריט זה סגור לטרקבאקים."
 msgid "There is already a ping from that URL for this post."
 msgstr "כבר קיים פינג מכתובת זו לפוסט הזה."
 
-#: wp-includes/js/dist/a11y.js:2262
+#: wp-includes/js/dist/a11y.js:1265
 msgid "Notifications"
 msgstr "התראות"
 
-#: wp-includes/js/dist/api-fetch.js:2909
-msgid "The response is not a valid JSON response."
-msgstr "התשובה שהתקבלה איננה בפורמט JSON תקין."
+#: wp-includes/js/dist/api-fetch.js:173
+msgid "Unable to connect. Please check your Internet connection."
+msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:2945
-msgid "An unknown error occurred."
-msgstr "ארעה שגיאה לא ידועה."
+#: wp-includes/js/dist/api-fetch.js:180
+msgid "Could not get a valid response from the server."
+msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:3022
+#: wp-includes/js/dist/api-fetch.js:1607
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
 msgstr "העלאת קובץ המדיה נכשל. אם זה צילום או תמונה גדולה, יש להקטין אותה ולנסות שוב."
 
-#: wp-includes/js/dist/api-fetch.js:3231
-msgid "You are probably offline."
-msgstr "אתה כנראה לא מקוון."
+#: wp-includes/js/dist/api-fetch.js:2022
+msgid "The response is not a valid JSON response."
+msgstr "התשובה שהתקבלה איננה בפורמט JSON תקין."
 
 #: wp-includes/js/media-editor.js:630
 msgid "Could not set that as the thumbnail image. Try a different attachment."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 28\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-08-16 17:44\n"
+"PO-Revision-Date: 2025-12-08 20:03\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -59,24 +59,24 @@ msgstr[1] "Todos <span class=\"count\">(%s)</span>"
 #, php-format
 msgid "Public <span class=\"count\">(%s)</span>"
 msgid_plural "Public <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Público <span class=\"count\">(%s)</span>"
+msgstr[1] "Públicos <span class=\"count\">(%1$s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:234
 #, php-format
 msgid "Archived <span class=\"count\">(%s)</span>"
 msgid_plural "Archived <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Arquivado <span class=\"count\">(%s)</span>"
+msgstr[1] "Arquivados <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:240
 #, php-format
 msgid "Mature <span class=\"count\">(%s)</span>"
 msgid_plural "Mature <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Maduro <span class=\"count\">(%s)</span> "
+msgstr[1] "Maduros <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:246
@@ -84,16 +84,16 @@ msgstr[1] ""
 msgctxt "sites"
 msgid "Spam <span class=\"count\">(%s)</span>"
 msgid_plural "Spam <span class=\"count\">(%s)</span>"
-msgstr[0] "Spams <span class=\"count\">(%s)</span>"
-msgstr[1] "Spams <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
 #, php-format
 msgid "Deleted <span class=\"count\">(%s)</span>"
 msgid_plural "Deleted <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Excluído <span class=\"count\">(%s)</span>"
+msgstr[1] "Excluídos <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:285
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:724
@@ -107,12 +107,12 @@ msgstr "Excluir"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:287
 msgctxt "site"
 msgid "Mark as spam"
-msgstr ""
+msgstr "Marcar como spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:288
 msgctxt "site"
 msgid "Not spam"
-msgstr ""
+msgstr "Não é spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:335
 msgid "Filter"
@@ -174,7 +174,7 @@ msgstr "d/m/Y"
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:497
 #: wp-admin/includes/class-wp-ms-users-list-table.php:344
 msgid "Y/m/d g:i:s a"
-msgstr "d/m/Y G:i:s"
+msgstr "d/m/Y \\á\\s G:i:s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:479
 msgid "Never"
@@ -182,7 +182,7 @@ msgstr "Nunca"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:616
 msgid "Main"
-msgstr ""
+msgstr "Principal"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:702
 #: wp-admin/includes/class-wp-ms-users-list-table.php:404
@@ -239,7 +239,7 @@ msgstr "Nenhum tema encontrado."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:320
 msgid "No themes are currently available."
-msgstr ""
+msgstr "Nenhum tema está disponível no momento."
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:330
 msgid "Theme"
@@ -277,8 +277,8 @@ msgstr[1] "Ativados <span class=\"count\">(%s)</span>"
 msgctxt "themes"
 msgid "Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Disabled <span class=\"count\">(%s)</span>"
-msgstr[0] "<span class=\"count\">(%s)</span> Desativado"
-msgstr[1] "<span class=\"count\">(%s)</span> Desativados"
+msgstr[0] "Desativado <span class=\"count\">(%s)</span>"
+msgstr[1] "Desativados <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:405
@@ -286,8 +286,8 @@ msgstr[1] "<span class=\"count\">(%s)</span> Desativados"
 msgctxt "themes"
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
-msgstr[0] "<span class=\"count\">(%s)</span> atualização disponível"
-msgstr[1] "<span class=\"count\">(%s)</span> atualizações disponíveis"
+msgstr[0] "Atualização disponível <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações disponíveis <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:414
@@ -295,8 +295,8 @@ msgstr[1] "<span class=\"count\">(%s)</span> atualizações disponíveis"
 msgctxt "themes"
 msgid "Broken <span class=\"count\">(%s)</span>"
 msgid_plural "Broken <span class=\"count\">(%s)</span>"
-msgstr[0] "<span class=\"count\">(%s)</span> quebrado"
-msgstr[1] "<span class=\"count\">(%s)</span> quebrados"
+msgstr[0] "Quebrado <span class=\"count\">(%s)</span>"
+msgstr[1] "Quebrados <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:423
@@ -397,7 +397,7 @@ msgstr "Por %s"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:730
 #, php-format
 msgid "Visit theme site for %s"
-msgstr ""
+msgstr "Visite o site do tema para %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:736
 msgid "Visit Theme Site"
@@ -407,7 +407,7 @@ msgstr "Visitar o site do tema"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:743
 #, php-format
 msgid "Child theme of %s"
-msgstr ""
+msgstr "Tema descendente de %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:794
 msgid "Auto-updates enabled"
@@ -436,12 +436,12 @@ msgstr "Ativar tema descendente"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:116
 msgctxt "user"
 msgid "Mark as spam"
-msgstr ""
+msgstr "Marcar como spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:117
 msgctxt "user"
 msgid "Not spam"
-msgstr ""
+msgstr "Não é spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:125
 msgid "No users found."
@@ -461,8 +461,8 @@ msgstr[1] "Todos <span class=\"count\">(%s)</span>"
 #, php-format
 msgid "Super Admin <span class=\"count\">(%s)</span>"
 msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
-msgstr[0] "Super Administrador <span class=\"count\">(%s)</span>"
-msgstr[1] "Super Administradores <span class=\"count\">(%s)</span>"
+msgstr[0] "Super Admin <span class=\"count\">(%s)</span>"
+msgstr[1] "Super Admins <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:193
 #: wp-admin/network/site-users.php:337
@@ -946,7 +946,7 @@ msgstr ""
 #: wp-admin/network.php:69
 #: wp-admin/network.php:82
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Documentation on the Network Screen</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Documentação sobre a tela de rede</a>"
 
 #: wp-admin/network.php:74
 msgid "Network"
@@ -1327,7 +1327,7 @@ msgstr "Tamanho máximo para envio de arquivos"
 #: wp-admin/network/settings.php:442
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449
@@ -1422,7 +1422,7 @@ msgstr "Se o e-mail do admin para o novo site não existir no banco de dados, um
 
 #: wp-admin/network/site-new.php:40
 msgid "Cannot create an empty site."
-msgstr ""
+msgstr "Não é possível criar um site vazio."
 
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
@@ -1454,7 +1454,7 @@ msgstr "Ocorreu um erro ao criar o usuário."
 #: wp-admin/network/site-new.php:170
 #, php-format
 msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
-msgstr "Site adicionado. <a href=\"%1$s\">Visitar Painel</a> ou <a href=\"%2$s\">Editar Site</a>"
+msgstr "Site adicionado. <a href=\"%1$s\">Visitar painel</a> ou <a href=\"%2$s\">Editar site</a>"
 
 #: wp-admin/network/site-new.php:178
 #: wp-admin/network/site-new.php:188
@@ -1678,7 +1678,7 @@ msgstr "O Painel leva ao painel daquele site."
 
 #: wp-admin/network/sites.php:36
 msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
-msgstr "Desativar, Arquivar e Spam levam a telas de confirmação. Estas ações podem ser revertidas posteriormente."
+msgstr "Desativar, arquivar e spam levam a telas de confirmação. Estas ações podem ser revertidas posteriormente."
 
 #: wp-admin/network/sites.php:37
 msgid "Delete which is a permanent action after the confirmation screens."
@@ -1897,7 +1897,7 @@ msgstr "Tem certeza de que deseja excluir este tema?"
 
 #: wp-admin/network/themes.php:160
 msgid "Are you sure you want to delete these themes?"
-msgstr ""
+msgstr "Tem certeza de que deseja excluir estes temas?"
 
 #: wp-admin/network/themes.php:174
 msgid "Yes, delete this theme"
@@ -1913,7 +1913,7 @@ msgstr "Não, me envie de volta à lista de temas"
 
 #: wp-admin/network/themes.php:226
 msgid "Sorry, you are not allowed to change themes automatic update settings."
-msgstr ""
+msgstr "Sem permissão para alterar as configurações de atualização automática de temas."
 
 #: wp-admin/network/themes.php:298
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
@@ -1945,7 +1945,7 @@ msgstr ""
 
 #: wp-admin/network/themes.php:322
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/pt-br:Administrar_Rede_-_Temas\" target=\"_blank\">Documentação sobre temas da rede</a>"
 
 #: wp-admin/network/themes.php:329
 msgid "Filter themes list"
@@ -1980,8 +1980,8 @@ msgstr ""
 #, php-format
 msgid "%s theme will be auto-updated."
 msgid_plural "%s themes will be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s tema será atualizado automaticamente."
+msgstr[1] "%s temas serão atualizados automaticamente."
 
 #: wp-admin/network/themes.php:418
 msgid "Theme will no longer be auto-updated."
@@ -1992,8 +1992,8 @@ msgstr ""
 #, php-format
 msgid "%s theme will no longer be auto-updated."
 msgid_plural "%s themes will no longer be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s tema não será mais atualizado automaticamente."
+msgstr[1] "%s temas não serão mais atualizados automaticamente."
 
 #: wp-admin/network/themes.php:430
 msgid "You cannot delete a theme while it is active on the main site."
@@ -2009,7 +2009,7 @@ msgstr "Apenas use esta tela após ter atualizado para a versão mais recente do
 
 #: wp-admin/network/upgrade.php:25
 msgid "If a version update to core has not happened, clicking this button will not affect anything."
-msgstr ""
+msgstr "Se não ocorreu uma atualização de versão dos arquivos básicos, clicar neste botão não afetará nada."
 
 #: wp-admin/network/upgrade.php:26
 msgid "If this process fails for any reason, users logging in to their sites will force the same update."
@@ -2031,7 +2031,7 @@ msgstr "Atenção! Problema ao atualizar %1$s. O seu servidor pode estar impedid
 
 #: wp-admin/network/upgrade.php:125
 msgid "If your browser does not start loading the next page automatically, click this link:"
-msgstr ""
+msgstr "Se o seu navegador não iniciar o carregamento da próxima página automaticamente, clique neste link:"
 
 #: wp-admin/network/upgrade.php:125
 msgid "Next Sites"
@@ -2064,7 +2064,7 @@ msgstr "Os usuários que estão registrados na rede sem um site são adicionados
 #: wp-admin/network/user-new.php:29
 #: wp-admin/network/users.php:242
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\" target=\"_blank\">Documentação sobre os usuários da rede</a>"
 
 #: wp-admin/network/user-new.php:41
 msgid "Cannot create an empty user."

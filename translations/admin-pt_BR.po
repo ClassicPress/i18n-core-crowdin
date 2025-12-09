@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-12-08 20:03\n"
+"PO-Revision-Date: 2025-12-09 23:01\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -125,7 +125,7 @@ msgstr "Sobre o ClassicPress"
 #: wp-admin/about.php:86
 #, php-format
 msgid "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%1$s\"><strong>ClassicPress</strong></a> é uma derivação (fork) do WordPress %2$s, que inclui a boa e velha interface do editor clássica usando o TinyMCE."
 
 #: wp-admin/about.php:94
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
@@ -171,7 +171,7 @@ msgstr ""
 #: wp-admin/about.php:146
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 2.0.0 é uma derivação (fork) do WordPress %1$s. Leia as <a href=\"%2$s\"><strong>notas de lançamento do ClassicPress 2.0.0 (Bella)</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:156
@@ -193,7 +193,7 @@ msgstr ""
 #: wp-admin/about.php:175
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 1.0.0 é uma derivação (fork) do WordPress %1$s. Leia as <a href=\"%2$s\"><strong>notas de lançamento do ClassicPress 1.0.0 (Aurora)</strong></a>."
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"
@@ -201,7 +201,7 @@ msgstr ""
 
 #: wp-admin/about.php:184
 msgid "This version of ClassicPress includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "Esta versão do ClassicPress inclui todas as alterações das seguintes versões do WordPress:"
 
 #. translators: %s: WordPress version.
 #: wp-admin/about.php:193
@@ -210,7 +210,7 @@ msgstr ""
 #: wp-admin/about.php:253
 #, php-format
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr "<strong>WordPress versão %s</strong> abordou alguns problemas de segurança."
+msgstr "<strong>WordPress versão %s</strong> corrigiu alguns problemas de segurança."
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -17930,7 +17930,7 @@ msgstr "Voltar"
 #: wp-admin/theme-install.php:66
 #, php-format
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net, or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "Ocorreu um erro inesperado. Algo pode estar errado com o WordPress.org, ClassicPress.net ou com a configuração deste servidor. Se os problemas persistirem, busque ajuda no <a href=\"%s\">fórum de suporte</a>."
 
 #. translators: %d: Number of themes.
 #: wp-admin/theme-install.php:71
@@ -18126,7 +18126,7 @@ msgstr ""
 #: wp-admin/themes.php:161
 #, php-format
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">WordPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Se você quiser ver mais temas para escolher, clique no botão &#8220;Adicionar Novo&#8221; e você será capaz de procurar ou procurar temas adicionais do <a href=\"%s\">Diretório de Temas do WordPress</a>. Os temas no Diretório de Temas do WordPress são projetados e desenvolvidos por terceiros, e são compatíveis com os usos da licença do WordPress. Ah, e eles são livres!"
 
 #: wp-admin/themes.php:169
 msgid "Adding Themes"
@@ -18438,7 +18438,7 @@ msgstr "Enquanto o seu site é atualizado, ele estará em modo de manutenção. 
 #: wp-admin/update-core.php:244
 #, php-format
 msgid "<a href=\"%1$s\">Learn more about ClassicPress %2$s</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">Saiba mais sobre o ClassicPress %2$s</a>."
 
 #: wp-admin/update-core.php:266
 msgid "Your plugins are all up to date."
@@ -18597,7 +18597,7 @@ msgstr "Como atualizar"
 
 #: wp-admin/update-core.php:852
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documentação sobre atualizar o ClassicPress</a>"
 
 #: wp-admin/update-core.php:865
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 10\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-06-07 13:21\n"
+"PO-Revision-Date: 2026-02-13 08:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1640,7 +1640,7 @@ msgstr "按回车键以打开此分区"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr ""
+msgstr "小工具是一些可以放置于由主题被配置为接受小工具的部分（俗称侧边栏）中的独立的内容模块。"
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
@@ -6675,7 +6675,7 @@ msgstr "%1$s 只接受一个非空的路径字符串，已接收 %2$s。"
 #. translators: %s: The "type" key.
 #: wp-includes/functions.php:8663
 msgid "The %s key must be a string without spaces."
-msgstr ""
+msgstr "%s 键必须是一个没有空格的字符串。"
 
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
@@ -7769,7 +7769,7 @@ msgstr "作为应用程序图标"
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5791
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
-msgstr ""
+msgstr "一张图像不能被同时标记为需要懒加载和高优先级。"
 
 #. translators: %s: Playlist item title.
 #: wp-includes/media.php:2759
@@ -8601,7 +8601,7 @@ msgstr "首页"
 
 #: wp-includes/post-template.php:1778
 msgid "Invalid password."
-msgstr ""
+msgstr "密码无效。"
 
 #: wp-includes/post-template.php:1785
 msgid "This content is password protected. To view it please enter your password below:"
@@ -12999,7 +12999,7 @@ msgstr "翻译更新"
 
 #: wp-includes/update.php:1061
 msgid "Unable to locate WordPress content directory (wp-content)."
-msgstr ""
+msgstr "无法定位 WordPress 内容目录（wp-content）。"
 
 #: wp-includes/user.php:148
 msgid "<strong>Error:</strong> The username field is empty."
@@ -13214,7 +13214,7 @@ msgstr "[%s] 密码重置"
 
 #: wp-includes/user.php:3278
 msgid "<strong>Error:</strong> The email could not be sent. The site may not be correctly configured to send emails."
-msgstr ""
+msgstr "<strong>错误：</strong>无法发送电子邮件。站点可能没有为发送电子邮件正确配置。"
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> Please enter a username."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-20 00:05\n"
+"PO-Revision-Date: 2026-02-13 14:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3951,11 +3951,11 @@ msgstr "退出恢复模式失败。请稍后再试。"
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "依赖项数组中缺少必需的 id 键。"
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "依赖项数组中的条目必须是字符串或带有id键的数组。"
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
@@ -3967,13 +3967,13 @@ msgstr "%1$s 参数必须是一个数组。要将任意数据传递到脚本，�
 #: wp-includes/class-wp-scripts.php:805
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "脚本注册期间为`%2$s`定义了无效的策略`%1$s`。"
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "无法为脚本`%2$s`应用策略`%1$s`，因为它是一个别名(缺少一个 `src` 值)。"
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -6962,7 +6962,7 @@ msgstr "不要将 %1$s 标签传递到 %2$s。"
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` paramater instead."
-msgstr ""
+msgstr "使用参数 `$args` 代替。"
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -12252,31 +12252,31 @@ msgstr "文件 URL 已复制到剪贴板"
 
 #: wp-includes/script-loader.php:837
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "拖放文件到此处或<span class=\"filepond--label-action\">浏览</span>"
 
 #: wp-includes/script-loader.php:838
 msgid "Field contains invalid files"
-msgstr ""
+msgstr "字段包含无效的文件"
 
 #: wp-includes/script-loader.php:839
 msgid "Waiting for size"
-msgstr ""
+msgstr "正在等待尺寸"
 
 #: wp-includes/script-loader.php:840
 msgid "Size not available"
-msgstr ""
+msgstr "尺寸不可用"
 
 #: wp-includes/script-loader.php:841
 msgid "file in list"
-msgstr ""
+msgstr "列表中的文件"
 
 #: wp-includes/script-loader.php:842
 msgid "files in list"
-msgstr ""
+msgstr "列表中的文件"
 
 #: wp-includes/script-loader.php:843
 msgid "Loading"
-msgstr ""
+msgstr "正在加载"
 
 #: wp-includes/script-loader.php:844
 msgid "Added"
@@ -12284,7 +12284,7 @@ msgstr "添加于"
 
 #: wp-includes/script-loader.php:845
 msgid "Error during load"
-msgstr ""
+msgstr "加载时发生错误"
 
 #: wp-includes/script-loader.php:846
 msgid "Removed"
@@ -12292,39 +12292,39 @@ msgstr "移除于"
 
 #: wp-includes/script-loader.php:847
 msgid "Error during remove"
-msgstr ""
+msgstr "删除时发生错误"
 
 #: wp-includes/script-loader.php:849
 msgid "Upload complete"
-msgstr ""
+msgstr "上传成功"
 
 #: wp-includes/script-loader.php:850
 msgid "Upload cancelled"
-msgstr ""
+msgstr "上传已取消"
 
 #: wp-includes/script-loader.php:851
 msgid "Error during upload"
-msgstr ""
+msgstr "上传时发生错误"
 
 #: wp-includes/script-loader.php:852
 msgid "Error during revert"
-msgstr ""
+msgstr "恢复时发生错误"
 
 #: wp-includes/script-loader.php:853
 msgid "tap to cancel"
-msgstr ""
+msgstr "单击以取消"
 
 #: wp-includes/script-loader.php:854
 msgid "tap to retry"
-msgstr ""
+msgstr "单击以重试"
 
 #: wp-includes/script-loader.php:855
 msgid "tap to undo"
-msgstr ""
+msgstr "单击以撤销"
 
 #: wp-includes/script-loader.php:857
 msgid "Abort"
-msgstr ""
+msgstr "终止"
 
 #: wp-includes/script-loader.php:858
 #: wp-includes/script-loader.php:861
@@ -12337,7 +12337,7 @@ msgstr "上传"
 
 #: wp-includes/script-loader.php:919
 msgid "Download File"
-msgstr ""
+msgstr "下载文件"
 
 #: wp-includes/script-loader.php:921
 #: wp-includes/theme.php:1661
@@ -12363,11 +12363,11 @@ msgstr "实时广播"
 
 #: wp-includes/script-loader.php:926
 msgid "Current time"
-msgstr ""
+msgstr "当前时间"
 
 #: wp-includes/script-loader.php:927
 msgid "Total duration"
-msgstr ""
+msgstr "总时间"
 
 #: wp-includes/script-loader.php:928
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -12835,7 +12835,7 @@ msgstr "上传失败"
 
 #: wp-includes/script-loader.php:1353
 msgid "Upload aborted for"
-msgstr ""
+msgstr "上传已终止："
 
 #: wp-includes/script-loader.php:1354
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
@@ -13122,43 +13122,43 @@ msgstr "&larr; 转到媒体标签"
 
 #: wp-includes/taxonomy.php:285
 msgid "User Groups"
-msgstr ""
+msgstr "用户组"
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr ""
+msgstr "用户组"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
-msgstr ""
+msgstr "搜索用户组"
 
 #: wp-includes/taxonomy.php:289
 msgid "All User Groups"
-msgstr ""
+msgstr "所有用户组"
 
 #: wp-includes/taxonomy.php:290
 msgid "Edit User Group"
-msgstr ""
+msgstr "编辑用户组"
 
 #: wp-includes/taxonomy.php:291
 msgid "Update User Group"
-msgstr ""
+msgstr "更新用户组"
 
 #: wp-includes/taxonomy.php:292
 msgid "Add New User Group"
-msgstr ""
+msgstr "添加新用户组"
 
 #: wp-includes/taxonomy.php:293
 msgid "New User Group Name"
-msgstr ""
+msgstr "新用户组名称"
 
 #: wp-includes/taxonomy.php:297
 msgid "&larr; Go to User Groups"
-msgstr ""
+msgstr "&larr; 转到用户组"
 
 #: wp-includes/taxonomy.php:298
 msgid "Filter by user group"
-msgstr ""
+msgstr "按用户组筛选"
 
 #: wp-includes/taxonomy.php:585
 #: wp-includes/taxonomy.php:586
@@ -14315,7 +14315,7 @@ msgstr "此个人数据请求的确认密钥已过期。"
 
 #: wp-includes/user.php:5038
 msgid "Invalid User ID."
-msgstr ""
+msgstr "无效的用户 ID。"
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -14750,7 +14750,7 @@ msgstr "添加至相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
-msgstr "0"
+msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
@@ -15632,11 +15632,11 @@ msgstr "通知"
 
 #: wp-includes/js/dist/api-fetch.js:173
 msgid "Unable to connect. Please check your Internet connection."
-msgstr ""
+msgstr "无法连接。请检查您的互联网连接。"
 
 #: wp-includes/js/dist/api-fetch.js:180
 msgid "Could not get a valid response from the server."
-msgstr ""
+msgstr "无法从服务器获得有效的响应。"
 
 #: wp-includes/js/dist/api-fetch.js:1607
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."

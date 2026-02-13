@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-20 00:05\n"
+"PO-Revision-Date: 2026-02-13 14:41\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -56,7 +56,7 @@ msgstr "%s 版本"
 #: wp-admin/about.php:38
 #, php-format
 msgid "You must visit the <a href=\"%s\">Updates Page</a> and Press the Re-Install Now button to complete the migration process!"
-msgstr ""
+msgstr "您必须访问<a href=\"%s\">更新页面</a>并点击“立即重新安装”按钮来完成迁移例程！"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -125,7 +125,7 @@ msgstr "关于ClassicPress"
 #: wp-admin/about.php:86
 #, php-format
 msgid "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%1$s\"><strong>ClassicPress</strong></a> 是 WordPress %2$s 的一个分支，其使用久经沙场的 TinyMCE 经典编辑器界面。"
 
 #: wp-admin/about.php:94
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
@@ -135,7 +135,7 @@ msgstr "多年来，它为数百万个站点奠定了坚实的基础。 而且�
 #: wp-admin/about.php:103
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "如果安装了 <a href=\"%s\"><strong>ClassicPress 目录集成</strong></a>插件，您就可以获取专为 ClassicPress 而设计的插件与主题。您可以在插件 > 安装 CP 插件或外观 > 安装 CP 主题中找到这些内容。"
 
 #: wp-admin/about.php:108
 msgid "Join our growing community"
@@ -151,7 +151,7 @@ msgstr "要进行关于 ClassicPress 的一般性讨论，<a href=\"%1$s\"><stro
 #: wp-admin/about.php:123
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "如果您需要其他方面的帮助，请查看我们的<a href=\"%1$s\"><strong>文档</strong></a>。如果该页面无法解决您的问题，您可以在我们的<a href=\"%2$s\"><strong>支持论坛</strong></a>上发布新帖。"
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:133
@@ -171,7 +171,7 @@ msgstr "ClassicPress 2.0.0"
 #: wp-admin/about.php:146
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 2.0.0 是 WordPress %1$s 的分支。请查看 <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) 发行注记</strong></a>。"
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:156
@@ -183,7 +183,7 @@ msgstr "ClassicPress 1.0.1 ～ %s"
 #: wp-admin/about.php:165
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "最新版本的 ClassicPress 中包含的更改和新功能可以在我们的<a href=\"%s\"><strong>发布注记</strong></a>中找到。"
 
 #: wp-admin/about.php:170
 msgid "ClassicPress 1.0.0"
@@ -193,7 +193,7 @@ msgstr "ClassicPress 1.0.0"
 #: wp-admin/about.php:175
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 1.0.0 是 WordPress %1$s 的分支。请查看 <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) 发行注记</strong></a>。"
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"
@@ -2464,7 +2464,7 @@ msgstr "许多插件可以在 ClassicPress 数据库或远程服务器中收集�
 
 #: wp-admin/erase-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "如果您是插件开发者，您可以<a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">在此了解如何将您的插件集成至「抹除个人信息」工具中</a>。"
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
@@ -2765,11 +2765,11 @@ msgstr "向其他人分发经由您修改后的软件。"
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr ""
+msgstr "在 <a href=\"%1$s\">ClassicPress 目录</a>中的所有插件和主题都采用 <a href=\"%2$s\">GPL</a> 或兼容的自由许可证进行授权。"
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
-msgstr ""
+msgstr "如果您从其他来源获取了一份插件或主题，请确保它拥有正确的许可证。如果它并不接受 ClassicPress 的授权哲学，则我们不建议您使用。"
 
 #: wp-admin/freedoms.php:73
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -3988,24 +3988,24 @@ msgstr "无法安装更新，因为某些文件无法复制。这通常是由于
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:25
 msgid "Revision ID"
-msgstr ""
+msgstr "修订 ID"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:27
 msgid "Revised by"
-msgstr ""
+msgstr "修订者"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:28
 msgid "Date of Revision"
-msgstr ""
+msgstr "修订日期"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:29
 msgid "View in Modal"
-msgstr ""
+msgstr "在弹窗中查看"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:69
 #, php-format
 msgid "Select Revision %1$d"
-msgstr ""
+msgstr "选择修订版本 %1$d"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:179
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
@@ -15965,11 +15965,11 @@ msgstr "上传文件允许您选择存储您上传文件的文件夹和路径。
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading. By default uploads are organized into month- and year-based folders."
-msgstr ""
+msgstr "您可以选择要以何方式组织上传的文件。在默认情况下，上传的内容会按照年月进行分类。"
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have attachment pages. An attachment page displays information about a particular media file you have uploaded to your site. You can choose to enable or disable attachment pages."
-msgstr ""
+msgstr "媒体附件，包括图像、音频、视频文件，可以有对应的附件页面。 附件页面显示您上传到网站的特定媒体文件的信息。您可以选择启用或禁用附件页面。"
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-media-screen/\">Documentation on Media Settings</a>"
@@ -16083,7 +16083,7 @@ msgstr "附件页面"
 
 #: wp-admin/options-media.php:225
 msgid "Do you want to enable media attachment pages?"
-msgstr ""
+msgstr "您希望启用媒体附件页面吗？"
 
 #: wp-admin/options-media.php:230
 msgid "Enable media attachment pages."
@@ -17049,12 +17049,12 @@ msgstr "搜索已安装的插件将搜索其名称、描述或作者。"
 #: wp-admin/plugins.php:549
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins screen."
-msgstr ""
+msgstr "如果安装了 <a href=\"%s\"><strong>ClassicPress 目录集成</strong></a>插件，您就可以获取专为 ClassicPress 而设计的插件。您可以在插件 > 安装 CP 插件中找到这些内容。"
 
 #: wp-admin/plugins.php:550
 #: wp-admin/themes.php:157
 msgid "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
-msgstr ""
+msgstr "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
 
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:554
@@ -17291,7 +17291,7 @@ msgstr "&larr; 转到编辑器"
 
 #: wp-admin/revision.php:115
 msgid "Go to list of revisions &rarr;"
-msgstr ""
+msgstr "转到修订列表 &rarr;"
 
 #: wp-admin/revision.php:148
 msgid "This screen is used for managing your content revisions."
@@ -17362,51 +17362,51 @@ msgstr "抱歉，出现了一些错误。请求的比对无法加载。"
 
 #: wp-admin/revisions-list.php:16
 msgid "No post."
-msgstr ""
+msgstr "未找到文章。"
 
 #: wp-admin/revisions-list.php:20
 msgid "Sorry, you are not allowed to review these revisions."
-msgstr ""
+msgstr "对不起，您无权查看这些修订。"
 
 #: wp-admin/revisions-list.php:35
 msgid "You cannot do this."
-msgstr ""
+msgstr "您无法这样做。"
 
 #: wp-admin/revisions-list.php:42
 msgid "No revision ID."
-msgstr ""
+msgstr "找不到修订 ID。"
 
 #: wp-admin/revisions-list.php:51
 msgid "Incorrect revision ID."
-msgstr ""
+msgstr "无效的修订 ID。"
 
 #: wp-admin/revisions-list.php:66
 msgid "Revisions List"
-msgstr ""
+msgstr "修订版本列表"
 
 #: wp-admin/revisions-list.php:84
 msgid "This screen enables the deletion of unwanted content revisions. Note that, however many revisions you delete, the post itself will not be deleted."
-msgstr ""
+msgstr "此页面允许删除不需要的修订版本。请注意，不论您删除了多少版本，文章本身都不会被删除。"
 
 #: wp-admin/revisions-list.php:85
 msgid "Revisions are saved copies of your post or page, which are periodically created as you update your content."
-msgstr ""
+msgstr "修订版本是您的帖子或页面的副本，这些副本是在您更新内容时定期创建的。"
 
 #: wp-admin/revisions-list.php:86
 msgid "From this screen you can review a revision by clicking on the corresponding View button."
-msgstr ""
+msgstr "在该页面上您可以通过点击对应的“查看”按钮来检视某个修订版本。"
 
 #: wp-admin/revisions-list.php:87
 msgid "To delete a revision, click on the corresponding Delete link."
-msgstr ""
+msgstr "若要删除修订版本，请点击相应的删除链接。"
 
 #: wp-admin/revisions-list.php:101
 msgid "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "您也可以一次性删除多个修订版本。使用复选框选中您希望删除的版本，然后在“批量操作”中选择“删除”，并单击“应用”。"
 
 #: wp-admin/revisions-list.php:107
 msgid "<a href=\"https://forums.classicpress.net/c/support/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support/\">支持论坛</a>"
 
 #. translators: %s: Number of posts.
 #. translators: %s: Number of pages.
@@ -17415,20 +17415,20 @@ msgstr ""
 #, php-format
 msgid "%s revision permanently deleted."
 msgid_plural "%s revisions permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s 个修订版本已永久删除。"
 
 #: wp-admin/revisions-list.php:175
 msgid "List of Revisions of "
-msgstr ""
+msgstr "正在显示该文章的所有修订："
 
 #: wp-admin/revisions-list.php:177
 msgid "&larr; Go to revisions"
-msgstr ""
+msgstr "&larr; 转到修订版本"
 
 #: wp-admin/revisions-list.php:185
 #, php-format
 msgid "Revision ID %1$d successfully deleted."
-msgstr ""
+msgstr "修订 ID %1$d 已成功删除。"
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
@@ -18071,7 +18071,7 @@ msgstr "在多站点上安装主题只能从网络管理界面完成。"
 #: wp-admin/themes.php:156
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to themes that are built for ClassicPress. They will appear in the Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "如果安装了 <a href=\"%s\"><strong>ClassicPress 目录集成</strong></a>插件，您就可以获取专为 ClassicPress 而设计的主题。您可以在外观> 安装 CP 插件中找到这些内容。"
 
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:161

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-13 08:43\n"
+"PO-Revision-Date: 2026-02-13 14:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -142,17 +142,17 @@ msgstr "ClassicPress 是 WordPress 4.9 的一个分支，其使用久经沙场�
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "多年来，它为数百万个站点奠定了坚实的基础。 而且我们认为，它在未来也依然是一个出色的基础。"
 
 #: wp-admin/about.php:68
 msgid "Join our growing community"
-msgstr ""
+msgstr "加入我们日益发展的社区"
 
 #. translators: 1: link with instructions to join ClassicPress Slack, 2: link
 #. to community forums
 #: wp-admin/about.php:72
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Slack group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "要进行关于 ClassicPress 的一般性讨论，<a href=\"%1$s\"><strong>请加入我们的 Slack 群聊</strong></a>或我们的<a href=\"%2$s\"><strong>社区论坛</strong></a>。"
 
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80

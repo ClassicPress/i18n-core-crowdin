@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 34\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-19 18:03\n"
+"PO-Revision-Date: 2026-02-24 18:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -104,7 +104,7 @@ msgstr "ClassicPress について"
 
 #: wp-includes/admin-bar.php:167
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/admin-bar.php:177
 msgid "Documentation"
@@ -112,15 +112,15 @@ msgstr "ドキュメンテーション"
 
 #: wp-includes/admin-bar.php:178
 msgid "https://docs.classicpress.net/"
-msgstr ""
+msgstr "https://docs.classicpress.net/"
 
 #: wp-includes/admin-bar.php:187
 msgid "Support"
-msgstr ""
+msgstr "サポート"
 
 #: wp-includes/admin-bar.php:188
 msgid "https://forums.classicpress.net/"
-msgstr ""
+msgstr "https://forums.classicpress.net/"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:207
@@ -130,7 +130,7 @@ msgstr "メニュー"
 
 #: wp-includes/admin-bar.php:309
 msgid "Edit Profile"
-msgstr ""
+msgstr "プロファイルを編集"
 
 #: wp-includes/admin-bar.php:319
 #: wp-includes/class-wp-admin-bar.php:477
@@ -218,7 +218,7 @@ msgstr "ユーザーを表示"
 
 #: wp-includes/admin-bar.php:811
 msgid "Debugging Enabled"
-msgstr ""
+msgstr "デバッグが有効です"
 
 #: wp-includes/admin-bar.php:855
 msgid "Edit User"
@@ -285,7 +285,7 @@ msgstr "検索"
 
 #: wp-includes/admin-bar.php:1153
 msgid "Exit Recovery Mode"
-msgstr ""
+msgstr "リカバリモードを終了"
 
 #: wp-includes/atomlib.php:155
 #: wp-includes/feed.php:582
@@ -489,7 +489,7 @@ msgstr ""
 #: wp-includes/class-pop3.php:537
 #: wp-includes/class-pop3.php:560
 msgid "Error "
-msgstr ""
+msgstr "エラー "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
@@ -533,7 +533,7 @@ msgstr ""
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
 msgid "abort"
-msgstr ""
+msgstr "中止する"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
@@ -959,7 +959,7 @@ msgstr "インストール済みテーマ"
 
 #: wp-includes/class-wp-customize-manager.php:5090
 msgid "WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org テーマ"
 
 #: wp-includes/class-wp-customize-manager.php:5117
 msgid "Site Identity"

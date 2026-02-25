@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-02-24 23:58\n"
+"PO-Revision-Date: 2026-02-25 06:01\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -72,7 +72,7 @@ msgstr[0] ""
 #, php-format
 msgid "Mature <span class=\"count\">(%s)</span>"
 msgid_plural "Mature <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "成熟 <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:246
@@ -299,7 +299,7 @@ msgstr[0] "自動更新が有効 <span class=\"count\">(%s)</span>"
 #, php-format
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
+msgstr[0] "自動更新が無効になっています <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:586
@@ -845,7 +845,7 @@ msgstr "この画面ではユーザーが参加しているこのサイトネッ
 
 #: wp-admin/my-sites.php:52
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">Documentation on My Sites</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">マイサイトのドキュメント</a>"
 
 #: wp-admin/my-sites.php:53
 #: wp-admin/network.php:83
@@ -2545,12 +2545,12 @@ msgstr ""
 #: wp-includes/ms-site.php:658
 #: wp-includes/ms-site.php:789
 msgid "Site ID must not be empty."
-msgstr ""
+msgstr "サイト ID は空にできません．"
 
 #: wp-includes/ms-site.php:166
 #: wp-includes/ms-site.php:219
 msgid "Site does not exist."
-msgstr ""
+msgstr "サイトが存在しません。"
 
 #: wp-includes/ms-site.php:180
 msgid "Could not update site in the database."
@@ -2583,7 +2583,7 @@ msgstr ""
 #: wp-includes/ms-site.php:663
 #: wp-includes/ms-site.php:794
 msgid "Site with the ID does not exist."
-msgstr ""
+msgstr "IDのあるサイトは存在しません。"
 
 #: wp-includes/ms-site.php:667
 msgid "The site appears to be already initialized."
@@ -2593,7 +2593,7 @@ msgstr ""
 #: wp-includes/ms-site.php:680
 #, php-format
 msgid "Site %d"
-msgstr ""
+msgstr "サイト %d"
 
 #: wp-includes/ms-site.php:798
 msgid "The site appears to be already uninitialized."

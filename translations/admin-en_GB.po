@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: English, United Kingdom\n"
 "Language: en_GB\n"
-"PO-Revision-Date: 2026-03-04 17:12\n"
+"PO-Revision-Date: 2026-03-04 23:11\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -10195,7 +10195,7 @@ msgstr "We would like to let you know about the ClassicPress Directory."
 #: wp-admin/includes/dashboard.php:1844
 #, php-format
 msgid "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
-msgstr ""
+msgstr "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
 
 #: wp-admin/includes/dashboard.php:1856
 #, php-format
@@ -10645,7 +10645,7 @@ msgstr "Directory listing failed."
 
 #: wp-admin/includes/file.php:1966
 msgid "Could not create the destination directory."
-msgstr ""
+msgstr "Could not create the destination directory."
 
 #: wp-admin/includes/file.php:2039
 msgid "The source and destination are the same."
@@ -15719,7 +15719,7 @@ msgstr "The ClassicPress URL and the site URL can be the same (example.com) or d
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
-msgstr ""
+msgstr "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -16614,19 +16614,19 @@ msgstr "When this setting is in effect, a reminder is shown in the At a Glance b
 #: wp-admin/options-reading.php:54
 #: wp-admin/options-reading.php:271
 msgid "Object cache"
-msgstr ""
+msgstr "Object cache"
 
 #: wp-admin/options-reading.php:55
 msgid "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
-msgstr ""
+msgstr "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
 
 #: wp-admin/options-reading.php:56
 msgid "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
-msgstr ""
+msgstr "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
 
 #: wp-admin/options-reading.php:57
 msgid "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
-msgstr ""
+msgstr "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
 
 #: wp-admin/options-reading.php:63
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
@@ -16709,23 +16709,23 @@ msgstr "Your theme determines how content is displayed in browsers. <a href=\"%s
 #: wp-admin/options-reading.php:308
 #: wp-admin/options-reading.php:317
 msgid "Enable object caching"
-msgstr ""
+msgstr "Enable object caching"
 
 #: wp-admin/options-reading.php:292
 msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
-msgstr ""
+msgstr "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
 
 #: wp-admin/options-reading.php:301
 msgid "You have activated ClassicPress's object cache on this site."
-msgstr ""
+msgstr "You have activated ClassicPress's object cache on this site."
 
 #: wp-admin/options-reading.php:309
 msgid "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
-msgstr ""
+msgstr "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
 
 #: wp-admin/options-reading.php:318
 msgid "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
-msgstr ""
+msgstr "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
 
 #: wp-admin/options-writing.php:17
 msgid "Writing Settings"
@@ -17069,12 +17069,12 @@ msgstr "Browse Plugins"
 #: wp-admin/plugin-install.php:155
 #, php-format
 msgid "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
 
 #: wp-admin/plugin-install.php:167
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
 
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
@@ -18106,12 +18106,12 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-themes-
 #: wp-admin/theme-install.php:204
 #, php-format
 msgid "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
 
 #: wp-admin/theme-install.php:216
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
 
 #: wp-admin/theme-install.php:223
 msgid "The Theme Installer screen requires JavaScript."
@@ -18553,7 +18553,7 @@ msgstr "The following plugins have new versions available. Check the ones you wa
 #: wp-admin/update-core.php:389
 #, php-format
 msgid "Compatible with ClassicPress %1$s (according to its author)."
-msgstr ""
+msgstr "Compatible with ClassicPress %1$s (according to its author)."
 
 #: wp-admin/update-core.php:365
 #: wp-admin/update-core.php:391
@@ -18698,7 +18698,7 @@ msgstr "How to Update"
 
 #: wp-admin/update-core.php:887
 msgid "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
 
 #: wp-admin/update-core.php:900
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
@@ -18910,7 +18910,7 @@ msgstr "You can view your media in a simple visual grid or a list with columns. 
 
 #: wp-admin/upload.php:136
 msgid "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
-msgstr ""
+msgstr "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
 
 #: wp-admin/upload.php:143
 msgid "Attachment Details"

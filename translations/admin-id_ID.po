@@ -1,4 +1,4 @@
-# Copyright (C) 2025 ClassicPress
+# Copyright (C) 2026 ClassicPress
 # This file is distributed under the same license as the ClassicPress package.
 msgid ""
 msgstr ""
@@ -7,17 +7,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-11-19T16:56:11+00:00\n"
+"POT-Creation-Date: 2026-03-03T08:29:18+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /v2.6/admin-en_US.pot\n"
-"X-Crowdin-File-ID: 36\n"
+"X-Crowdin-File: /v2.7/admin-en_US.pot\n"
+"X-Crowdin-File-ID: 46\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-11-19 18:04\n"
+"PO-Revision-Date: 2026-03-04 17:12\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -132,82 +132,82 @@ msgid "This has been a solid foundation for millions of sites for many years, an
 msgstr "Hal ini telah menjadi dasar yang kuat bagi berjuta situs selama beberapa tahun, dan kami percaya bahwa hal ini akan menjadi dasar yang baik untuk masa depan."
 
 #. translators: link to plugin page in the ClassicPress Directory
-#: wp-admin/about.php:103
+#: wp-admin/about.php:104
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
 msgstr ""
 
-#: wp-admin/about.php:108
+#: wp-admin/about.php:110
 msgid "Join our growing community"
 msgstr "Gabung komunitas kami"
 
 #. translators: 1: link with instructions to join ClassicPress Zulip, 2: link to community forums
-#: wp-admin/about.php:113
+#: wp-admin/about.php:115
 #, php-format
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Zulip group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
 msgstr ""
 
 #. translators: 1: link to ClassicPress docs, 2: link to ClassicPress support forum
-#: wp-admin/about.php:123
+#: wp-admin/about.php:125
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
 msgstr ""
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
-#: wp-admin/about.php:133
+#: wp-admin/about.php:135
 #, php-format
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%2$s\"><strong>issues list</strong></a> and add your report if it is not already present."
 msgstr ""
 
-#: wp-admin/about.php:140
+#: wp-admin/about.php:142
 msgid "ClassicPress changelogs"
 msgstr ""
 
-#: wp-admin/about.php:141
+#: wp-admin/about.php:143
 msgid "ClassicPress 2.0.0"
 msgstr ""
 
 #. translators: 1: WP version number, 2: link to ClassicPress 2.0.0 changelog
-#: wp-admin/about.php:146
+#: wp-admin/about.php:148
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
 msgstr ""
 
 #. translators: current ClassicPress version
-#: wp-admin/about.php:156
+#: wp-admin/about.php:158
 #, php-format
 msgid "ClassicPress 1.0.1 - %s"
 msgstr ""
 
 #. translators: link to ClassicPress release announcements subforum
-#: wp-admin/about.php:165
+#: wp-admin/about.php:167
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
 msgstr ""
 
-#: wp-admin/about.php:170
+#: wp-admin/about.php:172
 msgid "ClassicPress 1.0.0"
 msgstr ""
 
 #. translators: 1: WP version number, 2: link to ClassicPress 1.0.0 changelog
-#: wp-admin/about.php:175
+#: wp-admin/about.php:177
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
 msgstr ""
 
-#: wp-admin/about.php:181
+#: wp-admin/about.php:183
 msgid "ClassicPress Maintenance and Security Releases"
 msgstr ""
 
-#: wp-admin/about.php:184
+#: wp-admin/about.php:186
 msgid "This version of ClassicPress includes all changes from the following versions of WordPress:"
 msgstr ""
 
 #. translators: %s: WordPress version.
-#: wp-admin/about.php:193
-#: wp-admin/about.php:213
-#: wp-admin/about.php:233
-#: wp-admin/about.php:253
+#: wp-admin/about.php:195
+#: wp-admin/about.php:215
+#: wp-admin/about.php:235
+#: wp-admin/about.php:255
 #, php-format
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
 msgstr "<strong>WordPress versi %s</strong> mengatasi beberapa kendala keamanan."
@@ -215,13 +215,13 @@ msgstr "<strong>WordPress versi %s</strong> mengatasi beberapa kendala keamanan.
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
 #. translators: %s: Codex URL
-#: wp-admin/about.php:200
-#: wp-admin/about.php:220
-#: wp-admin/about.php:240
-#: wp-admin/about.php:260
-#: wp-admin/about.php:285
-#: wp-admin/about.php:310
-#: wp-admin/about.php:362
+#: wp-admin/about.php:202
+#: wp-admin/about.php:222
+#: wp-admin/about.php:242
+#: wp-admin/about.php:262
+#: wp-admin/about.php:287
+#: wp-admin/about.php:312
+#: wp-admin/about.php:364
 #, php-format
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>."
@@ -229,77 +229,77 @@ msgstr "Untuk informasi lebih lanjut, lihatlah <a href=\"%s\">catatan rilis</a>.
 #. translators: %s: WordPress version.
 #. translators: %s: WordPress version
 #. translators: %s: ClassicPress version.
-#: wp-admin/about.php:203
-#: wp-admin/about.php:223
-#: wp-admin/about.php:243
-#: wp-admin/about.php:263
-#: wp-admin/about.php:288
-#: wp-admin/about.php:313
+#: wp-admin/about.php:205
+#: wp-admin/about.php:225
+#: wp-admin/about.php:245
+#: wp-admin/about.php:265
+#: wp-admin/about.php:290
+#: wp-admin/about.php:315
 #: wp-admin/upgrade.php:81
 #, php-format
 msgid "https://wordpress.org/support/wordpress-version/version-%s/"
 msgstr ""
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:273
-#: wp-admin/about.php:298
+#: wp-admin/about.php:275
+#: wp-admin/about.php:300
 #, php-format
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>WordPress versi %1$s</strong> memperbaiki beberapa kendala keamanan dan %2$s bug."
 
-#: wp-admin/about.php:329
+#: wp-admin/about.php:331
 msgid "Maintenance Release"
 msgstr "Rilis Perawatan"
 
-#: wp-admin/about.php:330
+#: wp-admin/about.php:332
 msgid "Maintenance Releases"
 msgstr "Rilis Pemeliharaan"
 
-#: wp-admin/about.php:332
+#: wp-admin/about.php:334
 msgid "Security Release"
 msgstr "Rilis Perbaikan Keamanan"
 
-#: wp-admin/about.php:333
+#: wp-admin/about.php:335
 msgid "Security Releases"
 msgstr "Rilis Keamanan"
 
-#: wp-admin/about.php:335
+#: wp-admin/about.php:337
 msgid "Maintenance and Security Release"
 msgstr "Rilis Perawatan dan Perbaikan Keamanan"
 
-#: wp-admin/about.php:336
+#: wp-admin/about.php:338
 msgid "Maintenance and Security Releases"
 msgstr "Rilis Pemeliharaan dan Keamanan"
 
 #. translators: %s: ClassicPress version number
-#: wp-admin/about.php:339
+#: wp-admin/about.php:341
 #, php-format
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>Versi %s</strong> memperbaiki sebuah masalah keamanan."
 
 #. translators: %s: ClassicPress version number
-#: wp-admin/about.php:341
+#: wp-admin/about.php:343
 #, php-format
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>Versi %s</strong> memperbaiki sejumlah isu keamanan."
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:344
+#: wp-admin/about.php:346
 #, php-format
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> mengatasi %2$s bug."
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs. Singular security issue.
-#: wp-admin/about.php:350
+#: wp-admin/about.php:352
 #, php-format
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versi %1$s</strong> telah memperbaiki masalah keamanan dan memperbaiki %2$s bug."
 
 #. translators: 1: ClassicPress version number, 2: plural number of bugs. More than one security issue.
-#: wp-admin/about.php:356
+#: wp-admin/about.php:358
 #, php-format
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
@@ -371,7 +371,7 @@ msgstr ""
 #: wp-admin/includes/schema.php:458
 #: wp-admin/options-general.php:493
 #: wp-admin/options-general.php:525
-#: wp-admin/update-core.php:892
+#: wp-admin/update-core.php:927
 msgid "F j, Y"
 msgstr "j F Y"
 
@@ -445,10 +445,10 @@ msgstr ""
 
 #: wp-admin/async-upload.php:73
 #: wp-admin/includes/ajax-actions.php:3456
-#: wp-admin/includes/class-wp-media-list-table.php:1025
+#: wp-admin/includes/class-wp-media-list-table.php:1029
 #: wp-admin/includes/class-wp-privacy-policy-content.php:414
 #: wp-admin/includes/media.php:3309
-#: wp-admin/options.php:428
+#: wp-admin/options.php:430
 #: wp-admin/site-health-info.php:59
 #: wp-admin/upload.php:608
 msgid "Copied!"
@@ -625,7 +625,7 @@ msgstr "Edit Komentar"
 #: wp-admin/theme-editor.php:28
 #: wp-admin/theme-install.php:132
 #: wp-admin/themes.php:143
-#: wp-admin/update-core.php:830
+#: wp-admin/update-core.php:865
 #: wp-admin/upload.php:132
 #: wp-admin/upload.php:789
 #: wp-admin/user-edit.php:70
@@ -668,7 +668,7 @@ msgstr "Anda juga dapat memoderasi komentar dari layar ini dengan menggunakan ko
 #: wp-admin/options-media.php:44
 #: wp-admin/options-permalink.php:59
 #: wp-admin/options-privacy.php:46
-#: wp-admin/options-reading.php:52
+#: wp-admin/options-reading.php:62
 #: wp-admin/options-writing.php:52
 #: wp-admin/plugin-editor.php:142
 #: wp-admin/plugin-install.php:117
@@ -680,7 +680,7 @@ msgstr "Anda juga dapat memoderasi komentar dari layar ini dengan menggunakan ko
 #: wp-admin/theme-install.php:150
 #: wp-admin/themes.php:211
 #: wp-admin/tools.php:55
-#: wp-admin/update-core.php:851
+#: wp-admin/update-core.php:886
 #: wp-admin/upload.php:152
 #: wp-admin/upload.php:821
 #: wp-admin/user-edit.php:76
@@ -717,7 +717,7 @@ msgstr ""
 #: wp-admin/options-general.php:54
 #: wp-admin/options-media.php:46
 #: wp-admin/options-permalink.php:67
-#: wp-admin/options-reading.php:54
+#: wp-admin/options-reading.php:64
 #: wp-admin/options-writing.php:54
 #: wp-admin/plugin-editor.php:145
 #: wp-admin/plugin-install.php:119
@@ -834,8 +834,8 @@ msgstr "Perhatian:"
 #: wp-admin/includes/class-wp-debug-data.php:1100
 #: wp-admin/includes/class-wp-debug-data.php:1195
 #: wp-admin/includes/class-wp-media-list-table.php:381
-#: wp-admin/includes/class-wp-media-list-table.php:1162
-#: wp-admin/includes/class-wp-media-list-table.php:1252
+#: wp-admin/includes/class-wp-media-list-table.php:1166
+#: wp-admin/includes/class-wp-media-list-table.php:1256
 #: wp-admin/includes/class-wp-post-comments-list-table.php:25
 #: wp-admin/includes/class-wp-posts-list-table.php:667
 #: wp-admin/includes/class-wp-posts-list-table.php:1703
@@ -860,7 +860,7 @@ msgstr "Email"
 #: wp-admin/edit-form-comment.php:69
 #: wp-admin/includes/class-walker-nav-menu-edit.php:195
 #: wp-admin/includes/class-wp-links-list-table.php:133
-#: wp-admin/includes/class-wp-media-list-table.php:1213
+#: wp-admin/includes/class-wp-media-list-table.php:1217
 #: wp-admin/includes/media.php:2911
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
@@ -922,8 +922,8 @@ msgstr "Komentar"
 #: wp-admin/includes/class-wp-comments-list-table.php:816
 #: wp-admin/includes/class-wp-links-list-table.php:337
 #: wp-admin/includes/class-wp-media-list-table.php:190
-#: wp-admin/includes/class-wp-media-list-table.php:920
-#: wp-admin/includes/class-wp-media-list-table.php:972
+#: wp-admin/includes/class-wp-media-list-table.php:924
+#: wp-admin/includes/class-wp-media-list-table.php:976
 #: wp-admin/includes/class-wp-posts-list-table.php:440
 #: wp-admin/includes/class-wp-posts-list-table.php:1450
 #: wp-admin/includes/class-wp-terms-list-table.php:491
@@ -938,12 +938,12 @@ msgstr "Sunting"
 
 #: wp-admin/comment.php:259
 #: wp-admin/includes/class-walker-nav-menu-edit.php:304
-#: wp-admin/includes/class-wp-media-list-table.php:1184
-#: wp-admin/includes/class-wp-media-list-table.php:1340
+#: wp-admin/includes/class-wp-media-list-table.php:1188
+#: wp-admin/includes/class-wp-media-list-table.php:1344
 #: wp-admin/includes/class-wp-posts-list-table.php:2048
 #: wp-admin/includes/class-wp-terms-list-table.php:713
 #: wp-admin/includes/dashboard.php:214
-#: wp-admin/includes/file.php:2536
+#: wp-admin/includes/file.php:2595
 #: wp-admin/includes/image-edit.php:106
 #: wp-admin/includes/media.php:1698
 #: wp-admin/includes/media.php:2238
@@ -959,7 +959,7 @@ msgstr "Sunting"
 #: wp-admin/widgets-form.php:338
 #: wp-admin/widgets-form.php:341
 #: wp-admin/widgets-form.php:560
-#: wp-admin/js/post.js:1008
+#: wp-admin/js/post.js:1010
 msgid "Cancel"
 msgstr "Batal"
 
@@ -995,8 +995,8 @@ msgstr "Berminat untuk membantu pengembangan perangkat lunak ini? <a href=\"%s\"
 #: wp-admin/includes/bookmark.php:31
 #: wp-admin/media-upload.php:46
 #: wp-admin/nav-menus.php:25
-#: wp-admin/options.php:50
-#: wp-admin/options.php:83
+#: wp-admin/options.php:51
+#: wp-admin/options.php:84
 #: wp-admin/post-new.php:60
 #: wp-admin/press-this.php:21
 #: wp-admin/term.php:42
@@ -1057,7 +1057,7 @@ msgstr "Memuat&hellip;"
 #: wp-admin/includes/meta-boxes.php:388
 #: wp-admin/includes/meta-boxes.php:389
 #: wp-admin/includes/meta-boxes.php:1613
-#: wp-admin/js/post.js:775
+#: wp-admin/js/post.js:777
 msgid "Publish"
 msgstr "Terbitkan"
 
@@ -1082,7 +1082,7 @@ msgstr ""
 #: wp-admin/customize.php:202
 #: wp-admin/includes/ajax-actions.php:4117
 #: wp-admin/includes/class-theme-upgrader-skin.php:92
-#: wp-admin/includes/theme.php:1032
+#: wp-admin/includes/theme.php:1033
 #: wp-admin/menu.php:207
 #: wp-admin/themes.php:645
 #: wp-admin/themes.php:1038
@@ -1101,7 +1101,7 @@ msgstr "Sesuaikan"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:346
 #: wp-admin/includes/meta-boxes.php:73
 #: wp-admin/includes/post.php:1837
-#: wp-admin/theme-install.php:328
+#: wp-admin/theme-install.php:346
 msgid "Preview"
 msgstr "Pratinjau"
 
@@ -1768,8 +1768,8 @@ msgstr "Komentar"
 #: wp-admin/includes/meta-boxes.php:1124
 #: wp-admin/includes/meta-boxes.php:1606
 #: wp-admin/includes/widgets.php:277
-#: wp-admin/js/widgets.js:204
-#: wp-admin/js/widgets.js:430
+#: wp-admin/js/widgets.js:200
+#: wp-admin/js/widgets.js:436
 msgid "Save"
 msgstr "Simpan"
 
@@ -1845,8 +1845,8 @@ msgstr "Balasan untuk: %s"
 #: wp-admin/edit-form-comment.php:254
 #: wp-admin/includes/ajax-actions.php:3449
 #: wp-admin/includes/class-wp-comments-list-table.php:799
-#: wp-admin/includes/class-wp-media-list-table.php:941
-#: wp-admin/includes/class-wp-media-list-table.php:1003
+#: wp-admin/includes/class-wp-media-list-table.php:945
+#: wp-admin/includes/class-wp-media-list-table.php:1007
 #: wp-admin/includes/class-wp-posts-list-table.php:1486
 #: wp-admin/includes/dashboard.php:792
 #: wp-admin/includes/media.php:1691
@@ -1855,8 +1855,8 @@ msgstr "Hapus secara permanen"
 
 #: wp-admin/edit-form-comment.php:257
 #: wp-admin/edit-tag-form.php:300
-#: wp-admin/includes/class-wp-media-list-table.php:1183
-#: wp-admin/includes/class-wp-media-list-table.php:1339
+#: wp-admin/includes/class-wp-media-list-table.php:1187
+#: wp-admin/includes/class-wp-media-list-table.php:1343
 #: wp-admin/includes/class-wp-plugins-list-table.php:619
 #: wp-admin/includes/class-wp-posts-list-table.php:2043
 #: wp-admin/includes/class-wp-posts-list-table.php:2045
@@ -1869,8 +1869,8 @@ msgstr "Hapus secara permanen"
 #: wp-admin/includes/template.php:669
 #: wp-admin/media.php:137
 #: wp-admin/media.php:157
-#: wp-admin/js/post.js:778
-#: wp-admin/js/post.js:801
+#: wp-admin/js/post.js:780
+#: wp-admin/js/post.js:803
 msgid "Update"
 msgstr "Perbarui"
 
@@ -1968,7 +1968,7 @@ msgstr ""
 #: wp-admin/edit-tags.php:511
 #: wp-admin/includes/ajax-actions.php:3494
 #: wp-admin/includes/class-walker-nav-menu-edit.php:232
-#: wp-admin/includes/class-wp-media-list-table.php:1328
+#: wp-admin/includes/class-wp-media-list-table.php:1332
 #: wp-admin/includes/class-wp-plugins-list-table.php:473
 #: wp-admin/includes/class-wp-terms-list-table.php:193
 #: wp-admin/includes/media.php:1423
@@ -2034,7 +2034,7 @@ msgstr "Kategori, tidak seperti tag, dapat memiliki hierarki. Anda boleh saja me
 #: wp-admin/includes/media.php:1693
 #: wp-admin/includes/meta-boxes.php:1157
 #: wp-admin/includes/template.php:667
-#: wp-admin/includes/theme.php:1036
+#: wp-admin/includes/theme.php:1037
 #: wp-admin/includes/widgets.php:271
 #: wp-admin/themes.php:246
 #: wp-admin/themes.php:754
@@ -2070,7 +2070,7 @@ msgid "Sorry, you are not allowed to delete this item."
 msgstr "Maaf, Anda tak  menghapus item ini."
 
 #: wp-admin/edit-tags.php:137
-#: wp-admin/options.php:84
+#: wp-admin/options.php:85
 msgid "Sorry, you are not allowed to delete these items."
 msgstr "Maaf, Anda tak  menghapus item-item ini."
 
@@ -2690,8 +2690,8 @@ msgstr "Tanggal mulai:"
 #: wp-admin/includes/template.php:755
 #: wp-admin/nav-menus.php:952
 #: wp-admin/options-privacy.php:302
-#: wp-admin/options-reading.php:121
-#: wp-admin/options-reading.php:138
+#: wp-admin/options-reading.php:131
+#: wp-admin/options-reading.php:148
 #: wp-admin/widgets-form.php:318
 msgid "&mdash; Select &mdash;"
 msgstr "&mdash; Pilih &mdash;"
@@ -2710,7 +2710,7 @@ msgstr "Laman"
 #: wp-admin/export.php:308
 #: wp-admin/includes/class-wp-privacy-policy-content.php:493
 #: wp-admin/includes/media.php:2542
-#: wp-admin/includes/plugin-install.php:380
+#: wp-admin/includes/plugin-install.php:381
 #: wp-admin/menu.php:66
 #: wp-admin/menu.php:355
 msgid "Media"
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #: wp-admin/import.php:33
 #: wp-admin/includes/class-custom-background.php:101
-#: wp-admin/update-core.php:853
+#: wp-admin/update-core.php:888
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
 msgstr ""
 
@@ -3028,7 +3028,7 @@ msgstr "Tidak menemukan apa-apa."
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/ajax-actions.php:3831
-#: wp-admin/includes/class-wp-media-list-table.php:1206
+#: wp-admin/includes/class-wp-media-list-table.php:1210
 #: wp-admin/includes/class-wp-posts-list-table.php:1638
 #: wp-admin/includes/dashboard.php:599
 #: wp-admin/includes/media.php:1413
@@ -3044,7 +3044,7 @@ msgstr "Jenis"
 
 #: wp-admin/includes/ajax-actions.php:2179
 #: wp-admin/includes/ajax-actions.php:3495
-#: wp-admin/includes/class-wp-media-list-table.php:1220
+#: wp-admin/includes/class-wp-media-list-table.php:1224
 #: wp-admin/includes/class-wp-posts-list-table.php:717
 #: wp-admin/includes/class-wp-posts-list-table.php:1657
 msgid "Date"
@@ -3071,7 +3071,7 @@ msgstr "(tanpa judul)"
 #: wp-admin/includes/class-wp-posts-list-table.php:1946
 #: wp-admin/includes/meta-boxes.php:112
 #: wp-admin/includes/meta-boxes.php:152
-#: wp-admin/js/post.js:816
+#: wp-admin/js/post.js:818
 msgid "Published"
 msgstr "Telah Terbit"
 
@@ -3149,8 +3149,8 @@ msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3451
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:97
-#: wp-admin/includes/class-wp-media-list-table.php:952
-#: wp-admin/includes/class-wp-media-list-table.php:1015
+#: wp-admin/includes/class-wp-media-list-table.php:956
+#: wp-admin/includes/class-wp-media-list-table.php:1019
 #: wp-admin/includes/class-wp-posts-list-table.php:1509
 #: wp-admin/includes/class-wp-terms-list-table.php:517
 #: wp-admin/includes/class-wp-users-list-table.php:517
@@ -3159,12 +3159,12 @@ msgid "View"
 msgstr "Tampilkan"
 
 #: wp-admin/includes/ajax-actions.php:3455
-#: wp-admin/includes/class-wp-media-list-table.php:1024
+#: wp-admin/includes/class-wp-media-list-table.php:1028
 msgid "Copy URL"
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3460
-#: wp-admin/includes/class-wp-media-list-table.php:1033
+#: wp-admin/includes/class-wp-media-list-table.php:1037
 #: wp-admin/includes/media.php:3313
 #: wp-admin/upload.php:645
 msgid "Download file"
@@ -3181,14 +3181,14 @@ msgid "Show more details"
 msgstr "Tampilkan rincian"
 
 #: wp-admin/includes/ajax-actions.php:3471
-#: wp-admin/includes/class-wp-media-list-table.php:1124
-#: wp-admin/includes/class-wp-media-list-table.php:1272
+#: wp-admin/includes/class-wp-media-list-table.php:1128
+#: wp-admin/includes/class-wp-media-list-table.php:1276
 msgid "Media Categories"
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:3473
-#: wp-admin/includes/class-wp-media-list-table.php:1149
-#: wp-admin/includes/class-wp-media-list-table.php:1295
+#: wp-admin/includes/class-wp-media-list-table.php:1153
+#: wp-admin/includes/class-wp-media-list-table.php:1299
 msgid "Media Tags"
 msgstr ""
 
@@ -3213,12 +3213,12 @@ msgid "No comments"
 msgstr "Tidak ada Komentar"
 
 #: wp-admin/includes/ajax-actions.php:3492
-#: wp-admin/includes/class-wp-media-list-table.php:1310
+#: wp-admin/includes/class-wp-media-list-table.php:1314
 msgid "Alt Text"
 msgstr "Teks Alt"
 
 #: wp-admin/includes/ajax-actions.php:3493
-#: wp-admin/includes/class-wp-media-list-table.php:1319
+#: wp-admin/includes/class-wp-media-list-table.php:1323
 #: wp-admin/includes/media.php:1418
 #: wp-admin/includes/media.php:3208
 #: wp-admin/upload.php:596
@@ -3274,7 +3274,7 @@ msgid "Installed"
 msgstr "Terpasang"
 
 #: wp-admin/includes/ajax-actions.php:4033
-#: wp-admin/includes/theme.php:952
+#: wp-admin/includes/theme.php:953
 #: wp-admin/themes.php:555
 #: wp-admin/themes.php:847
 msgid "This theme does not work with your versions of ClassicPress and PHP."
@@ -3284,14 +3284,14 @@ msgstr ""
 #: wp-admin/includes/ajax-actions.php:4039
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:665
 #: wp-admin/includes/class-wp-plugins-list-table.php:1295
-#: wp-admin/includes/theme.php:872
-#: wp-admin/includes/theme.php:957
+#: wp-admin/includes/theme.php:873
+#: wp-admin/includes/theme.php:958
 #: wp-admin/includes/update.php:741
 #: wp-admin/themes.php:492
 #: wp-admin/themes.php:560
 #: wp-admin/themes.php:852
 #: wp-admin/themes.php:927
-#: wp-admin/update-core.php:521
+#: wp-admin/update-core.php:556
 #, php-format
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
 msgstr ""
@@ -3306,14 +3306,14 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugins-list-table.php:1302
 #: wp-admin/includes/class-wp-plugins-list-table.php:1316
 #: wp-admin/includes/class-wp-plugins-list-table.php:1335
-#: wp-admin/includes/plugin.php:1148
-#: wp-admin/includes/theme.php:879
-#: wp-admin/includes/theme.php:893
-#: wp-admin/includes/theme.php:924
-#: wp-admin/includes/theme.php:964
-#: wp-admin/includes/theme.php:978
-#: wp-admin/includes/theme.php:1001
-#: wp-admin/includes/update-core.php:371
+#: wp-admin/includes/plugin.php:1149
+#: wp-admin/includes/theme.php:880
+#: wp-admin/includes/theme.php:894
+#: wp-admin/includes/theme.php:925
+#: wp-admin/includes/theme.php:965
+#: wp-admin/includes/theme.php:979
+#: wp-admin/includes/theme.php:1002
+#: wp-admin/includes/update-core.php:375
 #: wp-admin/includes/update.php:748
 #: wp-admin/includes/update.php:761
 #: wp-admin/includes/update.php:788
@@ -3330,9 +3330,9 @@ msgstr ""
 #: wp-admin/themes.php:934
 #: wp-admin/themes.php:948
 #: wp-admin/themes.php:975
-#: wp-admin/update-core.php:528
-#: wp-admin/update-core.php:545
-#: wp-admin/update-core.php:569
+#: wp-admin/update-core.php:563
+#: wp-admin/update-core.php:580
+#: wp-admin/update-core.php:604
 #: wp-admin/upgrade.php:87
 #, php-format
 msgid "<a href=\"%s\">Learn more about updating PHP</a>."
@@ -3345,10 +3345,10 @@ msgstr ""
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:697
 #: wp-admin/includes/class-wp-plugins-list-table.php:1310
 #: wp-admin/includes/class-wp-plugins-list-table.php:1326
-#: wp-admin/includes/theme.php:887
-#: wp-admin/includes/theme.php:909
-#: wp-admin/includes/theme.php:972
-#: wp-admin/includes/theme.php:990
+#: wp-admin/includes/theme.php:888
+#: wp-admin/includes/theme.php:910
+#: wp-admin/includes/theme.php:973
+#: wp-admin/includes/theme.php:991
 #: wp-admin/includes/update.php:755
 #: wp-admin/includes/update.php:775
 #: wp-admin/themes.php:507
@@ -3359,8 +3359,8 @@ msgstr ""
 #: wp-admin/themes.php:889
 #: wp-admin/themes.php:942
 #: wp-admin/themes.php:962
-#: wp-admin/update-core.php:539
-#: wp-admin/update-core.php:560
+#: wp-admin/update-core.php:574
+#: wp-admin/update-core.php:595
 #, php-format
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
 msgstr ""
@@ -3371,14 +3371,14 @@ msgid "FSE themes don't work with ClassicPress."
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:4069
-#: wp-admin/includes/theme.php:986
+#: wp-admin/includes/theme.php:987
 #: wp-admin/themes.php:587
 #: wp-admin/themes.php:885
 msgid "This theme does not work with your version of ClassicPress."
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:4079
-#: wp-admin/includes/theme.php:997
+#: wp-admin/includes/theme.php:998
 #: wp-admin/themes.php:596
 #: wp-admin/themes.php:900
 msgid "This theme does not work with your version of PHP."
@@ -3402,7 +3402,7 @@ msgstr "Rincian &amp; Pratinjau"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:370
 #: wp-admin/includes/class-wp-theme-install-list-table.php:502
 #: wp-admin/includes/class-wp-themes-list-table.php:262
-#: wp-admin/includes/theme.php:830
+#: wp-admin/includes/theme.php:831
 #: wp-admin/themes.php:625
 #, php-format
 msgid "By %s"
@@ -3410,7 +3410,7 @@ msgstr "Oleh %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/ajax-actions.php:4107
-#: wp-admin/includes/theme.php:1043
+#: wp-admin/includes/theme.php:1044
 #: wp-admin/themes.php:650
 #: wp-admin/js/updates.js:1415
 #, php-format,js-format
@@ -3425,7 +3425,7 @@ msgstr "Aktifkan %s"
 #: wp-admin/includes/class-wp-plugins-list-table.php:610
 #: wp-admin/includes/class-wp-plugins-list-table.php:878
 #: wp-admin/includes/class-wp-themes-list-table.php:215
-#: wp-admin/includes/theme.php:1046
+#: wp-admin/includes/theme.php:1047
 #: wp-admin/theme-install.php:81
 #: wp-admin/themes.php:244
 #: wp-admin/themes.php:652
@@ -3453,8 +3453,8 @@ msgstr ""
 #: wp-admin/includes/class-theme-installer-skin.php:131
 #: wp-admin/includes/class-theme-upgrader-skin.php:103
 #: wp-admin/includes/class-wp-themes-list-table.php:222
-#: wp-admin/includes/theme.php:1050
-#: wp-admin/includes/theme.php:1052
+#: wp-admin/includes/theme.php:1051
+#: wp-admin/includes/theme.php:1053
 #: wp-admin/themes.php:658
 #: wp-admin/themes.php:667
 #: wp-admin/themes.php:1056
@@ -3475,8 +3475,8 @@ msgstr "Instal %s"
 #: wp-admin/includes/class-wp-theme-install-list-table.php:493
 #: wp-admin/includes/deprecated.php:1391
 #: wp-admin/includes/network.php:407
-#: wp-admin/includes/theme.php:1057
-#: wp-admin/theme-install.php:299
+#: wp-admin/includes/theme.php:1058
+#: wp-admin/theme-install.php:317
 msgid "Install"
 msgstr "Instal"
 
@@ -3488,7 +3488,7 @@ msgid "Cannot Install %s"
 msgstr ""
 
 #: wp-admin/includes/ajax-actions.php:4154
-#: wp-admin/includes/theme.php:1060
+#: wp-admin/includes/theme.php:1061
 msgctxt "theme"
 msgid "Cannot Install"
 msgstr ""
@@ -3967,8 +3967,8 @@ msgid "Could not copy files."
 msgstr "Tidak dapat menyalin berkas."
 
 #: wp-admin/includes/class-core-upgrader.php:36
-#: wp-admin/includes/file.php:1681
-#: wp-admin/includes/file.php:1822
+#: wp-admin/includes/file.php:1684
+#: wp-admin/includes/file.php:1862
 msgid "Could not copy files. You may have run out of disk space."
 msgstr "Tidak dapat menyalin berkas. Anda mungkin telah kehabisan ruang disk."
 
@@ -3982,7 +3982,7 @@ msgstr "Karena terjadi galat saat pembaruan, ClassicPress telah mengembalikan si
 
 #: wp-admin/includes/class-core-upgrader.php:199
 #: wp-admin/includes/class-wp-upgrader.php:204
-#: wp-admin/includes/update-core.php:327
+#: wp-admin/includes/update-core.php:331
 msgid "The update cannot be installed because some files could not be copied. This is usually due to inconsistent file permissions."
 msgstr ""
 
@@ -4007,9 +4007,9 @@ msgstr ""
 msgid "Select Revision %1$d"
 msgstr ""
 
-#: wp-admin/includes/class-cp-post-revisions-list-table.php:179
+#: wp-admin/includes/class-cp-post-revisions-list-table.php:180
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
-#: wp-admin/theme-install.php:290
+#: wp-admin/theme-install.php:308
 msgid "Close"
 msgstr "Tutup"
 
@@ -4039,7 +4039,7 @@ msgid "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Docu
 msgstr "<a href=\"https://codex.wordpress.org/Appearance_Background_Screen\">Dokumentasi tentang Latar Belakang Kustom</a>"
 
 #: wp-admin/includes/class-custom-background.php:233
-#: wp-admin/includes/theme.php:320
+#: wp-admin/includes/theme.php:321
 msgid "Custom Background"
 msgstr "Latar Belakang Tersuai"
 
@@ -4305,7 +4305,7 @@ msgid "<strong>Random:</strong> Show a different image on each page."
 msgstr "<strong>Acak:</strong> Menampilkan gambar berbeda pada masing-masing laman."
 
 #: wp-admin/includes/class-custom-image-header.php:504
-#: wp-admin/includes/theme.php:322
+#: wp-admin/includes/theme.php:323
 msgid "Custom Header"
 msgstr "Tajuk Tersuai"
 
@@ -4484,13 +4484,13 @@ msgstr "Silakan pilih sebuah berkas"
 
 #: wp-admin/includes/class-file-upload-upgrader.php:92
 #: wp-admin/includes/file.php:1636
-#: wp-admin/includes/file.php:1791
+#: wp-admin/includes/file.php:1828
 msgid "Incompatible Archive."
 msgstr "Arsip yang tidak kompatibel."
 
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:31
-#: wp-admin/update-core.php:652
-#: wp-admin/update-core.php:1058
+#: wp-admin/update-core.php:687
+#: wp-admin/update-core.php:1093
 msgid "Update Translations"
 msgstr "Perbarui Terjemahan"
 
@@ -4506,7 +4506,7 @@ msgid "Some of your translations need updating. Sit tight for a few more seconds
 msgstr ""
 
 #: wp-admin/includes/class-language-pack-upgrader.php:114
-#: wp-admin/update-core.php:641
+#: wp-admin/update-core.php:676
 msgid "Your translations are all up to date."
 msgstr "Terjemahan Anda sudah paling baru."
 
@@ -4665,8 +4665,8 @@ msgid "Update Plugin"
 msgstr "Perbarui Plugin"
 
 #: wp-admin/includes/class-plugin-upgrader-skin.php:85
-#: wp-admin/update-core.php:990
-#: wp-admin/update-core.php:1031
+#: wp-admin/update-core.php:1025
+#: wp-admin/update-core.php:1066
 msgid "Update progress"
 msgstr "Progres pembaruan"
 
@@ -4970,7 +4970,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-themes-list-table.php:285
 #: wp-admin/theme-editor.php:44
 #: wp-admin/theme-editor.php:398
-#: wp-admin/update-core.php:483
+#: wp-admin/update-core.php:518
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
 msgstr ""
 
@@ -5232,8 +5232,8 @@ msgstr "Jika anda mengalami masalah atau membutuhkan bantuan, para sukarelawan d
 
 #: wp-admin/includes/class-wp-automatic-updater.php:877
 #: wp-admin/includes/plugin-install.php:186
-#: wp-admin/includes/theme.php:551
-#: wp-admin/includes/theme.php:566
+#: wp-admin/includes/theme.php:552
+#: wp-admin/includes/theme.php:567
 #: wp-admin/includes/translation-install.php:89
 #: wp-admin/includes/translation-install.php:101
 #: wp-admin/theme-install.php:67
@@ -5241,7 +5241,7 @@ msgid "https://wordpress.org/support/forums/"
 msgstr ""
 
 #: wp-admin/includes/class-wp-automatic-updater.php:882
-#: wp-admin/update-core.php:825
+#: wp-admin/update-core.php:860
 msgid "Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers."
 msgstr "Memastikan situs anda diperbarui sangat penting untuk keamanan. Ini juga menjadikan internet sebagai tempat yang aman bagi anda dan para pembaca anda."
 
@@ -5585,7 +5585,7 @@ msgstr "Setuju"
 #: wp-admin/includes/class-wp-comments-list-table.php:375
 #: wp-admin/includes/class-wp-comments-list-table.php:789
 #: wp-admin/includes/class-wp-media-list-table.php:184
-#: wp-admin/includes/class-wp-media-list-table.php:983
+#: wp-admin/includes/class-wp-media-list-table.php:987
 #: wp-admin/includes/class-wp-posts-list-table.php:438
 #: wp-admin/includes/class-wp-posts-list-table.php:1468
 msgid "Restore"
@@ -5697,8 +5697,8 @@ msgid "Move this comment to the Trash"
 msgstr "Pindahkan komentar ini ke Tong Sampah"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:807
-#: wp-admin/includes/class-wp-media-list-table.php:931
-#: wp-admin/includes/class-wp-media-list-table.php:991
+#: wp-admin/includes/class-wp-media-list-table.php:935
+#: wp-admin/includes/class-wp-media-list-table.php:995
 #: wp-admin/includes/class-wp-posts-list-table.php:1476
 #: wp-admin/includes/dashboard.php:800
 msgctxt "verb"
@@ -5753,6 +5753,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-debug-data.php:73
 #: wp-admin/includes/class-wp-privacy-policy-content.php:675
 #: wp-admin/includes/media.php:553
+#: wp-admin/includes/plugin-install.php:375
 #: wp-admin/includes/template.php:2027
 #: wp-admin/install.php:77
 #: wp-admin/maint/repair.php:24
@@ -5866,7 +5867,7 @@ msgid "Drop-ins are single files, found in the %s directory, that replace or enh
 msgstr ""
 
 #: wp-admin/includes/class-wp-debug-data.php:154
-#: wp-admin/includes/theme.php:819
+#: wp-admin/includes/theme.php:820
 #: wp-admin/themes.php:837
 msgid "Active Theme"
 msgstr "Tema Aktif"
@@ -6490,8 +6491,8 @@ msgstr "Rating"
 #: wp-admin/includes/class-wp-posts-list-table.php:1018
 #: wp-admin/includes/class-wp-terms-list-table.php:363
 #: wp-admin/includes/class-wp-users-list-table.php:549
-#: wp-admin/update-core.php:409
-#: wp-admin/update-core.php:590
+#: wp-admin/update-core.php:444
+#: wp-admin/update-core.php:625
 #, php-format
 msgid "Select %s"
 msgstr "Pilih %s"
@@ -6501,8 +6502,8 @@ msgstr "Pilih %s"
 #. translators: %s: Post title.
 #. translators: %s: Taxonomy term name.
 #: wp-admin/includes/class-wp-links-list-table.php:200
-#: wp-admin/includes/class-wp-media-list-table.php:919
-#: wp-admin/includes/class-wp-media-list-table.php:971
+#: wp-admin/includes/class-wp-media-list-table.php:923
+#: wp-admin/includes/class-wp-media-list-table.php:975
 #: wp-admin/includes/class-wp-posts-list-table.php:1449
 #: wp-admin/includes/class-wp-terms-list-table.php:490
 #: wp-admin/includes/dashboard.php:683
@@ -6642,9 +6643,9 @@ msgstr "Laman terakhir"
 #: wp-admin/includes/nav-menu.php:678
 #: wp-admin/includes/nav-menu.php:915
 #: wp-admin/update-core.php:297
-#: wp-admin/update-core.php:441
-#: wp-admin/update-core.php:494
-#: wp-admin/update-core.php:622
+#: wp-admin/update-core.php:476
+#: wp-admin/update-core.php:529
+#: wp-admin/update-core.php:657
 msgid "Select All"
 msgstr "Pilih Semua"
 
@@ -6768,40 +6769,40 @@ msgstr "Nama berkas:"
 msgid "Unpublished"
 msgstr "Belum diterbitkan"
 
-#: wp-admin/includes/class-wp-media-list-table.php:742
+#: wp-admin/includes/class-wp-media-list-table.php:746
 msgid "(Private post)"
 msgstr "(Pos privat)"
 
 #. translators: %s: Title of the post the attachment is attached to.
-#: wp-admin/includes/class-wp-media-list-table.php:758
+#: wp-admin/includes/class-wp-media-list-table.php:762
 #, php-format
 msgid "Detach from &#8220;%s&#8221;"
 msgstr "Lepaskan dari &#8220;%s&#8221;"
 
-#: wp-admin/includes/class-wp-media-list-table.php:759
+#: wp-admin/includes/class-wp-media-list-table.php:763
 msgid "Detach"
 msgstr "Lepaskan"
 
-#: wp-admin/includes/class-wp-media-list-table.php:763
+#: wp-admin/includes/class-wp-media-list-table.php:767
 msgid "(Unattached)"
 msgstr "(Tidak Dilampirkan)"
 
 #. translators: %s: Attachment title.
-#: wp-admin/includes/class-wp-media-list-table.php:772
-#: wp-admin/includes/class-wp-media-list-table.php:961
+#: wp-admin/includes/class-wp-media-list-table.php:776
+#: wp-admin/includes/class-wp-media-list-table.php:965
 #, php-format
 msgid "Attach &#8220;%s&#8221; to existing content"
 msgstr "Lampirkan &#8220;%s&#8221; ke konten yang telah ada"
 
-#: wp-admin/includes/class-wp-media-list-table.php:773
-#: wp-admin/includes/class-wp-media-list-table.php:962
+#: wp-admin/includes/class-wp-media-list-table.php:777
+#: wp-admin/includes/class-wp-media-list-table.php:966
 msgid "Attach"
 msgstr "Lampirkan"
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
-#: wp-admin/includes/class-wp-media-list-table.php:930
-#: wp-admin/includes/class-wp-media-list-table.php:990
+#: wp-admin/includes/class-wp-media-list-table.php:934
+#: wp-admin/includes/class-wp-media-list-table.php:994
 #: wp-admin/includes/class-wp-posts-list-table.php:1475
 #, php-format
 msgid "Move &#8220;%s&#8221; to the Trash"
@@ -6809,8 +6810,8 @@ msgstr "Pindahkan &#8220;%s&#8221; ke Tong Sampah"
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
-#: wp-admin/includes/class-wp-media-list-table.php:940
-#: wp-admin/includes/class-wp-media-list-table.php:1002
+#: wp-admin/includes/class-wp-media-list-table.php:944
+#: wp-admin/includes/class-wp-media-list-table.php:1006
 #: wp-admin/includes/class-wp-posts-list-table.php:1485
 #, php-format
 msgid "Delete &#8220;%s&#8221; permanently"
@@ -6818,8 +6819,8 @@ msgstr "Hapus &#8220;%s&#8221; selamanya"
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
-#: wp-admin/includes/class-wp-media-list-table.php:951
-#: wp-admin/includes/class-wp-media-list-table.php:1014
+#: wp-admin/includes/class-wp-media-list-table.php:955
+#: wp-admin/includes/class-wp-media-list-table.php:1018
 #: wp-admin/includes/class-wp-posts-list-table.php:1508
 #, php-format
 msgid "View &#8220;%s&#8221;"
@@ -6827,106 +6828,106 @@ msgstr "Lihat &#8220;%s&#8221;"
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
-#: wp-admin/includes/class-wp-media-list-table.php:982
+#: wp-admin/includes/class-wp-media-list-table.php:986
 #: wp-admin/includes/class-wp-posts-list-table.php:1467
 #, php-format
 msgid "Restore &#8220;%s&#8221; from the Trash"
 msgstr "Kembalikan &#8220;%s&#8221; dari Tong Sampah"
 
 #. translators: %s: Attachment title.
-#: wp-admin/includes/class-wp-media-list-table.php:1023
+#: wp-admin/includes/class-wp-media-list-table.php:1027
 #, php-format
 msgid "Copy &#8220;%s&#8221; URL to clipboard"
 msgstr ""
 
 #. translators: %s: Attachment title.
-#: wp-admin/includes/class-wp-media-list-table.php:1032
+#: wp-admin/includes/class-wp-media-list-table.php:1036
 #, php-format
 msgid "Download &#8220;%s&#8221;"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1110
+#: wp-admin/includes/class-wp-media-list-table.php:1114
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
 msgid "Bulk Edit"
 msgstr "Penyuntingan Massal"
 
-#: wp-admin/includes/class-wp-media-list-table.php:1158
-#: wp-admin/includes/class-wp-media-list-table.php:1303
+#: wp-admin/includes/class-wp-media-list-table.php:1162
+#: wp-admin/includes/class-wp-media-list-table.php:1307
 msgid "Separate tags with commas"
 msgstr "Pisahkan tag dengan koma"
 
-#: wp-admin/includes/class-wp-media-list-table.php:1164
+#: wp-admin/includes/class-wp-media-list-table.php:1168
 msgid "— No Change —"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1203
+#: wp-admin/includes/class-wp-media-list-table.php:1207
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
 #: wp-admin/includes/class-wp-terms-list-table.php:676
 msgid "Quick Edit"
 msgstr "Penyuntingan Cepat"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-media-list-table.php:1223
+#: wp-admin/includes/class-wp-media-list-table.php:1227
 #: wp-admin/includes/template.php:844
 msgid "Month"
 msgstr "Bulan"
 
-#: wp-admin/includes/class-wp-media-list-table.php:1226
+#: wp-admin/includes/class-wp-media-list-table.php:1230
 msgid "01-Jan"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1227
+#: wp-admin/includes/class-wp-media-list-table.php:1231
 msgid "02-Feb"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1228
+#: wp-admin/includes/class-wp-media-list-table.php:1232
 msgid "03-Mar"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1229
+#: wp-admin/includes/class-wp-media-list-table.php:1233
 msgid "04-Apr"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1230
+#: wp-admin/includes/class-wp-media-list-table.php:1234
 msgid "05-May"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1231
+#: wp-admin/includes/class-wp-media-list-table.php:1235
 msgid "06-Jun"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1232
+#: wp-admin/includes/class-wp-media-list-table.php:1236
 msgid "07-Jul"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1233
+#: wp-admin/includes/class-wp-media-list-table.php:1237
 msgid "08-Aug"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1234
+#: wp-admin/includes/class-wp-media-list-table.php:1238
 msgid "09-Sep"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1235
+#: wp-admin/includes/class-wp-media-list-table.php:1239
 msgid "10-Oct"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1236
+#: wp-admin/includes/class-wp-media-list-table.php:1240
 msgid "11-Nov"
 msgstr ""
 
-#: wp-admin/includes/class-wp-media-list-table.php:1237
+#: wp-admin/includes/class-wp-media-list-table.php:1241
 msgid "12-Dec"
 msgstr ""
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-media-list-table.php:1240
+#: wp-admin/includes/class-wp-media-list-table.php:1244
 #: wp-admin/includes/template.php:857
 msgid "Day"
 msgstr "Hari"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/class-wp-media-list-table.php:1244
+#: wp-admin/includes/class-wp-media-list-table.php:1248
 #: wp-admin/includes/template.php:861
 msgid "Year"
 msgstr "Tahun"
@@ -7401,7 +7402,7 @@ msgid "&mdash; No Change &mdash;"
 msgstr "&mdash; Tidak ada perubahan &mdash;"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1720
-#: wp-admin/includes/file.php:2437
+#: wp-admin/includes/file.php:2496
 #: wp-admin/install.php:137
 #: wp-admin/install.php:438
 #: wp-admin/options-writing.php:172
@@ -7419,7 +7420,7 @@ msgstr "&ndash; ATAU &ndash;"
 #: wp-admin/includes/class-wp-posts-list-table.php:1949
 #: wp-admin/includes/meta-boxes.php:180
 #: wp-admin/includes/meta-boxes.php:220
-#: wp-admin/js/post.js:886
+#: wp-admin/js/post.js:888
 msgid "Private"
 msgstr "Privat"
 
@@ -7606,7 +7607,7 @@ msgstr ""
 #: wp-admin/includes/dashboard.php:1699
 #: wp-admin/includes/media.php:3199
 #: wp-admin/includes/meta-boxes.php:80
-#: wp-admin/includes/theme.php:844
+#: wp-admin/includes/theme.php:845
 #: wp-admin/upload.php:587
 msgid "(opens in a new tab)"
 msgstr "(buka di tab baru)"
@@ -8065,8 +8066,8 @@ msgid "Columns"
 msgstr "Kolom"
 
 #: wp-admin/includes/class-wp-screen.php:1202
-#: wp-admin/includes/theme.php:334
-#: wp-admin/includes/theme.php:369
+#: wp-admin/includes/theme.php:335
+#: wp-admin/includes/theme.php:370
 #: wp-admin/index.php:69
 msgid "Layout"
 msgstr "Tata letak"
@@ -9412,7 +9413,7 @@ msgid "Featured"
 msgstr "Andalan"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:65
-#: wp-admin/theme-install.php:227
+#: wp-admin/theme-install.php:245
 msgctxt "themes"
 msgid "Latest"
 msgstr "Terbaru"
@@ -9454,12 +9455,12 @@ msgstr "Pratinjau %s"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:402
 #: wp-admin/theme-install.php:73
-#: wp-admin/theme-install.php:320
+#: wp-admin/theme-install.php:338
 msgid "Collapse Sidebar"
 msgstr "Perlebar Bilah sisi"
 
 #: wp-admin/includes/class-wp-theme-install-list-table.php:404
-#: wp-admin/theme-install.php:322
+#: wp-admin/theme-install.php:340
 msgid "Collapse"
 msgstr "Perlebar"
 
@@ -9554,10 +9555,10 @@ msgid "Destination folder already exists."
 msgstr "Map tujuan sudah ada."
 
 #: wp-admin/includes/class-wp-upgrader.php:202
-#: wp-admin/includes/file.php:1716
-#: wp-admin/includes/file.php:1857
-#: wp-admin/includes/file.php:1931
-#: wp-admin/includes/file.php:2014
+#: wp-admin/includes/file.php:1719
+#: wp-admin/includes/file.php:1897
+#: wp-admin/includes/file.php:1990
+#: wp-admin/includes/file.php:2073
 msgid "Could not create directory."
 msgstr "Tidak dapat menciptakan direktori."
 
@@ -9566,12 +9567,12 @@ msgid "The package could not be installed."
 msgstr "Paket tersebut tidak bisa diinstal."
 
 #: wp-admin/includes/class-wp-upgrader.php:206
-#: wp-admin/includes/update-core.php:532
+#: wp-admin/includes/update-core.php:536
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "Mengaktifkan moda perawatan&#8230;"
 
 #: wp-admin/includes/class-wp-upgrader.php:207
-#: wp-admin/includes/update-core.php:688
+#: wp-admin/includes/update-core.php:692
 msgid "Disabling Maintenance mode&#8230;"
 msgstr "Menonaktifkan moda perawatan&#8230;"
 
@@ -9646,7 +9647,7 @@ msgid "Change"
 msgstr "Ubah"
 
 #: wp-admin/includes/class-wp-users-list-table.php:373
-#: wp-admin/includes/file.php:2436
+#: wp-admin/includes/file.php:2495
 #: wp-admin/install.php:118
 #: wp-admin/install.php:434
 #: wp-admin/setup-config.php:230
@@ -9759,7 +9760,7 @@ msgstr "Konfigurasikan"
 #: wp-admin/includes/dashboard.php:259
 #: wp-admin/includes/template.php:2493
 #: wp-admin/nav-menus.php:897
-#: wp-admin/options.php:436
+#: wp-admin/options.php:438
 msgid "Save Changes"
 msgstr "Simpan Perubahan"
 
@@ -9828,7 +9829,7 @@ msgstr "Apa yang sedang Anda pikirkan?"
 
 #: wp-admin/includes/dashboard.php:615
 #: wp-admin/includes/meta-boxes.php:56
-#: wp-admin/js/post.js:839
+#: wp-admin/js/post.js:841
 msgid "Save Draft"
 msgstr "Simpan Draf"
 
@@ -10116,7 +10117,7 @@ msgstr ""
 
 #: wp-admin/includes/dashboard.php:1844
 #, php-format
-msgid "You can browse the new directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
+msgid "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
 msgstr ""
 
 #: wp-admin/includes/dashboard.php:1856
@@ -10542,131 +10543,135 @@ msgid "The authenticity of %s could not be verified."
 msgstr ""
 
 #: wp-admin/includes/file.php:1645
-#: wp-admin/includes/file.php:1725
+#: wp-admin/includes/file.php:1747
 msgid "Could not retrieve file from archive."
 msgstr "Tidak dapat mendapatkan kembali berkas dari arsip."
 
-#: wp-admin/includes/file.php:1744
+#: wp-admin/includes/file.php:1766
 msgid "Could not extract file from archive."
 msgstr "Tidak dapat mengekstrak berkas dari arsip."
 
-#: wp-admin/includes/file.php:1748
-#: wp-admin/includes/file.php:1878
-#: wp-admin/includes/file.php:1923
-#: wp-admin/includes/update-core.php:744
+#: wp-admin/includes/file.php:1770
+#: wp-admin/includes/file.php:1924
+#: wp-admin/includes/file.php:1982
+#: wp-admin/includes/update-core.php:748
 msgid "Could not copy file."
 msgstr "Tidak dapat menyalin berkas."
 
-#: wp-admin/includes/file.php:1795
+#: wp-admin/includes/file.php:1832
 msgid "Empty archive."
 msgstr "Kosongkan arsip."
 
-#: wp-admin/includes/file.php:1906
+#: wp-admin/includes/file.php:1957
 msgid "Directory listing failed."
 msgstr ""
 
-#: wp-admin/includes/file.php:1980
+#: wp-admin/includes/file.php:1966
+msgid "Could not create the destination directory."
+msgstr ""
+
+#: wp-admin/includes/file.php:2039
 msgid "The source and destination are the same."
 msgstr ""
 
-#: wp-admin/includes/file.php:1985
+#: wp-admin/includes/file.php:2044
 msgid "The destination folder already exists."
 msgstr ""
 
-#: wp-admin/includes/file.php:1988
+#: wp-admin/includes/file.php:2047
 msgid "The destination directory already exists and could not be removed."
 msgstr ""
 
-#: wp-admin/includes/file.php:2385
+#: wp-admin/includes/file.php:2444
 msgid "<strong>Error:</strong> Could not connect to the server. Please verify the settings are correct."
 msgstr ""
 
-#: wp-admin/includes/file.php:2400
+#: wp-admin/includes/file.php:2459
 msgid "FTP"
 msgstr "FTP"
 
-#: wp-admin/includes/file.php:2403
+#: wp-admin/includes/file.php:2462
 msgid "FTPS (SSL)"
 msgstr "FTPS (SSL)"
 
-#: wp-admin/includes/file.php:2406
+#: wp-admin/includes/file.php:2465
 msgid "SSH2"
 msgstr "SSH2"
 
-#: wp-admin/includes/file.php:2432
+#: wp-admin/includes/file.php:2491
 msgid "Connection Information"
 msgstr "Informasi Sambungan"
 
-#: wp-admin/includes/file.php:2438
+#: wp-admin/includes/file.php:2497
 msgid "To perform the requested action, ClassicPress needs to access your web server."
 msgstr "Untuk melaksanakan tindakan yang diminta, ClassicPress perlu mengakses server web Anda."
 
-#: wp-admin/includes/file.php:2442
+#: wp-admin/includes/file.php:2501
 msgid "Please enter your FTP or SSH credentials to proceed."
 msgstr "Mohon masukkan mandat FTP atau SSH Anda untuk melanjutkan."
 
-#: wp-admin/includes/file.php:2443
+#: wp-admin/includes/file.php:2502
 msgid "FTP/SSH Username"
 msgstr "Nama pengguna FTP/SSH"
 
-#: wp-admin/includes/file.php:2444
+#: wp-admin/includes/file.php:2503
 msgid "FTP/SSH Password"
 msgstr "Sandi FTP/SSH"
 
-#: wp-admin/includes/file.php:2446
+#: wp-admin/includes/file.php:2505
 msgid "Please enter your FTP credentials to proceed."
 msgstr "Mohon masukkan mandat FTP Anda untuk melanjutkan."
 
-#: wp-admin/includes/file.php:2447
+#: wp-admin/includes/file.php:2506
 msgid "FTP Username"
 msgstr "Nama pengguna FTP"
 
-#: wp-admin/includes/file.php:2448
+#: wp-admin/includes/file.php:2507
 msgid "FTP Password"
 msgstr "Sandi FTP"
 
-#: wp-admin/includes/file.php:2452
+#: wp-admin/includes/file.php:2511
 msgid "If you do not remember your credentials, you should contact your web host."
 msgstr "Jika Anda tidak ingat mandat Anda, sebaiknya hubungi web host Anda."
 
-#: wp-admin/includes/file.php:2466
+#: wp-admin/includes/file.php:2525
 msgid "Hostname"
 msgstr "Nama host"
 
-#: wp-admin/includes/file.php:2467
+#: wp-admin/includes/file.php:2526
 msgid "example: www.wordpress.org"
 msgstr "contoh: www.wordpress.org"
 
-#: wp-admin/includes/file.php:2481
+#: wp-admin/includes/file.php:2540
 msgid "This password will not be stored on the server."
 msgstr "Sandi ini tidak akan disimpan di server."
 
-#: wp-admin/includes/file.php:2487
+#: wp-admin/includes/file.php:2546
 msgid "Connection Type"
 msgstr "Jenis Sambungan"
 
-#: wp-admin/includes/file.php:2508
+#: wp-admin/includes/file.php:2567
 msgid "Authentication Keys"
 msgstr "Kunci Otentifikasi"
 
-#: wp-admin/includes/file.php:2510
+#: wp-admin/includes/file.php:2569
 msgid "Public Key:"
 msgstr "Kunci Publik:"
 
-#: wp-admin/includes/file.php:2514
+#: wp-admin/includes/file.php:2573
 msgid "Private Key:"
 msgstr "Kunci Privat:"
 
-#: wp-admin/includes/file.php:2517
+#: wp-admin/includes/file.php:2576
 msgid "Enter the location on the server where the public and private keys are located. If a passphrase is needed, enter that in the password field above."
 msgstr "Masukkan lokasi di server di mana public key dan private key berada. Jika frasa sandi dibutuhkan, mohon masukkan ke bidang sandi di atas."
 
-#: wp-admin/includes/file.php:2537
+#: wp-admin/includes/file.php:2596
 msgid "Proceed"
 msgstr "Lanjutkan"
 
 #. translators: %s: The function name.
-#: wp-admin/includes/file.php:2665
+#: wp-admin/includes/file.php:2724
 #, php-format
 msgid "%s expects a non-empty string."
 msgstr ""
@@ -11402,7 +11407,7 @@ msgid "Sorry, you are not allowed to access this page."
 msgstr "Maaf, Anda tak  mengakses laman ini."
 
 #: wp-admin/includes/meta-boxes.php:59
-#: wp-admin/js/post.js:837
+#: wp-admin/js/post.js:839
 msgid "Save as Pending"
 msgstr "Simpan sebagai Ditangguhkan"
 
@@ -11412,8 +11417,8 @@ msgstr "Perubahan Pratampil"
 
 #: wp-admin/includes/meta-boxes.php:109
 #: wp-admin/includes/meta-boxes.php:154
-#: wp-admin/js/post.js:803
 #: wp-admin/js/post.js:805
+#: wp-admin/js/post.js:807
 msgid "Privately Published"
 msgstr "Terbit Privat"
 
@@ -11430,7 +11435,7 @@ msgstr "Setel status"
 #: wp-admin/includes/meta-boxes.php:165
 #: wp-admin/includes/meta-boxes.php:223
 #: wp-admin/includes/template.php:902
-#: wp-admin/js/post.js:1007
+#: wp-admin/js/post.js:1009
 msgid "OK"
 msgstr "Oke"
 
@@ -11444,13 +11449,13 @@ msgid "Password protected"
 msgstr "Dilindungi sandi"
 
 #: wp-admin/includes/meta-boxes.php:186
-#: wp-admin/js/post.js:883
+#: wp-admin/js/post.js:885
 msgid "Public, Sticky"
 msgstr "Publik, Tetap"
 
 #: wp-admin/includes/meta-boxes.php:189
 #: wp-admin/includes/meta-boxes.php:211
-#: wp-admin/js/post.js:883
+#: wp-admin/js/post.js:885
 msgid "Public"
 msgstr "Umum"
 
@@ -11520,7 +11525,7 @@ msgstr ""
 
 #: wp-admin/includes/meta-boxes.php:383
 #: wp-admin/includes/meta-boxes.php:384
-#: wp-admin/js/post.js:772
+#: wp-admin/js/post.js:774
 msgctxt "post action/button label"
 msgid "Schedule"
 msgstr "Jadwalkan"
@@ -11538,7 +11543,7 @@ msgstr "Diunggah pada: %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:527
-#: wp-admin/includes/theme.php:329
+#: wp-admin/includes/theme.php:330
 msgid "Post Formats"
 msgstr "Format Tulisan"
 
@@ -11556,7 +11561,7 @@ msgstr "+ %s"
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:766
 #: wp-admin/includes/meta-boxes.php:1658
-#: wp-admin/options-reading.php:193
+#: wp-admin/options-reading.php:203
 msgid "Excerpt"
 msgstr "Kutipan"
 
@@ -11983,7 +11988,7 @@ msgstr "Lihat Semua"
 
 #: wp-admin/includes/nav-menu.php:606
 #: wp-admin/includes/nav-menu.php:907
-#: wp-admin/js/nav-menu.js:494
+#: wp-admin/js/nav-menu.js:499
 msgid "No results found."
 msgstr "Tak ditemukan hasil apapun."
 
@@ -12041,7 +12046,7 @@ msgstr "Konstanta %s tidak bisa didefiniskan ketika sedang membuat jaringan."
 #: wp-admin/includes/network.php:670
 #: wp-admin/includes/network.php:732
 #: wp-admin/includes/template.php:1302
-#: wp-admin/options.php:372
+#: wp-admin/options.php:374
 msgid "Warning:"
 msgstr "Peringatan:"
 
@@ -12321,8 +12326,8 @@ msgstr ""
 #. translators: %s: support forums URL
 #: wp-admin/includes/plugin-install.php:169
 #: wp-admin/includes/plugin-install.php:185
-#: wp-admin/includes/theme.php:550
-#: wp-admin/includes/theme.php:565
+#: wp-admin/includes/theme.php:551
+#: wp-admin/includes/theme.php:566
 #: wp-admin/includes/translation-install.php:73
 #: wp-admin/includes/translation-install.php:88
 #: wp-admin/includes/translation-install.php:100
@@ -12332,7 +12337,7 @@ msgstr ""
 
 #: wp-admin/includes/plugin-install.php:170
 #: wp-admin/includes/translation-install.php:74
-#: wp-admin/includes/update-core.php:1096
+#: wp-admin/includes/update-core.php:1100
 #: wp-admin/includes/update.php:138
 msgid "https://forums.classicpress.net/c/support"
 msgstr "https://forums.classicpress.net/c/support"
@@ -12407,34 +12412,30 @@ msgstr ""
 msgid "Get Favorites"
 msgstr "Ambil Kesukaan"
 
-#: wp-admin/includes/plugin-install.php:375
+#: wp-admin/includes/plugin-install.php:376
 msgid "Forms"
 msgstr "Borang"
 
-#: wp-admin/includes/plugin-install.php:376
+#: wp-admin/includes/plugin-install.php:377
 #: wp-admin/widgets.php:28
 msgid "Widgets"
 msgstr "Widget"
 
-#: wp-admin/includes/plugin-install.php:377
+#: wp-admin/includes/plugin-install.php:378
 msgid "Admin Utilities"
 msgstr "Perkakas Admin"
 
-#: wp-admin/includes/plugin-install.php:378
+#: wp-admin/includes/plugin-install.php:379
 msgid "Page Builders"
 msgstr "Pembangun Laman"
 
-#: wp-admin/includes/plugin-install.php:379
+#: wp-admin/includes/plugin-install.php:380
 msgid "eCommerce"
 msgstr "Perdagangan Elektronik"
 
-#: wp-admin/includes/plugin-install.php:381
+#: wp-admin/includes/plugin-install.php:382
 msgid "SEO"
 msgstr "SEO"
-
-#: wp-admin/includes/plugin-install.php:382
-msgid "Advertising"
-msgstr "Iklan"
 
 #: wp-admin/includes/plugin-install.php:383
 msgid "Social Networking"
@@ -12699,45 +12700,45 @@ msgid "One of the plugins is invalid."
 msgstr "Salah satu plugin tidak sah."
 
 #. translators: %s: Plugin filename.
-#: wp-admin/includes/plugin.php:1045
+#: wp-admin/includes/plugin.php:1046
 #, php-format
 msgid "Could not fully remove the plugin %s."
 msgstr "Tidak dapat menghapus plugin %s sepenuhnya."
 
 #. translators: %s: Comma-separated list of plugin filenames.
-#: wp-admin/includes/plugin.php:1048
+#: wp-admin/includes/plugin.php:1049
 #, php-format
 msgid "Could not fully remove the plugins %s."
 msgstr "Tak bisa menghapus plugin %s sepenuhnya."
 
-#: wp-admin/includes/plugin.php:1108
+#: wp-admin/includes/plugin.php:1109
 msgid "Invalid plugin path."
 msgstr "Lokasi plugin tidak sah."
 
-#: wp-admin/includes/plugin.php:1111
+#: wp-admin/includes/plugin.php:1112
 msgid "Plugin file does not exist."
 msgstr "Berkas plugin tidak ada."
 
-#: wp-admin/includes/plugin.php:1116
+#: wp-admin/includes/plugin.php:1117
 msgid "The plugin does not have a valid header."
 msgstr "Plugin ini tidak memiliki bagian kepala yang sah."
 
 #. translators: 1: Current WordPress version, 2: Current PHP version, 3: Plugin name, 4: Required WordPress version, 5: Required PHP version.
-#: wp-admin/includes/plugin.php:1163
+#: wp-admin/includes/plugin.php:1164
 #, php-format
 msgctxt "plugin"
 msgid "<strong>Error:</strong> Current versions of ClassicPress (%1$s) and PHP (%2$s) do not meet minimum requirements for %3$s. The plugin requires WordPress %4$s and PHP %5$s."
 msgstr ""
 
 #. translators: 1: Current PHP version, 2: Plugin name, 3: Required PHP version.
-#: wp-admin/includes/plugin.php:1176
+#: wp-admin/includes/plugin.php:1177
 #, php-format
 msgctxt "plugin"
 msgid "<strong>Error:</strong> Current PHP version (%1$s) does not meet minimum requirements for %2$s. The plugin requires PHP %3$s."
 msgstr ""
 
 #. translators: 1: Current WordPress version, 2: Plugin name, 3: Required WordPress version.
-#: wp-admin/includes/plugin.php:1187
+#: wp-admin/includes/plugin.php:1188
 #, php-format
 msgctxt "plugin"
 msgid "<strong>Error:</strong> Current ClassicPress version (%1$s) does not meet minimum requirements for %2$s. The plugin requires WordPress %3$s."
@@ -12745,55 +12746,55 @@ msgstr ""
 
 #. translators: %s: add_menu_page()
 #. translators: %s: add_submenu_page()
-#: wp-admin/includes/plugin.php:1345
-#: wp-admin/includes/plugin.php:1449
+#: wp-admin/includes/plugin.php:1346
+#: wp-admin/includes/plugin.php:1450
 #, php-format
 msgid "The seventh parameter passed to %s should be numeric representing menu position."
 msgstr ""
 
 #. translators: %s: admin_init
-#: wp-admin/includes/plugin.php:2361
+#: wp-admin/includes/plugin.php:2362
 #, php-format
 msgid "The suggested privacy policy content should be added only in wp-admin by using the %s (or later) action."
 msgstr "Konten Kebijakan Privasi yang disarankan hanya untuk ditambahkan di wp-admin dengan menggunakan tindakan %s (atau terbaru)."
 
 #. translators: %s: admin_init
-#: wp-admin/includes/plugin.php:2372
+#: wp-admin/includes/plugin.php:2373
 #, php-format
 msgid "The suggested privacy policy content should be added by using the %s (or later) action. Please see the inline documentation."
 msgstr "Konten Kebijakan Privasi yang disarankan harus ditambahkan dengan menggunakan tindakan %s (atau terbaru). Silakan lihat dokumentasi terkait."
 
-#: wp-admin/includes/plugin.php:2481
+#: wp-admin/includes/plugin.php:2482
 msgid "Could not resume the plugin."
 msgstr ""
 
-#: wp-admin/includes/plugin.php:2510
+#: wp-admin/includes/plugin.php:2511
 msgid "One or more plugins failed to load properly."
 msgstr ""
 
-#: wp-admin/includes/plugin.php:2511
+#: wp-admin/includes/plugin.php:2512
 msgid "You can find more details and make changes on the Plugins screen."
 msgstr ""
 
-#: wp-admin/includes/plugin.php:2513
-#: wp-admin/includes/plugin.php:2595
+#: wp-admin/includes/plugin.php:2514
+#: wp-admin/includes/plugin.php:2596
 msgid "Go to the Plugins screen"
 msgstr ""
 
 #. translators: 1: Name of deactivated plugin, 2: Plugin version deactivated, 3: Current WP version, 4: Compatible plugin version.
-#: wp-admin/includes/plugin.php:2569
+#: wp-admin/includes/plugin.php:2570
 #, php-format
 msgid "%1$s %2$s was deactivated due to incompatibility with ClassicPress %3$s, please upgrade to %1$s %4$s or later."
 msgstr ""
 
 #. translators: 1: Name of deactivated plugin, 2: Plugin version deactivated, 3: Current WP version.
-#: wp-admin/includes/plugin.php:2578
+#: wp-admin/includes/plugin.php:2579
 #, php-format
 msgid "%1$s %2$s was deactivated due to incompatibility with ClassicPress %3$s."
 msgstr ""
 
 #. translators: %s: Name of deactivated plugin.
-#: wp-admin/includes/plugin.php:2590
+#: wp-admin/includes/plugin.php:2591
 #, php-format
 msgid "%s plugin deactivated during ClassicPress upgrade."
 msgstr ""
@@ -13096,51 +13097,51 @@ msgstr "1"
 msgid "F j, Y g:i a"
 msgstr "j F Y H:i"
 
-#: wp-admin/includes/schema.php:1017
+#: wp-admin/includes/schema.php:1023
 msgid "You must provide a domain name."
 msgstr "Anda harus menyediakan sebuah nama domain."
 
-#: wp-admin/includes/schema.php:1020
+#: wp-admin/includes/schema.php:1026
 msgid "You must provide a name for your network of sites."
 msgstr "Anda harus menyediakan sebuah nama untuk jaringan situs."
 
-#: wp-admin/includes/schema.php:1027
-#: wp-admin/includes/schema.php:1031
+#: wp-admin/includes/schema.php:1033
+#: wp-admin/includes/schema.php:1037
 msgid "The network already exists."
 msgstr "Jaringan sudah ada."
 
-#: wp-admin/includes/schema.php:1036
+#: wp-admin/includes/schema.php:1042
 msgid "You must provide a valid email address."
 msgstr "Anda harus memberikan alamat email yang valid."
 
-#: wp-admin/includes/schema.php:1139
+#: wp-admin/includes/schema.php:1145
 msgid "Warning! Wildcard DNS may not be configured correctly!"
 msgstr "Peringatan! Wildcard DNS mungkin tidak dikonfigurasi dengan benar!"
 
 #. translators: %s: Host name.
-#: wp-admin/includes/schema.php:1143
+#: wp-admin/includes/schema.php:1149
 #, php-format
 msgid "The installer attempted to contact a random hostname (%s) on your domain."
 msgstr "Penginstal berusaha untuk menghubungi sebuah nama host acak (%s) pada domain Anda."
 
 #. translators: %s: Error message.
-#: wp-admin/includes/schema.php:1148
+#: wp-admin/includes/schema.php:1154
 #, php-format
 msgid "This resulted in an error message: %s"
 msgstr "Hal ini mengakibatkan pesan galat: %s"
 
 #. translators: %s: Asterisk symbol (*).
-#: wp-admin/includes/schema.php:1154
+#: wp-admin/includes/schema.php:1160
 #, php-format
 msgid "To use a subdomain configuration, you must have a wildcard entry in your DNS. This usually means adding a %s hostname record pointing at your web server in your DNS configuration tool."
 msgstr "Untuk menerapkan konfigurasi subdomain, Anda harus memiliki entri wildcard di DNS Anda. Ini biasanya berarti menambahkan hostname record %s yang merujuk pada server web Anda dalam perangkat konfigurasi DNS Anda."
 
-#: wp-admin/includes/schema.php:1158
+#: wp-admin/includes/schema.php:1164
 msgid "You can still use your site but any subdomain you create may not be accessible. If you know your DNS is correct, ignore this message."
 msgstr "Anda masih dapat menggunakan situs Anda namun setiap subdomain yang Anda buat mungkin tidak dapat diakses. Jika Anda tahu DNS Anda benar, abaikan pesan ini."
 
 #. translators: Do not translate USERNAME, SITE_NAME, BLOG_URL, PASSWORD: those are placeholders.
-#: wp-admin/includes/schema.php:1242
+#: wp-admin/includes/schema.php:1248
 msgid "Hello USERNAME,\n\n"
 "Your new SITE_NAME site has been successfully set up at:\n"
 "BLOG_URL\n\n"
@@ -13160,13 +13161,13 @@ msgstr "Halo USERNAME,\n\n"
 "Kami berharap, Anda menikmati situs baru Anda. Terima kasih!\n\n"
 "--Tim @ SITE_NAME"
 
-#: wp-admin/includes/schema.php:1268
+#: wp-admin/includes/schema.php:1274
 msgid "My Network"
 msgstr ""
 
 #. translators: %s: Site link.
 #. translators: First post content. %s: Site link.
-#: wp-admin/includes/schema.php:1281
+#: wp-admin/includes/schema.php:1287
 #: wp-admin/includes/upgrade.php:195
 #, php-format
 msgid "Welcome to %s. This is your first post. Edit or delete it, then start writing!"
@@ -13255,7 +13256,7 @@ msgstr "Menit"
 #. translators: 1: Month, 2: Day, 3: Year, 4: Hour, 5: Minute.
 #: wp-admin/includes/template.php:874
 #: wp-admin/js/comment.js:80
-#: wp-admin/js/post.js:789
+#: wp-admin/js/post.js:791
 #, php-format,js-format
 msgid "%1$s %2$s, %3$s at %4$s:%5$s"
 msgstr ""
@@ -13457,7 +13458,7 @@ msgid "Search by tag"
 msgstr "Cari berdasarkan tag"
 
 #: wp-admin/includes/theme-install.php:152
-#: wp-admin/theme-install.php:230
+#: wp-admin/theme-install.php:248
 msgid "Feature Filter"
 msgstr "Penyaring Fitur"
 
@@ -13491,7 +13492,7 @@ msgstr "Tidak dapat sepenuhnya menghapus tema %s."
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number.
 #. translators: 1: Plugin name, 2: Details URL, 3: Additional link attributes, 4: Version number.
 #. translators: 1: Theme name, 2: Details URL, 3: Additional link attributes, 4: Version number.
-#: wp-admin/includes/theme.php:223
+#: wp-admin/includes/theme.php:224
 #: wp-admin/includes/update.php:495
 #: wp-admin/includes/update.php:687
 #, php-format
@@ -13500,9 +13501,9 @@ msgstr "Tersedia versi baru dari %1$s. <a href=\"%2$s\" %3$s>Tampilkan rincian v
 
 #. translators: 1: Theme name, 2: Version number.
 #. translators: 1: Plugin name, 2: Version number.
-#: wp-admin/includes/theme.php:229
-#: wp-admin/includes/theme.php:242
-#: wp-admin/includes/theme.php:255
+#: wp-admin/includes/theme.php:230
+#: wp-admin/includes/theme.php:243
+#: wp-admin/includes/theme.php:256
 #: wp-admin/includes/update.php:501
 #: wp-admin/includes/update.php:514
 #: wp-admin/includes/update.php:528
@@ -13510,14 +13511,14 @@ msgstr "Tersedia versi baru dari %1$s. <a href=\"%2$s\" %3$s>Tampilkan rincian v
 #: wp-admin/includes/update.php:693
 #: wp-admin/includes/update.php:706
 #: wp-admin/includes/update.php:719
-#: wp-admin/update-core.php:395
+#: wp-admin/update-core.php:430
 #, php-format
 msgid "View %1$s version %2$s details"
 msgstr "Lihat rincian %1$s versi %2$s"
 
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number.
 #. translators: 1: Theme name, 2: Details URL, 3: Additional link attributes, 4: Version number.
-#: wp-admin/includes/theme.php:236
+#: wp-admin/includes/theme.php:237
 #: wp-admin/includes/update.php:700
 #, php-format
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" %3$s>View version %4$s details</a>. <em>Automatic update is unavailable for this theme.</em>"
@@ -13526,7 +13527,7 @@ msgstr "Tersedia versi baru dari %1$s. <a href=\"%2$s\" %3$s>Tampilkan rincian v
 #. translators: 1: Theme name, 2: Theme details URL, 3: Additional link attributes, 4: Version number, 5: Update URL, 6: Additional link attributes.
 #. translators: 1: Plugin name, 2: Details URL, 3: Additional link attributes, 4: Version number, 5: Update URL, 6: Additional link attributes.
 #. translators: 1: Theme name, 2: Details URL, 3: Additional link attributes, 4: Version number, 5: Update URL, 6: Additional link attributes.
-#: wp-admin/includes/theme.php:249
+#: wp-admin/includes/theme.php:250
 #: wp-admin/includes/update.php:522
 #: wp-admin/includes/update.php:713
 #, php-format
@@ -13534,169 +13535,169 @@ msgid "There is a new version of %1$s available. <a href=\"%2$s\" %3$s>View vers
 msgstr "Tersedia versi baru dari %1$s. <a href=\"%2$s\" %3$s>Tampilkan rincian versi %4$s</a> atau <a href=\"%5$s\" %6$s>perbarui sekarang</a>."
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/theme.php:262
+#: wp-admin/includes/theme.php:263
 #: wp-admin/includes/update.php:726
 #, php-format
 msgctxt "theme"
 msgid "Update %s now"
 msgstr "Memperbarui %s sekarang"
 
-#: wp-admin/includes/theme.php:306
-#: wp-admin/includes/theme.php:371
+#: wp-admin/includes/theme.php:307
+#: wp-admin/includes/theme.php:372
 msgid "Subject"
 msgstr "Subyek"
 
-#: wp-admin/includes/theme.php:307
+#: wp-admin/includes/theme.php:308
 msgid "Blog"
 msgstr "Blog"
 
-#: wp-admin/includes/theme.php:308
+#: wp-admin/includes/theme.php:309
 msgid "E-Commerce"
 msgstr "Toko Online"
 
-#: wp-admin/includes/theme.php:309
+#: wp-admin/includes/theme.php:310
 msgid "Education"
 msgstr "Edukasi"
 
-#: wp-admin/includes/theme.php:310
+#: wp-admin/includes/theme.php:311
 msgid "Entertainment"
 msgstr "Hiburan"
 
-#: wp-admin/includes/theme.php:311
+#: wp-admin/includes/theme.php:312
 msgid "Food & Drink"
 msgstr "Makanan & Minuman"
 
-#: wp-admin/includes/theme.php:312
+#: wp-admin/includes/theme.php:313
 msgid "Holiday"
 msgstr "Liburan"
 
-#: wp-admin/includes/theme.php:313
+#: wp-admin/includes/theme.php:314
 msgid "News"
 msgstr "Berita"
 
-#: wp-admin/includes/theme.php:314
+#: wp-admin/includes/theme.php:315
 msgid "Photography"
 msgstr "Fotografi"
 
-#: wp-admin/includes/theme.php:315
+#: wp-admin/includes/theme.php:316
 msgid "Portfolio"
 msgstr "Portfolio"
 
-#: wp-admin/includes/theme.php:318
-#: wp-admin/includes/theme.php:370
+#: wp-admin/includes/theme.php:319
+#: wp-admin/includes/theme.php:371
 msgid "Features"
 msgstr "Fitur"
 
-#: wp-admin/includes/theme.php:319
+#: wp-admin/includes/theme.php:320
 msgid "Accessibility Ready"
 msgstr "Menunjang Aksesibilitas"
 
-#: wp-admin/includes/theme.php:321
+#: wp-admin/includes/theme.php:322
 msgid "Custom Colors"
 msgstr "Warna Tersuai"
 
-#: wp-admin/includes/theme.php:323
+#: wp-admin/includes/theme.php:324
 msgid "Custom Logo"
 msgstr "Logo Kustom"
 
-#: wp-admin/includes/theme.php:324
+#: wp-admin/includes/theme.php:325
 msgid "Editor Style"
 msgstr "Gaya Penyunting"
 
-#: wp-admin/includes/theme.php:325
+#: wp-admin/includes/theme.php:326
 msgid "Featured Image Header"
 msgstr "Gambar Tajuk Andalan"
 
-#: wp-admin/includes/theme.php:326
+#: wp-admin/includes/theme.php:327
 msgid "Featured Images"
 msgstr "Gambar Andalan"
 
-#: wp-admin/includes/theme.php:327
+#: wp-admin/includes/theme.php:328
 msgid "Footer Widgets"
 msgstr "Widget Footer"
 
-#: wp-admin/includes/theme.php:328
+#: wp-admin/includes/theme.php:329
 msgid "Full Width Template"
 msgstr "Templat Lebar Penuh"
 
-#: wp-admin/includes/theme.php:330
+#: wp-admin/includes/theme.php:331
 msgid "Sticky Post"
 msgstr "Tulisan Tetap"
 
-#: wp-admin/includes/theme.php:331
+#: wp-admin/includes/theme.php:332
 msgid "Theme Options"
 msgstr "Opsi Tema"
 
-#: wp-admin/includes/theme.php:335
+#: wp-admin/includes/theme.php:336
 msgid "Grid Layout"
 msgstr "Tataletak Kisi"
 
-#: wp-admin/includes/theme.php:336
+#: wp-admin/includes/theme.php:337
 msgid "One Column"
 msgstr "Satu Kolom"
 
-#: wp-admin/includes/theme.php:337
+#: wp-admin/includes/theme.php:338
 msgid "Two Columns"
 msgstr "Dua Kolom"
 
-#: wp-admin/includes/theme.php:338
+#: wp-admin/includes/theme.php:339
 msgid "Three Columns"
 msgstr "Tiga Kolom"
 
-#: wp-admin/includes/theme.php:339
+#: wp-admin/includes/theme.php:340
 msgid "Four Columns"
 msgstr "Empat Kolom"
 
-#: wp-admin/includes/theme.php:340
+#: wp-admin/includes/theme.php:341
 msgid "Left Sidebar"
 msgstr "Bilah Sisi Kiri"
 
-#: wp-admin/includes/theme.php:341
+#: wp-admin/includes/theme.php:342
 msgid "Right Sidebar"
 msgstr "Bilah Sisi Kanan"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/theme.php:792
+#: wp-admin/includes/theme.php:793
 #: wp-admin/themes.php:795
 msgid "Show previous theme"
 msgstr "Tampilkan tema sebelumnya"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/theme.php:798
+#: wp-admin/includes/theme.php:799
 #: wp-admin/themes.php:803
 msgid "Show next theme"
 msgstr "Tampilkan tema berikutnya"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/includes/theme.php:804
+#: wp-admin/includes/theme.php:805
 #: wp-admin/themes.php:811
 msgid "Close details dialog"
 msgstr "Tutup boks rincian"
 
 #. translators: %s: Theme version.
-#: wp-admin/includes/theme.php:824
+#: wp-admin/includes/theme.php:825
 #, php-format
 msgid "Version: %s"
 msgstr "Versi: %s"
 
 #. translators: %s: Number of ratings.
-#: wp-admin/includes/theme.php:842
+#: wp-admin/includes/theme.php:843
 #, php-format
 msgid "(%s ratings)"
 msgstr "(%s rating)"
 
-#: wp-admin/includes/theme.php:854
+#: wp-admin/includes/theme.php:855
 #: wp-admin/themes.php:914
 msgid "Update Available"
 msgstr "Tersedia Pembaruan"
 
-#: wp-admin/includes/theme.php:859
+#: wp-admin/includes/theme.php:860
 #: wp-admin/themes.php:919
 msgid "Update Incompatible"
 msgstr ""
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/theme.php:865
+#: wp-admin/includes/theme.php:866
 #: wp-admin/includes/update.php:734
 #: wp-admin/themes.php:485
 #, php-format
@@ -13704,7 +13705,7 @@ msgid "There is a new version of %s available, but it does not work with your ve
 msgstr ""
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/theme.php:903
+#: wp-admin/includes/theme.php:904
 #: wp-admin/includes/update.php:769
 #: wp-admin/themes.php:521
 #, php-format
@@ -13712,7 +13713,7 @@ msgid "There is a new version of %s available, but it does not work with your ve
 msgstr ""
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/theme.php:918
+#: wp-admin/includes/theme.php:919
 #: wp-admin/includes/update.php:782
 #: wp-admin/themes.php:534
 #, php-format
@@ -13720,39 +13721,39 @@ msgid "There is a new version of %s available, but it does not work with your ve
 msgstr ""
 
 #. translators: %s: Theme name.
-#: wp-admin/includes/theme.php:941
+#: wp-admin/includes/theme.php:942
 #, php-format
 msgid "This is a child theme of %s."
 msgstr "Ini adalah tema turunan dari %s."
 
-#: wp-admin/includes/theme.php:1012
+#: wp-admin/includes/theme.php:1013
 msgid "This theme doesn't support Customizer."
 msgstr ""
 
 #. translators: %s: URL to the themes page (also it activates the theme).
-#: wp-admin/includes/theme.php:1018
+#: wp-admin/includes/theme.php:1019
 #, php-format
 msgid "However, you can still <a href=\"%s\">activate this theme</a>, and use the Site Editor to customize it."
 msgstr ""
 
-#: wp-admin/includes/theme.php:1058
-#: wp-admin/includes/theme.php:1061
+#: wp-admin/includes/theme.php:1059
+#: wp-admin/includes/theme.php:1062
 msgid "Install &amp; Preview"
 msgstr "Memasang &amp; Pratinjau"
 
-#: wp-admin/includes/theme.php:1173
+#: wp-admin/includes/theme.php:1174
 msgid "Could not resume the theme."
 msgstr ""
 
-#: wp-admin/includes/theme.php:1202
+#: wp-admin/includes/theme.php:1203
 msgid "One or more themes failed to load properly."
 msgstr ""
 
-#: wp-admin/includes/theme.php:1203
+#: wp-admin/includes/theme.php:1204
 msgid "You can find more details and make changes on the Themes screen."
 msgstr ""
 
-#: wp-admin/includes/theme.php:1205
+#: wp-admin/includes/theme.php:1206
 msgid "Go to the Themes screen"
 msgstr ""
 
@@ -13761,7 +13762,7 @@ msgid "Invalid translation type."
 msgstr "Jenis terjemahan tidak valid."
 
 #: wp-admin/includes/translation-install.php:75
-#: wp-admin/includes/update-core.php:1097
+#: wp-admin/includes/update-core.php:1101
 #: wp-admin/includes/update.php:139
 msgid "(ClassicPress could not establish a secure connection to ClassicPress.net. Please contact your server administrator.)"
 msgstr "(ClassicPress tidak bisa membuat sambungan aman ke ClassicPress.net. Silakan hubungi administrator server Anda.)"
@@ -13770,81 +13771,81 @@ msgstr "(ClassicPress tidak bisa membuat sambungan aman ke ClassicPress.net. Sil
 msgid "Unable to update language pack for locales"
 msgstr ""
 
-#: wp-admin/includes/update-core.php:304
+#: wp-admin/includes/update-core.php:308
 msgid "Verifying the unpacked files&#8230;"
 msgstr "Memeriksa berkas-berkas yang dibongkar&#8230;"
 
-#: wp-admin/includes/update-core.php:311
+#: wp-admin/includes/update-core.php:315
 msgid "The update could not be unpacked"
 msgstr "Paket pembaruan tidak dapat dibongkar"
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Minimum required MySQL version number, 4: Current PHP version number, 5: Current MySQL version number.
-#: wp-admin/includes/update-core.php:389
+#: wp-admin/includes/update-core.php:393
 #, php-format
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher and MySQL version %3$s or higher. You are running PHP version %4$s and MySQL version %5$s."
 msgstr "Pembaruan tidak dapat dipasang karena ClassicPress %1$s membutuhkan PHP versi %2$s atau lebih tinggi dan MySQL versi %3$s atau lebih tinggi. Anda menjalankan PHP versi %4$s dan MySQL versi %5$s."
 
 #. translators: 1: WordPress version number, 2: Minimum required PHP version number, 3: Current PHP version number.
-#: wp-admin/includes/update-core.php:402
+#: wp-admin/includes/update-core.php:406
 #, php-format
 msgid "The update cannot be installed because ClassicPress %1$s requires PHP version %2$s or higher. You are running version %3$s."
 msgstr "Pembaruan tidak dapat dipasang karena ClassicPress %1$s membutuhkan PHP versi %2$s atau lebih tinggi. Anda menjalankan versi %3$s."
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number, 3: Current MySQL version number.
-#: wp-admin/includes/update-core.php:413
+#: wp-admin/includes/update-core.php:417
 #, php-format
 msgid "The update cannot be installed because ClassicPress %1$s requires MySQL version %2$s or higher. You are running version %3$s."
 msgstr "Pembaruan tidak dapat dipasang karena ClassicPress %1$s membutuhkan MySQL versi %2$s atau lebih tinggi. Anda sedang menjalankan versi %3$s."
 
 #. translators: 1: WordPress version number, 2: The PHP extension name needed.
-#: wp-admin/includes/update-core.php:427
+#: wp-admin/includes/update-core.php:431
 #, php-format
 msgid "The update cannot be installed because ClassicPress %1$s requires the %2$s PHP extension."
 msgstr ""
 
-#: wp-admin/includes/update-core.php:435
+#: wp-admin/includes/update-core.php:439
 msgid "Preparing to install the latest version&#8230;"
 msgstr "Menyiapkan pemasangan versi terbaru&#8230;"
 
-#: wp-admin/includes/update-core.php:524
-#: wp-admin/includes/update-core.php:560
+#: wp-admin/includes/update-core.php:528
+#: wp-admin/includes/update-core.php:564
 msgid "The update cannot be installed because your site is unable to copy some files. This is usually due to inconsistent file permissions."
 msgstr ""
 
-#: wp-admin/includes/update-core.php:541
+#: wp-admin/includes/update-core.php:545
 msgid "Copying the required files&#8230;"
 msgstr "Menyalin berkas-berkas yang diperlukan&#8230;"
 
-#: wp-admin/includes/update-core.php:636
+#: wp-admin/includes/update-core.php:640
 msgid "There is not enough free disk space to complete the update."
 msgstr "Ruang yang tersedia di server Anda tidak cukup untuk merampungkan pembaruan."
 
-#: wp-admin/includes/update-core.php:800
+#: wp-admin/includes/update-core.php:804
 msgid "Upgrading database&#8230;"
 msgstr "Memperbarui basis data&#8230;"
 
-#: wp-admin/includes/update-core.php:938
-#: wp-admin/update-core.php:771
+#: wp-admin/includes/update-core.php:942
+#: wp-admin/update-core.php:806
 msgid "ClassicPress updated successfully"
 msgstr "ClassicPress telah berhasil diperbarui"
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:944
-#: wp-admin/update-core.php:772
+#: wp-admin/includes/update-core.php:948
+#: wp-admin/update-core.php:807
 #, php-format
 msgid "Welcome to ClassicPress %1$s. You will be redirected to the About ClassicPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "Selamat datang di ClassicPress %1$s. Anda akan dialihkan ke layar Tentang ClassicPress. Jika tidak, klik <a href=\"%2$s\">di sini</a>."
 
 #. translators: 1: ClassicPress version, 2: URL to About screen.
-#: wp-admin/includes/update-core.php:952
-#: wp-admin/update-core.php:773
+#: wp-admin/includes/update-core.php:956
+#: wp-admin/update-core.php:808
 #, php-format
 msgid "Welcome to ClassicPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Selamat datang di ClassicPress %1$s. <a href=\"%2$s\">Pelajari lebih lanjut</a>."
 
 #. translators: %s: support forums URL
 #. translators: %s: Support forums URL.
-#: wp-admin/includes/update-core.php:1095
+#: wp-admin/includes/update-core.php:1099
 #: wp-admin/includes/update.php:137
 #, php-format
 msgid "An unexpected error occurred. Something may be wrong with ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
@@ -14401,8 +14402,8 @@ msgstr ""
 #: wp-admin/install.php:182
 #: wp-admin/install.php:189
 #: wp-admin/options-reading.php:44
-#: wp-admin/options-reading.php:208
-#: wp-admin/options-reading.php:214
+#: wp-admin/options-reading.php:218
+#: wp-admin/options-reading.php:224
 msgid "Site visibility"
 msgstr ""
 
@@ -14410,30 +14411,30 @@ msgstr ""
 #: wp-admin/install.php:182
 #: wp-admin/install.php:191
 #: wp-admin/options-reading.php:44
-#: wp-admin/options-reading.php:208
-#: wp-admin/options-reading.php:216
+#: wp-admin/options-reading.php:218
+#: wp-admin/options-reading.php:226
 msgid "Search engine visibility"
 msgstr ""
 
 #: wp-admin/install.php:198
-#: wp-admin/options-reading.php:221
+#: wp-admin/options-reading.php:231
 msgid "Allow search engines to index this site"
 msgstr "Izinkan mesin pencari untuk mengindeks situs ini"
 
 #: wp-admin/install.php:200
 #: wp-admin/install.php:208
-#: wp-admin/options-reading.php:223
-#: wp-admin/options-reading.php:244
+#: wp-admin/options-reading.php:233
+#: wp-admin/options-reading.php:254
 msgid "Discourage search engines from indexing this site"
 msgstr "Halangi mesin pencari untuk mengindeks situs ini"
 
 #: wp-admin/install.php:201
-#: wp-admin/options-reading.php:224
+#: wp-admin/options-reading.php:234
 msgid "Note: Neither of these options blocks access to your site &mdash; it is up to search engines to honor your request."
 msgstr "Catatan: Pengaturan-pengaturan berikut tidak memblok akses ke situs Anda &mdash; itu tergantung kepada mesin pencari apakah menghormati permintaan Anda atau tidak."
 
 #: wp-admin/install.php:209
-#: wp-admin/options-reading.php:245
+#: wp-admin/options-reading.php:255
 msgid "It is up to search engines to honor this request."
 msgstr "Sepenuhnya tergantung mesin pencari untuk menghormati permintaan ini."
 
@@ -14924,7 +14925,7 @@ msgid "Network Setup"
 msgstr "Pengadaan Jaringan"
 
 #: wp-admin/menu.php:350
-#: wp-admin/options.php:22
+#: wp-admin/options.php:23
 msgid "Settings"
 msgstr "Pengaturan"
 
@@ -15338,7 +15339,7 @@ msgstr "Hapus Menu"
 #: wp-admin/options-permalink.php:13
 #: wp-admin/options-reading.php:13
 #: wp-admin/options-writing.php:13
-#: wp-admin/options.php:51
+#: wp-admin/options.php:52
 msgid "Sorry, you are not allowed to manage options for this site."
 msgstr "Maaf, Anda tak  mengelola opsi-opsi untuk situs ini."
 
@@ -15614,8 +15615,8 @@ msgid "The ClassicPress URL and the site URL can be the same (example.com) or di
 msgstr ""
 
 #: wp-admin/options-general.php:36
-msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
-msgstr "Jika Anda ingin pengunjung situs untuk bisa mendaftarkan diri, bukan didaftarkan oleh administrator situs, centang kotak keanggotaan. Peran bawaan pengguna dapat diatur untuk semua pengguna baru, apakah mendaftar sendiri atau didaftarkan oleh admin situs."
+msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
+msgstr ""
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -15926,7 +15927,7 @@ msgid "Link Manager enabled"
 msgstr ""
 
 #: wp-admin/options-head.php:15
-#: wp-admin/options.php:354
+#: wp-admin/options.php:356
 msgid "Settings saved."
 msgstr "Pengaturan telah disimpan."
 
@@ -16491,7 +16492,7 @@ msgid "You can also control the display of your content in RSS feeds, including 
 msgstr ""
 
 #: wp-admin/options-reading.php:35
-#: wp-admin/options-reading.php:200
+#: wp-admin/options-reading.php:210
 msgid "https://wordpress.org/documentation/article/wordpress-feeds/"
 msgstr ""
 
@@ -16507,80 +16508,120 @@ msgstr ""
 msgid "When this setting is in effect, a reminder is shown in the At a Glance box of the Dashboard that says, &#8220;Search engines discouraged&#8221;, to remind you that you have directed search engines to not crawl your site."
 msgstr ""
 
-#: wp-admin/options-reading.php:53
+#: wp-admin/options-reading.php:54
+#: wp-admin/options-reading.php:271
+msgid "Object cache"
+msgstr ""
+
+#: wp-admin/options-reading.php:55
+msgid "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
+msgstr ""
+
+#: wp-admin/options-reading.php:56
+msgid "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
+msgstr ""
+
+#: wp-admin/options-reading.php:57
+msgid "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
+msgstr ""
+
+#: wp-admin/options-reading.php:63
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
 msgstr ""
 
-#: wp-admin/options-reading.php:68
+#: wp-admin/options-reading.php:78
 msgid "Encoding for pages and feeds"
 msgstr "Pengodean untuk halaman dan umpan"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/options-reading.php:87
-#: wp-admin/options-reading.php:92
+#: wp-admin/options-reading.php:97
+#: wp-admin/options-reading.php:102
 msgid "Your homepage displays"
 msgstr "Tampilan beranda Anda"
 
-#: wp-admin/options-reading.php:97
+#: wp-admin/options-reading.php:107
 msgid "Your latest posts"
 msgstr "Pos-pos terbaru Anda"
 
 #. translators: %s: URL to Pages screen.
-#: wp-admin/options-reading.php:105
+#: wp-admin/options-reading.php:115
 #, php-format
 msgid "A <a href=\"%s\">static page</a> (select below)"
 msgstr "<a href=\"%s\">Halaman statis</a> (pilih di bawah)"
 
 #. translators: %s: Select field to choose the front page.
-#: wp-admin/options-reading.php:116
+#: wp-admin/options-reading.php:126
 #, php-format
 msgid "Homepage: %s"
 msgstr "Beranda: %s"
 
 #. translators: %s: Select field to choose the page for posts.
-#: wp-admin/options-reading.php:133
+#: wp-admin/options-reading.php:143
 #, php-format
 msgid "Posts page: %s"
 msgstr "Laman Pos-pos: %s"
 
-#: wp-admin/options-reading.php:150
+#: wp-admin/options-reading.php:160
 msgid "<strong>Warning:</strong> these pages should not be the same!"
 msgstr "<strong>Peringatan:</strong> halaman-halaman ini seharusnya tidak sama!"
 
-#: wp-admin/options-reading.php:160
+#: wp-admin/options-reading.php:170
 msgid "<strong>Warning:</strong> these pages should not be the same as your Privacy Policy page!"
 msgstr ""
 
-#: wp-admin/options-reading.php:173
+#: wp-admin/options-reading.php:183
 msgid "Blog pages show at most"
 msgstr "Halaman blog menampilkan paling banyak"
 
-#: wp-admin/options-reading.php:175
+#: wp-admin/options-reading.php:185
 msgid "posts"
 msgstr "pos"
 
-#: wp-admin/options-reading.php:179
+#: wp-admin/options-reading.php:189
 msgid "Syndication feeds show the most recent"
 msgstr "Umpan sindikasi menampilkan yang paling baru"
 
-#: wp-admin/options-reading.php:180
+#: wp-admin/options-reading.php:190
 msgid "items"
 msgstr "objek"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/options-reading.php:183
-#: wp-admin/options-reading.php:188
+#: wp-admin/options-reading.php:193
+#: wp-admin/options-reading.php:198
 msgid "For each post in a feed, include"
 msgstr ""
 
-#: wp-admin/options-reading.php:192
+#: wp-admin/options-reading.php:202
 msgid "Full text"
 msgstr "Teks penuh"
 
 #. translators: %s: Documentation URL.
-#: wp-admin/options-reading.php:199
+#: wp-admin/options-reading.php:209
 #, php-format
 msgid "Your theme determines how content is displayed in browsers. <a href=\"%s\">Learn more about feeds</a>."
+msgstr ""
+
+#: wp-admin/options-reading.php:291
+#: wp-admin/options-reading.php:300
+#: wp-admin/options-reading.php:308
+#: wp-admin/options-reading.php:317
+msgid "Enable object caching"
+msgstr ""
+
+#: wp-admin/options-reading.php:292
+msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
+msgstr ""
+
+#: wp-admin/options-reading.php:301
+msgid "You have activated ClassicPress's object cache on this site."
+msgstr ""
+
+#: wp-admin/options-reading.php:309
+msgid "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
+msgstr ""
+
+#: wp-admin/options-reading.php:318
+msgid "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
 msgstr ""
 
 #: wp-admin/options-writing.php:17
@@ -16681,43 +16722,43 @@ msgstr ""
 msgid "ClassicPress is not notifying any <a href=\"%1$s\">Update Services</a> because of your site&#8217;s <a href=\"%2$s\">visibility settings</a>."
 msgstr "ClassicPress tidak memberitahukan <a href=\"%1$s\">Layanan Pembaruan</a> dikarenakan <a href=\"%2$s\">pengaturan visibilitas</a> situs Anda."
 
-#: wp-admin/options.php:231
+#: wp-admin/options.php:233
 msgid "Please consider writing more inclusive code."
 msgstr ""
 
 #. translators: %s: The options page name.
-#: wp-admin/options.php:256
+#: wp-admin/options.php:258
 #, php-format
 msgid "<strong>Error:</strong> The %s options page is not in the allowed options list."
 msgstr ""
 
-#: wp-admin/options.php:264
+#: wp-admin/options.php:266
 msgid "Sorry, you are not allowed to modify unregistered settings for this site."
 msgstr "Maaf, Anda tak  memodifikasi pengaturan tak terdaftar untuk situs ini."
 
 #. translators: 1: The option/setting, 2: Documentation URL.
-#: wp-admin/options.php:315
+#: wp-admin/options.php:317
 #, php-format
 msgid "The %1$s setting is unregistered. Unregistered settings are deprecated. See <a href=\"%2$s\">documentation on the Settings API</a>."
 msgstr ""
 
-#: wp-admin/options.php:317
+#: wp-admin/options.php:319
 msgid "https://developer.wordpress.org/plugins/settings/settings-api/"
 msgstr ""
 
-#: wp-admin/options.php:345
+#: wp-admin/options.php:347
 msgid "Settings save failed."
 msgstr ""
 
-#: wp-admin/options.php:368
+#: wp-admin/options.php:370
 msgid "All Settings"
 msgstr "Semua Pengaturan"
 
-#: wp-admin/options.php:372
+#: wp-admin/options.php:374
 msgid "This page allows direct access to your site settings. You can break things here. Please be cautious!"
 msgstr ""
 
-#: wp-admin/options.php:427
+#: wp-admin/options.php:429
 msgid "Copy"
 msgstr "Salin"
 
@@ -16922,6 +16963,16 @@ msgstr "Daftar plugin"
 msgid "Browse Plugins"
 msgstr "Telusuri Plugin-plugin"
 
+#: wp-admin/plugin-install.php:155
+#, php-format
+msgid "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
+msgstr ""
+
+#: wp-admin/plugin-install.php:167
+#, php-format
+msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
+msgstr ""
+
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
 msgid "Sorry, you are not allowed to activate this plugin."
@@ -16933,9 +16984,9 @@ msgstr "Maaf, Anda tak  mengaktifkan plugin untuk situs ini."
 
 #: wp-admin/plugins.php:157
 #: wp-admin/update-core.php:292
-#: wp-admin/update-core.php:445
-#: wp-admin/update-core.php:984
-#: wp-admin/update-core.php:989
+#: wp-admin/update-core.php:480
+#: wp-admin/update-core.php:1019
+#: wp-admin/update-core.php:1024
 msgid "Update Plugins"
 msgstr "Perbarui Plugin"
 
@@ -17305,37 +17356,37 @@ msgstr ""
 msgid "Current Revision by "
 msgstr ""
 
-#: wp-admin/revision.php:215
+#: wp-admin/revision.php:211
 msgid "Earlier Revision"
 msgstr ""
 
-#: wp-admin/revision.php:220
+#: wp-admin/revision.php:216
 msgid "Later Revision"
 msgstr ""
 
-#: wp-admin/revision.php:232
+#: wp-admin/revision.php:228
 msgctxt "Button label for a previous revision"
 msgid "Previous"
 msgstr "Sebelumnya"
 
-#: wp-admin/revision.php:236
+#: wp-admin/revision.php:232
 msgid "Compare any two revisions"
 msgstr "Bandingkan 2 revisi"
 
-#: wp-admin/revision.php:239
+#: wp-admin/revision.php:235
 msgctxt "Button label for a next revision"
 msgid "Next"
 msgstr "Berikut"
 
-#: wp-admin/revision.php:245
+#: wp-admin/revision.php:241
 msgid "From:"
 msgstr "Dari:"
 
-#: wp-admin/revision.php:253
+#: wp-admin/revision.php:249
 msgid "To:"
 msgstr "Ke:"
 
-#: wp-admin/revision.php:267
+#: wp-admin/revision.php:263
 msgid "Sorry, something went wrong. The requested comparison could not be loaded."
 msgstr "Maaf, ada sesuatu yang keliru. Perbandingan yang diminta tidak bisa dimuat."
 
@@ -17837,7 +17888,7 @@ msgid "Add New Theme"
 msgstr "Tambahkan Tema Baru"
 
 #: wp-admin/theme-install.php:60
-#: wp-admin/theme-install.php:234
+#: wp-admin/theme-install.php:252
 msgid "Search Themes"
 msgstr "Cari Tema"
 
@@ -17870,7 +17921,7 @@ msgid "Number of Themes found: %d"
 msgstr "Jumlah Tema yang ditemukan: %d"
 
 #: wp-admin/theme-install.php:72
-#: wp-admin/theme-install.php:283
+#: wp-admin/theme-install.php:301
 #: wp-admin/themes.php:242
 #: wp-admin/themes.php:686
 msgid "No themes found. Try a different search."
@@ -17944,58 +17995,68 @@ msgstr "Mempratinjau dan Memasang"
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-themes-screen/#install-themes\">Documentation on Adding New Themes</a>"
 msgstr ""
 
-#: wp-admin/theme-install.php:205
+#: wp-admin/theme-install.php:204
+#, php-format
+msgid "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
+msgstr ""
+
+#: wp-admin/theme-install.php:216
+#, php-format
+msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
+msgstr ""
+
+#: wp-admin/theme-install.php:223
 msgid "The Theme Installer screen requires JavaScript."
 msgstr "Laman Penginstal Tema membutuhkan JavaScript."
 
 #. translators: Hidden accessibility text.
-#: wp-admin/theme-install.php:215
+#: wp-admin/theme-install.php:233
 msgid "Filter themes list"
 msgstr "Saring daftar tema"
 
-#: wp-admin/theme-install.php:226
+#: wp-admin/theme-install.php:244
 msgctxt "themes"
 msgid "Popular"
 msgstr "Populer"
 
-#: wp-admin/theme-install.php:235
+#: wp-admin/theme-install.php:253
 msgid "Search Themes..."
 msgstr ""
 
-#: wp-admin/theme-install.php:241
-#: wp-admin/theme-install.php:263
+#: wp-admin/theme-install.php:259
+#: wp-admin/theme-install.php:281
 msgid "Apply Filters"
 msgstr "Terapkan Penyaring"
 
-#: wp-admin/theme-install.php:242
-#: wp-admin/theme-install.php:264
+#: wp-admin/theme-install.php:260
+#: wp-admin/theme-install.php:282
 msgid "Clear current filters"
 msgstr "Bersihkan penyaringan saat ini"
 
-#: wp-admin/theme-install.php:242
-#: wp-admin/theme-install.php:264
+#: wp-admin/theme-install.php:260
+#: wp-admin/theme-install.php:282
 #: wp-admin/js/color-picker.js:154
 msgid "Clear"
 msgstr "Kosongkan"
 
-#: wp-admin/theme-install.php:267
+#: wp-admin/theme-install.php:285
 msgid "Filtering by:"
 msgstr "Menyaring dengan:"
 
-#: wp-admin/theme-install.php:269
+#: wp-admin/theme-install.php:287
 msgid "Edit Filters"
 msgstr "Edit Penyaringan"
 
 #. translators: Hidden accessibility text.
-#: wp-admin/theme-install.php:276
+#: wp-admin/theme-install.php:294
 msgid "Themes list"
 msgstr "Daftar tema"
 
-#: wp-admin/theme-install.php:293
+#: wp-admin/theme-install.php:311
 msgid "Previous theme"
 msgstr ""
 
-#: wp-admin/theme-install.php:296
+#: wp-admin/theme-install.php:314
 msgid "Next theme"
 msgstr ""
 
@@ -18013,8 +18074,8 @@ msgstr ""
 
 #: wp-admin/themes.php:127
 #: wp-admin/themes.php:259
-#: wp-admin/update-core.php:459
-#: wp-admin/update-core.php:472
+#: wp-admin/update-core.php:494
+#: wp-admin/update-core.php:507
 msgid "Themes"
 msgstr "Tema"
 
@@ -18260,10 +18321,10 @@ msgid "If you want to convert your categories to tags (or vice versa), use the <
 msgstr "Jika Anda ingin mengkonversi kategori Anda menjadi tag (atau sebaliknya), gunakan <a href=\"%s\">Konverter Kategori dan Tag</a> yang tersedia di layar Impor."
 
 #: wp-admin/update-core.php:22
-#: wp-admin/update-core.php:930
-#: wp-admin/update-core.php:966
-#: wp-admin/update-core.php:1007
-#: wp-admin/update-core.php:1048
+#: wp-admin/update-core.php:965
+#: wp-admin/update-core.php:1001
+#: wp-admin/update-core.php:1042
+#: wp-admin/update-core.php:1083
 msgid "Sorry, you are not allowed to update this site."
 msgstr "Maaf, Anda tak  memperbarui situs ini."
 
@@ -18378,187 +18439,189 @@ msgstr "Plugin Anda semuanya terbaru."
 msgid "The following plugins have new versions available. Check the ones you want to update and then click &#8220;Update Plugins&#8221;."
 msgstr "Plugin berikut telah tersedia versi barunya. Centang yang ingin Anda perbarui dan kemudian klik &#8220;Perbarui Plugin&#8221;."
 
-#: wp-admin/update-core.php:328
-#: wp-admin/update-core.php:336
-#: wp-admin/update-core.php:349
-#: wp-admin/update-core.php:357
+#: wp-admin/update-core.php:356
+#: wp-admin/update-core.php:363
+#: wp-admin/update-core.php:382
+#: wp-admin/update-core.php:389
+#, php-format
+msgid "Compatible with ClassicPress %1$s (according to its author)."
+msgstr ""
+
+#: wp-admin/update-core.php:365
+#: wp-admin/update-core.php:391
 #, php-format
 msgid "Potentially compatible with ClassicPress %1$s."
 msgstr ""
 
-#: wp-admin/update-core.php:329
-#: wp-admin/update-core.php:337
-#: wp-admin/update-core.php:340
-#: wp-admin/update-core.php:350
-#: wp-admin/update-core.php:358
-#: wp-admin/update-core.php:361
-msgid "More info."
-msgstr ""
-
-#: wp-admin/update-core.php:339
-#: wp-admin/update-core.php:360
+#: wp-admin/update-core.php:369
+#: wp-admin/update-core.php:395
 #, php-format
 msgid "Expected compatibility with ClassicPress %1$s: Unknown."
 msgstr ""
 
-#: wp-admin/update-core.php:369
+#: wp-admin/update-core.php:371
+#: wp-admin/update-core.php:397
+msgid "More info."
+msgstr ""
+
+#: wp-admin/update-core.php:404
 msgid "This update doesn&#8217;t work with your version of PHP."
 msgstr ""
 
-#: wp-admin/update-core.php:372
+#: wp-admin/update-core.php:407
 #, php-format
 msgid "<a href=\"%s\">Learn more about updating PHP.</a>"
 msgstr ""
 
 #. translators: %s: Plugin version.
-#: wp-admin/update-core.php:397
+#: wp-admin/update-core.php:432
 #, php-format
 msgid "View version %s details."
 msgstr "Tampilkan rincian versi %s."
 
 #. translators: 1: Plugin version, 2: New version.
 #. translators: 1: Theme version, 2: New version.
-#: wp-admin/update-core.php:420
-#: wp-admin/update-core.php:601
+#: wp-admin/update-core.php:455
+#: wp-admin/update-core.php:636
 #, php-format
 msgid "You have version %1$s installed. Update to %2$s."
 msgstr "Versi yang terinstal adalah %1$s. Perbarui ke %2$s."
 
-#: wp-admin/update-core.php:460
+#: wp-admin/update-core.php:495
 msgid "Your themes are all up to date."
 msgstr "Tema Anda semuanya terbaru."
 
-#: wp-admin/update-core.php:477
+#: wp-admin/update-core.php:512
 msgid "The following themes have new versions available. Check the ones you want to update and then click &#8220;Update Themes&#8221;."
 msgstr "Tema berikut telah tersedia versi barunya. Centang yang ingin Anda perbarui dan kemudian klik &#8220;Perbarui Tema&#8221;."
 
 #. translators: %s: Link to documentation on child themes.
-#: wp-admin/update-core.php:482
+#: wp-admin/update-core.php:517
 #, php-format
 msgid "<strong>Please Note:</strong> Any customizations you have made to theme files will be lost. Please consider using <a href=\"%s\">child themes</a> for modifications."
 msgstr "<strong>Harap Diingat:</strong> Segala penyesuaian yang telah Anda buat pada berkas tema akan hilang. Silakan pertimbangkan penggunaan <a href=\"%s\">tema turunan</a> untuk modifikasi."
 
-#: wp-admin/update-core.php:489
-#: wp-admin/update-core.php:626
-#: wp-admin/update-core.php:1025
-#: wp-admin/update-core.php:1030
+#: wp-admin/update-core.php:524
+#: wp-admin/update-core.php:661
+#: wp-admin/update-core.php:1060
+#: wp-admin/update-core.php:1065
 msgid "Update Themes"
 msgstr "Perbarui Tema"
 
-#: wp-admin/update-core.php:516
+#: wp-admin/update-core.php:551
 msgid "This update does not work with your versions of ClassicPress and PHP."
 msgstr ""
 
-#: wp-admin/update-core.php:556
+#: wp-admin/update-core.php:591
 msgid "This update does not work with your version of ClassicPress."
 msgstr ""
 
-#: wp-admin/update-core.php:565
+#: wp-admin/update-core.php:600
 msgid "This update does not work with your version of PHP."
 msgstr ""
 
-#: wp-admin/update-core.php:640
-#: wp-admin/update-core.php:648
+#: wp-admin/update-core.php:675
+#: wp-admin/update-core.php:683
 msgid "Translations"
 msgstr "Terjemahan"
 
-#: wp-admin/update-core.php:650
+#: wp-admin/update-core.php:685
 msgid "New translations are available."
 msgstr "Tersedia terjemahan baru."
 
-#: wp-admin/update-core.php:691
+#: wp-admin/update-core.php:726
 msgid "Update ClassicPress"
 msgstr "Perbarui ClassicPress"
 
-#: wp-admin/update-core.php:739
+#: wp-admin/update-core.php:774
 msgid "It's possible that an update started, but the server encountered a temporary issue and could not continue."
 msgstr "Nampaknya perbaruan telah dimulai, tetapi server mengalami kendala sementara dan tidak bisa melanjutkan lagi."
 
-#: wp-admin/update-core.php:744
+#: wp-admin/update-core.php:779
 msgid "Or, you may have clicked the update button multiple times."
 msgstr "Atau, Anda mengklik tombol Update berulang kali."
 
-#: wp-admin/update-core.php:749
+#: wp-admin/update-core.php:784
 msgid "Please wait <strong>15 minutes</strong> and try again."
 msgstr "Mohon menunggu <strong>15 menit</strong> dan ulangilah lagi."
 
 #. translators: URL to support forum
-#: wp-admin/update-core.php:756
+#: wp-admin/update-core.php:791
 #, php-format
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
 msgstr "Jika Anda masih melihat pesan ini, bahkan setelah menunggu 15 menit dan mencoba perbaruan lagi, cobalah membuat laporan di <a href=\"%s\">forum bantuan</a>."
 
-#: wp-admin/update-core.php:764
+#: wp-admin/update-core.php:799
 msgid "Installation Failed"
 msgstr "Instalasi Gagal"
 
-#: wp-admin/update-core.php:821
-#: wp-admin/update-core.php:864
+#: wp-admin/update-core.php:856
+#: wp-admin/update-core.php:899
 msgid "ClassicPress Updates"
 msgstr "Pembaruan Wordpress"
 
-#: wp-admin/update-core.php:824
+#: wp-admin/update-core.php:859
 msgid "On this screen, you can update to the latest version of ClassicPress, as well as update your themes, plugins, and translations from the ClassicPress.net repositories."
 msgstr "Dalam layar ini, anda dapat memperbarui versi ClassicPress terkini, begitu juga dengan tema, plugin dan penerjemahan bahasa dari ClassicPress.net."
 
-#: wp-admin/update-core.php:825
+#: wp-admin/update-core.php:860
 msgid "If an update is available, you&#8127;ll see a notification appear in the Toolbar and navigation menu."
 msgstr "Jika sebuah pembaruan tersedia, Anda akan melihat sebuah pemberitahuan muncul di Toolbar dan menu navigasi."
 
-#: wp-admin/update-core.php:835
+#: wp-admin/update-core.php:870
 msgid "<strong>ClassicPress</strong> &mdash; Updating your ClassicPress installation is a simple one-click procedure: just <strong>click on the &#8220;Update Now&#8221; button</strong> when you are notified that a new version is available."
 msgstr "<strong>ClassicPress</strong> &mdash; Pembaruan instalasi ClassicPress Anda adalah sebuah prosedur satu-klik yang mudah: cukup <strong>klik tombol &#8220;Perbarui Sekarang&#8221;</strong> ketika Anda diberitahu bahwa versi baru telah tersedia."
 
-#: wp-admin/update-core.php:835
+#: wp-admin/update-core.php:870
 msgid "In most cases, ClassicPress will automatically apply maintenance and security updates in the background for you."
 msgstr "Dalam kebanyakan kasus, ClassicPress akan secara otomatis melakukan pembaruan pemeliharaan dan keamanan di balik layar untuk Anda."
 
-#: wp-admin/update-core.php:836
+#: wp-admin/update-core.php:871
 msgid "<strong>Themes and Plugins</strong> &mdash; To update individual themes or plugins from this screen, use the checkboxes to make your selection, then <strong>click on the appropriate &#8220;Update&#8221; button</strong>. To update all of your themes or plugins at once, you can check the box at the top of the section to select all before clicking the update button."
 msgstr "<strong>Tema dan Plugin</strong> &mdash; Untuk memperbarui masing-masing tema atau plugin di layar ini, pergunakan kotak centang untuk menentukan pilihan Anda, lalu <strong>klik tombol &#8220;Perbarui&#8221;</strong>. Untuk memperbarui seluruh tema dan plugin sekaligus, Anda bisa mencentang kotak pada bagian atas (untuk memilih semua) sebelum mengklik tombol pembaruan."
 
-#: wp-admin/update-core.php:839
+#: wp-admin/update-core.php:874
 msgid "<strong>Translations</strong> &mdash; The files translating ClassicPress into your language are updated for you whenever any other updates occur. But if these files are out of date, you can <strong>click the &#8220;Update Translations&#8221;</strong> button."
 msgstr "<strong>Terjemahan</strong> &mdash; File-file yang menerjemahkan ClassicPress ke dalam bahasa Anda selalu diperbarui setiap kali pembaruan berlangsung. Namun jika file-file ini sudah usang, kamu bisa <strong>meng-klik tombol &#8220;Perbarui Terjemahan&#8221;</strong>."
 
-#: wp-admin/update-core.php:845
+#: wp-admin/update-core.php:880
 msgid "How to Update"
 msgstr "Cara Perbarui"
 
-#: wp-admin/update-core.php:852
-msgid "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Documentation on Updating ClassicPress</a>"
-msgstr "<a href=\"https://codex.wordpress.org/Dashboard_Updates_Screen\">Dokumentasi tentang Pembaruan ClassicPress</a>"
+#: wp-admin/update-core.php:887
+msgid "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
+msgstr ""
 
-#: wp-admin/update-core.php:865
+#: wp-admin/update-core.php:900
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
 msgstr ""
 
-#: wp-admin/update-core.php:871
+#: wp-admin/update-core.php:906
 msgid "Please select one or more themes to update."
 msgstr "Silakan pilih satu atau lebih tema untuk diperbarui."
 
-#: wp-admin/update-core.php:873
+#: wp-admin/update-core.php:908
 msgid "Please select one or more plugins to update."
 msgstr "Silakan pilih satu atau lebih plugin untuk diperbarui."
 
 #. translators: Current version of WordPress.
-#: wp-admin/update-core.php:887
+#: wp-admin/update-core.php:922
 #, php-format
 msgid "Current version: %s"
 msgstr ""
 
 #. translators: 1: Date, 2: Time.
-#: wp-admin/update-core.php:892
+#: wp-admin/update-core.php:927
 #, php-format
 msgid "Last checked on %1$s at %2$s."
 msgstr "Terakhir diperiksa pada tanggal %1$s pukul %2$s."
 
 #. translators: 1: Date, 2: Time.
-#: wp-admin/update-core.php:892
+#: wp-admin/update-core.php:927
 msgid "g:i a T"
 msgstr ""
 
-#: wp-admin/update-core.php:893
+#: wp-admin/update-core.php:928
 msgid "Check again."
 msgstr ""
 
@@ -18733,8 +18796,8 @@ msgid "You can view your media in a simple visual grid or a list with columns. S
 msgstr "Anda bisa menampilkan media Anda di dalam kisi-kisi visual atau pada sebuah daftar dengan kolom. Ubahlah antara kedua tampilan tersebut dengan ikon-ikon di sebelah kiri atas media."
 
 #: wp-admin/upload.php:136
-msgid "To delete media items, click the Bulk Select button at the top of the screen. Select any items you wish to delete, then click the Delete Selected button. Clicking the Cancel Selection button takes you back to viewing your media."
-msgstr "Untuk menghapus item-item media, klik Pilih Sekaligus di bagian atas layar. Pilih item-item yang ingin dihapus, lalu klik Hapus Terpilih. Klik Batalkan Pilihan akan menampilkan media Anda kembali."
+msgid "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
+msgstr ""
 
 #: wp-admin/upload.php:143
 msgid "Attachment Details"
@@ -19899,20 +19962,21 @@ msgid "Error while saving the changes."
 msgstr "Galat ketika menyimpan perubahan."
 
 #: wp-admin/js/media.js:779
-#: wp-admin/js/post.js:1298
+#: wp-admin/js/post.js:1300
 #: wp-admin/js/widgets/media-audio-widget.js:228
 #: wp-admin/js/widgets/media-gallery-widget.js:209
 #: wp-admin/js/widgets/media-image-widget.js:208
 #: wp-admin/js/widgets/media-video-widget.js:204
+#: wp-admin/js/widgets/text-widgets.js:414
 msgid "The file URL has been copied to your clipboard"
 msgstr ""
 
-#: wp-admin/js/nav-menu.js:693
+#: wp-admin/js/nav-menu.js:698
 msgid "You are about to permanently delete this menu.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
-#: wp-admin/js/nav-menu.js:1216
+#: wp-admin/js/nav-menu.js:1221
 msgctxt "missing menu item navigation label"
 msgid "(no label)"
 msgstr "(tanpa label)"
@@ -19955,27 +20019,27 @@ msgstr ""
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "Perubahan yang Anda buat akan hilang jika Anda meninggalkan laman ini."
 
-#: wp-admin/js/post.js:771
+#: wp-admin/js/post.js:773
 msgid "Schedule for:"
 msgstr "Jadwalkan untuk:"
 
-#: wp-admin/js/post.js:774
+#: wp-admin/js/post.js:776
 msgid "Publish on:"
 msgstr "Terbitkan pada:"
 
-#: wp-admin/js/post.js:777
+#: wp-admin/js/post.js:779
 msgid "Published on:"
 msgstr "Diterbitkan pada:"
 
-#: wp-admin/js/post.js:889
+#: wp-admin/js/post.js:891
 msgid "Password Protected"
 msgstr "Terlindung Sandi"
 
-#: wp-admin/js/post.js:1042
+#: wp-admin/js/post.js:1044
 msgid "Permalink saved"
 msgstr "Permalink disimpan"
 
-#: wp-admin/js/post.js:1063
+#: wp-admin/js/post.js:1065
 msgid "URL Slug"
 msgstr ""
 
@@ -20360,9 +20424,9 @@ msgstr "Tampilkan sandi"
 msgid "Your new password has not been saved."
 msgstr "Sandi baru Anda belum disimpan."
 
-#: wp-admin/js/widgets.js:183
-#: wp-admin/js/widgets.js:465
-#: wp-admin/js/widgets.js:581
+#: wp-admin/js/widgets.js:179
+#: wp-admin/js/widgets.js:471
+#: wp-admin/js/widgets.js:601
 msgid "Saved"
 msgstr "Tersimpan"
 

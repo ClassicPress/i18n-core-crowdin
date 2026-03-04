@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 50\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-04 17:11\n"
+"PO-Revision-Date: 2026-03-04 23:11\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -717,7 +717,7 @@ msgstr "ニューセーラム"
 
 #: wp-admin/includes/continents-cities.php:187
 msgid "Nuuk"
-msgstr ""
+msgstr "ヌーク"
 
 #: wp-admin/includes/continents-cities.php:188
 msgid "Ojinaga"
@@ -1233,7 +1233,7 @@ msgstr "カタール"
 
 #: wp-admin/includes/continents-cities.php:319
 msgid "Qostanay"
-msgstr ""
+msgstr "コスタナイ"
 
 #: wp-admin/includes/continents-cities.php:320
 msgid "Qyzylorda"
@@ -1513,119 +1513,119 @@ msgstr "グリニッジ標準時 (GMT)"
 
 #: wp-admin/includes/continents-cities.php:392
 msgid "GMT+0"
-msgstr ""
+msgstr "GMT+0"
 
 #: wp-admin/includes/continents-cities.php:393
 msgid "GMT+1"
-msgstr ""
+msgstr "GMT+1"
 
 #: wp-admin/includes/continents-cities.php:394
 msgid "GMT+10"
-msgstr ""
+msgstr "GMT+10"
 
 #: wp-admin/includes/continents-cities.php:395
 msgid "GMT+11"
-msgstr ""
+msgstr "GMT+11"
 
 #: wp-admin/includes/continents-cities.php:396
 msgid "GMT+12"
-msgstr ""
+msgstr "GMT+12"
 
 #: wp-admin/includes/continents-cities.php:397
 msgid "GMT+2"
-msgstr ""
+msgstr "GMT+2"
 
 #: wp-admin/includes/continents-cities.php:398
 msgid "GMT+3"
-msgstr ""
+msgstr "GMT+3"
 
 #: wp-admin/includes/continents-cities.php:399
 msgid "GMT+4"
-msgstr ""
+msgstr "GMT+4"
 
 #: wp-admin/includes/continents-cities.php:400
 msgid "GMT+5"
-msgstr ""
+msgstr "GMT+5"
 
 #: wp-admin/includes/continents-cities.php:401
 msgid "GMT+6"
-msgstr ""
+msgstr "GMT+6"
 
 #: wp-admin/includes/continents-cities.php:402
 msgid "GMT+7"
-msgstr ""
+msgstr "GMT+7"
 
 #: wp-admin/includes/continents-cities.php:403
 msgid "GMT+8"
-msgstr ""
+msgstr "GMT+8"
 
 #: wp-admin/includes/continents-cities.php:404
 msgid "GMT+9"
-msgstr ""
+msgstr "GMT+9"
 
 #: wp-admin/includes/continents-cities.php:405
 msgid "GMT-0"
-msgstr ""
+msgstr "GMT-0"
 
 #: wp-admin/includes/continents-cities.php:406
 msgid "GMT-1"
-msgstr ""
+msgstr "GMT-1"
 
 #: wp-admin/includes/continents-cities.php:407
 msgid "GMT-10"
-msgstr ""
+msgstr "GMT-10"
 
 #: wp-admin/includes/continents-cities.php:408
 msgid "GMT-11"
-msgstr ""
+msgstr "GMT-11"
 
 #: wp-admin/includes/continents-cities.php:409
 msgid "GMT-12"
-msgstr ""
+msgstr "GMT-12"
 
 #: wp-admin/includes/continents-cities.php:410
 msgid "GMT-13"
-msgstr ""
+msgstr "GMT-13"
 
 #: wp-admin/includes/continents-cities.php:411
 msgid "GMT-14"
-msgstr ""
+msgstr "GMT-14"
 
 #: wp-admin/includes/continents-cities.php:412
 msgid "GMT-2"
-msgstr ""
+msgstr "GMT-2"
 
 #: wp-admin/includes/continents-cities.php:413
 msgid "GMT-3"
-msgstr ""
+msgstr "GMT-3"
 
 #: wp-admin/includes/continents-cities.php:414
 msgid "GMT-4"
-msgstr ""
+msgstr "GMT-4"
 
 #: wp-admin/includes/continents-cities.php:415
 msgid "GMT-5"
-msgstr ""
+msgstr "GMT-5"
 
 #: wp-admin/includes/continents-cities.php:416
 msgid "GMT-6"
-msgstr ""
+msgstr "GMT-6"
 
 #: wp-admin/includes/continents-cities.php:417
 msgid "GMT-7"
-msgstr ""
+msgstr "GMT-7"
 
 #: wp-admin/includes/continents-cities.php:418
 msgid "GMT-8"
-msgstr ""
+msgstr "GMT-8"
 
 #: wp-admin/includes/continents-cities.php:419
 msgid "GMT-9"
-msgstr ""
+msgstr "GMT-9"
 
 #: wp-admin/includes/continents-cities.php:420
 msgid "GMT0"
-msgstr ""
+msgstr "GMT0"
 
 #: wp-admin/includes/continents-cities.php:421
 msgid "Greenwich"
@@ -1633,7 +1633,7 @@ msgstr "グリニッジ"
 
 #: wp-admin/includes/continents-cities.php:422
 msgid "UCT"
-msgstr ""
+msgstr "UCT"
 
 #: wp-admin/includes/continents-cities.php:423
 msgid "UTC"
@@ -1745,7 +1745,7 @@ msgstr "キエフ"
 
 #: wp-admin/includes/continents-cities.php:451
 msgid "Kyiv"
-msgstr ""
+msgstr "キーウ"
 
 #: wp-admin/includes/continents-cities.php:452
 msgid "Kirov"
@@ -2025,7 +2025,7 @@ msgstr "ジョンストン島"
 
 #: wp-admin/includes/continents-cities.php:523
 msgid "Kanton"
-msgstr ""
+msgstr "広東 "
 
 #: wp-admin/includes/continents-cities.php:524
 msgid "Kiritimati"

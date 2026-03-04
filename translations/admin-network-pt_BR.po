@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-03-04 17:12\n"
+"PO-Revision-Date: 2026-03-04 23:11\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -303,16 +303,16 @@ msgstr[1] "<span class=\"count\">(%s)</span> quebrados"
 #, php-format
 msgid "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Atualização automática ativada <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações automáticas ativadas <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
 #, php-format
 msgid "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Atualização automática desativada <span class=\"count\">(%s)</span>"
+msgstr[1] "Atualizações automáticas desativadas <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:586
@@ -340,11 +340,11 @@ msgstr "Atualizar"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:483
 msgid "Enable Auto-updates"
-msgstr ""
+msgstr "Ativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:487
 msgid "Disable Auto-updates"
-msgstr ""
+msgstr "Desativar atualizações automáticas"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:576
@@ -397,7 +397,7 @@ msgstr "Por %s"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:730
 #, php-format
 msgid "Visit theme site for %s"
-msgstr ""
+msgstr "Visite o site do tema para %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:736
 msgid "Visit Theme Site"
@@ -407,23 +407,23 @@ msgstr "Visitar o site do tema"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:743
 #, php-format
 msgid "Child theme of %s"
-msgstr ""
+msgstr "Tema descendente de %s"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:794
 msgid "Auto-updates enabled"
-msgstr ""
+msgstr "Atualizações automáticas ativadas"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:796
 msgid "Auto-updates disabled"
-msgstr ""
+msgstr "Atualizações automáticas desativadas"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:805
 msgid "Disable auto-updates"
-msgstr ""
+msgstr "Desativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:809
 msgid "Enable auto-updates"
-msgstr ""
+msgstr "Ativar atualizações automáticas"
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:931
 msgid "Active Theme"
@@ -436,12 +436,12 @@ msgstr "Ativar tema descendente"
 #: wp-admin/includes/class-wp-ms-users-list-table.php:116
 msgctxt "user"
 msgid "Mark as spam"
-msgstr ""
+msgstr "Marcar como spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:117
 msgctxt "user"
 msgid "Not spam"
-msgstr ""
+msgstr "Não é spam"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:125
 msgid "No users found."
@@ -520,7 +520,7 @@ msgstr "Ver"
 #: wp-admin/includes/ms.php:239
 #, php-format
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "Você já usou sua quota de espaço de %s. Exclua alguns arquivos para poder enviar outros."
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-admin/includes/ms.php:36
@@ -611,7 +611,7 @@ msgstr "Site principal"
 
 #: wp-admin/includes/ms.php:800
 msgid "Not available"
-msgstr ""
+msgstr "Indisponível"
 
 #: wp-admin/includes/ms.php:865
 msgid "You have chosen to delete the user from all networks and sites."
@@ -691,7 +691,7 @@ msgstr "Configurações"
 
 #: wp-admin/includes/ms.php:1128
 msgid "Secondary menu"
-msgstr ""
+msgstr "Menu secundário"
 
 #: wp-admin/includes/ms.php:1143
 #: wp-admin/my-sites.php:44
@@ -868,7 +868,7 @@ msgstr ""
 #: wp-admin/network/themes.php:324
 #: wp-admin/network/upgrade.php:33
 msgid "<a href=\"https://wordpress.org/support/forums/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://br.wordpress.org/support/forums/\">Fóruns de suporte</a>"
 
 #: wp-admin/my-sites.php:60
 #: wp-admin/network/settings.php:142
@@ -946,7 +946,7 @@ msgstr ""
 #: wp-admin/network.php:69
 #: wp-admin/network.php:82
 msgid "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Documentation on the Network Screen</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/tools-network-screen/\">Documentação sobre a tela de rede</a>"
 
 #: wp-admin/network.php:74
 msgid "Network"
@@ -1067,7 +1067,7 @@ msgstr ""
 #: wp-admin/network/menu.php:88
 #, php-format
 msgid "Plugins %s"
-msgstr ""
+msgstr "Plugins %s"
 
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
@@ -1085,7 +1085,7 @@ msgstr "Adicionar nova"
 
 #: wp-admin/network/menu.php:107
 msgid "Plugin File Editor"
-msgstr ""
+msgstr "Editor de arquivos de plugin"
 
 #: wp-admin/network/menu.php:111
 #: wp-admin/network/settings.php:21
@@ -1142,7 +1142,7 @@ msgstr "E-mail do administrador da rede"
 
 #: wp-admin/network/settings.php:170
 msgid "This address is used for admin purposes. If you change this, an email will be sent to your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr ""
+msgstr "Este endereço é utilizado para propósitos de administração. Se você mudá-lo, nós lhe enviaremos um e-mail em seu novo endereço para confirmá-lo. <strong>O novo endereço não será ativado enquanto não for confirmado.</strong>"
 
 #. translators: %s: New network admin email.
 #: wp-admin/network/settings.php:177
@@ -1327,7 +1327,7 @@ msgstr "Tamanho máximo para envio de arquivos"
 #: wp-admin/network/settings.php:442
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/network/settings.php:449
@@ -1422,7 +1422,7 @@ msgstr "Se o e-mail do admin para o novo site não existir no banco de dados, um
 
 #: wp-admin/network/site-new.php:40
 msgid "Cannot create an empty site."
-msgstr ""
+msgstr "Não é possível criar um site vazio."
 
 #. translators: %s: Reserved names list.
 #: wp-admin/network/site-new.php:59
@@ -1837,7 +1837,7 @@ msgstr "Site marcado como spam."
 #: wp-admin/network/users.php:300
 #, php-format
 msgid "Search results for: %s"
-msgstr ""
+msgstr "Resultados da pesquisa por: %s"
 
 #: wp-admin/network/sites.php:399
 msgid "Search Sites"
@@ -1897,7 +1897,7 @@ msgstr "Tem certeza de que deseja excluir este tema?"
 
 #: wp-admin/network/themes.php:160
 msgid "Are you sure you want to delete these themes?"
-msgstr ""
+msgstr "Tem certeza de que deseja excluir estes temas?"
 
 #: wp-admin/network/themes.php:174
 msgid "Yes, delete this theme"
@@ -1913,7 +1913,7 @@ msgstr "Não, me envie de volta à lista de temas"
 
 #: wp-admin/network/themes.php:226
 msgid "Sorry, you are not allowed to change themes automatic update settings."
-msgstr ""
+msgstr "Sem permissão para alterar as configurações de atualização automática de temas."
 
 #: wp-admin/network/themes.php:298
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
@@ -1929,11 +1929,11 @@ msgstr "Os Temas podem ser habilitados em um site local, pelo administrador de r
 
 #: wp-admin/network/themes.php:310
 msgid "Auto-updates"
-msgstr ""
+msgstr "Atualizações automáticas"
 
 #: wp-admin/network/themes.php:312
 msgid "Auto-updates can be enabled or disabled for each individual theme. Themes with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
-msgstr ""
+msgstr "As atualizações automáticas podem ser ativadas ou desativadas para cada tema. Os temas com atualizações automáticas ativadas exibirão a data estimada da próxima atualização automática. Essas atualizações dependem do sistema de agendamento de tarefas WP-Cron."
 
 #: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
@@ -1941,11 +1941,11 @@ msgstr ""
 
 #: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentação sobre atualizações automáticas</a>"
 
 #: wp-admin/network/themes.php:322
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/pt-br:Administrar_Rede_-_Temas\" target=\"_blank\">Documentação sobre temas da rede</a>"
 
 #: wp-admin/network/themes.php:329
 msgid "Filter themes list"
@@ -1973,27 +1973,27 @@ msgstr[1] "%s temas excluídos."
 
 #: wp-admin/network/themes.php:407
 msgid "Theme will be auto-updated."
-msgstr ""
+msgstr "O tema será atualizado automaticamente."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:411
 #, php-format
 msgid "%s theme will be auto-updated."
 msgid_plural "%s themes will be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s tema será atualizado automaticamente."
+msgstr[1] "%s temas serão atualizados automaticamente."
 
 #: wp-admin/network/themes.php:418
 msgid "Theme will no longer be auto-updated."
-msgstr ""
+msgstr "O tema não será mais atualizado automaticamente."
 
 #. translators: %s: Number of themes.
 #: wp-admin/network/themes.php:422
 #, php-format
 msgid "%s theme will no longer be auto-updated."
 msgid_plural "%s themes will no longer be auto-updated."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s tema não será mais atualizado automaticamente."
+msgstr[1] "%s temas não serão mais atualizados automaticamente."
 
 #: wp-admin/network/themes.php:430
 msgid "You cannot delete a theme while it is active on the main site."
@@ -2009,7 +2009,7 @@ msgstr "Apenas use esta tela após ter atualizado para a versão mais recente do
 
 #: wp-admin/network/upgrade.php:25
 msgid "If a version update to core has not happened, clicking this button will not affect anything."
-msgstr ""
+msgstr "Se não ocorreu uma atualização de versão dos arquivos básicos, clicar neste botão não afetará nada."
 
 #: wp-admin/network/upgrade.php:26
 msgid "If this process fails for any reason, users logging in to their sites will force the same update."
@@ -2031,7 +2031,7 @@ msgstr "Atenção! Problema ao atualizar %1$s. O seu servidor pode estar impedid
 
 #: wp-admin/network/upgrade.php:125
 msgid "If your browser does not start loading the next page automatically, click this link:"
-msgstr ""
+msgstr "Se o seu navegador não iniciar o carregamento da próxima página automaticamente, clique neste link:"
 
 #: wp-admin/network/upgrade.php:125
 msgid "Next Sites"
@@ -2064,7 +2064,7 @@ msgstr "Os usuários que estão registrados na rede sem um site são adicionados
 #: wp-admin/network/user-new.php:29
 #: wp-admin/network/users.php:242
 msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\" target=\"_blank\">Documentação sobre os usuários da rede</a>"
 
 #: wp-admin/network/user-new.php:41
 msgid "Cannot create an empty user."
@@ -2076,7 +2076,7 @@ msgstr "Não é possível adicionar usuário."
 
 #: wp-admin/network/user-new.php:94
 msgid "Edit user"
-msgstr ""
+msgstr "Editar usuário"
 
 #. translators: %s: User login.
 #: wp-admin/network/users.php:87
@@ -2231,7 +2231,7 @@ msgstr "Este nome de usuário já existe!"
 #: wp-includes/ms-functions.php:529
 #, php-format
 msgid "<strong>Error:</strong> This email address is already registered. <a href=\"%s\">Log in</a> with this address or choose another one."
-msgstr ""
+msgstr "<strong>Erro:</strong> Este endereço de e-mail já está registrado. <a href=\"%s\">Acesse</a> com este endereço ou escolha outro."
 
 #: wp-includes/ms-functions.php:545
 msgid "That username is currently reserved but may be available in a couple of days."

@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-05-11 17:11\n"
+"PO-Revision-Date: 2026-03-05 07:20\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -6907,7 +6907,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:367
 msgid "South Georgia"
-msgstr "Zuid-Geogi&#235;"
+msgstr ""
 
 #: wp-admin/includes/continents-cities.php:368
 msgid "St Helena"

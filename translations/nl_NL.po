@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-03-04 16:46\n"
+"PO-Revision-Date: 2026-03-05 13:22\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -1719,7 +1719,7 @@ msgstr "Druk op Return of Enter om deze sectie te openen"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr "Widgets zijn onafhankelijke gedeeltes met inhoud die in de widgetruimtes van je thema geplaatst kunnen worden."
+msgstr "Widgets zijn onafhankelijke secties met inhoud die in de widget gebieden van je thema geplaatst kunnen worden (gewoonlijk zijbalken genoemd)."
 
 #: wp-includes/class-wp-customize-widgets.php:699
 msgid "Move to another area&hellip;"
@@ -3545,140 +3545,140 @@ msgstr "Insluiten handler"
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "SMTP fout: kon niet verifiëren."
 
 #. translators: 1: mail.add_x_header. 2: php.ini
 #: wp-includes/class-wp-phpmailer.php:44
 #, php-format
 msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
-msgstr ""
+msgstr "Je versie van PHP wordt beïnvloed door een bug die kan resulteren in corrupte berichten. Om het op te lossen, schakel over naar verzenden via SMTP, schakel de %1$s optie uit in je %2$s, of schakel over naar MacOS of Linux, of upgrade je PHP versie."
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "SMTP fout: kon geen verbinding maken met SMTP host."
 
 #: wp-includes/class-wp-phpmailer.php:49
 msgid "SMTP Error: data not accepted."
-msgstr ""
+msgstr "SMTP fout: gegevens niet geaccepteerd."
 
 #: wp-includes/class-wp-phpmailer.php:50
 msgid "Message body empty"
-msgstr ""
+msgstr "Bericht body leeg"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:52
 msgid "Unknown encoding: "
-msgstr ""
+msgstr "Onbekende codering: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr ""
+msgstr "Kon niet uitvoeren: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
 msgid "Extension missing: "
-msgstr ""
+msgstr "Extensie ontbreekt: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:58
 msgid "Could not access file: "
-msgstr ""
+msgstr "Kon geen toegang krijgen tot bestand: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:60
 msgid "File Error: Could not open file: "
-msgstr ""
+msgstr "Bestandsfout: kon bestand niet openen: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
 msgid "The following From address failed: "
-msgstr ""
+msgstr "Het volgende Van adres is mislukt: "
 
 #: wp-includes/class-wp-phpmailer.php:63
 msgid "Could not instantiate mail function."
-msgstr ""
+msgstr "Kon de mailfunctie niet instantiëren."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:65
 msgid "Invalid address: "
-msgstr ""
+msgstr "Ongeldig adres: "
 
 #: wp-includes/class-wp-phpmailer.php:66
 msgid "Invalid header name or value"
-msgstr ""
+msgstr "Ongeldige header naam of waarde"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:68
 msgid "Invalid hostentry: "
-msgstr ""
+msgstr "Ongeldige host invoer: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:70
 msgid "Invalid host: "
-msgstr ""
+msgstr "Ongeldige host: "
 
 #. translators: There is a space at the beginning.
 #: wp-includes/class-wp-phpmailer.php:72
 msgid " mailer is not supported."
-msgstr ""
+msgstr " mailer wordt niet ondersteund."
 
 #: wp-includes/class-wp-phpmailer.php:73
 msgid "You must provide at least one recipient email address."
-msgstr ""
+msgstr "Je moet ten minste één e-mailadres van een ontvanger opgeven."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:75
 msgid "SMTP Error: The following recipients failed: "
-msgstr ""
+msgstr "SMTP fout: de volgende ontvangers zijn mislukt: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:77
 msgid "Signing Error: "
-msgstr ""
+msgstr "Ondertekeningsfout: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:79
 msgid "SMTP code: "
-msgstr ""
+msgstr "SMTP code: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:81
 msgid "Additional SMTP info: "
-msgstr ""
+msgstr "Aanvullende SMTP info: "
 
 #: wp-includes/class-wp-phpmailer.php:82
 msgid "SMTP connect() failed."
-msgstr ""
+msgstr "SMTP connect() is mislukt."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:84
 msgid "Detail: "
-msgstr ""
+msgstr "Detail: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:86
 msgid "SMTP server error: "
-msgstr ""
+msgstr "SMTP serverfout: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:88
 msgid "Cannot set or reset variable: "
-msgstr ""
+msgstr "Kan variabele niet instellen of resetten: "
 
 #: wp-includes/class-wp-phpmailer.php:89
 msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
-msgstr ""
+msgstr "Server ondersteunt geen SMTPUTF8 om naar Unicode adressen te sturen"
 
 #: wp-includes/class-wp-phpmailer.php:90
 msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
-msgstr ""
+msgstr "Het gebruik van een vereenvoudigde adres parser wordt niet aanbevolen. Installeer de PHP IMAP extensie voor volledige RFC822 parsing."
 
 #. translators: %s: $useimap
 #: wp-includes/class-wp-phpmailer.php:92
 #, php-format
 msgid "Argument %s is deprecated"
-msgstr ""
+msgstr "Argument %s is verouderd"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -3836,7 +3836,7 @@ msgstr "Uitgelichte afbeelding instellen"
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "page"
 msgid "Set featured image"
-msgstr "Uitgelichte afbeelding instellen"
+msgstr "Uitgelichte afbeelding kiezen"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "post"
@@ -4013,7 +4013,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "Hallo!\n\n"
+"ClassicPress heeft een ingebouwde functie die detecteert wanneer een plugin of thema een fatale fout op je site veroorzaakt en je op de hoogte stelt met deze geautomatiseerde e-mail.\n"
+"###CAUSE###\n"
+"Bezoek eerst je site (###SITEURL###) en controleer op zichtbare problemen. Bezoek vervolgens de pagina waar de fout is opgetreden (###PAGEURL###) en controleer op zichtbare problemen.\n\n"
+"###SUPPORT###\n\n"
+"Als je site kapot lijkt en je kunt je dashboard niet normaal openen, heeft ClassicPress nu een speciale \"herstelmodus\". Hiermee kun je veilig inloggen op je dashboard en verder onderzoeken.\n\n"
+"###LINK###\n\n"
+"Om je site veilig te houden, verloopt deze link in ###EXPIRES###. Maak je daar echter geen zorgen over: een nieuwe link wordt naar je gemaild als de fout opnieuw optreedt nadat deze is verlopen.\n\n"
+"Wanneer je hulp zoekt bij dit probleem, kun je worden gevraagd om enkele van de volgende informatie:\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -5373,11 +5383,11 @@ msgstr "Thema's op deze lijst kunnen problemen hebben."
 
 #: wp-includes/classicpress/class-cp-settings.php:96
 msgid "Failed to delete the file: "
-msgstr ""
+msgstr "Kon bestand niet verwijderen: "
 
 #: wp-includes/classicpress/class-cp-settings.php:111
 msgid "Failed to copy object-cache.php to wp-content folder."
-msgstr ""
+msgstr "Kopiëren object-cache.php naar wp-content map mislukt."
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
@@ -6345,7 +6355,7 @@ msgstr "Wijzig thema"
 #: wp-includes/customize/class-wp-customize-themes-panel.php:49
 msgctxt "theme"
 msgid "Change"
-msgstr "Wijzigen"
+msgstr "Veranderen"
 
 #. translators: %s: Themes panel title in the Customizer.
 #: wp-includes/customize/class-wp-customize-themes-panel.php:81
@@ -6585,7 +6595,7 @@ msgstr "Gebruik in plaats hiervan het %s-filter."
 #: wp-includes/feed.php:861
 #, php-format
 msgid "Error fetching feed %1$s: %2$s"
-msgstr ""
+msgstr "Fout bij ophalen feed %1$s: %2$s"
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -7132,7 +7142,7 @@ msgstr "Geef niet de %1$s tags door aan %2$s."
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` parameter instead."
-msgstr ""
+msgstr "Gebruik in plaats daarvan de `$args` parameter."
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -9486,7 +9496,7 @@ msgstr[1] "Prullenbak <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:978
 msgctxt "request status"
 msgid "Pending"
-msgstr "Wachtend"
+msgstr "In behandeling"
 
 #: wp-includes/post.php:406
 #: wp-includes/post.php:979
@@ -15313,43 +15323,43 @@ msgstr "Tekst"
 
 #: wp-includes/widgets/class-wp-widget-text.php:472
 msgid "Cancel gallery"
-msgstr ""
+msgstr "Galerij annuleren"
 
 #: wp-includes/widgets/class-wp-widget-text.php:473
 msgid "Cancel audio playlist"
-msgstr ""
+msgstr "Audio afspeellijst annuleren"
 
 #: wp-includes/widgets/class-wp-widget-text.php:474
 msgid "Cancel video playlist"
-msgstr ""
+msgstr "Video afspeellijst annuleren"
 
 #: wp-includes/widgets/class-wp-widget-text.php:496
 msgid "item selected"
-msgstr ""
+msgstr "Item geselecteerd."
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "items selected"
-msgstr ""
+msgstr "Items geselecteerd."
 
 #: wp-includes/widgets/class-wp-widget-text.php:500
 msgid "Wrong URL"
-msgstr ""
+msgstr "Verkeerde URL"
 
 #: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "Unsupported file type"
-msgstr ""
+msgstr "Niet-ondersteund bestandstype"
 
 #: wp-includes/widgets/class-wp-widget-text.php:511
 msgid "New filename"
-msgstr ""
+msgstr "Nieuwe bestandsnaam"
 
 #: wp-includes/widgets/class-wp-widget-text.php:512
 msgid "Invalid type"
-msgstr ""
+msgstr "Ongeldig type"
 
 #: wp-includes/widgets/class-wp-widget-text.php:513
 msgid "Check types"
-msgstr ""
+msgstr "Controleer types"
 
 #: wp-includes/widgets/class-wp-widget-text.php:612
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

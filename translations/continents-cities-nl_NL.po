@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 50\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-03-04 23:11\n"
+"PO-Revision-Date: 2026-03-05 07:21\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -1397,7 +1397,7 @@ msgstr "Reykjavik"
 
 #: wp-admin/includes/continents-cities.php:361
 msgid "South Georgia"
-msgstr "Zuid-Geogi&#235;"
+msgstr "Zuid-Georgië"
 
 #: wp-admin/includes/continents-cities.php:362
 msgid "St Helena"

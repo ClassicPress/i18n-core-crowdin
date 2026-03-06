@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-03-06 01:22\n"
+"PO-Revision-Date: 2026-03-06 16:52\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1678,7 +1678,7 @@ msgstr "<strong>Template</strong> - Sommige thema's hebben aangepaste templates 
 
 #: wp-admin/edit-form-advanced.php:413
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
-msgstr "<strong>Volgorde</strong> - Pagina's zijn meestal op alfabetische volgorde gesorteerd, maar je kunt hier je eigen volgorde kiezen door een nummer in te voeren (1 voor de eerste, enz.)."
+msgstr "<strong>Volgorde</strong> - Pagina's zijn meestal op alfabetische volgorde gesorteerd, maar je kunt je eigen volgorde kiezen door een nummer in te voeren in dit veld (1 voor de eerste, enz.)."
 
 #: wp-admin/edit-form-advanced.php:418
 msgid "Page Attributes"

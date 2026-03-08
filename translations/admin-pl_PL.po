@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-03-04 17:12\n"
+"PO-Revision-Date: 2026-03-08 14:31\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1385,7 +1385,7 @@ msgid_plural "%s comments restored from the Trash."
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "%s komentarze przywrócone z kosza."
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:328

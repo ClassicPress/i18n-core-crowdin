@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-03-08 14:31\n"
+"PO-Revision-Date: 2026-03-08 20:31\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -18637,7 +18637,7 @@ msgstr ""
 #: wp-admin/update-core.php:209
 #, php-format
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
-msgstr ""
+msgstr "<strong>Ważne:</strong> przed aktualizacją, proszę <a href=\"%1$s\">utworzyć kopię zapasową bazy danych i plików</a>. Aby uzyskać pomoc przy aktualizacjach, odwiedź stronę <a href=\"%2$s\">Aktualizacja dokumentacji ClassicPress</a>."
 
 #: wp-admin/update-core.php:216
 msgid "An updated version of ClassicPress is available."
@@ -19127,7 +19127,7 @@ msgstr ""
 
 #: wp-admin/upload.php:528
 msgid "Media Navigation"
-msgstr ""
+msgstr "Nawigacja multimediów"
 
 #: wp-admin/upload.php:559
 msgid "Uploaded on:"
@@ -19499,7 +19499,7 @@ msgid_plural "Application passwords grant access to <a href=\"%1$s\">all %2$s si
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
+msgstr[3] "Hasła aplikacji dają dostęp do <a href=\"%1$s\">wszystkich witryn %2$s na tej instancji, w których masz uprawnienia do</a>."
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
 #: wp-admin/user-edit.php:906
@@ -19650,7 +19650,7 @@ msgstr "Administratorzy mają dostęp do wszystkich funkcji administracyjnych."
 
 #: wp-admin/user-new.php:301
 msgid "<a href=\"https://wordpress.org/documentation/article/users-add-new-screen/\">Documentation on Adding New Users</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/users-add-new-screen/\">Dokumentacja dotycząca dodawania nowych użytkowników</a>"
 
 #: wp-admin/user-new.php:336
 msgid "Invitation email sent to new user. A confirmation link must be clicked before their account is created."
@@ -19783,7 +19783,7 @@ msgstr ""
 
 #: wp-admin/users.php:60
 msgid "<strong>Delete</strong> brings you to the Delete Users screen for confirmation, where you can permanently remove a user from your site and delete their content. You can also delete multiple users at once by using bulk actions."
-msgstr ""
+msgstr "<strong>Usuń</strong> prowadzi do usunięcia użytkownika do potwierdzenia, gdzie możesz trwale usunąć użytkownika ze swojej witryny i usunąć jego zawartość. Możesz również usunąć wielu użytkowników jednocześnie, używając akcji zbiorczych."
 
 #: wp-admin/users.php:63
 msgid "<strong>View</strong> takes you to a public author archive which lists all the posts published by the user."
@@ -20103,7 +20103,7 @@ msgstr "Dodaj widget"
 
 #: wp-admin/widgets.php:24
 msgid "The theme you are currently using is not widget-aware, meaning that it has no sidebars that you are able to change. For information on making your theme widget-aware, please <a href=\"https://developer.wordpress.org/themes/functionality/widgets/\">follow these instructions</a>."
-msgstr ""
+msgstr "Motyw, którego aktualnie używasz nie jest kompatybilny z widżetami, co oznacza, że nie ma pasków bocznych, które możesz zmienić. Aby uzyskać informacje na temat widżetów motywu, proszę <a href=\"https://developer.wordpress.org/themes/functionality/widgets/\">postępuj zgodnie z poniższymi instrukcjami</a>."
 
 #: wp-admin/js/application-passwords.js:85
 msgid "Are you sure you want to revoke this password? This action cannot be undone."

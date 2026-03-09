@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-04 16:46\n"
+"PO-Revision-Date: 2026-03-09 02:33\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -244,7 +244,7 @@ msgstr "新規"
 #, php-format
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s コメントをモデレーションに追加"
 
 #: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-widgets.php:416
@@ -271,7 +271,7 @@ msgstr "ヘッダー"
 #, php-format
 msgid "%s update available"
 msgid_plural "%s updates available"
-msgstr[0] ""
+msgstr[0] "%s アップデートが利用可能です"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1115
@@ -475,7 +475,7 @@ msgstr ""
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
-msgstr ""
+msgstr "サーバーが指定されていません"
 
 #: wp-includes/class-pop3.php:102
 #: wp-includes/class-pop3.php:114
@@ -493,21 +493,21 @@ msgstr "エラー "
 
 #: wp-includes/class-pop3.php:127
 msgid "no login ID submitted"
-msgstr ""
+msgstr "ログインIDが送信されませんでした"
 
 #: wp-includes/class-pop3.php:130
 #: wp-includes/class-pop3.php:150
 msgid "connection not established"
-msgstr ""
+msgstr "接続が確立されていません"
 
 #: wp-includes/class-pop3.php:147
 #: wp-includes/class-pop3.php:183
 msgid "No password submitted"
-msgstr ""
+msgstr "パスワードが送信されていません"
 
 #: wp-includes/class-pop3.php:155
 msgid "Authentication failed"
-msgstr ""
+msgstr "認証に失敗しました"
 
 #: wp-includes/class-pop3.php:174
 #: wp-includes/class-pop3.php:217
@@ -520,7 +520,7 @@ msgstr ""
 #: wp-includes/class-pop3.php:525
 #: wp-includes/class-pop3.php:590
 msgid "No connection to server"
-msgstr ""
+msgstr "サーバーへの接続がありません"
 
 #: wp-includes/class-pop3.php:180
 msgid "No login ID submitted"
@@ -528,7 +528,7 @@ msgstr ""
 
 #: wp-includes/class-pop3.php:188
 msgid "No server banner"
-msgstr ""
+msgstr "サーバーバナーがありません"
 
 #: wp-includes/class-pop3.php:188
 #: wp-includes/class-pop3.php:198
@@ -557,7 +557,7 @@ msgstr ""
 
 #: wp-includes/class-pop3.php:601
 msgid "Command failed "
-msgstr ""
+msgstr "コマンドに失敗しました "
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
@@ -651,7 +651,7 @@ msgstr "&mdash; 選択 &mdash;"
 #: wp-includes/class-wp-customize-control.php:632
 #, php-format
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-control.php:639
@@ -1537,7 +1537,7 @@ msgstr "無効な投稿形式。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:958
 msgid "Empty title."
-msgstr ""
+msgstr "空のタイトル"
 
 #: wp-includes/class-wp-customize-nav-menus.php:961
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2981
@@ -1900,12 +1900,12 @@ msgstr "引用"
 #: wp-includes/class-wp-editor.php:1157
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:1158
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:1159
 msgctxt "HTML tag"
@@ -2019,7 +2019,7 @@ msgstr "やり直し"
 
 #: wp-includes/class-wp-editor.php:1189
 msgid "OK"
-msgstr ""
+msgstr "OKです"
 
 #: wp-includes/class-wp-editor.php:1190
 #: wp-includes/class-wp-editor.php:1941
@@ -2653,7 +2653,7 @@ msgstr "上"
 
 #: wp-includes/class-wp-editor.php:1348
 msgid "Middle"
-msgstr ""
+msgstr "中央"
 
 #: wp-includes/class-wp-editor.php:1349
 #: wp-includes/customize/class-wp-customize-background-position-control.php:75
@@ -3019,7 +3019,7 @@ msgstr "要求されたリクエストを完了できる HTTP トランスポー
 #: wp-includes/class-wp-image-editor-gd.php:105
 #: wp-includes/class-wp-image-editor-imagick.php:132
 msgid "File does not exist?"
-msgstr ""
+msgstr "ファイルが存在しませんか？"
 
 #: wp-includes/class-wp-image-editor-gd.php:129
 #: wp-includes/class-wp-image-editor-imagick.php:161
@@ -3424,21 +3424,21 @@ msgstr "12月"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
-msgstr ""
+msgstr "午前"
 
 #: wp-includes/class-wp-locale.php:218
 msgid "pm"
-msgstr ""
+msgstr "午後"
 
 #: wp-includes/class-wp-locale.php:219
 #: wp-includes/customize/class-wp-customize-date-time-control.php:172
 msgid "AM"
-msgstr ""
+msgstr "午前"
 
 #: wp-includes/class-wp-locale.php:220
 #: wp-includes/customize/class-wp-customize-date-time-control.php:173
 msgid "PM"
-msgstr ""
+msgstr "午後"
 
 #. translators: $thousands_sep argument for https://www.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:226
@@ -3454,7 +3454,7 @@ msgstr ""
 #: wp-includes/class-wp-locale.php:239
 #: wp-includes/l10n.php:1874
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
@@ -3464,7 +3464,7 @@ msgstr ""
 #: wp-includes/js/dist/i18n.js:1327
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:395
@@ -3494,7 +3494,7 @@ msgstr "characters_including_spaces"
 #: wp-includes/class-wp-metadata-lazyloader.php:82
 #: wp-includes/class-wp-metadata-lazyloader.php:122
 msgid "Invalid object type."
-msgstr ""
+msgstr "無効なオブジェクトタイプです。"
 
 #: wp-includes/class-wp-object-cache.php:157
 msgid "Cache key must not be an empty string."
@@ -3533,7 +3533,7 @@ msgstr "プロキシ経由の oEmbed リクエストを行う権限がありま�
 
 #: wp-includes/class-wp-oembed-controller.php:216
 msgid "Embed Handler"
-msgstr ""
+msgstr "埋め込まれたハンドラー"
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."

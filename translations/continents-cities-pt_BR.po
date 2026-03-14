@@ -1,4 +1,4 @@
-# Copyright (C) 2025 ClassicPress
+# Copyright (C) 2026 ClassicPress
 # This file is distributed under the same license as the ClassicPress package.
 msgid ""
 msgstr ""
@@ -7,17 +7,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-11-19T16:56:16+00:00\n"
+"POT-Creation-Date: 2026-03-03T08:29:23+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /v2.6/continents-cities-en_US.pot\n"
-"X-Crowdin-File-ID: 40\n"
+"X-Crowdin-File: /v2.7/continents-cities-en_US.pot\n"
+"X-Crowdin-File-ID: 50\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-12-08 20:03\n"
+"PO-Revision-Date: 2026-03-04 23:11\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -133,7 +133,7 @@ msgstr "Juba"
 
 #: wp-admin/includes/continents-cities.php:40
 msgid "Kampala"
-msgstr "Kampala"
+msgstr "Campala"
 
 #: wp-admin/includes/continents-cities.php:41
 msgid "Khartoum"
@@ -141,11 +141,11 @@ msgstr "Cartum"
 
 #: wp-admin/includes/continents-cities.php:42
 msgid "Kigali"
-msgstr "Kigali"
+msgstr "Quigali"
 
 #: wp-admin/includes/continents-cities.php:43
 msgid "Kinshasa"
-msgstr "Kinshasa"
+msgstr "Quinxassa"
 
 #: wp-admin/includes/continents-cities.php:44
 msgid "Lagos"
@@ -153,7 +153,7 @@ msgstr "Lagos"
 
 #: wp-admin/includes/continents-cities.php:45
 msgid "Libreville"
-msgstr "Libreville"
+msgstr "Librevile"
 
 #: wp-admin/includes/continents-cities.php:46
 msgid "Lome"
@@ -165,11 +165,11 @@ msgstr "Luanda"
 
 #: wp-admin/includes/continents-cities.php:48
 msgid "Lubumbashi"
-msgstr "Lubumbashi"
+msgstr "Lubumbaxe"
 
 #: wp-admin/includes/continents-cities.php:49
 msgid "Lusaka"
-msgstr "Lusaka"
+msgstr "Lusaca"
 
 #: wp-admin/includes/continents-cities.php:50
 msgid "Malabo"
@@ -185,7 +185,7 @@ msgstr "Maseru"
 
 #: wp-admin/includes/continents-cities.php:53
 msgid "Mbabane"
-msgstr "Mbabane"
+msgstr "Mebabane"
 
 #: wp-admin/includes/continents-cities.php:54
 msgid "Mogadishu"
@@ -193,31 +193,31 @@ msgstr "Mogadíscio"
 
 #: wp-admin/includes/continents-cities.php:55
 msgid "Monrovia"
-msgstr "Monrovia"
+msgstr "Monróvia"
 
 #: wp-admin/includes/continents-cities.php:56
 msgid "Nairobi"
-msgstr "Nairobi"
+msgstr "Nairóbi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"
-msgstr "Ndjamena"
+msgstr "Jamena"
 
 #: wp-admin/includes/continents-cities.php:58
 msgid "Niamey"
-msgstr "Niamey"
+msgstr "Niamei"
 
 #: wp-admin/includes/continents-cities.php:59
 msgid "Nouakchott"
-msgstr "Nouakchott"
+msgstr "Nuaquexote"
 
 #: wp-admin/includes/continents-cities.php:60
 msgid "Ouagadougou"
-msgstr "Ouagadougou"
+msgstr "Uagadugu"
 
 #: wp-admin/includes/continents-cities.php:61
 msgid "Porto-Novo"
-msgstr "Porto-Novo"
+msgstr "Porto Novo"
 
 #: wp-admin/includes/continents-cities.php:62
 msgid "Sao Tome"
@@ -237,7 +237,7 @@ msgstr "Túnis"
 
 #: wp-admin/includes/continents-cities.php:66
 msgid "Windhoek"
-msgstr "Windhoek"
+msgstr "Vinduque"
 
 #: wp-admin/includes/continents-cities.php:68
 msgid "America"
@@ -253,15 +253,15 @@ msgstr "Anchorage"
 
 #: wp-admin/includes/continents-cities.php:71
 msgid "Anguilla"
-msgstr "Anguilla"
+msgstr "Anguila"
 
 #: wp-admin/includes/continents-cities.php:72
 msgid "Antigua"
-msgstr "Antigua"
+msgstr "Antígua"
 
 #: wp-admin/includes/continents-cities.php:73
 msgid "Araguaina"
-msgstr "Araguaina"
+msgstr "Araguaína"
 
 #: wp-admin/includes/continents-cities.php:74
 msgid "Argentina"
@@ -277,7 +277,7 @@ msgstr "Catamarca"
 
 #: wp-admin/includes/continents-cities.php:77
 msgid "ComodRivadavia"
-msgstr "ComodRivadavia"
+msgstr "ComodoroRivadavia"
 
 #: wp-admin/includes/continents-cities.php:78
 msgid "Cordoba"
@@ -389,7 +389,7 @@ msgstr "Caracas"
 
 #: wp-admin/includes/continents-cities.php:105
 msgid "Cayenne"
-msgstr "Cayenne"
+msgstr "Caiena"
 
 #: wp-admin/includes/continents-cities.php:106
 msgid "Cayman"

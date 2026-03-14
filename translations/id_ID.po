@@ -1,4 +1,4 @@
-# Copyright (C) 2025 ClassicPress
+# Copyright (C) 2026 ClassicPress
 # This file is distributed under the same license as the ClassicPress package.
 msgid ""
 msgstr ""
@@ -7,17 +7,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-11-19T16:55:52+00:00\n"
+"POT-Creation-Date: 2026-03-03T08:28:58+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /v2.6/en_US.pot\n"
-"X-Crowdin-File-ID: 34\n"
+"X-Crowdin-File: /v2.7/en_US.pot\n"
+"X-Crowdin-File-ID: 44\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-11-19 18:04\n"
+"PO-Revision-Date: 2026-03-04 16:46\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -670,18 +670,18 @@ msgstr "Tambah"
 #: wp-includes/class-wp-customize-manager.php:450
 #: wp-includes/class-wp-xmlrpc-server.php:4009
 #: wp-includes/functions.php:3602
-#: wp-includes/script-loader.php:606
-#: wp-includes/script-loader.php:1134
+#: wp-includes/script-loader.php:596
+#: wp-includes/script-loader.php:1124
 msgid "Something went wrong."
 msgstr "Ada masalah."
 
 #: wp-includes/class-wp-customize-manager.php:515
-#: wp-includes/script-loader.php:1135
+#: wp-includes/script-loader.php:1125
 msgid "You need a higher level of permission."
 msgstr "Anda membutuhkan izin yang lebih tinggi."
 
 #: wp-includes/class-wp-customize-manager.php:516
-#: wp-includes/script-loader.php:1136
+#: wp-includes/script-loader.php:1126
 msgid "Sorry, you are not allowed to customize this site."
 msgstr "Maaf, Anda tak  menyesuaikan situs ini."
 
@@ -730,7 +730,7 @@ msgstr "Tak diizinkan memodifikasi pengaturan lantaran kapabilitas."
 
 #: wp-includes/class-wp-customize-manager.php:2380
 #: wp-includes/class-wp-customize-setting.php:594
-#: wp-includes/script-loader.php:1178
+#: wp-includes/script-loader.php:1168
 msgid "Invalid value."
 msgstr "Nilai tidak sah."
 
@@ -745,14 +745,14 @@ msgstr "Beberapa setelan perubahan sebelumnya sudah diterbitkan. Silakan mencoba
 
 #: wp-includes/class-wp-customize-manager.php:2675
 #: wp-includes/class-wp-customize-manager.php:2690
-#: wp-includes/script-loader.php:1127
+#: wp-includes/script-loader.php:1117
 msgid "You must supply a future date to schedule."
 msgstr "Anda harus menentukan tanggal yang akan datang untuk penjadwalan."
 
 #. translators: %s: Number of invalid settings.
 #: wp-includes/class-wp-customize-manager.php:2794
-#: wp-includes/script-loader.php:1164
-#: wp-includes/script-loader.php:1166
+#: wp-includes/script-loader.php:1154
+#: wp-includes/script-loader.php:1156
 #, php-format
 msgid "Unable to save due to %s invalid setting."
 msgid_plural "Unable to save due to %s invalid settings."
@@ -823,7 +823,7 @@ msgstr "%s sedang menyesuaikan situs ini. Apakah Anda ingin mengambil alih?"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-manager.php:4291
-#: wp-includes/script-loader.php:804
+#: wp-includes/script-loader.php:794
 #: wp-includes/js/wp-pointer.js:20
 msgid "Dismiss"
 msgstr "Selesai"
@@ -896,17 +896,17 @@ msgid "Live Preview: %s"
 msgstr "Pratinjau Langsung: %s"
 
 #: wp-includes/class-wp-customize-manager.php:4847
-#: wp-includes/script-loader.php:1118
+#: wp-includes/script-loader.php:1108
 msgid "Publish"
 msgstr "Terbitkan"
 
 #: wp-includes/class-wp-customize-manager.php:4852
-#: wp-includes/script-loader.php:1120
+#: wp-includes/script-loader.php:1110
 msgid "Save Draft"
 msgstr "Simpan Draf"
 
 #: wp-includes/class-wp-customize-manager.php:4857
-#: wp-includes/script-loader.php:1123
+#: wp-includes/script-loader.php:1113
 msgctxt "customizer changeset action/button label"
 msgid "Schedule"
 msgstr "Jadwalkan"
@@ -1013,7 +1013,7 @@ msgstr "Ganti logo"
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:152
 #: wp-includes/media-template.php:628
 #: wp-includes/media.php:4667
-#: wp-includes/script-loader.php:856
+#: wp-includes/script-loader.php:846
 msgid "Remove"
 msgstr "Singkirkan"
 
@@ -1214,10 +1214,10 @@ msgstr "Bidang sunting otomatis menyoroti kode sintak. Anda bisa mematikan ini p
 #: wp-includes/class-wp-customize-manager.php:5722
 #: wp-includes/class-wp-editor.php:1191
 #: wp-includes/class-wp-editor.php:1888
-#: wp-includes/script-loader.php:771
-#: wp-includes/script-loader.php:1131
-#: wp-includes/script-loader.php:1290
-#: wp-includes/script-loader.php:1696
+#: wp-includes/script-loader.php:761
+#: wp-includes/script-loader.php:1121
+#: wp-includes/script-loader.php:1280
+#: wp-includes/script-loader.php:1688
 msgid "Close"
 msgstr "Tutup"
 
@@ -1289,8 +1289,8 @@ msgid "Post Type Archive"
 msgstr "Arsip Tipe Pos"
 
 #: wp-includes/class-wp-customize-nav-menus.php:342
-#: wp-includes/script-loader.php:732
-#: wp-includes/script-loader.php:1087
+#: wp-includes/script-loader.php:722
+#: wp-includes/script-loader.php:1077
 msgid "No results found."
 msgstr "Tak ditemukan hasil apapun."
 
@@ -1587,7 +1587,7 @@ msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
 msgstr "Klik &#8220;Selanjutnya&#8221; untuk mulai menambahkan tautan pada menu baru Anda."
 
 #: wp-includes/class-wp-customize-nav-menus.php:1121
-#: wp-includes/script-loader.php:1700
+#: wp-includes/script-loader.php:1692
 #: wp-signup.php:653
 msgid "Next"
 msgstr "Berikut"
@@ -1674,6 +1674,7 @@ msgstr "URL"
 #: wp-includes/class-wp-customize-nav-menus.php:1285
 #: wp-includes/class-wp-editor.php:1899
 #: wp-includes/media-template.php:1058
+#: wp-includes/widgets/class-wp-widget-text.php:487
 msgid "Link Text"
 msgstr "Teks Tautan"
 
@@ -1892,7 +1893,7 @@ msgid "Paragraph"
 msgstr "Paragraf"
 
 #: wp-includes/class-wp-editor.php:1156
-#: wp-includes/script-loader.php:575
+#: wp-includes/script-loader.php:565
 msgid "Blockquote"
 msgstr "Blok kutipan"
 
@@ -1942,17 +1943,20 @@ msgid "Clear formatting"
 msgstr "Bersihkan pemformatan"
 
 #: wp-includes/class-wp-editor.php:1168
-#: wp-includes/script-loader.php:570
+#: wp-includes/script-loader.php:560
+#: wp-includes/widgets/class-wp-widget-text.php:581
 msgid "Bold"
 msgstr "Tebal"
 
 #: wp-includes/class-wp-editor.php:1169
-#: wp-includes/script-loader.php:572
+#: wp-includes/script-loader.php:562
+#: wp-includes/widgets/class-wp-widget-text.php:582
 msgid "Italic"
 msgstr "Miring"
 
 #: wp-includes/class-wp-editor.php:1170
-#: wp-includes/script-loader.php:588
+#: wp-includes/script-loader.php:578
+#: wp-includes/widgets/class-wp-widget-text.php:587
 msgid "Code"
 msgstr "Kode"
 
@@ -2005,7 +2009,7 @@ msgid "Select all"
 msgstr "Pilih semua"
 
 #: wp-includes/class-wp-editor.php:1186
-#: wp-includes/script-loader.php:860
+#: wp-includes/script-loader.php:850
 msgid "Undo"
 msgstr "Batalkan"
 
@@ -2020,8 +2024,8 @@ msgstr "Oke"
 #: wp-includes/class-wp-editor.php:1190
 #: wp-includes/class-wp-editor.php:1941
 #: wp-includes/media.php:4664
-#: wp-includes/script-loader.php:859
-#: wp-includes/script-loader.php:1130
+#: wp-includes/script-loader.php:849
+#: wp-includes/script-loader.php:1120
 msgid "Cancel"
 msgstr "Batal"
 
@@ -2030,12 +2034,14 @@ msgid "Visual aids"
 msgstr "Bantuan visual"
 
 #: wp-includes/class-wp-editor.php:1194
-#: wp-includes/script-loader.php:582
+#: wp-includes/script-loader.php:572
+#: wp-includes/widgets/class-wp-widget-text.php:584
 msgid "Bulleted list"
 msgstr "Daftar tanpa nomor"
 
 #: wp-includes/class-wp-editor.php:1195
-#: wp-includes/script-loader.php:584
+#: wp-includes/script-loader.php:574
+#: wp-includes/widgets/class-wp-widget-text.php:585
 msgid "Numbered list"
 msgstr "Daftar bernomor"
 
@@ -2146,7 +2152,7 @@ msgid "Author"
 msgstr "Penulis"
 
 #: wp-includes/class-wp-editor.php:1224
-#: wp-includes/script-loader.php:769
+#: wp-includes/script-loader.php:759
 #: wp-includes/widgets/class-wp-widget-media-image.php:28
 msgid "Image"
 msgstr "Gambar"
@@ -2192,7 +2198,7 @@ msgid "Dimensions"
 msgstr "Dimensi"
 
 #: wp-includes/class-wp-editor.php:1235
-#: wp-includes/script-loader.php:581
+#: wp-includes/script-loader.php:571
 msgid "Insert image"
 msgstr "Masukkan gambar"
 
@@ -2284,15 +2290,16 @@ msgid "Print"
 msgstr "Cetak"
 
 #: wp-includes/class-wp-editor.php:1259
-#: wp-includes/widgets/class-wp-widget-media-audio.php:256
+#: wp-includes/widgets/class-wp-widget-media-audio.php:259
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:281
 #: wp-includes/widgets/class-wp-widget-media-image.php:506
-#: wp-includes/widgets/class-wp-widget-media-video.php:307
+#: wp-includes/widgets/class-wp-widget-media-video.php:300
+#: wp-includes/widgets/class-wp-widget-text.php:492
 msgid "Save"
 msgstr "Simpan"
 
 #: wp-includes/class-wp-editor.php:1260
-#: wp-includes/script-loader.php:920
+#: wp-includes/script-loader.php:910
 msgid "Fullscreen"
 msgstr "Selayar penuh"
 
@@ -2311,7 +2318,7 @@ msgstr "Kembalikan draf terakhir"
 #: wp-includes/class-wp-editor.php:1264
 #: wp-includes/class-wp-editor.php:1270
 #: wp-includes/class-wp-editor.php:1884
-#: wp-includes/script-loader.php:1083
+#: wp-includes/script-loader.php:1073
 msgid "Insert/edit link"
 msgstr "Sisip/sunting tautan"
 
@@ -2324,7 +2331,8 @@ msgid "Link"
 msgstr "Tautan"
 
 #: wp-includes/class-wp-editor.php:1269
-#: wp-includes/script-loader.php:574
+#: wp-includes/script-loader.php:564
+#: wp-includes/widgets/class-wp-widget-text.php:583
 msgid "Insert link"
 msgstr "Sisipkan taut"
 
@@ -2590,6 +2598,7 @@ msgstr "Lebar"
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:280
 #: wp-includes/widgets/class-wp-widget-media-image.php:72
 #: wp-includes/widgets/class-wp-widget-media-image.php:552
+#: wp-includes/widgets/class-wp-widget-text.php:489
 msgid "Caption"
 msgstr "Keterangan"
 
@@ -2731,7 +2740,7 @@ msgid "Rich Text Area. Press Control-Option-H for help."
 msgstr "Area Teks Kaya Fitur. Tekan Control-Option-H untuk bantuan."
 
 #: wp-includes/class-wp-editor.php:1376
-#: wp-includes/script-loader.php:1128
+#: wp-includes/script-loader.php:1118
 #: wp-includes/theme.php:3626
 msgid "The changes you made will be lost if you navigate away from this page."
 msgstr "Perubahan yang Anda buat akan hilang jika Anda meninggalkan laman ini."
@@ -2780,7 +2789,7 @@ msgid "Toolbar Toggle"
 msgstr "Nyalakan Bilah Perkakas"
 
 #: wp-includes/class-wp-editor.php:1391
-#: wp-includes/script-loader.php:590
+#: wp-includes/script-loader.php:580
 msgid "Insert Read More tag"
 msgstr "Masukkan tag Baca Lebih Lanjut"
 
@@ -2794,7 +2803,7 @@ msgid "Read more..."
 msgstr "Baca selanjutnya..."
 
 #: wp-includes/class-wp-editor.php:1394
-#: wp-includes/script-loader.php:569
+#: wp-includes/script-loader.php:559
 msgid "Distraction-free writing mode"
 msgstr "Mode menulis bebas-gangguan"
 
@@ -2874,7 +2883,7 @@ msgid "Letter"
 msgstr "Huruf"
 
 #: wp-includes/class-wp-editor.php:1419
-#: wp-includes/script-loader.php:1132
+#: wp-includes/script-loader.php:1122
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:328
 msgid "Action"
 msgstr "Tindakan"
@@ -2932,7 +2941,7 @@ msgid "Search or use up and down arrow keys to select an item."
 msgstr "Lakukan pencarian atau gunakan tombol panah atas-bawah untuk memilih sebuah item."
 
 #: wp-includes/class-wp-editor.php:1944
-#: wp-includes/script-loader.php:1085
+#: wp-includes/script-loader.php:1075
 msgid "Add Link"
 msgstr "Tambahkan Tautan"
 
@@ -3443,16 +3452,16 @@ msgstr ","
 
 #. translators: Used between list items, there is a space after the comma.
 #: wp-includes/class-wp-locale.php:239
-#: wp-includes/l10n.php:1827
+#: wp-includes/l10n.php:1874
 msgid ", "
 msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:246
-#: wp-includes/script-loader.php:505
-#: wp-includes/js/dist/a11y.js:703
-#: wp-includes/js/dist/api-fetch.js:904
-#: wp-includes/js/dist/i18n.js:1338
+#: wp-includes/script-loader.php:495
+#: wp-includes/js/dist/a11y.js:1075
+#: wp-includes/js/dist/api-fetch.js:1053
+#: wp-includes/js/dist/i18n.js:1327
 msgctxt "text direction"
 msgid "ltr"
 msgstr "ltr"
@@ -3524,6 +3533,143 @@ msgstr "Maaf, Anda tidak diizinkan membuat permintaan oEmbed terproxy."
 
 #: wp-includes/class-wp-oembed-controller.php:216
 msgid "Embed Handler"
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:41
+msgid "SMTP Error: Could not authenticate."
+msgstr ""
+
+#. translators: 1: mail.add_x_header. 2: php.ini
+#: wp-includes/class-wp-phpmailer.php:44
+#, php-format
+msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:48
+msgid "SMTP Error: Could not connect to SMTP host."
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:49
+msgid "SMTP Error: data not accepted."
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:50
+msgid "Message body empty"
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:52
+msgid "Unknown encoding: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:54
+msgid "Could not execute: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:56
+msgid "Extension missing: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:58
+msgid "Could not access file: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:60
+msgid "File Error: Could not open file: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:62
+msgid "The following From address failed: "
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:63
+msgid "Could not instantiate mail function."
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:65
+msgid "Invalid address: "
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:66
+msgid "Invalid header name or value"
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:68
+msgid "Invalid hostentry: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:70
+msgid "Invalid host: "
+msgstr ""
+
+#. translators: There is a space at the beginning.
+#: wp-includes/class-wp-phpmailer.php:72
+msgid " mailer is not supported."
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:73
+msgid "You must provide at least one recipient email address."
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:75
+msgid "SMTP Error: The following recipients failed: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:77
+msgid "Signing Error: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:79
+msgid "SMTP code: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:81
+msgid "Additional SMTP info: "
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:82
+msgid "SMTP connect() failed."
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:84
+msgid "Detail: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:86
+msgid "SMTP server error: "
+msgstr ""
+
+#. translators: There is a space after the colon.
+#: wp-includes/class-wp-phpmailer.php:88
+msgid "Cannot set or reset variable: "
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:89
+msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
+msgstr ""
+
+#: wp-includes/class-wp-phpmailer.php:90
+msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
+msgstr ""
+
+#. translators: %s: $useimap
+#: wp-includes/class-wp-phpmailer.php:92
+#, php-format
+msgid "Argument %s is deprecated"
 msgstr ""
 
 #: wp-includes/class-wp-post-type.php:800
@@ -3818,7 +3964,7 @@ msgstr ""
 
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:219
-#: wp-includes/pluggable.php:2526
+#: wp-includes/pluggable.php:2527
 msgid "put your unique phrase here"
 msgstr ""
 
@@ -3853,7 +3999,7 @@ msgid "Howdy!\n\n"
 "###CAUSE###\n"
 "First, visit your website (###SITEURL###) and check for any visible issues. Next, visit the page where the error was caught (###PAGEURL###) and check for any visible issues.\n\n"
 "###SUPPORT###\n\n"
-"If your site appears broken and you can't access your dashboard normally, WordPress now has a special \"recovery mode\". This lets you safely login to your dashboard and investigate further.\n\n"
+"If your site appears broken and you can't access your dashboard normally, ClassicPress now has a special \"recovery mode\". This lets you safely login to your dashboard and investigate further.\n\n"
 "###LINK###\n\n"
 "To keep your site safe, this link will expire in ###EXPIRES###. Don't worry about that, though: a new link will be emailed to you if the error occurs again after it expires.\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
@@ -3879,7 +4025,7 @@ msgstr ""
 msgid "In this case, ClassicPress caught an error with your theme, %s."
 msgstr ""
 
-#. translators: %s: Current WordPress version number.
+#. translators: %s: Current ClassicPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
 #, php-format
 msgid "ClassicPress version %s"
@@ -5217,6 +5363,14 @@ msgstr ""
 msgid "Themes on this list may have issues."
 msgstr ""
 
+#: wp-includes/classicpress/class-cp-settings.php:96
+msgid "Failed to delete the file: "
+msgstr ""
+
+#: wp-includes/classicpress/class-cp-settings.php:111
+msgid "Failed to copy object-cache.php to wp-content folder."
+msgstr ""
+
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
 #: wp-includes/classicpress/class-wp-compat.php:63
@@ -5282,7 +5436,7 @@ msgid "In reply to %s."
 msgstr "Sebagai balasan untuk %s."
 
 #: wp-includes/comment-template.php:1156
-#: wp-includes/comment-template.php:2603
+#: wp-includes/comment-template.php:2605
 msgctxt "noun"
 msgid "Comment"
 msgstr "Komentar"
@@ -5369,13 +5523,13 @@ msgid "Click here to cancel reply."
 msgstr "Klik di sini untuk membatalkan balasan."
 
 #: wp-includes/comment-template.php:2125
-#: wp-includes/comment-template.php:2645
+#: wp-includes/comment-template.php:2647
 msgid "Leave a Reply"
 msgstr "Tinggalkan Balasan"
 
 #. translators: %s: Author of the comment being replied to.
 #: wp-includes/comment-template.php:2130
-#: wp-includes/comment-template.php:2647
+#: wp-includes/comment-template.php:2649
 #, php-format
 msgid "Leave a Reply to %s"
 msgstr "Tinggalkan Balasan ke %s"
@@ -5398,30 +5552,30 @@ msgid "Save my name, email, and website in this browser for the next time I comm
 msgstr "Simpan nama, email, dan situs web saya pada peramban ini untuk komentar saya berikutnya."
 
 #. translators: %s: Login URL.
-#: wp-includes/comment-template.php:2612
+#: wp-includes/comment-template.php:2614
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
 msgstr "Anda harus <a href=\"%s\">masuk log</a> untuk mengirim sebuah komentar."
 
 #. translators: 1: User name, 2: Edit user link, 3: Logout URL.
-#: wp-includes/comment-template.php:2621
+#: wp-includes/comment-template.php:2623
 #, php-format
 msgid "Logged in as %1$s. <a href=\"%2$s\">Edit your profile</a>. <a href=\"%3$s\">Log out?</a>"
 msgstr ""
 
-#: wp-includes/comment-template.php:2633
+#: wp-includes/comment-template.php:2635
 msgid "Your email address will not be published."
 msgstr "Alamat email Anda tidak akan dipublikasikan."
 
-#: wp-includes/comment-template.php:2652
+#: wp-includes/comment-template.php:2654
 msgid "Cancel reply"
 msgstr "Batalkan balasan"
 
-#: wp-includes/comment-template.php:2653
+#: wp-includes/comment-template.php:2655
 msgid "Post Comment"
 msgstr "Kirim Komentar"
 
-#: wp-includes/comment-template.php:2742
+#: wp-includes/comment-template.php:2744
 msgid "Array values must only be a string or `true` boolean"
 msgstr ""
 
@@ -5784,7 +5938,7 @@ msgid "Change video"
 msgstr "Ganti Video"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:229
-#: wp-includes/widgets/class-wp-widget-media-video.php:286
+#: wp-includes/widgets/class-wp-widget-media-video.php:279
 msgid "No video selected"
 msgstr "Tidak ada video terpilih"
 
@@ -5802,7 +5956,7 @@ msgid "Change audio"
 msgstr "Ganti audio"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:239
-#: wp-includes/widgets/class-wp-widget-media-audio.php:232
+#: wp-includes/widgets/class-wp-widget-media-audio.php:235
 msgid "No audio selected"
 msgstr "Tidak ada audio terpilih"
 
@@ -6255,12 +6409,12 @@ msgstr ""
 #: wp-includes/media-template.php:1244
 #: wp-includes/media-template.php:1364
 #: wp-includes/media-template.php:1463
-#: wp-includes/script-loader.php:936
+#: wp-includes/script-loader.php:926
 #: wp-includes/widgets.php:2069
-#: wp-includes/widgets/class-wp-widget-media-audio.php:296
+#: wp-includes/widgets/class-wp-widget-media-audio.php:299
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:332
 #: wp-includes/widgets/class-wp-widget-media-image.php:581
-#: wp-includes/widgets/class-wp-widget-media-video.php:347
+#: wp-includes/widgets/class-wp-widget-media-video.php:340
 msgid "None"
 msgstr "Tak ada"
 
@@ -6414,6 +6568,12 @@ msgstr "Komentar Terlindungi: Silakan masukkan sandi Anda untuk melihat komentar
 #, php-format
 msgid "Use the %s filter instead."
 msgstr "Gunakan penyaring %s saja."
+
+#. translators: %1$s is the feed URL, %2$s is the error message.
+#: wp-includes/feed.php:861
+#, php-format
+msgid "Error fetching feed %1$s: %2$s"
+msgstr ""
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -6683,7 +6843,7 @@ msgid "Empty filename"
 msgstr "Nama berkas kosong"
 
 #: wp-includes/functions.php:2882
-#: wp-includes/script-loader.php:786
+#: wp-includes/script-loader.php:776
 msgid "Sorry, you are not allowed to upload this file type."
 msgstr ""
 
@@ -6848,7 +7008,7 @@ msgid "Close dialog"
 msgstr "Tutup dialog"
 
 #: wp-includes/functions.php:7329
-#: wp-includes/script-loader.php:1138
+#: wp-includes/script-loader.php:1128
 msgid "Session expired"
 msgstr "Sesi telah kadaluarsa"
 
@@ -6951,7 +7111,7 @@ msgid "Do not pass %1$s tags to %2$s."
 msgstr "Jangan masukkan tag-tag %1$s ke %2$s."
 
 #: wp-includes/functions.wp-scripts.php:185
-msgid "Use the `$args` paramater instead."
+msgid "Use the `$args` parameter instead."
 msgstr ""
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
@@ -7353,17 +7513,17 @@ msgstr ""
 msgid "When using the %1$s constant, make sure to set these globals to an array: %2$s."
 msgstr ""
 
-#: wp-includes/l10n.php:1587
+#: wp-includes/l10n.php:1634
 msgctxt "translations"
 msgid "Installed"
 msgstr "Terpasang"
 
-#: wp-includes/l10n.php:1595
+#: wp-includes/l10n.php:1642
 msgctxt "default site language"
 msgid "Site Default"
 msgstr "Bawaan Situs"
 
-#: wp-includes/l10n.php:1624
+#: wp-includes/l10n.php:1671
 msgctxt "translations"
 msgid "Available"
 msgstr "Tersedia"
@@ -7503,7 +7663,7 @@ msgstr ""
 msgid "The site you have requested is not installed properly. Please contact the system administrator."
 msgstr "Situs yang Anda minta tidak terpasang dengan baik. Silakan hubungi administrator sistem."
 
-#: wp-includes/load.php:1674
+#: wp-includes/load.php:1679
 msgid "Scrape key check failed. Please try again."
 msgstr ""
 
@@ -7593,7 +7753,7 @@ msgid "Grid view"
 msgstr ""
 
 #: wp-includes/media-template.php:359
-#: wp-includes/script-loader.php:848
+#: wp-includes/script-loader.php:838
 #: wp-includes/widgets.php:2270
 msgid "Uploading"
 msgstr "Mengunggah"
@@ -7708,14 +7868,16 @@ msgstr "Teks Alternatif"
 #: wp-includes/media-template.php:535
 #: wp-includes/media-template.php:783
 #: wp-includes/media.php:3076
-#: wp-includes/widgets/class-wp-widget-media-audio.php:253
+#: wp-includes/widgets/class-wp-widget-media-audio.php:256
+#: wp-includes/widgets/class-wp-widget-text.php:490
 msgid "Artist"
 msgstr "Artis"
 
 #: wp-includes/media-template.php:536
 #: wp-includes/media-template.php:784
 #: wp-includes/media.php:3077
-#: wp-includes/widgets/class-wp-widget-media-audio.php:254
+#: wp-includes/widgets/class-wp-widget-media-audio.php:257
+#: wp-includes/widgets/class-wp-widget-text.php:491
 msgid "Album"
 msgstr "Album"
 
@@ -7773,10 +7935,12 @@ msgstr ""
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:637
-#: wp-includes/script-loader.php:1349
+#: wp-includes/script-loader.php:1339
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:279
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:287
 #: wp-includes/widgets/class-wp-widget-media-image.php:505
+#: wp-includes/widgets/class-wp-widget-text.php:488
+#: wp-includes/widgets/class-wp-widget-text.php:517
 msgid "Deselect"
 msgstr "Batalkan Pilihan"
 
@@ -7823,6 +7987,10 @@ msgid "Edit Selection"
 msgstr "Edit Seleksi"
 
 #: wp-includes/media-template.php:819
+#: wp-includes/widgets.php:2333
+#: wp-includes/widgets/class-wp-widget-media-audio.php:318
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:373
+#: wp-includes/widgets/class-wp-widget-media-video.php:366
 msgid "Clear"
 msgstr "Kosongkan"
 
@@ -7940,10 +8108,12 @@ msgid "Playlist Settings"
 msgstr "Pengaturan Daftar Putar"
 
 #: wp-includes/media-template.php:1027
+#: wp-includes/widgets/class-wp-widget-text.php:494
 msgid "Show Video List"
 msgstr "Tampilkan Daftar Video"
 
 #: wp-includes/media-template.php:1029
+#: wp-includes/widgets/class-wp-widget-text.php:493
 msgid "Show Tracklist"
 msgstr "Tampilkan Daftar Lagu"
 
@@ -8017,13 +8187,14 @@ msgstr "Sunting Lampiran Asli"
 
 #: wp-includes/media-template.php:1289
 #: wp-includes/media.php:4666
+#: wp-includes/widgets/class-wp-widget-text.php:485
 msgid "Replace"
 msgstr "Gantikan"
 
 #: wp-includes/media-template.php:1325
 #: wp-includes/media-template.php:1340
-#: wp-includes/widgets/class-wp-widget-media-audio.php:252
-#: wp-includes/widgets/class-wp-widget-media-audio.php:289
+#: wp-includes/widgets/class-wp-widget-media-audio.php:255
+#: wp-includes/widgets/class-wp-widget-media-audio.php:292
 msgid "Remove audio source"
 msgstr "Hapus sumber audio"
 
@@ -8035,9 +8206,9 @@ msgstr ""
 #: wp-includes/media-template.php:1359
 #: wp-includes/media-template.php:1458
 #: wp-includes/widgets/class-wp-widget-media-audio.php:53
-#: wp-includes/widgets/class-wp-widget-media-audio.php:292
+#: wp-includes/widgets/class-wp-widget-media-audio.php:295
 #: wp-includes/widgets/class-wp-widget-media-video.php:54
-#: wp-includes/widgets/class-wp-widget-media-video.php:343
+#: wp-includes/widgets/class-wp-widget-media-video.php:336
 msgid "Preload"
 msgstr "Pramuat"
 
@@ -8049,8 +8220,8 @@ msgstr "Otomatis"
 
 #: wp-includes/media-template.php:1363
 #: wp-includes/media-template.php:1462
-#: wp-includes/widgets/class-wp-widget-media-audio.php:295
-#: wp-includes/widgets/class-wp-widget-media-video.php:346
+#: wp-includes/widgets/class-wp-widget-media-audio.php:298
+#: wp-includes/widgets/class-wp-widget-media-video.php:339
 msgid "Metadata"
 msgstr "Metadata"
 
@@ -8062,17 +8233,17 @@ msgstr "Putar otomatis"
 #: wp-includes/media-template.php:1377
 #: wp-includes/media-template.php:1476
 #: wp-includes/widgets/class-wp-widget-media-audio.php:58
-#: wp-includes/widgets/class-wp-widget-media-audio.php:303
+#: wp-includes/widgets/class-wp-widget-media-audio.php:306
 #: wp-includes/widgets/class-wp-widget-media-video.php:60
-#: wp-includes/widgets/class-wp-widget-media-video.php:354
+#: wp-includes/widgets/class-wp-widget-media-video.php:347
 msgid "Loop"
 msgstr "Pengulangan"
 
 #: wp-includes/media-template.php:1416
 #: wp-includes/media-template.php:1430
-#: wp-includes/widgets/class-wp-widget-media-video.php:299
-#: wp-includes/widgets/class-wp-widget-media-video.php:305
-#: wp-includes/widgets/class-wp-widget-media-video.php:340
+#: wp-includes/widgets/class-wp-widget-media-video.php:292
+#: wp-includes/widgets/class-wp-widget-media-video.php:298
+#: wp-includes/widgets/class-wp-widget-media-video.php:333
 msgid "Remove video source"
 msgstr "Hapus sumber video"
 
@@ -8087,7 +8258,7 @@ msgstr "Hapus gambar poster"
 #: wp-includes/media-template.php:1487
 #: wp-includes/media-template.php:1503
 #: wp-includes/widgets/class-wp-widget-media-video.php:67
-#: wp-includes/widgets/class-wp-widget-media-video.php:359
+#: wp-includes/widgets/class-wp-widget-media-video.php:352
 msgid "Tracks (subtitles, captions, descriptions, chapters, or metadata)"
 msgstr "Lagu (subtitle, caption, deskripsi, bab, atau metadata)"
 
@@ -8103,7 +8274,7 @@ msgid "Remove video track"
 msgstr "Buang jalur video"
 
 #: wp-includes/media-template.php:1504
-#: wp-includes/widgets/class-wp-widget-media-video.php:360
+#: wp-includes/widgets/class-wp-widget-media-video.php:353
 msgid "There are no associated subtitles."
 msgstr "Tak ada subtitel yang terkait."
 
@@ -8155,13 +8326,14 @@ msgid "(no author)"
 msgstr "(tanpa penulis)"
 
 #: wp-includes/media.php:4257
-#: wp-includes/script-loader.php:1086
+#: wp-includes/script-loader.php:1076
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:107
 msgid "(no title)"
 msgstr "(tanpa judul)"
 
 #: wp-includes/media.php:4661
 #: wp-includes/media.php:4683
+#: wp-includes/widgets/class-wp-widget-text.php:481
 msgid "Add media"
 msgstr ""
 
@@ -8170,10 +8342,10 @@ msgid "Select"
 msgstr "Pilih"
 
 #: wp-includes/media.php:4665
-#: wp-includes/script-loader.php:1084
-#: wp-includes/widgets/class-wp-widget-media-audio.php:312
+#: wp-includes/script-loader.php:1074
+#: wp-includes/widgets/class-wp-widget-media-audio.php:326
 #: wp-includes/widgets/class-wp-widget-media-image.php:650
-#: wp-includes/widgets/class-wp-widget-media-video.php:370
+#: wp-includes/widgets/class-wp-widget-media-video.php:374
 #: wp-login.php:696
 msgid "Update"
 msgstr "Perbarui"
@@ -8201,23 +8373,27 @@ msgstr ""
 #. translators: %d: Widget count.
 #: wp-includes/media.php:4682
 #: wp-includes/widgets.php:2083
-#: wp-includes/widgets/class-wp-widget-media-audio.php:244
+#: wp-includes/widgets/class-wp-widget-media-audio.php:247
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:278
 #: wp-includes/widgets/class-wp-widget-media-image.php:498
-#: wp-includes/widgets/class-wp-widget-media-video.php:300
+#: wp-includes/widgets/class-wp-widget-media-video.php:293
+#: wp-includes/widgets/class-wp-widget-text.php:486
 msgid "Media Library"
 msgstr "Pustaka Media"
 
 #: wp-includes/media.php:4684
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:370
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:380
+#: wp-includes/widgets/class-wp-widget-text.php:466
 msgid "Create a new gallery"
 msgstr "Buat galeri baru"
 
 #: wp-includes/media.php:4685
+#: wp-includes/widgets/class-wp-widget-text.php:467
 msgid "Create a new playlist"
 msgstr "Buat daftar putar baru"
 
 #: wp-includes/media.php:4686
+#: wp-includes/widgets/class-wp-widget-text.php:468
 msgid "Create a new video playlist"
 msgstr "Buat daftar putar video baru"
 
@@ -8309,18 +8485,21 @@ msgid "Attachment details"
 msgstr ""
 
 #: wp-includes/media.php:4719
-#: wp-includes/widgets/class-wp-widget-media-audio.php:251
+#: wp-includes/widgets/class-wp-widget-media-audio.php:254
 #: wp-includes/widgets/class-wp-widget-media-image.php:500
-#: wp-includes/widgets/class-wp-widget-media-video.php:291
-#: wp-includes/widgets/class-wp-widget-media-video.php:304
+#: wp-includes/widgets/class-wp-widget-media-video.php:284
+#: wp-includes/widgets/class-wp-widget-media-video.php:297
+#: wp-includes/widgets/class-wp-widget-text.php:501
 msgid "Insert from URL"
 msgstr "Sisipkan dari URL"
 
 #: wp-includes/media.php:4726
+#: wp-includes/widgets/class-wp-widget-text.php:463
 msgid "Create gallery"
 msgstr ""
 
 #: wp-includes/media.php:4727
+#: wp-includes/widgets/class-wp-widget-text.php:469
 msgid "Edit gallery"
 msgstr ""
 
@@ -8329,17 +8508,20 @@ msgid "&#8592; Cancel gallery"
 msgstr ""
 
 #: wp-includes/media.php:4729
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:371
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:381
+#: wp-includes/widgets/class-wp-widget-text.php:475
 msgid "Insert gallery"
 msgstr "Sisipkan galeri"
 
 #: wp-includes/media.php:4730
-#: wp-includes/widgets/class-wp-widget-media-gallery.php:372
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:382
+#: wp-includes/widgets/class-wp-widget-text.php:478
 msgid "Update gallery"
 msgstr "Perbarui galeri"
 
 #: wp-includes/media.php:4731
 #: wp-includes/media.php:4732
+#: wp-includes/widgets/class-wp-widget-text.php:482
 msgid "Add to gallery"
 msgstr "Tambahkan ke galeri"
 
@@ -8359,8 +8541,8 @@ msgstr ""
 #: wp-includes/media.php:4738
 #: wp-includes/media.php:4756
 #: wp-includes/media.php:4762
-#: wp-includes/widgets/class-wp-widget-media-audio.php:255
-#: wp-includes/widgets/class-wp-widget-media-video.php:306
+#: wp-includes/widgets/class-wp-widget-media-audio.php:258
+#: wp-includes/widgets/class-wp-widget-media-video.php:299
 msgid "Cancel edit"
 msgstr ""
 
@@ -8393,7 +8575,7 @@ msgid "There has been an error cropping your image."
 msgstr "Terjadi galat saat memangkas gambar Anda."
 
 #: wp-includes/media.php:4753
-#: wp-includes/widgets/class-wp-widget-media-audio.php:246
+#: wp-includes/widgets/class-wp-widget-media-audio.php:249
 msgid "Audio details"
 msgstr ""
 
@@ -8406,7 +8588,7 @@ msgid "Add audio source"
 msgstr ""
 
 #: wp-includes/media.php:4759
-#: wp-includes/widgets/class-wp-widget-media-video.php:302
+#: wp-includes/widgets/class-wp-widget-media-video.php:295
 msgid "Video details"
 msgstr ""
 
@@ -8431,10 +8613,12 @@ msgid "Drag and drop to reorder tracks."
 msgstr "Tarik dan lepas untuk mengurutkan trek."
 
 #: wp-includes/media.php:4768
+#: wp-includes/widgets/class-wp-widget-text.php:464
 msgid "Create audio playlist"
 msgstr ""
 
 #: wp-includes/media.php:4769
+#: wp-includes/widgets/class-wp-widget-text.php:470
 msgid "Edit audio playlist"
 msgstr ""
 
@@ -8443,14 +8627,17 @@ msgid "&#8592; Cancel audio playlist"
 msgstr ""
 
 #: wp-includes/media.php:4771
+#: wp-includes/widgets/class-wp-widget-text.php:476
 msgid "Insert audio playlist"
 msgstr "Masukkan Daftar Putar Audio"
 
 #: wp-includes/media.php:4772
+#: wp-includes/widgets/class-wp-widget-text.php:479
 msgid "Update audio playlist"
 msgstr "Perbarui Daftar Putar Audio"
 
 #: wp-includes/media.php:4773
+#: wp-includes/widgets/class-wp-widget-text.php:483
 msgid "Add to audio playlist"
 msgstr "Tambahkan ke Daftar Putar Audio"
 
@@ -8463,10 +8650,12 @@ msgid "Drag and drop to reorder videos."
 msgstr "Tarik dan lepas untuk mengatur urutan video."
 
 #: wp-includes/media.php:4778
+#: wp-includes/widgets/class-wp-widget-text.php:465
 msgid "Create video playlist"
 msgstr ""
 
 #: wp-includes/media.php:4779
+#: wp-includes/widgets/class-wp-widget-text.php:471
 msgid "Edit video playlist"
 msgstr ""
 
@@ -8475,14 +8664,17 @@ msgid "&#8592; Cancel video playlist"
 msgstr ""
 
 #: wp-includes/media.php:4781
+#: wp-includes/widgets/class-wp-widget-text.php:477
 msgid "Insert video playlist"
 msgstr "Masukkan daftar putar video"
 
 #: wp-includes/media.php:4782
+#: wp-includes/widgets/class-wp-widget-text.php:480
 msgid "Update video playlist"
 msgstr "Perbarui daftar putar video"
 
 #: wp-includes/media.php:4783
+#: wp-includes/widgets/class-wp-widget-text.php:484
 msgid "Add to video playlist"
 msgstr "Tambahkan ke daftar putar video"
 
@@ -8679,230 +8871,230 @@ msgstr "Kumpulan pengaturan \"%s\" telah disingkirkan. Gunakan penggaturan lain.
 msgid "%1$s is deprecated. The callback from %2$s is used instead."
 msgstr "%1$s tidak berlaku. Callback dari %2$s digunakan sebagai gantinya."
 
-#: wp-includes/pluggable.php:700
+#: wp-includes/pluggable.php:701
 msgid "<strong>Error:</strong> Invalid username, email address or incorrect password."
 msgstr ""
 
-#: wp-includes/pluggable.php:1364
-#: wp-includes/pluggable.php:1409
+#: wp-includes/pluggable.php:1365
+#: wp-includes/pluggable.php:1410
 msgid "You should specify an action to be verified by using the first parameter."
 msgstr ""
 
-#: wp-includes/pluggable.php:1503
+#: wp-includes/pluggable.php:1504
 msgid "HTTP redirect status code must be a redirection code, 3xx."
 msgstr ""
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1823
+#: wp-includes/pluggable.php:1824
 #, php-format
 msgid "New trackback on your post \"%s\""
 msgstr "Lacakbalik baru pada pos \"%s\" Anda"
 
 #. translators: 1: Trackback/pingback website name, 2: Website IP address, 3: Website hostname.
-#: wp-includes/pluggable.php:1825
-#: wp-includes/pluggable.php:1839
-#: wp-includes/pluggable.php:2015
-#: wp-includes/pluggable.php:2026
+#: wp-includes/pluggable.php:1826
+#: wp-includes/pluggable.php:1840
+#: wp-includes/pluggable.php:2016
+#: wp-includes/pluggable.php:2027
 #, php-format
 msgid "Website: %1$s (IP address: %2$s, %3$s)"
 msgstr "Situs web: %1$s (alamat IP: %2$s, %3$s)"
 
 #. translators: %s: Trackback/pingback/comment author URL.
-#: wp-includes/pluggable.php:1827
-#: wp-includes/pluggable.php:1841
-#: wp-includes/pluggable.php:1857
-#: wp-includes/pluggable.php:2017
-#: wp-includes/pluggable.php:2028
-#: wp-includes/pluggable.php:2041
+#: wp-includes/pluggable.php:1828
+#: wp-includes/pluggable.php:1842
+#: wp-includes/pluggable.php:1858
+#: wp-includes/pluggable.php:2018
+#: wp-includes/pluggable.php:2029
+#: wp-includes/pluggable.php:2042
 #, php-format
 msgid "URL: %s"
 msgstr "URL: %s"
 
 #. translators: %s: Comment text.
-#: wp-includes/pluggable.php:1829
-#: wp-includes/pluggable.php:1843
-#: wp-includes/pluggable.php:1865
-#: wp-includes/pluggable.php:2049
+#: wp-includes/pluggable.php:1830
+#: wp-includes/pluggable.php:1844
+#: wp-includes/pluggable.php:1866
+#: wp-includes/pluggable.php:2050
 #, php-format
 msgid "Comment: %s"
 msgstr "Komentar: %s"
 
-#: wp-includes/pluggable.php:1830
+#: wp-includes/pluggable.php:1831
 msgid "You can see all trackbacks on this post here:"
 msgstr "Anda bisa melihat semua lacak balik untuk pos ini di sini:"
 
 #. translators: Trackback notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1832
+#: wp-includes/pluggable.php:1833
 #, php-format
 msgid "[%1$s] Trackback: \"%2$s\""
 msgstr "[%1$s] Lacak balik: \"%2$s\""
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1837
+#: wp-includes/pluggable.php:1838
 #, php-format
 msgid "New pingback on your post \"%s\""
 msgstr "Ping-balik baru pada pos \"%s\" Anda"
 
-#: wp-includes/pluggable.php:1844
+#: wp-includes/pluggable.php:1845
 msgid "You can see all pingbacks on this post here:"
 msgstr "Anda bisa melihat semua ping balik untuk pos ini di sini:"
 
 #. translators: Pingback notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1846
+#: wp-includes/pluggable.php:1847
 #, php-format
 msgid "[%1$s] Pingback: \"%2$s\""
 msgstr "[%1$s] Ping balik: \"%2$s\""
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:1851
+#: wp-includes/pluggable.php:1852
 #, php-format
 msgid "New comment on your post \"%s\""
 msgstr "Komentar baru pada pos \"%s\" Anda"
 
 #. translators: 1: Comment author's name, 2: Comment author's IP address, 3: Comment author's hostname.
-#: wp-includes/pluggable.php:1853
-#: wp-includes/pluggable.php:2037
+#: wp-includes/pluggable.php:1854
+#: wp-includes/pluggable.php:2038
 #, php-format
 msgid "Author: %1$s (IP address: %2$s, %3$s)"
 msgstr "Penulis: %1$s (alamat IP: %2$s, %3$s)"
 
 #. translators: %s: Comment author email.
 #. translators: %s: User email address.
-#: wp-includes/pluggable.php:1855
-#: wp-includes/pluggable.php:2039
-#: wp-includes/pluggable.php:2238
+#: wp-includes/pluggable.php:1856
+#: wp-includes/pluggable.php:2040
+#: wp-includes/pluggable.php:2239
 #, php-format
 msgid "Email: %s"
 msgstr "Email: %s"
 
 #. translators: Comment moderation. %s: Parent comment edit URL.
-#: wp-includes/pluggable.php:1861
-#: wp-includes/pluggable.php:2045
+#: wp-includes/pluggable.php:1862
+#: wp-includes/pluggable.php:2046
 #, php-format
 msgid "In reply to: %s"
 msgstr "Balasan untuk: %s"
 
-#: wp-includes/pluggable.php:1866
+#: wp-includes/pluggable.php:1867
 msgid "You can see all comments on this post here:"
 msgstr "Anda bisa melihat semua komentar untuk pos ini di sini:"
 
 #. translators: Comment notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:1868
+#: wp-includes/pluggable.php:1869
 #, php-format
 msgid "[%1$s] Comment: \"%2$s\""
 msgstr "[%1$s] Komentar: \"%2$s\""
 
 #. translators: %s: Comment URL.
-#: wp-includes/pluggable.php:1874
+#: wp-includes/pluggable.php:1875
 #, php-format
 msgid "Permalink: %s"
 msgstr "Tautan permanen: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1879
-#: wp-includes/pluggable.php:2058
+#: wp-includes/pluggable.php:1880
+#: wp-includes/pluggable.php:2059
 #, php-format
 msgid "Trash it: %s"
 msgstr "Buang ke sampah: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1882
-#: wp-includes/pluggable.php:2061
+#: wp-includes/pluggable.php:1883
+#: wp-includes/pluggable.php:2062
 #, php-format
 msgid "Delete it: %s"
 msgstr "Hapus ini: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:1885
-#: wp-includes/pluggable.php:2065
+#: wp-includes/pluggable.php:1886
+#: wp-includes/pluggable.php:2066
 #, php-format
 msgid "Spam it: %s"
 msgstr "Spam ini: %s"
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:2012
+#: wp-includes/pluggable.php:2013
 #, php-format
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
 msgstr "Satu lacakbalik baru pada pos \"%s\" menunggu persetujuan Anda"
 
-#: wp-includes/pluggable.php:2018
+#: wp-includes/pluggable.php:2019
 msgid "Trackback excerpt: "
 msgstr "Kutipan lacak balik: "
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:2023
+#: wp-includes/pluggable.php:2024
 #, php-format
 msgid "A new pingback on the post \"%s\" is waiting for your approval"
 msgstr "Satu ping-balik baru pada pos \"%s\" menunggu persetujuan Anda"
 
-#: wp-includes/pluggable.php:2029
+#: wp-includes/pluggable.php:2030
 msgid "Pingback excerpt: "
 msgstr "Kutipan Ping Balik: "
 
 #. translators: %s: Post title.
-#: wp-includes/pluggable.php:2034
+#: wp-includes/pluggable.php:2035
 #, php-format
 msgid "A new comment on the post \"%s\" is waiting for your approval"
 msgstr "Satu komentar baru pada pos \"%s\" menunggu persetujuan Anda"
 
 #. translators: Comment moderation. %s: Comment action URL.
-#: wp-includes/pluggable.php:2054
+#: wp-includes/pluggable.php:2055
 #, php-format
 msgid "Approve it: %s"
 msgstr "Setujui ini: %s"
 
 #. translators: Comment moderation. %s: Number of comments awaiting approval.
-#: wp-includes/pluggable.php:2069
+#: wp-includes/pluggable.php:2070
 #, php-format
 msgid "Currently %s comment is waiting for approval. Please visit the moderation panel:"
 msgid_plural "Currently %s comments are waiting for approval. Please visit the moderation panel:"
 msgstr[0] "Saat ini %s komentar sedang menunggu persetujuan. Silakan kunjungi panel moderasi:"
 
 #. translators: Comment moderation notification email subject. 1: Site title, 2: Post title.
-#: wp-includes/pluggable.php:2079
+#: wp-includes/pluggable.php:2080
 #, php-format
 msgid "[%1$s] Please moderate: \"%2$s\""
 msgstr "[%1$s] Mohon moderasi: \"%2$s\""
 
 #. translators: %s: User name.
-#: wp-includes/pluggable.php:2147
+#: wp-includes/pluggable.php:2148
 #, php-format
 msgid "Password changed for user: %s"
 msgstr "Sandi untuk pengguna: %s telah diubah"
 
 #. translators: Password change notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2155
+#: wp-includes/pluggable.php:2156
 #: wp-includes/user.php:2636
 #, php-format
 msgid "[%s] Password Changed"
 msgstr "[%s] Sandi Diubah"
 
 #. translators: %s: Site title.
-#: wp-includes/pluggable.php:2234
+#: wp-includes/pluggable.php:2235
 #, php-format
 msgid "New user registration on your site %s:"
 msgstr "Pendaftaran pengguna baru pada situs Anda %s:"
 
 #. translators: %s: User login.
-#: wp-includes/pluggable.php:2236
-#: wp-includes/pluggable.php:2301
+#: wp-includes/pluggable.php:2237
+#: wp-includes/pluggable.php:2302
 #: wp-includes/user.php:3179
 #, php-format
 msgid "Username: %s"
 msgstr "Nama pengguna: %s"
 
 #. translators: New user registration notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2243
+#: wp-includes/pluggable.php:2244
 #, php-format
 msgid "[%s] New User Registration"
 msgstr "[%s] Pendaftaran Pengguna Baru"
 
-#: wp-includes/pluggable.php:2302
+#: wp-includes/pluggable.php:2303
 msgid "To set your password, visit the following address:"
 msgstr "Untuk mengatur sandi Anda, kunjungi alamat di bawah ini:"
 
 #. translators: Login details notification email subject. %s: Site title.
-#: wp-includes/pluggable.php:2310
+#: wp-includes/pluggable.php:2311
 #, php-format
 msgid "[%s] Login Details"
 msgstr ""
@@ -9324,7 +9516,7 @@ msgstr "Privat"
 
 #: wp-includes/post.php:942
 #: wp-includes/post.php:962
-#: wp-includes/script-loader.php:1119
+#: wp-includes/script-loader.php:1109
 msgid "Published"
 msgstr "Telah Terbit"
 
@@ -9440,7 +9632,7 @@ msgstr "Konten, judul, dan kutipan kosong."
 
 #: wp-includes/post.php:3989
 #: wp-includes/rest-api.php:2157
-#: wp-includes/script-loader.php:1177
+#: wp-includes/script-loader.php:1167
 msgid "Invalid date."
 msgstr "Tanggal tidak sah."
 
@@ -9861,7 +10053,7 @@ msgid "No route was found matching the URL and request method."
 msgstr ""
 
 #: wp-includes/rest-api/class-wp-rest-server.php:1191
-#: wp-includes/script-loader.php:605
+#: wp-includes/script-loader.php:595
 msgid "Sorry, you are not allowed to do that."
 msgstr "Maaf, Anda tak dizinkan melakukannya."
 
@@ -12022,882 +12214,893 @@ msgstr "Maaf, Anda tak  meninjau draf."
 msgid "An error has occurred, which probably means the feed is down. Try again later."
 msgstr "Sebuah galat telah terjadi, yang kemungkinan berarti umpan tersebut sedang anjlok. Coba lagi nanti."
 
-#: wp-includes/script-loader.php:562
+#: wp-includes/script-loader.php:552
 msgid "Close all open tags"
 msgstr "Tutup seluruh tag yang terbuka"
 
-#: wp-includes/script-loader.php:563
+#: wp-includes/script-loader.php:553
 msgid "close tags"
 msgstr "tutup tag"
 
-#: wp-includes/script-loader.php:564
+#: wp-includes/script-loader.php:554
 msgid "Enter the URL"
 msgstr "Masukkan URL"
 
-#: wp-includes/script-loader.php:565
+#: wp-includes/script-loader.php:555
 msgid "Enter the URL of the image"
 msgstr "Masukkan URL gambar"
 
-#: wp-includes/script-loader.php:566
+#: wp-includes/script-loader.php:556
 msgid "Enter a description of the image"
 msgstr "Masukkan sebuah deskripsi dari gambar tersebut"
 
-#: wp-includes/script-loader.php:567
+#: wp-includes/script-loader.php:557
 msgid "text direction"
 msgstr "arah teks"
 
-#: wp-includes/script-loader.php:568
+#: wp-includes/script-loader.php:558
 msgid "Toggle Editor Text Direction"
 msgstr "Atur Arah Teks Penyunting"
 
-#: wp-includes/script-loader.php:571
+#: wp-includes/script-loader.php:561
 msgid "Close bold tag"
 msgstr "Tutup tag bold"
 
-#: wp-includes/script-loader.php:573
+#: wp-includes/script-loader.php:563
 msgid "Close italic tag"
 msgstr "Tutup tag italic"
 
-#: wp-includes/script-loader.php:576
+#: wp-includes/script-loader.php:566
 msgid "Close blockquote tag"
 msgstr "Tutup tag blockquote"
 
-#: wp-includes/script-loader.php:577
+#: wp-includes/script-loader.php:567
 msgid "Deleted text (strikethrough)"
 msgstr "Teks yang dihapus (coret)"
 
-#: wp-includes/script-loader.php:578
+#: wp-includes/script-loader.php:568
 msgid "Close deleted text tag"
 msgstr "Tutup tag tulisan yang dihapus"
 
-#: wp-includes/script-loader.php:579
+#: wp-includes/script-loader.php:569
 msgid "Inserted text"
 msgstr "Teks yang disisipkan"
 
-#: wp-includes/script-loader.php:580
+#: wp-includes/script-loader.php:570
 msgid "Close inserted text tag"
 msgstr "Tutup tag teks sisipan"
 
-#: wp-includes/script-loader.php:583
+#: wp-includes/script-loader.php:573
 msgid "Close bulleted list tag"
 msgstr "Tutup tag daftar tak bernomor"
 
-#: wp-includes/script-loader.php:585
+#: wp-includes/script-loader.php:575
 msgid "Close numbered list tag"
 msgstr "Tutup tag daftar bernomor"
 
-#: wp-includes/script-loader.php:586
+#: wp-includes/script-loader.php:576
+#: wp-includes/widgets/class-wp-widget-text.php:586
 msgid "List item"
 msgstr "Item daftar"
 
-#: wp-includes/script-loader.php:587
+#: wp-includes/script-loader.php:577
 msgid "Close list item tag"
 msgstr "Tutup tag item daftar"
 
-#: wp-includes/script-loader.php:589
+#: wp-includes/script-loader.php:579
 msgid "Close code tag"
 msgstr "Tutup tag kode"
 
 #. translators: Number of results found when using jQuery UI Autocomplete.
-#: wp-includes/script-loader.php:734
+#: wp-includes/script-loader.php:724
 msgid "1 result found. Use up and down arrow keys to navigate."
 msgstr "Ditemukan 1 hasil. Gunakan tombol panah atas dan bawah untuk navigasi."
 
 #. translators: %d: Number of results found when using jQuery UI Autocomplete.
-#: wp-includes/script-loader.php:736
+#: wp-includes/script-loader.php:726
 #, php-format
 msgid "%d results found. Use up and down arrow keys to navigate."
 msgstr "%d hasil ditemukan. Gunakan tombol panah atas dan bawah untuk navigasi."
 
-#: wp-includes/script-loader.php:737
+#: wp-includes/script-loader.php:727
 msgid "Item selected."
 msgstr "Item terpilih."
 
-#: wp-includes/script-loader.php:767
+#: wp-includes/script-loader.php:757
 msgid "Next &gt;"
 msgstr "Berikutnya &gt;"
 
-#: wp-includes/script-loader.php:768
+#: wp-includes/script-loader.php:758
 msgid "&lt; Prev"
 msgstr "&lt; Sebelumnya"
 
-#: wp-includes/script-loader.php:770
+#: wp-includes/script-loader.php:760
 #: wp-includes/widgets.php:2098
-#: wp-includes/widgets/class-wp-widget-media-audio.php:261
+#: wp-includes/widgets/class-wp-widget-media-audio.php:264
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:284
 #: wp-includes/widgets/class-wp-widget-media-image.php:510
-#: wp-includes/widgets/class-wp-widget-media-video.php:312
+#: wp-includes/widgets/class-wp-widget-media-video.php:305
+#: wp-includes/widgets/class-wp-widget-text.php:514
 msgid "of"
 msgstr "dari"
 
-#: wp-includes/script-loader.php:772
-#: wp-includes/script-loader.php:1291
+#: wp-includes/script-loader.php:762
+#: wp-includes/script-loader.php:1281
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
 msgstr "Fitur ini memerlukan bingkai langsung di tempat. Anda memiliki iframe dinonaktifkan atau browser Anda tidak mendukung mereka."
 
-#: wp-includes/script-loader.php:782
+#: wp-includes/script-loader.php:772
 msgid "You have attempted to queue too many files."
 msgstr "Anda telah mencoba mengantrikan terlalu banyak berkas."
 
 #. translators: %s: File name.
-#: wp-includes/script-loader.php:784
+#: wp-includes/script-loader.php:774
 #, php-format
 msgid "%s exceeds the maximum upload size for this site."
 msgstr "%s terlalu besar untuk diunggah."
 
-#: wp-includes/script-loader.php:785
+#: wp-includes/script-loader.php:775
 msgid "This file is empty. Please try another."
 msgstr "Berkas ini kosong. Silakan coba yang lain."
 
-#: wp-includes/script-loader.php:787
+#: wp-includes/script-loader.php:777
 msgid "This file is not an image. Please try another."
 msgstr "Berkas ini bukanlah sebuah gambar. Silakan coba berkas lainnya."
 
-#: wp-includes/script-loader.php:788
+#: wp-includes/script-loader.php:778
 msgid "Memory exceeded. Please try another smaller file."
 msgstr "Melebihi batas memori. Silakan coba berkas lainnya yang berukuran lebih kecil."
 
-#: wp-includes/script-loader.php:789
+#: wp-includes/script-loader.php:779
 msgid "This is larger than the maximum size. Please try another."
 msgstr "Ini melebihi ukuran maksimum. Silakan coba lainnya."
 
-#: wp-includes/script-loader.php:790
+#: wp-includes/script-loader.php:780
 msgid "An error occurred in the upload. Please try again later."
 msgstr "Sebuah galat telah terjadi selama proses pengunggahan. Silakan coba lagi nanti."
 
-#: wp-includes/script-loader.php:791
+#: wp-includes/script-loader.php:781
 msgid "There was a configuration error. Please contact the server administrator."
 msgstr "Ada galat konfigurasi. Silakan hubungi administrator server."
 
-#: wp-includes/script-loader.php:792
+#: wp-includes/script-loader.php:782
 msgid "You may only upload 1 file."
 msgstr "Anda hanya boleh mengunggah satu berkas."
 
-#: wp-includes/script-loader.php:793
+#: wp-includes/script-loader.php:783
 msgid "Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page."
 msgstr ""
 
-#: wp-includes/script-loader.php:794
+#: wp-includes/script-loader.php:784
 msgid "The server cannot process the image. This can happen if the server is busy or does not have enough resources to complete the task. Uploading a smaller image may help. Suggested maximum size is 2560 pixels."
 msgstr ""
 
-#: wp-includes/script-loader.php:795
+#: wp-includes/script-loader.php:785
 msgid "Upload failed."
 msgstr "Pengunggahan gagal."
 
 #. translators: 1: Opening link tag, 2: Closing link tag.
-#: wp-includes/script-loader.php:797
+#: wp-includes/script-loader.php:787
 #, php-format
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
 msgstr "Untuk mengunggah berkas ini, silakan gunakan %1$spengunggah peramban%2$s."
 
 #. translators: %s: File name.
-#: wp-includes/script-loader.php:799
+#: wp-includes/script-loader.php:789
 #, php-format
 msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
 msgstr "%s melebihi ukuran unggah maksimum untuk pengunggah multi-berkas bilamana digunakan pada peramban Anda."
 
-#: wp-includes/script-loader.php:800
+#: wp-includes/script-loader.php:790
 msgid "IO error."
 msgstr "Galat IO."
 
-#: wp-includes/script-loader.php:801
+#: wp-includes/script-loader.php:791
 msgid "Security error."
 msgstr "Galat keamanan."
 
-#: wp-includes/script-loader.php:802
+#: wp-includes/script-loader.php:792
 msgid "File canceled."
 msgstr "Berkas dibatalkan."
 
-#: wp-includes/script-loader.php:803
+#: wp-includes/script-loader.php:793
 msgid "Upload stopped."
 msgstr "Pengunggahan terhenti."
 
-#: wp-includes/script-loader.php:805
+#: wp-includes/script-loader.php:795
 msgid "Crunching&hellip;"
 msgstr "Memproses&hellip;"
 
-#: wp-includes/script-loader.php:806
+#: wp-includes/script-loader.php:796
 msgid "moved to the Trash."
 msgstr ""
 
 #. translators: %s: File name.
-#: wp-includes/script-loader.php:808
+#: wp-includes/script-loader.php:798
 #, php-format
 msgid "&#8220;%s&#8221; has failed to upload."
 msgstr "&#8220;%s&#8221; gagal diunggah."
 
-#: wp-includes/script-loader.php:809
+#: wp-includes/script-loader.php:799
 msgid "This image cannot be displayed in a web browser. For best results convert it to JPEG before uploading."
 msgstr ""
 
-#: wp-includes/script-loader.php:810
+#: wp-includes/script-loader.php:800
 msgid "This image cannot be processed by the web server. Convert it to JPEG or PNG before uploading."
 msgstr ""
 
-#: wp-includes/script-loader.php:811
+#: wp-includes/script-loader.php:801
 #: wp-includes/js/media-views.js:9482
 msgid "The file URL has been copied to your clipboard"
 msgstr ""
 
-#: wp-includes/script-loader.php:837
+#: wp-includes/script-loader.php:827
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
 msgstr ""
 
-#: wp-includes/script-loader.php:838
+#: wp-includes/script-loader.php:828
 msgid "Field contains invalid files"
 msgstr ""
 
-#: wp-includes/script-loader.php:839
+#: wp-includes/script-loader.php:829
 msgid "Waiting for size"
 msgstr ""
 
-#: wp-includes/script-loader.php:840
+#: wp-includes/script-loader.php:830
 msgid "Size not available"
 msgstr ""
 
-#: wp-includes/script-loader.php:841
+#: wp-includes/script-loader.php:831
 msgid "file in list"
 msgstr ""
 
-#: wp-includes/script-loader.php:842
+#: wp-includes/script-loader.php:832
 msgid "files in list"
 msgstr ""
 
-#: wp-includes/script-loader.php:843
+#: wp-includes/script-loader.php:833
 msgid "Loading"
 msgstr ""
 
-#: wp-includes/script-loader.php:844
+#: wp-includes/script-loader.php:834
 msgid "Added"
 msgstr ""
 
-#: wp-includes/script-loader.php:845
+#: wp-includes/script-loader.php:835
 msgid "Error during load"
 msgstr ""
 
-#: wp-includes/script-loader.php:846
+#: wp-includes/script-loader.php:836
 msgid "Removed"
 msgstr ""
 
-#: wp-includes/script-loader.php:847
+#: wp-includes/script-loader.php:837
 msgid "Error during remove"
 msgstr ""
 
-#: wp-includes/script-loader.php:849
+#: wp-includes/script-loader.php:839
 msgid "Upload complete"
 msgstr ""
 
-#: wp-includes/script-loader.php:850
+#: wp-includes/script-loader.php:840
 msgid "Upload cancelled"
 msgstr ""
 
-#: wp-includes/script-loader.php:851
+#: wp-includes/script-loader.php:841
 msgid "Error during upload"
 msgstr ""
 
-#: wp-includes/script-loader.php:852
+#: wp-includes/script-loader.php:842
 msgid "Error during revert"
 msgstr ""
 
-#: wp-includes/script-loader.php:853
+#: wp-includes/script-loader.php:843
 msgid "tap to cancel"
 msgstr ""
 
-#: wp-includes/script-loader.php:854
+#: wp-includes/script-loader.php:844
 msgid "tap to retry"
 msgstr ""
 
-#: wp-includes/script-loader.php:855
+#: wp-includes/script-loader.php:845
 msgid "tap to undo"
 msgstr ""
 
-#: wp-includes/script-loader.php:857
+#: wp-includes/script-loader.php:847
 msgid "Abort"
 msgstr ""
 
-#: wp-includes/script-loader.php:858
-#: wp-includes/script-loader.php:861
+#: wp-includes/script-loader.php:848
+#: wp-includes/script-loader.php:851
 msgid "Retry"
 msgstr "Coba lagi"
 
-#: wp-includes/script-loader.php:862
+#: wp-includes/script-loader.php:852
 msgid "Upload"
 msgstr "Unggah"
 
-#: wp-includes/script-loader.php:919
+#: wp-includes/script-loader.php:909
 msgid "Download File"
 msgstr ""
 
-#: wp-includes/script-loader.php:921
+#: wp-includes/script-loader.php:911
 #: wp-includes/theme.php:1661
 msgid "Play"
 msgstr "Mainkan"
 
-#: wp-includes/script-loader.php:922
+#: wp-includes/script-loader.php:912
 #: wp-includes/theme.php:1660
 msgid "Pause"
 msgstr "Jeda"
 
-#: wp-includes/script-loader.php:923
+#: wp-includes/script-loader.php:913
 msgid "Time Slider"
 msgstr "Penggeser Waktu"
 
-#: wp-includes/script-loader.php:924
+#: wp-includes/script-loader.php:914
 msgid "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
 msgstr "Gunakan tuts Panah Kanan/Kiri untuk melompat satu detik, panah Atas/Bawah untuk melompat sepuluh detik."
 
-#: wp-includes/script-loader.php:925
+#: wp-includes/script-loader.php:915
 msgid "Live Broadcast"
 msgstr "Siaran Langsung"
 
-#: wp-includes/script-loader.php:926
+#: wp-includes/script-loader.php:916
 msgid "Current time"
 msgstr ""
 
-#: wp-includes/script-loader.php:927
+#: wp-includes/script-loader.php:917
 msgid "Total duration"
 msgstr ""
 
-#: wp-includes/script-loader.php:928
+#: wp-includes/script-loader.php:918
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
 msgstr "Gunakan Anak Panah Atas/Bawah untuk menaikkan atau menurunkan volume."
 
-#: wp-includes/script-loader.php:929
+#: wp-includes/script-loader.php:919
 msgid "Unmute"
 msgstr "Matikan Sunyi"
 
-#: wp-includes/script-loader.php:930
+#: wp-includes/script-loader.php:920
 msgid "Mute"
 msgstr "Senyap"
 
-#: wp-includes/script-loader.php:931
+#: wp-includes/script-loader.php:921
 msgid "Volume Slider"
 msgstr "Penggeser Volume"
 
-#: wp-includes/script-loader.php:932
+#: wp-includes/script-loader.php:922
 msgid "Video Player"
 msgstr "Pemutar Video"
 
-#: wp-includes/script-loader.php:933
+#: wp-includes/script-loader.php:923
 msgid "Audio Player"
 msgstr "Pemutar Audio"
 
-#: wp-includes/script-loader.php:934
+#: wp-includes/script-loader.php:924
 msgid "Captions/Subtitles"
 msgstr "Subteks/Subjudul"
 
-#: wp-includes/script-loader.php:935
+#: wp-includes/script-loader.php:925
 msgid "Chapters"
 msgstr "Bab"
 
-#: wp-includes/script-loader.php:937
+#: wp-includes/script-loader.php:927
 msgid "Afrikaans"
 msgstr "Bahasa Afrikanas"
 
-#: wp-includes/script-loader.php:938
+#: wp-includes/script-loader.php:928
 msgid "Albanian"
 msgstr "Bahasa Albania"
 
-#: wp-includes/script-loader.php:939
+#: wp-includes/script-loader.php:929
 msgid "Arabic"
 msgstr "Bahasa Arab"
 
-#: wp-includes/script-loader.php:940
+#: wp-includes/script-loader.php:930
 msgid "Belarusian"
 msgstr "Bahasa Belarusia"
 
-#: wp-includes/script-loader.php:941
+#: wp-includes/script-loader.php:931
 msgid "Bulgarian"
 msgstr "Bahasa Bulgaria"
 
-#: wp-includes/script-loader.php:942
+#: wp-includes/script-loader.php:932
 msgid "Catalan"
 msgstr "Bahasa Katalan"
 
-#: wp-includes/script-loader.php:943
+#: wp-includes/script-loader.php:933
 msgid "Chinese"
 msgstr "Bahasa Mandarin"
 
-#: wp-includes/script-loader.php:944
+#: wp-includes/script-loader.php:934
 msgid "Chinese (Simplified)"
 msgstr "Bahasa Mandarin (Disederhanakan)"
 
-#: wp-includes/script-loader.php:945
+#: wp-includes/script-loader.php:935
 msgid "Chinese (Traditional)"
 msgstr "Bahasa Mandarin (Tradisional)"
 
-#: wp-includes/script-loader.php:946
+#: wp-includes/script-loader.php:936
 msgid "Croatian"
 msgstr "Bahasa Kroasia"
 
-#: wp-includes/script-loader.php:947
+#: wp-includes/script-loader.php:937
 msgid "Czech"
 msgstr "Bahasa Ceko"
 
-#: wp-includes/script-loader.php:948
+#: wp-includes/script-loader.php:938
 msgid "Danish"
 msgstr "Bahasa Denmark"
 
-#: wp-includes/script-loader.php:949
+#: wp-includes/script-loader.php:939
 msgid "Dutch"
 msgstr "Bahasa Belanda"
 
-#: wp-includes/script-loader.php:950
+#: wp-includes/script-loader.php:940
 msgid "English"
 msgstr "Bahasa Inggris"
 
-#: wp-includes/script-loader.php:951
+#: wp-includes/script-loader.php:941
 msgid "Estonian"
 msgstr "Bahasa Estonia"
 
-#: wp-includes/script-loader.php:952
+#: wp-includes/script-loader.php:942
 msgid "Filipino"
 msgstr "Bahasa Filipino"
 
-#: wp-includes/script-loader.php:953
+#: wp-includes/script-loader.php:943
 msgid "Finnish"
 msgstr "Bahasa Finlandia"
 
-#: wp-includes/script-loader.php:954
+#: wp-includes/script-loader.php:944
 msgid "French"
 msgstr "Bahasa Perancis"
 
-#: wp-includes/script-loader.php:955
+#: wp-includes/script-loader.php:945
 msgid "Galician"
 msgstr "Bahasa Galikan"
 
-#: wp-includes/script-loader.php:956
+#: wp-includes/script-loader.php:946
 msgid "German"
 msgstr "Bahasa Jerman"
 
-#: wp-includes/script-loader.php:957
+#: wp-includes/script-loader.php:947
 msgid "Greek"
 msgstr "Bahasa Yunani"
 
-#: wp-includes/script-loader.php:958
+#: wp-includes/script-loader.php:948
 msgid "Haitian Creole"
 msgstr "Bahasa Kreol Haiti"
 
-#: wp-includes/script-loader.php:959
+#: wp-includes/script-loader.php:949
 msgid "Hebrew"
 msgstr "Bahasa Ibrani"
 
-#: wp-includes/script-loader.php:960
+#: wp-includes/script-loader.php:950
 msgid "Hindi"
 msgstr "Bahasa Hindi"
 
-#: wp-includes/script-loader.php:961
+#: wp-includes/script-loader.php:951
 msgid "Hungarian"
 msgstr "Bahasa Hungaria"
 
-#: wp-includes/script-loader.php:962
+#: wp-includes/script-loader.php:952
 msgid "Icelandic"
 msgstr "Bahasa Islandia"
 
-#: wp-includes/script-loader.php:963
+#: wp-includes/script-loader.php:953
 msgid "Indonesian"
 msgstr "Bahasa Indonesia"
 
-#: wp-includes/script-loader.php:964
+#: wp-includes/script-loader.php:954
 msgid "Irish"
 msgstr "Bahasa Irlandia"
 
-#: wp-includes/script-loader.php:965
+#: wp-includes/script-loader.php:955
 msgid "Italian"
 msgstr "Bahasa Italia"
 
-#: wp-includes/script-loader.php:966
+#: wp-includes/script-loader.php:956
 msgid "Japanese"
 msgstr "Bahasa Jepang"
 
-#: wp-includes/script-loader.php:967
+#: wp-includes/script-loader.php:957
 msgid "Korean"
 msgstr "Bahasa Korea"
 
-#: wp-includes/script-loader.php:968
+#: wp-includes/script-loader.php:958
 msgid "Latvian"
 msgstr "Bahasa Latvia"
 
-#: wp-includes/script-loader.php:969
+#: wp-includes/script-loader.php:959
 msgid "Lithuanian"
 msgstr "Bahasa Lithuania"
 
-#: wp-includes/script-loader.php:970
+#: wp-includes/script-loader.php:960
 msgid "Macedonian"
 msgstr "Bahasa Macedonia"
 
-#: wp-includes/script-loader.php:971
+#: wp-includes/script-loader.php:961
 msgid "Malay"
 msgstr "Bahasa Melayu"
 
-#: wp-includes/script-loader.php:972
+#: wp-includes/script-loader.php:962
 msgid "Maltese"
 msgstr "Bahasa Malta"
 
-#: wp-includes/script-loader.php:973
+#: wp-includes/script-loader.php:963
 msgid "Norwegian"
 msgstr "Bahasa Norwegia"
 
-#: wp-includes/script-loader.php:974
+#: wp-includes/script-loader.php:964
 msgid "Persian"
 msgstr "Bahasa Persia"
 
-#: wp-includes/script-loader.php:975
+#: wp-includes/script-loader.php:965
 msgid "Polish"
 msgstr "Bahasa Polandia"
 
-#: wp-includes/script-loader.php:976
+#: wp-includes/script-loader.php:966
 msgid "Portuguese"
 msgstr "Bahasa Portugis"
 
-#: wp-includes/script-loader.php:977
+#: wp-includes/script-loader.php:967
 msgid "Romanian"
 msgstr "Bahasa Romania"
 
-#: wp-includes/script-loader.php:978
+#: wp-includes/script-loader.php:968
 msgid "Russian"
 msgstr "Bahasa Russia"
 
-#: wp-includes/script-loader.php:979
+#: wp-includes/script-loader.php:969
 msgid "Serbian"
 msgstr "Bahasa Serbia"
 
-#: wp-includes/script-loader.php:980
+#: wp-includes/script-loader.php:970
 msgid "Slovak"
 msgstr "Bahasa Slovakia"
 
-#: wp-includes/script-loader.php:981
+#: wp-includes/script-loader.php:971
 msgid "Slovenian"
 msgstr "Bahasa Slovenia"
 
-#: wp-includes/script-loader.php:982
+#: wp-includes/script-loader.php:972
 msgid "Spanish"
 msgstr "Bahasa Spanyol"
 
-#: wp-includes/script-loader.php:983
+#: wp-includes/script-loader.php:973
 msgid "Swahili"
 msgstr "Bahasa Swahili"
 
-#: wp-includes/script-loader.php:984
+#: wp-includes/script-loader.php:974
 msgid "Swedish"
 msgstr "Bahasa Swedia"
 
-#: wp-includes/script-loader.php:985
+#: wp-includes/script-loader.php:975
 msgid "Tagalog"
 msgstr "Bahasa Tagalog"
 
-#: wp-includes/script-loader.php:986
+#: wp-includes/script-loader.php:976
 msgid "Thai"
 msgstr "Bahasa Thai"
 
-#: wp-includes/script-loader.php:987
+#: wp-includes/script-loader.php:977
 msgid "Turkish"
 msgstr "Bahasa Turki"
 
-#: wp-includes/script-loader.php:988
+#: wp-includes/script-loader.php:978
 msgid "Ukrainian"
 msgstr "Bahasa Ukraina"
 
-#: wp-includes/script-loader.php:989
+#: wp-includes/script-loader.php:979
 msgid "Vietnamese"
 msgstr "Bahasa Vietnam"
 
-#: wp-includes/script-loader.php:990
+#: wp-includes/script-loader.php:980
 msgid "Welsh"
 msgstr "Bahasa Welsh"
 
-#: wp-includes/script-loader.php:991
+#: wp-includes/script-loader.php:981
 msgid "Yiddish"
 msgstr "Bahasa Yiddi"
 
-#: wp-includes/script-loader.php:1046
+#: wp-includes/script-loader.php:1036
 msgctxt "password strength"
 msgid "Password strength unknown"
 msgstr "Kekuatan sandi tak diketahui"
 
-#: wp-includes/script-loader.php:1047
+#: wp-includes/script-loader.php:1037
 msgctxt "password strength"
 msgid "Very weak"
 msgstr "Sangat lemah"
 
-#: wp-includes/script-loader.php:1048
+#: wp-includes/script-loader.php:1038
 msgctxt "password strength"
 msgid "Weak"
 msgstr "Lemah"
 
-#: wp-includes/script-loader.php:1049
+#: wp-includes/script-loader.php:1039
 msgctxt "password strength"
 msgid "Medium"
 msgstr "Sedang"
 
-#: wp-includes/script-loader.php:1050
+#: wp-includes/script-loader.php:1040
 msgctxt "password strength"
 msgid "Strong"
 msgstr "Kuat"
 
-#: wp-includes/script-loader.php:1051
+#: wp-includes/script-loader.php:1041
 msgctxt "password mismatch"
 msgid "Mismatch"
 msgstr "Tidak sama"
 
-#: wp-includes/script-loader.php:1088
+#: wp-includes/script-loader.php:1078
 msgid "Link selected."
 msgstr "Tautan terpilih."
 
-#: wp-includes/script-loader.php:1089
+#: wp-includes/script-loader.php:1079
 msgid "Link inserted."
 msgstr "Tautan tersisipkan."
 
 #. translators: Minimum input length in characters to start searching posts in the "Insert/edit link" modal.
-#: wp-includes/script-loader.php:1091
+#: wp-includes/script-loader.php:1081
 msgctxt "minimum input length for searching post links"
 msgid "3"
 msgstr ""
 
-#: wp-includes/script-loader.php:1116
+#: wp-includes/script-loader.php:1106
 msgid "Activate &amp; Publish"
 msgstr "Aktifkan &amp; Terbitkan"
 
-#: wp-includes/script-loader.php:1117
+#: wp-includes/script-loader.php:1107
 msgid "Save &amp; Publish"
 msgstr "Simpan &amp; Terbitkan"
 
-#: wp-includes/script-loader.php:1121
+#: wp-includes/script-loader.php:1111
 msgid "Draft Saved"
 msgstr "Draf Tersimpan"
 
-#: wp-includes/script-loader.php:1122
+#: wp-includes/script-loader.php:1112
 msgid "Updating"
 msgstr "Sedang memperbarui"
 
-#: wp-includes/script-loader.php:1124
+#: wp-includes/script-loader.php:1114
 msgctxt "customizer changeset status"
 msgid "Scheduled"
 msgstr "Terjadwal"
 
-#: wp-includes/script-loader.php:1125
+#: wp-includes/script-loader.php:1115
 msgid "Invalid"
 msgstr "Tidak Sah"
 
-#: wp-includes/script-loader.php:1126
+#: wp-includes/script-loader.php:1116
 msgid "Please save your changes in order to share the preview."
 msgstr "Silakan simpan perubahan Anda untuk dibagikan pratinjaunya."
 
-#: wp-includes/script-loader.php:1129
+#: wp-includes/script-loader.php:1119
 msgid "Saved"
 msgstr "Tersimpan"
 
-#: wp-includes/script-loader.php:1133
+#: wp-includes/script-loader.php:1123
 msgid "Discard changes"
 msgstr "Abaikan perubahan"
 
-#: wp-includes/script-loader.php:1137
+#: wp-includes/script-loader.php:1127
 msgid "Site Preview"
 msgstr "Pratinjau Situs"
 
-#: wp-includes/script-loader.php:1139
+#: wp-includes/script-loader.php:1129
 msgctxt "label for hide controls button without length constraints"
 msgid "Hide Controls"
 msgstr "Sembunyikan Kontrol"
 
-#: wp-includes/script-loader.php:1140
+#: wp-includes/script-loader.php:1130
 msgctxt "label for hide controls button without length constraints"
 msgid "Show Controls"
 msgstr "Tampilkan Kontrol"
 
-#: wp-includes/script-loader.php:1141
+#: wp-includes/script-loader.php:1131
 msgid "(Untitled)"
 msgstr "(Tanpa judul)"
 
-#: wp-includes/script-loader.php:1142
+#: wp-includes/script-loader.php:1132
 msgid "Looks like something&#8217;s gone wrong. Wait a couple seconds, and then try again."
 msgstr "Sepertinya ada masalah. Tunggu beberapa detik, lalu coba lagi."
 
-#: wp-includes/script-loader.php:1143
+#: wp-includes/script-loader.php:1133
 msgid "Downloading your new theme&hellip;"
 msgstr "Mengunduh tema baru Anda&hellip;"
 
-#: wp-includes/script-loader.php:1144
+#: wp-includes/script-loader.php:1134
 msgid "Setting up your live preview. This may take a bit."
 msgstr "Aturlah pratinjau langsung Anda. Hanya sebentar saja."
 
-#: wp-includes/script-loader.php:1145
+#: wp-includes/script-loader.php:1135
 msgid "Reverting unpublished changes&hellip;"
 msgstr "Mengembalikan perubahan yang tidak diterbitkan&hellip;"
 
-#: wp-includes/script-loader.php:1146
+#: wp-includes/script-loader.php:1136
 msgid "Are you sure you want to discard your unpublished changes?"
 msgstr ""
 
 #. translators: %s: Display name of the user who has taken over the changeset in customizer.
-#: wp-includes/script-loader.php:1148
+#: wp-includes/script-loader.php:1138
 #, php-format
 msgid "%s has taken over and is currently customizing."
 msgstr "%s telah mengambil alih dan sedang menyesuaikan."
 
 #. translators: %s: URL to the Customizer to load the autosaved version.
-#: wp-includes/script-loader.php:1150
+#: wp-includes/script-loader.php:1140
 #, php-format
 msgid "There is a more recent autosave of your changes than the one you are previewing. <a href=\"%s\">Restore the autosave</a>"
 msgstr "Ada perubahan lebih baru pada penyimpanan otomatis daripada perubahan Anda yang sedang Anda pratinjau. <a href=\"%s\">Kembalikan yang tersimpan di penyimpanan otomatis</a>"
 
-#: wp-includes/script-loader.php:1151
+#: wp-includes/script-loader.php:1141
 msgid "This theme does not support video headers on this page. Navigate to the front page or another page that supports video headers."
 msgstr ""
 
-#: wp-includes/script-loader.php:1153
+#: wp-includes/script-loader.php:1143
 msgid "Allowed Files"
 msgstr "Berkas yang Diijinkan"
 
 #. translators: %d: Error count.
-#: wp-includes/script-loader.php:1156
-#: wp-includes/script-loader.php:1158
+#: wp-includes/script-loader.php:1146
+#: wp-includes/script-loader.php:1148
 #, php-format
 msgid "There is %d error which must be fixed before you can save."
 msgid_plural "There are %d errors which must be fixed before you can save."
 msgstr[0] "Ada %d kesalahan yang harus diperbaiki sebelum Anda bisa menyimpan pos."
 
-#: wp-includes/script-loader.php:1161
+#: wp-includes/script-loader.php:1151
 msgid "Homepage and posts page must be different."
 msgstr "Halaman depan dan halaman blog harus berbeda."
 
-#: wp-includes/script-loader.php:1169
+#: wp-includes/script-loader.php:1159
 msgid "Schedule your customization changes to publish (\"go live\") at a future date."
 msgstr "Jadwalkan perubahan penataan untuk diterbitkan (\"secara langsung\") pada tanggal mendatang."
 
-#: wp-includes/script-loader.php:1170
+#: wp-includes/script-loader.php:1160
 msgid "Sorry, you cannot preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
 msgstr ""
 
 #. translators: %s: URL to Add Themes admin screen.
-#: wp-includes/script-loader.php:1173
+#: wp-includes/script-loader.php:1163
 #, php-format
 msgid "You will not be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
 msgstr ""
 
-#: wp-includes/script-loader.php:1176
+#: wp-includes/script-loader.php:1166
 msgid "Publish Settings"
 msgstr "Pengaturan penerbitan"
 
 #. translators: 1: Link to Site Editor documentation on HelpHub, 2: HTML button.
-#: wp-includes/script-loader.php:1181
+#: wp-includes/script-loader.php:1171
 #, php-format
 msgid "Hurray! Your theme supports site editing with blocks. <a href=\"%1$s\">Tell me more</a>. %2$s"
 msgstr ""
 
-#: wp-includes/script-loader.php:1182
+#: wp-includes/script-loader.php:1172
 msgid "https://wordpress.org/documentation/article/site-editor/"
 msgstr ""
 
-#: wp-includes/script-loader.php:1186
+#: wp-includes/script-loader.php:1176
 msgid "Use Site Editor"
 msgstr ""
 
-#: wp-includes/script-loader.php:1347
+#: wp-includes/script-loader.php:1337
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
 #: wp-includes/widgets/class-wp-widget-media-image.php:511
+#: wp-includes/widgets/class-wp-widget-text.php:515
 msgid "by"
 msgstr ""
 
-#: wp-includes/script-loader.php:1348
+#: wp-includes/script-loader.php:1338
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:286
 #: wp-includes/widgets/class-wp-widget-media-image.php:512
+#: wp-includes/widgets/class-wp-widget-text.php:516
 msgid "pixels"
 msgstr ""
 
-#: wp-includes/script-loader.php:1350
+#: wp-includes/script-loader.php:1340
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:288
 #: wp-includes/widgets/class-wp-widget-media-image.php:513
+#: wp-includes/widgets/class-wp-widget-text.php:518
 msgid "Failed to update media:"
 msgstr ""
 
-#: wp-includes/script-loader.php:1351
+#: wp-includes/script-loader.php:1341
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:289
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
+#: wp-includes/widgets/class-wp-widget-text.php:519
 msgid "Error:"
 msgstr "Galat:"
 
-#: wp-includes/script-loader.php:1352
+#: wp-includes/script-loader.php:1342
 #: wp-includes/widgets/class-wp-widget-media-image.php:515
+#: wp-includes/widgets/class-wp-widget-text.php:509
 msgid "Upload failed"
 msgstr ""
 
-#: wp-includes/script-loader.php:1353
+#: wp-includes/script-loader.php:1343
 msgid "Upload aborted for"
 msgstr ""
 
-#: wp-includes/script-loader.php:1354
+#: wp-includes/script-loader.php:1344
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
+#: wp-includes/widgets/class-wp-widget-text.php:510
 msgid "Tap to close"
 msgstr ""
 
-#: wp-includes/script-loader.php:1355
+#: wp-includes/script-loader.php:1345
 #: wp-includes/widgets/class-wp-widget-media-image.php:517
 msgid "Enter new filename"
 msgstr ""
 
-#: wp-includes/script-loader.php:1356
+#: wp-includes/script-loader.php:1346
 #: wp-includes/widgets/class-wp-widget-media-image.php:518
 msgid "Invalid file type"
 msgstr ""
 
-#: wp-includes/script-loader.php:1357
+#: wp-includes/script-loader.php:1347
 #: wp-includes/widgets/class-wp-widget-media-image.php:519
 msgid "Check the list of accepted file types."
 msgstr ""
 
-#: wp-includes/script-loader.php:1358
+#: wp-includes/script-loader.php:1348
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:290
 #: wp-includes/widgets/class-wp-widget-media-image.php:520
+#: wp-includes/widgets/class-wp-widget-text.php:520
 msgid "Failed to delete attachment."
 msgstr ""
 
-#: wp-includes/script-loader.php:1359
+#: wp-includes/script-loader.php:1349
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:291
 #: wp-includes/widgets/class-wp-widget-media-image.php:521
+#: wp-includes/widgets/class-wp-widget-text.php:521
 msgid "You are about to permanently delete this item from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
-#: wp-includes/script-loader.php:1360
+#: wp-includes/script-loader.php:1350
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:292
 #: wp-includes/widgets/class-wp-widget-media-image.php:522
+#: wp-includes/widgets/class-wp-widget-text.php:522
 msgid "You are about to permanently delete these items from your site.\n"
 "This action cannot be undone.\n"
 "'Cancel' to stop, 'OK' to delete."
 msgstr ""
 
-#: wp-includes/script-loader.php:1395
+#: wp-includes/script-loader.php:1385
 msgid "Select an image"
 msgstr ""
 
-#: wp-includes/script-loader.php:1396
+#: wp-includes/script-loader.php:1386
 msgid "Use this image"
 msgstr ""
 
-#: wp-includes/script-loader.php:1397
+#: wp-includes/script-loader.php:1387
 msgid "Please choose an image!"
 msgstr ""
 
 #. translators: If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1449
+#: wp-includes/script-loader.php:1439
 msgctxt "Open Sans font: on or off"
 msgid "on"
 msgstr "on"
 
 #. translators: To add an additional Open Sans character subset specific to your language, translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
-#: wp-includes/script-loader.php:1456
+#: wp-includes/script-loader.php:1446
 msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
 msgid "no-subset"
 msgstr "no-subset"
 
-#: wp-includes/script-loader.php:1697
+#: wp-includes/script-loader.php:1689
 msgid "Today"
 msgstr "Hari ini"
 
-#: wp-includes/script-loader.php:1701
+#: wp-includes/script-loader.php:1693
 msgid "Previous"
 msgstr "Sebelumnya"
 
@@ -14412,9 +14615,9 @@ msgstr ""
 msgid "Leave empty if the image is purely decorative."
 msgstr ""
 
-#: wp-includes/widgets.php:2330
+#: wp-includes/widgets.php:2340
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
-#: wp-includes/widgets/class-wp-widget-media-video.php:290
+#: wp-includes/widgets/class-wp-widget-media-video.php:283
 #: wp-includes/widgets/class-wp-widget-media.php:456
 msgid "Add to Widget"
 msgstr "Tambahkan ke Widget"
@@ -14434,18 +14637,18 @@ msgstr "Tidak ada menu yang telah dibuat. <a href=\"%s\">Buat beberapa</a>."
 #: wp-includes/widgets/class-wp-widget-calendar.php:100
 #: wp-includes/widgets/class-wp-widget-categories.php:175
 #: wp-includes/widgets/class-wp-widget-custom-html.php:225
-#: wp-includes/widgets/class-wp-widget-media-audio.php:145
+#: wp-includes/widgets/class-wp-widget-media-audio.php:148
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:167
 #: wp-includes/widgets/class-wp-widget-media-image.php:380
-#: wp-includes/widgets/class-wp-widget-media-video.php:192
+#: wp-includes/widgets/class-wp-widget-media-video.php:185
 #: wp-includes/widgets/class-wp-widget-meta.php:130
 #: wp-includes/widgets/class-wp-widget-pages.php:155
 #: wp-includes/widgets/class-wp-widget-recent-comments.php:181
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:159
 #: wp-includes/widgets/class-wp-widget-search.php:72
 #: wp-includes/widgets/class-wp-widget-tag-cloud.php:142
-#: wp-includes/widgets/class-wp-widget-text.php:479
-#: wp-includes/widgets/class-wp-widget-text.php:497
+#: wp-includes/widgets/class-wp-widget-text.php:569
+#: wp-includes/widgets/class-wp-widget-text.php:606
 msgid "Title:"
 msgstr "Judul:"
 
@@ -14516,8 +14719,8 @@ msgid "Custom HTML"
 msgstr "HTML Khusus"
 
 #: wp-includes/widgets/class-wp-widget-custom-html.php:229
-#: wp-includes/widgets/class-wp-widget-text.php:484
-#: wp-includes/widgets/class-wp-widget-text.php:518
+#: wp-includes/widgets/class-wp-widget-text.php:574
+#: wp-includes/widgets/class-wp-widget-text.php:627
 msgid "Content:"
 msgstr "Isi:"
 
@@ -14606,80 +14809,81 @@ msgstr "Tampilkan sebuah pemutar audio."
 msgid "URL to the %s audio source file"
 msgstr "URL menuju %s berkas sumber audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:156
+#: wp-includes/widgets/class-wp-widget-media-audio.php:159
 msgid "Edit Audio"
 msgstr "Sunting Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:157
+#: wp-includes/widgets/class-wp-widget-media-audio.php:160
 msgid "Replace Audio"
 msgstr "Ganti Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:166
+#: wp-includes/widgets/class-wp-widget-media-audio.php:169
 msgid "Add Audio"
 msgstr "Tambah Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:233
+#: wp-includes/widgets/class-wp-widget-media-audio.php:236
 msgctxt "label for button in the audio widget"
 msgid "Add Audio"
 msgstr "Tambah Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:234
+#: wp-includes/widgets/class-wp-widget-media-audio.php:237
 msgctxt "label for button in the audio widget"
 msgid "Add Media"
 msgstr "Tambahkan Media"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:235
+#: wp-includes/widgets/class-wp-widget-media-audio.php:238
 msgid "Add to widget"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:236
+#: wp-includes/widgets/class-wp-widget-media-audio.php:239
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
 msgid "Replace Audio"
 msgstr "Ganti Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:237
+#: wp-includes/widgets/class-wp-widget-media-audio.php:240
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Audio"
 msgstr "Sunting Audio"
 
 #. translators: %s: URL to media library.
-#: wp-includes/widgets/class-wp-widget-media-audio.php:240
+#: wp-includes/widgets/class-wp-widget-media-audio.php:243
 #, php-format
 msgid "That audio file cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:245
+#: wp-includes/widgets/class-wp-widget-media-audio.php:248
 msgid "Audio Details"
 msgstr "Rincian Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:247
+#: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #, php-format
 msgid "Audio Widget (%d)"
 msgid_plural "Audio Widget (%d)"
 msgstr[0] "Widget Audio (%d)"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:248
+#: wp-includes/widgets/class-wp-widget-media-audio.php:251
 msgid "Audio Widget"
 msgstr "Widget Audio"
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:249
+#: wp-includes/widgets/class-wp-widget-media-audio.php:252
 msgid "Looks like this is not the correct kind of file. Please link to an audio file instead."
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:250
-#: wp-includes/widgets/class-wp-widget-media-video.php:303
+#: wp-includes/widgets/class-wp-widget-media-audio.php:253
+#: wp-includes/widgets/class-wp-widget-media-video.php:296
 msgid "No file exists at that URL"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:257
+#: wp-includes/widgets/class-wp-widget-media-audio.php:260
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
 #: wp-includes/widgets/class-wp-widget-media-image.php:507
-#: wp-includes/widgets/class-wp-widget-media-video.php:308
+#: wp-includes/widgets/class-wp-widget-media-video.php:301
+#: wp-includes/widgets/class-wp-widget-text.php:495
 msgid "media items"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-audio.php:294
-#: wp-includes/widgets/class-wp-widget-media-video.php:345
+#: wp-includes/widgets/class-wp-widget-media-audio.php:297
+#: wp-includes/widgets/class-wp-widget-media-video.php:338
 msgid "Auto"
 msgstr "Otomatis"
 
@@ -14799,20 +15003,23 @@ msgid "Edit Image"
 msgstr "Sunting Gambar"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:499
+#: wp-includes/widgets/class-wp-widget-text.php:505
 msgid "Image Details"
 msgstr "Rincian Gambar"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:501
-#: wp-includes/widgets/class-wp-widget-media-video.php:297
+#: wp-includes/widgets/class-wp-widget-media-video.php:290
 #: wp-includes/widgets/class-wp-widget-media.php:465
 msgid "Looks like this is not the correct kind of file. Please link to an appropriate file instead."
 msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
+#: wp-includes/widgets/class-wp-widget-text.php:503
 msgid "The current image has no alternative text. The file name is: "
 msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
+#: wp-includes/widgets/class-wp-widget-text.php:506
 msgid "No file exists at the URL provided."
 msgstr ""
 
@@ -14830,45 +15037,45 @@ msgstr "Menampilkan video dari pustaka media atau dari YouTube, Vimeo, atau peny
 msgid "URL to the %s video source file"
 msgstr "URL menuju %s berkas sumber video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:203
+#: wp-includes/widgets/class-wp-widget-media-video.php:196
 msgid "Edit Video"
 msgstr "Sunting Video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:204
+#: wp-includes/widgets/class-wp-widget-media-video.php:197
 msgid "Replace Video"
 msgstr "Ganti Video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:213
+#: wp-includes/widgets/class-wp-widget-media-video.php:206
 msgid "Add Video"
 msgstr "Tambah Video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:287
+#: wp-includes/widgets/class-wp-widget-media-video.php:280
 msgctxt "label for button in the media widget"
 msgid "Add Video"
 msgstr "Tambah Video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:288
+#: wp-includes/widgets/class-wp-widget-media-video.php:281
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Replace Video"
 msgstr "Ganti Video"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:289
+#: wp-includes/widgets/class-wp-widget-media-video.php:282
 msgctxt "label for button in the media widget; should preferably not be longer than ~13 characters long"
 msgid "Edit Video"
 msgstr "Sunting Video"
 
 #. translators: %s: URL to media library.
-#: wp-includes/widgets/class-wp-widget-media-video.php:294
+#: wp-includes/widgets/class-wp-widget-media-video.php:287
 #: wp-includes/widgets/class-wp-widget-media.php:459
 #, php-format
 msgid "That file cannot be found. Check your <a href=\"%s\">media library</a> and make sure it was not deleted."
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:298
+#: wp-includes/widgets/class-wp-widget-media-video.php:291
 msgid "Add Subtitles"
 msgstr "Tambahkan Subtitle"
 
-#: wp-includes/widgets/class-wp-widget-media-video.php:301
+#: wp-includes/widgets/class-wp-widget-media-video.php:294
 msgid "Video Details"
 msgstr "Rincian Video"
 
@@ -15054,15 +15261,55 @@ msgstr "Teks arbitrer."
 msgid "Text"
 msgstr "Teks"
 
-#: wp-includes/widgets/class-wp-widget-text.php:503
+#: wp-includes/widgets/class-wp-widget-text.php:472
+msgid "Cancel gallery"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:473
+msgid "Cancel audio playlist"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:474
+msgid "Cancel video playlist"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:496
+msgid "item selected"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:497
+msgid "items selected"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:500
+msgid "Wrong URL"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:502
+msgid "Unsupported file type"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:511
+msgid "New filename"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:512
+msgid "Invalid type"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:513
+msgid "Check types"
+msgstr ""
+
+#: wp-includes/widgets/class-wp-widget-text.php:612
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
 msgstr "Widget ini mungkin memuat kode yang berfungsi lebih baik dalam widget &#8220;HTML Kustom&#8221;. Mau mencoba widget tersebut?"
 
-#: wp-includes/widgets/class-wp-widget-text.php:505
+#: wp-includes/widgets/class-wp-widget-text.php:614
 msgid "This widget may have contained code that may work better in the &#8220;Custom HTML&#8221; widget. If you have not yet, how about trying that widget instead?"
 msgstr ""
 
-#: wp-includes/widgets/class-wp-widget-text.php:524
+#: wp-includes/widgets/class-wp-widget-text.php:633
 msgid "Automatically add paragraphs"
 msgstr "Secara otomatis menambahkan paragraf"
 
@@ -15614,24 +15861,24 @@ msgstr "Maaf, pelacakan ditutup untuk item ini."
 msgid "There is already a ping from that URL for this post."
 msgstr ""
 
-#: wp-includes/js/dist/a11y.js:1265
+#: wp-includes/js/dist/a11y.js:1254
 msgid "Notifications"
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:173
-msgid "Unable to connect. Please check your Internet connection."
+#: wp-includes/js/dist/api-fetch.js:1614
+msgid "The response is not a valid JSON response."
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:180
-msgid "Could not get a valid response from the server."
-msgstr ""
-
-#: wp-includes/js/dist/api-fetch.js:1607
+#: wp-includes/js/dist/api-fetch.js:1680
 msgid "Media upload failed. If this is a photo or a large image, please scale it down and try again."
 msgstr ""
 
-#: wp-includes/js/dist/api-fetch.js:2022
-msgid "The response is not a valid JSON response."
+#: wp-includes/js/dist/api-fetch.js:1821
+msgid "Unable to connect. Please check your Internet connection."
+msgstr ""
+
+#: wp-includes/js/dist/api-fetch.js:1828
+msgid "Could not get a valid response from the server."
 msgstr ""
 
 #: wp-includes/js/media-editor.js:630

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2025-11-19 18:03\n"
+"PO-Revision-Date: 2026-02-25 06:01\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -139,7 +139,7 @@ msgstr ""
 
 #: wp-admin/about.php:108
 msgid "Join our growing community"
-msgstr ""
+msgstr "私たちの成長するコミュニティに参加"
 
 #. translators: 1: link with instructions to join ClassicPress Zulip, 2: link to community forums
 #: wp-admin/about.php:113
@@ -187,7 +187,7 @@ msgstr ""
 
 #: wp-admin/about.php:170
 msgid "ClassicPress 1.0.0"
-msgstr ""
+msgstr "ClassicPress 1.0.0"
 
 #. translators: 1: WP version number, 2: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:175
@@ -314,7 +314,7 @@ msgstr "<a href=\"%s\">ClassicPress</a> のご利用ありがとうございま�
 #: wp-admin/admin-footer.php:38
 #: wp-admin/upgrade.php:69
 msgid "https://www.classicpress.net/"
-msgstr ""
+msgstr "https://www.classicpress.net/"
 
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
@@ -332,25 +332,25 @@ msgstr "ユーザーダッシュボード: %s"
 #: wp-admin/admin-header.php:50
 #, php-format
 msgid "%s &#8212; ClassicPress"
-msgstr ""
+msgstr "%s &#8212; ClassicPress"
 
 #. translators: Editor admin screen title. 1: "Edit item" text for the post type, 2: Post title.
 #: wp-admin/admin-header.php:60
 #, php-format
 msgid "%1$s &#8220;%2$s&#8221;"
-msgstr ""
+msgstr "%1$s &#8220;%2$s&#8221;"
 
 #. translators: Admin screen title. 1: Admin screen name, 2: Network or site name.
 #: wp-admin/admin-header.php:68
 #, php-format
 msgid "%1$s &lsaquo; %2$s &#8212; ClassicPress"
-msgstr ""
+msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 
 #. translators: %s: Admin screen title.
 #: wp-admin/admin-header.php:73
 #, php-format
 msgid "Recovery Mode &#8212; %s"
-msgstr ""
+msgstr "リカバリーモード&#8212;"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: Post edited date, 2: Post edited time.
@@ -569,7 +569,7 @@ msgstr ""
 
 #: wp-admin/authorize-application.php:298
 msgid "You will be given a password to manually enter into the application in question."
-msgstr ""
+msgstr "。"
 
 #: wp-admin/authorize-application.php:305
 msgid "No, I do not approve of this connection"
@@ -8580,7 +8580,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1196
 msgid "Severely outdated SQL server"
-msgstr ""
+msgstr "重大な古いSQLサーバー"
 
 #. translators: 1: The database engine in use (MySQL or MariaDB). 2: Database server minimum version number.
 #: wp-admin/includes/class-wp-site-health.php:1203
@@ -8596,7 +8596,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1247
 msgid "UTF8MB4 is supported"
-msgstr ""
+msgstr "UTF8MB4がサポートされています"
 
 #: wp-admin/includes/class-wp-site-health.php:1255
 msgid "UTF8MB4 is the character set ClassicPress prefers for database storage because it safely supports the widest set of characters and encodings, including Emoji, enabling better support for non-English languages."
@@ -8604,7 +8604,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1265
 msgid "utf8mb4 requires a MySQL update"
-msgstr ""
+msgstr "utf8mb4 には MySQL の更新が必要です"
 
 #. translators: %s: Version number.
 #: wp-admin/includes/class-wp-site-health.php:1271
@@ -8628,12 +8628,12 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1298
 msgid "Your MariaDB version supports utf8mb4."
-msgstr ""
+msgstr "MariaDBバージョンはutf8mb4をサポートしています。"
 
 #: wp-admin/includes/class-wp-site-health.php:1315
 #: wp-admin/includes/class-wp-site-health.php:1331
 msgid "utf8mb4 requires a newer client library"
-msgstr ""
+msgstr "utf8mb4 には新しいクライアントライブラリが必要です"
 
 #. translators: 1: Name of the library, 2: Number of version.
 #: wp-admin/includes/class-wp-site-health.php:1321
@@ -8644,7 +8644,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1357
 msgid "Can communicate with ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.netと通信可能"
 
 #: wp-admin/includes/class-wp-site-health.php:1365
 msgid "Communicating with the ClassicPress servers is used to check for new versions, and to both install and update ClassicPress core, themes or plugins."
@@ -8652,7 +8652,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1382
 msgid "Could not reach ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net に到達できませんでした"
 
 #. translators: 1: The IP address WordPress.org resolves to. 2: The error returned by the lookup.
 #: wp-admin/includes/class-wp-site-health.php:1392
@@ -8716,11 +8716,11 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1521
 msgid "Learn more about why you should use HTTPS"
-msgstr ""
+msgstr "HTTPS を使用する理由の詳細"
 
 #: wp-admin/includes/class-wp-site-health.php:1532
 msgid "Your website does not use HTTPS"
-msgstr ""
+msgstr "あなたのウェブサイトはHTTPSを使用していません"
 
 #. translators: %s: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1540
@@ -8759,7 +8759,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:1603
 #: wp-admin/includes/class-wp-site-health.php:1611
 msgid "Update your site to use HTTPS"
-msgstr ""
+msgstr "HTTPS を使用するためにサイトを更新します"
 
 #: wp-admin/includes/class-wp-site-health.php:1622
 #: wp-admin/includes/class-wp-site-health.php:1629
@@ -8784,7 +8784,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1693
 msgid "Scheduled events are running"
-msgstr ""
+msgstr "予定されたイベントが実行されています"
 
 #: wp-admin/includes/class-wp-site-health.php:1701
 msgid "Scheduled events are what periodically looks for updates to plugins, themes and ClassicPress itself. It is also what makes sure scheduled posts are published on time. It may also be used by various plugins to make sure that planned actions are executed."
@@ -8802,7 +8802,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1725
 msgid "A scheduled event has failed"
-msgstr ""
+msgstr "スケジュールされたイベントが失敗しました"
 
 #. translators: %s: The name of the failed cron event.
 #: wp-admin/includes/class-wp-site-health.php:1731
@@ -8812,7 +8812,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:1738
 msgid "A scheduled event is late"
-msgstr ""
+msgstr "予定されたイベントが遅れています"
 
 #. translators: %s: The name of the late cron event.
 #: wp-admin/includes/class-wp-site-health.php:1744
@@ -8831,7 +8831,7 @@ msgstr ""
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:1793
 msgid "Passed"
-msgstr ""
+msgstr "合格しました"
 
 #: wp-admin/includes/class-wp-site-health.php:1796
 msgid "Background updates are not working as expected"
@@ -8983,7 +8983,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2132
 msgid "HTTP requests are blocked"
-msgstr ""
+msgstr "HTTP リクエストはブロックされています"
 
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health.php:2138
@@ -8993,7 +8993,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2147
 msgid "HTTP requests are partially blocked"
-msgstr ""
+msgstr "HTTP リクエストは部分的にブロックされています"
 
 #. translators: 1: Name of the constant used. 2: List of allowed hostnames.
 #: wp-admin/includes/class-wp-site-health.php:2153
@@ -9003,7 +9003,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2175
 msgid "The REST API is available"
-msgstr ""
+msgstr "REST API が利用可能です"
 
 #: wp-admin/includes/class-wp-site-health.php:2183
 msgid "The REST API is one way that ClassicPress and other applications communicate with the server. For example, the block editor screen relies on the REST API to display and save your posts and pages."
@@ -9022,7 +9022,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:2245
 #, php-format
 msgid "REST API Endpoint: %s"
-msgstr ""
+msgstr "REST API エンドポイント: %s"
 
 #. translators: 1: The ClassicPress error code. 2: The ClassicPress error message.
 #. translators: 1: The ClassicPress error code. 2: The HTTP status code error message.
@@ -9030,7 +9030,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:2250
 #, php-format
 msgid "REST API Response: (%1$s) %2$s"
-msgstr ""
+msgstr "REST API 応答: (%1$s) %2$s"
 
 #: wp-admin/includes/class-wp-site-health.php:2238
 msgid "The REST API encountered an unexpected result"
@@ -9052,7 +9052,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2286
 msgid "Files can be uploaded"
-msgstr ""
+msgstr "ファイルはアップロードできます"
 
 #. translators: 1: file_uploads, 2: php.ini
 #: wp-admin/includes/class-wp-site-health.php:2296
@@ -9112,7 +9112,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2414
 msgid "Flush permalinks"
-msgstr ""
+msgstr "パーマリンクをフラッシュする"
 
 #: wp-admin/includes/class-wp-site-health.php:2419
 msgid "https://developer.wordpress.org/rest-api/frequently-asked-questions/#why-is-authentication-not-working"
@@ -9136,11 +9136,11 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2453
 msgid "Learn more about page cache"
-msgstr ""
+msgstr "ページキャッシュについてもっと詳しく"
 
 #: wp-admin/includes/class-wp-site-health.php:2462
 msgid "Unable to detect the presence of page cache"
-msgstr ""
+msgstr "ページキャッシュの存在を検出できません"
 
 #. translators: 1: Error message, 2: Error code.
 #: wp-admin/includes/class-wp-site-health.php:2466
@@ -9150,7 +9150,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2478
 msgid "Page cache is not detected but the server response time is OK"
-msgstr ""
+msgstr "ページキャッシュが検出されませんが、サーバーの応答時間はOKです"
 
 #: wp-admin/includes/class-wp-site-health.php:2481
 msgid "Page cache is detected and the server response time is good"
@@ -9193,20 +9193,20 @@ msgstr[0] ""
 
 #: wp-admin/includes/class-wp-site-health.php:2533
 msgid "A page cache plugin was detected."
-msgstr ""
+msgstr "ページキャッシュプラグインを検出しました。"
 
 #: wp-admin/includes/class-wp-site-health.php:2536
 msgid "A page cache plugin was not detected."
-msgstr ""
+msgstr "ページキャッシュプラグインが検出されませんでした。"
 
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:2561
 msgid "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
 
 #: wp-admin/includes/class-wp-site-health.php:2571
 msgid "A persistent object cache is being used"
-msgstr ""
+msgstr "永続的なオブジェクトキャッシュが使用されています"
 
 #: wp-admin/includes/class-wp-site-health.php:2574
 msgid "A persistent object cache makes your site&#8217;s database more efficient, resulting in faster load times because ClassicPress can retrieve your site&#8217;s content and settings much more quickly."
@@ -9236,63 +9236,63 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2656
 msgid "ClassicPress Version"
-msgstr ""
+msgstr "ClassicPressバージョン"
 
 #: wp-admin/includes/class-wp-site-health.php:2660
 msgid "Plugin Versions"
-msgstr ""
+msgstr "プラグインバージョン"
 
 #: wp-admin/includes/class-wp-site-health.php:2664
 msgid "Theme Versions"
-msgstr ""
+msgstr "テーマの種類"
 
 #: wp-admin/includes/class-wp-site-health.php:2668
 msgid "PHP Version"
-msgstr ""
+msgstr "PHPのバージョン"
 
 #: wp-admin/includes/class-wp-site-health.php:2672
 msgid "PHP Extensions"
-msgstr ""
+msgstr "PHP エクステンション"
 
 #: wp-admin/includes/class-wp-site-health.php:2676
 msgid "PHP Default Timezone"
-msgstr ""
+msgstr "PHP のデフォルトのタイムゾーン"
 
 #: wp-admin/includes/class-wp-site-health.php:2680
 msgid "PHP Sessions"
-msgstr ""
+msgstr "PHPのセッション"
 
 #: wp-admin/includes/class-wp-site-health.php:2684
 msgid "Database Server version"
-msgstr ""
+msgstr "データベースサーバーのバージョン"
 
 #: wp-admin/includes/class-wp-site-health.php:2688
 msgid "MySQL utf8mb4 support"
-msgstr ""
+msgstr "MySQL utf8mb4 のサポート"
 
 #: wp-admin/includes/class-wp-site-health.php:2692
 msgid "Secure communication"
-msgstr ""
+msgstr "安全なコミュニケーション"
 
 #: wp-admin/includes/class-wp-site-health.php:2696
 msgid "Scheduled events"
-msgstr ""
+msgstr "予定されたイベント"
 
 #: wp-admin/includes/class-wp-site-health.php:2700
 msgid "HTTP Requests"
-msgstr ""
+msgstr "HTTP リクエスト"
 
 #: wp-admin/includes/class-wp-site-health.php:2704
 msgid "REST API availability"
-msgstr ""
+msgstr "REST API を利用可"
 
 #: wp-admin/includes/class-wp-site-health.php:2709
 msgid "Debugging enabled"
-msgstr ""
+msgstr "デバッグが有効です"
 
 #: wp-admin/includes/class-wp-site-health.php:2717
 msgid "Plugin and theme auto-updates"
-msgstr ""
+msgstr "プラグインとテーマの自動アップデート"
 
 #: wp-admin/includes/class-wp-site-health.php:2721
 msgid "Plugin and theme temporary backup directory access"
@@ -9300,7 +9300,7 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2725
 msgid "Available disk space"
-msgstr ""
+msgstr "使用可能なディスク容量"
 
 #: wp-admin/includes/class-wp-site-health.php:2731
 msgid "Communication with ClassicPress.net"
@@ -9312,23 +9312,23 @@ msgstr ""
 
 #: wp-admin/includes/class-wp-site-health.php:2743
 msgid "Loopback request"
-msgstr ""
+msgstr "ループバックリクエスト"
 
 #: wp-admin/includes/class-wp-site-health.php:2749
 msgid "HTTPS status"
-msgstr ""
+msgstr "HTTPS ステータス"
 
 #: wp-admin/includes/class-wp-site-health.php:2760
 msgid "Authorization header"
-msgstr ""
+msgstr "認可ヘッダー"
 
 #: wp-admin/includes/class-wp-site-health.php:2771
 msgid "Page cache"
-msgstr ""
+msgstr "ページキャッシュ"
 
 #: wp-admin/includes/class-wp-site-health.php:2778
 msgid "Persistent object cache"
-msgstr ""
+msgstr "永続的なオブジェクトキャッシュ"
 
 #: wp-admin/includes/class-wp-site-health.php:2889
 msgid "No scheduled events exist on this site."
@@ -9362,7 +9362,7 @@ msgstr ""
 #: wp-admin/includes/class-wp-site-health.php:3100
 #, php-format
 msgid "Error: %1$s (%2$s)"
-msgstr ""
+msgstr "エラー: %1$s (%2$s)"
 
 #. translators: %d: The HTTP response code returned.
 #: wp-admin/includes/class-wp-site-health.php:3113

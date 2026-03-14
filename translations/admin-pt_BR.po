@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-12-09 23:01\n"
+"PO-Revision-Date: 2025-12-16 22:23\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -74,7 +74,7 @@ msgstr ""
 #: wp-admin/freedoms.php:35
 #: wp-admin/privacy.php:35
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr ""
+msgstr "Estável. Leve. Instantaneamente familiar."
 
 #: wp-admin/about.php:60
 #: wp-admin/credits.php:43
@@ -161,11 +161,11 @@ msgstr ""
 
 #: wp-admin/about.php:140
 msgid "ClassicPress changelogs"
-msgstr ""
+msgstr "Registros de mudanças do ClassicPress"
 
 #: wp-admin/about.php:141
 msgid "ClassicPress 2.0.0"
-msgstr ""
+msgstr "ClassicPress 2.0.0"
 
 #. translators: 1: WP version number, 2: link to ClassicPress 2.0.0 changelog
 #: wp-admin/about.php:146
@@ -177,7 +177,7 @@ msgstr "ClassicPress 2.0.0 é uma derivação (fork) do WordPress %1$s. Leia as 
 #: wp-admin/about.php:156
 #, php-format
 msgid "ClassicPress 1.0.1 - %s"
-msgstr ""
+msgstr "ClassicPress 1.0.1 - %s"
 
 #. translators: link to ClassicPress release announcements subforum
 #: wp-admin/about.php:165
@@ -187,7 +187,7 @@ msgstr ""
 
 #: wp-admin/about.php:170
 msgid "ClassicPress 1.0.0"
-msgstr ""
+msgstr "ClassicPress 1.0.0"
 
 #. translators: 1: WP version number, 2: link to ClassicPress 1.0.0 changelog
 #: wp-admin/about.php:175
@@ -197,7 +197,7 @@ msgstr "ClassicPress 1.0.0 é uma derivação (fork) do WordPress %1$s. Leia as 
 
 #: wp-admin/about.php:181
 msgid "ClassicPress Maintenance and Security Releases"
-msgstr ""
+msgstr "Atualizações de Manutenção e Segurança do ClassicPress"
 
 #: wp-admin/about.php:184
 msgid "This version of ClassicPress includes all changes from the following versions of WordPress:"
@@ -318,7 +318,7 @@ msgstr "Obrigado por criar com <a href=\"%s\">ClassicPress</a>."
 #: wp-admin/admin-footer.php:38
 #: wp-admin/upgrade.php:69
 msgid "https://www.classicpress.net/"
-msgstr ""
+msgstr "https://www.classicpress.net/"
 
 #. translators: Network admin screen title. %s: Network title.
 #: wp-admin/admin-header.php:40
@@ -336,7 +336,7 @@ msgstr "Painel do Usuário: %s"
 #: wp-admin/admin-header.php:50
 #, php-format
 msgid "%s &#8212; ClassicPress"
-msgstr ""
+msgstr "%s &#8212; ClassicPress"
 
 #. translators: Editor admin screen title. 1: "Edit item" text for the post type, 2: Post title.
 #: wp-admin/admin-header.php:60
@@ -354,7 +354,7 @@ msgstr "%1$s &lsaquo; %2$s &#8212; ClassicPress"
 #: wp-admin/admin-header.php:73
 #, php-format
 msgid "Recovery Mode &#8212; %s"
-msgstr ""
+msgstr "Modo de Recuperação &#8212; %s"
 
 #. translators: 1: Name of most recent post author, 2: Post edited date, 3: Post edited time.
 #. translators: 1: Post edited date, 2: Post edited time.
@@ -445,7 +445,7 @@ msgstr "Tipo de post inválido."
 #: wp-admin/includes/media.php:3308
 #: wp-admin/upload.php:607
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "Copiar URL para área de transferência"
 
 #: wp-admin/async-upload.php:73
 #: wp-admin/includes/ajax-actions.php:3456
@@ -456,7 +456,7 @@ msgstr ""
 #: wp-admin/site-health-info.php:59
 #: wp-admin/upload.php:608
 msgid "Copied!"
-msgstr ""
+msgstr "Copiado!"
 
 #: wp-admin/async-upload.php:77
 msgctxt "media item"
@@ -507,11 +507,11 @@ msgstr "Voltar"
 
 #: wp-admin/authorize-application.php:106
 msgid "Application passwords are not available for your account. Please contact the site administrator for assistance."
-msgstr ""
+msgstr "As senhas do aplicativo não estão disponíveis para a sua conta. Entre em contato com o administrador do site para obter suporte."
 
 #: wp-admin/authorize-application.php:108
 msgid "Application passwords are not available."
-msgstr ""
+msgstr "Senhas do aplicativo não estão disponíveis."
 
 #: wp-admin/authorize-application.php:152
 msgid "An application would like to connect to your account."
@@ -583,7 +583,7 @@ msgstr "Não, eu não aprovo esta conexão"
 
 #: wp-admin/authorize-application.php:323
 msgid "You will be returned to the ClassicPress Dashboard, and no changes will be made."
-msgstr ""
+msgstr "Você retornará ao Painel do ClassicPress e nenhuma alteração será feita."
 
 #: wp-admin/comment.php:46
 msgid "You cannot edit this comment because the associated post is in the Trash. Please restore the post first, then try again."
@@ -981,7 +981,7 @@ msgstr "Ação desconhecida."
 
 #: wp-admin/credits.php:52
 msgid "ClassicPress is created by a worldwide team of passionate individuals."
-msgstr ""
+msgstr "ClassicPress é desenvolvido por uma equipe global de entusiastas."
 
 #. translators: %s: https://www.classicpress.net/community
 #: wp-admin/credits.php:58
@@ -1155,27 +1155,27 @@ msgstr "Ações"
 #: wp-admin/customize.php:309
 #: wp-admin/widgets-form.php:572
 msgid "Add media"
-msgstr ""
+msgstr "Adicionar mídia"
 
 #: wp-admin/customize.php:310
 #: wp-admin/widgets-form.php:573
 msgid "Create gallery"
-msgstr ""
+msgstr "Criar galeria"
 
 #: wp-admin/customize.php:311
 #: wp-admin/widgets-form.php:574
 msgid "Create audio playlist"
-msgstr ""
+msgstr "Criar playlist de áudio"
 
 #: wp-admin/customize.php:312
 #: wp-admin/widgets-form.php:575
 msgid "Create video playlist"
-msgstr ""
+msgstr "Criar playlist de vídeo"
 
 #: wp-admin/customize.php:313
 #: wp-admin/widgets-form.php:576
 msgid "Featured image"
-msgstr ""
+msgstr "Imagem em destaque"
 
 #: wp-admin/customize.php:315
 #: wp-admin/widgets-form.php:578
@@ -1519,7 +1519,7 @@ msgstr "Arquivo de mídia atualizado."
 
 #: wp-admin/edit-form-advanced.php:233
 msgid "You can't publish an empty post."
-msgstr ""
+msgstr "Você não pode publicar uma publicação vazia."
 
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:252
@@ -1687,22 +1687,22 @@ msgstr "Atributos da página"
 #: wp-admin/edit-form-advanced.php:460
 msgctxt "Admin Post Navigation"
 msgid "Previous post: "
-msgstr ""
+msgstr "Post anterior: "
 
 #: wp-admin/edit-form-advanced.php:462
 msgctxt "Admin Post Navigation"
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; Anterior"
 
 #: wp-admin/edit-form-advanced.php:470
 msgctxt "Admin Post Navigation"
 msgid "Next post: "
-msgstr ""
+msgstr "Próximo post: "
 
 #: wp-admin/edit-form-advanced.php:472
 msgctxt "Admin Post Navigation"
 msgid "Next &rarr;"
-msgstr ""
+msgstr "Próximo &rarr;"
 
 #: wp-admin/edit-form-advanced.php:506
 msgid "<strong>Connection lost.</strong> Saving has been disabled until you are reconnected."
@@ -1714,7 +1714,7 @@ msgstr "Este post está sendo copiado em seu navegador, apenas por precaução."
 
 #: wp-admin/edit-form-advanced.php:575
 msgid "Add title"
-msgstr ""
+msgstr "Adicionar título"
 
 #: wp-admin/edit-form-advanced.php:579
 msgid "Skip to Editor"
@@ -2227,7 +2227,7 @@ msgstr "Erro ao restaurar o item da lixeira."
 #: wp-admin/post.php:325
 #: wp-admin/upload.php:757
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "Erro ao excluir o anexo."
 
 #: wp-admin/edit.php:185
 #: wp-admin/post.php:329
@@ -2791,7 +2791,7 @@ msgstr ""
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
-msgstr ""
+msgstr "Se você obter um plugin ou tema de outra fonte, certifique-se de que ele tem a licença correta. Se não respeitar a licença ClassicPress, não o recomendamos."
 
 #: wp-admin/freedoms.php:73
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."

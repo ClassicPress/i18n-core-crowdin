@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-06-07 13:21\n"
+"PO-Revision-Date: 2026-02-13 14:41\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -98,61 +98,61 @@ msgstr "欢迎使用 ClassicPress！"
 #: wp-admin/includes/class-wp-plugins-list-table.php:767
 #: wp-admin/includes/update.php:189 wp-admin/includes/update.php:214
 msgid "Version %s"
-msgstr ""
+msgstr "%s 版本"
 
 #. translators: link to "business-focused CMS" article
 #: wp-admin/about.php:29 wp-admin/credits.php:27 wp-admin/freedoms.php:30
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">business-focused CMS</a>."
-msgstr ""
+msgstr "感谢您使用 ClassicPress，<a href=\"%s\">面向商务的 CMS（内容管理系统）</a>。"
 
 #: wp-admin/about.php:33 wp-admin/credits.php:31 wp-admin/freedoms.php:34
 msgid "Powerful. Versatile. Predictable."
-msgstr ""
+msgstr "强大。包容。稳定。"
 
 #: wp-admin/about.php:38 wp-admin/credits.php:37 wp-admin/freedoms.php:40
 msgid "What&#8217;s New"
-msgstr ""
+msgstr "新增内容"
 
 #: wp-admin/about.php:39 wp-admin/credits.php:12 wp-admin/credits.php:38
 #: wp-admin/freedoms.php:41
 msgid "Credits"
-msgstr ""
+msgstr "致谢"
 
 #: wp-admin/about.php:40 wp-admin/credits.php:39 wp-admin/freedoms.php:12
 #: wp-admin/freedoms.php:42
 msgid "Freedoms"
-msgstr ""
+msgstr "自由"
 
 #: wp-admin/about.php:41 wp-admin/credits.php:40 wp-admin/freedoms.php:43
 msgid "Privacy"
-msgstr ""
+msgstr "隐私"
 
 #. translators: link to learn more about translating ClassicPress
 #: wp-admin/about.php:50 wp-admin/includes/dashboard.php:1367
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "帮助我们将 ClassicPress 翻译成您的语言！<a href=\"%s\">了解更多</a>。"
 
 #: wp-admin/about.php:56
 msgid "Introducing ClassicPress"
-msgstr ""
+msgstr "认识 ClassicPress"
 
 #: wp-admin/about.php:59
 msgid "ClassicPress is a fork of the WordPress 4.9 branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "ClassicPress 是 WordPress 4.9 的一个分支，其使用久经沙场的 TinyMCE 经典编辑器界面。"
 
 #: wp-admin/about.php:64
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "多年来，它为数百万个站点奠定了坚实的基础。 而且我们认为，它在未来也依然是一个出色的基础。"
 
 #: wp-admin/about.php:68
 msgid "Join our growing community"
-msgstr ""
+msgstr "加入我们日益发展的社区"
 
 #. translators: 1: link with instructions to join ClassicPress Slack, 2: link
 #. to community forums
 #: wp-admin/about.php:72
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Slack group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "要进行关于 ClassicPress 的一般性讨论，<a href=\"%1$s\"><strong>请加入我们的 Slack 群聊</strong></a>或我们的<a href=\"%2$s\"><strong>社区论坛</strong></a>。"
 
 #. translators: link to ClassicPress Petitions site for new features
 #: wp-admin/about.php:80

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-17 14:44\n"
+"PO-Revision-Date: 2026-03-17 20:44\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -44,7 +44,7 @@ msgstr "有効化"
 #: wp-activate.php:164
 #: wp-activate.php:198
 msgid "Your account is now active!"
-msgstr "アカウント登録が完了しました !"
+msgstr "アカウント登録が完了しました!"
 
 #. translators: 1: Login URL, 2: Username, 3: User email address, 4: Lost password URL.
 #: wp-activate.php:170

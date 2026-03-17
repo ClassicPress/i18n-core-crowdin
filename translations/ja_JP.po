@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-09 02:33\n"
+"PO-Revision-Date: 2026-03-17 14:44\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -88,13 +88,13 @@ msgstr "コメント送信失敗"
 #: wp-cron.php:132
 #, php-format
 msgid "Cron reschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "フック用のCronリスケジュールイベントエラー： %1$s、エラーコード： %2$s、エラーメッセージ： %3$s、データ： %4$s"
 
 #. translators: 1: Hook name, 2: Error code, 3: Error message, 4: Event data.
 #: wp-cron.php:159
 #, php-format
 msgid "Cron unschedule event error for hook: %1$s, Error code: %2$s, Error message: %3$s, Data: %4$s"
-msgstr ""
+msgstr "%1$s, エラーコード: %2$s, エラーメッセージ: %3$s, データ: %4$s"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:136
@@ -341,11 +341,11 @@ msgstr "ブックマーク"
 
 #: wp-includes/cache-compat.php:144
 msgid "Your object cache implementation does not support flushing the in-memory runtime cache."
-msgstr ""
+msgstr "オブジェクトキャッシュの実装では、インメモリ・ランタイムキャッシュのフラッシュはサポートされていません。"
 
 #: wp-includes/cache-compat.php:176
 msgid "Your object cache implementation does not support flushing individual groups."
-msgstr ""
+msgstr "オブジェクトキャッシュの実装は個々のグループのフラッシュをサポートしていません。"
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:79
@@ -355,7 +355,7 @@ msgstr ""
 #: wp-includes/capabilities.php:430
 #, php-format
 msgid "When checking for the %s capability, you must always check it against a specific post."
-msgstr ""
+msgstr "%s 機能をチェックするときは、常に特定の投稿に対してチェックする必要があります。"
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:82
@@ -363,7 +363,7 @@ msgstr ""
 #: wp-includes/capabilities.php:284
 #, php-format
 msgid "When checking for the %s capability, you must always check it against a specific page."
-msgstr ""
+msgstr "%s 機能をチェックするときは、常に特定のページに対してチェックする必要があります。"
 
 #. translators: 1: Post type, 2: Capability name.
 #: wp-includes/capabilities.php:114
@@ -372,33 +372,33 @@ msgstr ""
 #: wp-includes/capabilities.php:395
 #, php-format
 msgid "The post type %1$s is not registered, so it may not be reliable to check the capability %2$s against a post of that type."
-msgstr ""
+msgstr "The post type %1$s is not registered, so it may not reliable to check the capability %2$s against a post of that type."
 
 #. translators: 1: Post status, 2: Capability name.
 #: wp-includes/capabilities.php:342
 #, php-format
 msgid "The post status %1$s is not registered, so it may not be reliable to check the capability %2$s against a post with that status."
-msgstr ""
+msgstr "The post status %1$s is not registered, so it may not reliable to check the capability %2$s against a post with that status."
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:433
 #: wp-includes/capabilities.php:549
 #, php-format
 msgid "When checking for the %s capability, you must always check it against a specific comment."
-msgstr ""
+msgstr "%s 機能をチェックするときは、常に特定のコメントに対してチェックする必要があります。"
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:436
 #: wp-includes/capabilities.php:703
 #, php-format
 msgid "When checking for the %s capability, you must always check it against a specific term."
-msgstr ""
+msgstr "%s 機能をチェックするときは、常に特定の用語に対してチェックする必要があります。"
 
 #. translators: %s: Capability name.
 #: wp-includes/capabilities.php:439
 #, php-format
 msgid "When checking for the %s capability, you must always check it against a specific user."
-msgstr ""
+msgstr "%s 機能をチェックするときは、常に特定のユーザーに対してそれをチェックする必要があります。"
 
 #. translators: User role for administrators.
 #: wp-includes/capabilities.php:1263
@@ -471,7 +471,7 @@ msgstr "タグ: "
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "PHPMailer クラスが wp-includes/PHPMailer サブディレクトリに移動され、現在は PHPMailer\\PHPMailer 名前空間を使用しています。"
 
 #: wp-includes/class-pop3.php:94
 msgid "No server specified"
@@ -524,7 +524,7 @@ msgstr "サーバーへの接続がありません"
 
 #: wp-includes/class-pop3.php:180
 msgid "No login ID submitted"
-msgstr ""
+msgstr "ログインIDが送信されませんでした"
 
 #: wp-includes/class-pop3.php:188
 msgid "No server banner"
@@ -537,23 +537,23 @@ msgstr "中止する"
 
 #: wp-includes/class-pop3.php:198
 msgid "apop authentication failed"
-msgstr ""
+msgstr "apop認証に失敗しました"
 
 #: wp-includes/class-pop3.php:335
 msgid "Premature end of list"
-msgstr ""
+msgstr "早期終了リスト"
 
 #: wp-includes/class-pop3.php:468
 msgid "Empty command string"
-msgstr ""
+msgstr "空のコマンド文字列"
 
 #: wp-includes/class-pop3.php:488
 msgid "connection does not exist"
-msgstr ""
+msgstr "接続が存在しません"
 
 #: wp-includes/class-pop3.php:595
 msgid "No msg number submitted"
-msgstr ""
+msgstr "メッセージ番号が送信されていません"
 
 #: wp-includes/class-pop3.php:601
 msgid "Command failed "
@@ -561,7 +561,7 @@ msgstr "コマンドに失敗しました "
 
 #: wp-includes/class-smtp.php:10
 msgid "The SMTP class has been moved to the wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
-msgstr ""
+msgstr "SMTP クラスは wp-includes/PHPMailer サブディレクトリに移動され、現在は PHPMailer\\PHPMailer 名前空間を使用しています。"
 
 #. translators: %s: Category name.
 #: wp-includes/class-walker-category.php:171
@@ -585,7 +585,7 @@ msgstr "あなたのコメントは承認待ちです。"
 
 #: wp-includes/class-walker-comment.php:323
 msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
-msgstr ""
+msgstr "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
 
 #. translators: %d: ID of a post.
 #. translators: %d: ID of a term.
@@ -615,31 +615,31 @@ msgstr "ツールバー"
 
 #: wp-includes/class-wp-application-passwords.php:80
 msgid "An application name is required to create an application password."
-msgstr ""
+msgstr "アプリケーションのパスワードを作成するには、アプリケーション名が必要です。"
 
 #: wp-includes/class-wp-application-passwords.php:84
 msgid "Each application name should be unique."
-msgstr ""
+msgstr "各アプリケーション名は一意である必要があります。"
 
 #: wp-includes/class-wp-application-passwords.php:105
 #: wp-includes/class-wp-application-passwords.php:267
 #: wp-includes/class-wp-application-passwords.php:318
 msgid "Could not save application password."
-msgstr ""
+msgstr "アプリケーションのパスワードを保存できませんでした。"
 
 #: wp-includes/class-wp-application-passwords.php:287
 #: wp-includes/class-wp-application-passwords.php:325
 #: wp-includes/class-wp-application-passwords.php:363
 msgid "Could not find an application password with that id."
-msgstr ""
+msgstr "そのIDのアプリケーションパスワードが見つかりませんでした。"
 
 #: wp-includes/class-wp-application-passwords.php:346
 msgid "Could not delete application password."
-msgstr ""
+msgstr "アプリケーションのパスワードを削除できませんでした。"
 
 #: wp-includes/class-wp-application-passwords.php:381
 msgid "Could not delete application passwords."
-msgstr ""
+msgstr "アプリケーションのパスワードを削除できませんでした。"
 
 #: wp-includes/class-wp-customize-control.php:590
 #: wp-includes/class-wp-customize-nav-menus.php:713
@@ -705,7 +705,7 @@ msgstr "選択したテーマはありません。"
 #: wp-includes/class-wp-customize-manager.php:1920
 #, php-format
 msgid "Unauthorized. You may remove the %s param to preview as frontend."
-msgstr ""
+msgstr "未承認です。フロントエンドとしてプレビューするには、 %s パラメータを削除してください。"
 
 #: wp-includes/class-wp-customize-manager.php:2139
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:177
@@ -947,7 +947,7 @@ msgstr "モバイルプレビューモードに入る"
 
 #: wp-includes/class-wp-customize-manager.php:5061
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
-msgstr ""
+msgstr "テーマを探していますか? WordPress.org テーマディレクトリを検索または参照し、テーマをインストールしてプレビューし、ここでそれらをアクティブにすることができます。"
 
 #: wp-includes/class-wp-customize-manager.php:5062
 msgid "While previewing a new theme, you can continue to tailor things like widgets and menus, and explore theme-specific options."
@@ -987,7 +987,7 @@ msgstr "サイトアイコン"
 #: wp-includes/class-wp-customize-manager.php:5195
 #, php-format
 msgid "The Site Icon is what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. It should be square and at least %s pixels."
-msgstr ""
+msgstr "サイトアイコンは、ブラウザタブ、ブックマークバー、およびWordPressモバイルアプリ内で表示されるものです。 正方形で、少なくとも %s ピクセルでなければなりません。"
 
 #: wp-includes/class-wp-customize-manager.php:5220
 msgid "Logo"
@@ -1594,7 +1594,7 @@ msgstr "次へ"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1131
 msgid "It does not look like your site has any menus yet. Want to build one? Click the button to start."
-msgstr ""
+msgstr "あなたのサイトにはまだメニューがあるようではありません。1つをビルドしたいですか？ボタンをクリックして開始してください。"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1134
 msgid "You&#8217;ll create a menu, assign it a location, and add menu items like links to pages and categories. If your theme has multiple menu areas, you might need to create more than one."
@@ -1730,25 +1730,25 @@ msgstr "移動"
 
 #: wp-includes/class-wp-customize-widgets.php:729
 msgid "Your theme has 1 other widget area, but this particular page does not display it."
-msgstr ""
+msgstr "テーマには他のウィジェットのエリアが1つありますが、この特定のページには表示されません。"
 
 #. translators: %s: The number of other widget areas registered but not rendered.
 #: wp-includes/class-wp-customize-widgets.php:738
 #, php-format
 msgid "Your theme has %s other widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s other widget areas, but this particular page does not display them."
-msgstr[0] ""
+msgstr[0] "テーマには %s 他のウィジェットエリアがありますが、この特定のページは表示されません。"
 
 #: wp-includes/class-wp-customize-widgets.php:753
 msgid "Your theme has 1 widget area, but this particular page does not display it."
-msgstr ""
+msgstr "テーマにはウィジェット領域が1つありますが、この特定のページには表示されません。"
 
 #. translators: %s: The total number of widget areas registered.
 #: wp-includes/class-wp-customize-widgets.php:762
 #, php-format
 msgid "Your theme has %s widget area, but this particular page does not display it."
 msgid_plural "Your theme has %s widget areas, but this particular page does not display them."
-msgstr[0] ""
+msgstr[0] "テーマには %s ウィジェットの領域がありますが、この特定のページは表示されません。"
 
 #: wp-includes/class-wp-customize-widgets.php:779
 #: wp-includes/class-wp-editor.php:1399
@@ -1762,7 +1762,7 @@ msgstr "保存して、公開する前に変更をプレビューします。"
 
 #: wp-includes/class-wp-customize-widgets.php:782
 msgid "Keep widget settings and move it to the inactive widgets"
-msgstr ""
+msgstr "ウィジェットの設定を保持し、非アクティブなウィジェットに移動します"
 
 #: wp-includes/class-wp-customize-widgets.php:783
 msgid "An error has occurred. Please reload the page and try again."
@@ -2728,7 +2728,7 @@ msgstr "ペースト機能がプレーンテキストモードになりました
 
 #: wp-includes/class-wp-editor.php:1371
 msgid "If you are looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
-msgstr ""
+msgstr "Microsoft Wordからリッチコンテンツをペーストする場合は、このオプションをオフにしてみてください。 エディタは自動的にWordから貼り付けられたテキストをクリーンアップします。"
 
 #: wp-includes/class-wp-editor.php:1373
 msgid "Rich Text Area. Press Alt-Shift-H for help."
@@ -2947,19 +2947,19 @@ msgstr "リンク追加"
 
 #: wp-includes/class-wp-fatal-error-handler.php:186
 msgid "There has been a critical error on this website, putting it in recovery mode. Please check the Themes and Plugins screens for more details. If you just installed or updated a theme or plugin, check the relevant page for that first."
-msgstr ""
+msgstr "このウェブサイトでリカバリーモードにする際に重大なエラーが発生しました。詳細については、テーマとプラグインの画面を確認してください。 テーマやプラグインをインストールまたは更新したばかりの場合は、まず該当するページを確認してください。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:189
 msgid "There has been a critical error on this website. Please reach out to your site administrator, and inform them of this error for further assistance."
-msgstr ""
+msgstr "このウェブサイトで重大なエラーが発生しました。サイト管理者に連絡し、さらなる支援のためにこのエラーを知らせてください。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:191
 msgid "There has been a critical error on this website. Please check your site admin email inbox for instructions."
-msgstr ""
+msgstr "このウェブサイトで重大なエラーが発生しました。手順については、サイト管理者のメール受信トレイを確認してください。"
 
 #: wp-includes/class-wp-fatal-error-handler.php:194
 msgid "There has been a critical error on this website."
-msgstr ""
+msgstr "このウェブサイトで重大なエラーが発生しました。"
 
 #. translators: Documentation about troubleshooting.
 #: wp-includes/class-wp-fatal-error-handler.php:201
@@ -2968,11 +2968,11 @@ msgstr ""
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr ""
+msgstr "ClassicPressのトラブルシューティングの詳細をご覧ください。"
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
-msgstr ""
+msgstr "このファイルは、SimplePie 1.2.xとの下位互換性のためにロードされています。最新のSimplePieバージョンに切り替えてください。"
 
 #. translators: 1: fopen(), 2: File name.
 #: wp-includes/class-wp-http-curl.php:194
@@ -3044,7 +3044,7 @@ msgstr "変更後の画像サイズを取得できませんでした。"
 #: wp-includes/class-wp-image-editor-gd.php:295
 #: wp-includes/class-wp-image-editor-imagick.php:558
 msgid "Cannot resize the image. Both width and height are not set."
-msgstr ""
+msgstr "画像のサイズを変更できません。幅と高さの両方が設定されていません。"
 
 #: wp-includes/class-wp-image-editor-gd.php:359
 #: wp-includes/class-wp-image-editor-gd.php:387
@@ -3070,17 +3070,17 @@ msgstr "画像エディターで保存に失敗しました"
 
 #: wp-includes/class-wp-image-editor-imagick.php:577
 msgid "The image already has the requested size."
-msgstr ""
+msgstr "画像のサイズは既に指定されています。"
 
 #: wp-includes/class-wp-image-editor-imagick.php:730
 msgid "The image cannot be rotated because the embedded meta data cannot be updated."
-msgstr ""
+msgstr "埋め込まれたメタ データを更新できないため、画像を回転できません。"
 
 #. translators: %s: PHP function name.
 #: wp-includes/class-wp-image-editor-imagick.php:852
 #, php-format
 msgid "%s failed while writing image to stream."
-msgstr ""
+msgstr "ストリームに画像を書き込む際、%s に失敗しました。"
 
 #. translators: %s: Directory path.
 #: wp-includes/class-wp-image-editor-imagick.php:868
@@ -3104,7 +3104,7 @@ msgstr "許容範囲 [1,100] に含まれない値の画質を設定しようと
 #: wp-includes/class-wp-list-util.php:174
 #: wp-includes/class-wp-list-util.php:205
 msgid "Values for the input array must be either objects or arrays."
-msgstr ""
+msgstr "入力配列の値はオブジェクトまたは配列のいずれかでなければなりません。"
 
 #. translators: Weekday.
 #: wp-includes/class-wp-locale.php:148
@@ -3443,12 +3443,12 @@ msgstr "午後"
 #. translators: $thousands_sep argument for https://www.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:226
 msgid "number_format_thousands_sep"
-msgstr ""
+msgstr "number_format_thons_sep"
 
 #. translators: $dec_point argument for https://www.php.net/number_format, default is '.'
 #: wp-includes/class-wp-locale.php:234
 msgid "number_format_decimal_point"
-msgstr ""
+msgstr "number_format_decimal_point"
 
 #. translators: Used between list items, there is a space after the comma.
 #: wp-includes/class-wp-locale.php:239
@@ -3498,13 +3498,13 @@ msgstr "無効なオブジェクトタイプです。"
 
 #: wp-includes/class-wp-object-cache.php:157
 msgid "Cache key must not be an empty string."
-msgstr ""
+msgstr "キャッシュキーは空文字列であってはなりません。"
 
 #. translators: %s: The type of the given cache key.
 #: wp-includes/class-wp-object-cache.php:159
 #, php-format
 msgid "Cache key must be integer or non-empty string, %s given."
-msgstr ""
+msgstr "キャッシュキーは整数または空でない文字列、 %s が指定されている必要があります。"
 
 #: wp-includes/class-wp-oembed-controller.php:45
 #: wp-includes/class-wp-oembed-controller.php:73
@@ -3525,7 +3525,7 @@ msgstr "埋め込みフレームの最大の高さ (ピクセル)。"
 
 #: wp-includes/class-wp-oembed-controller.php:99
 msgid "Whether to perform an oEmbed discovery request for unsanctioned providers."
-msgstr ""
+msgstr "承認されていないプロバイダに対してoEmbedディスカバリリクエストを実行するかどうか。"
 
 #: wp-includes/class-wp-oembed-controller.php:150
 msgid "Sorry, you are not allowed to make proxied oEmbed requests."
@@ -3537,140 +3537,140 @@ msgstr "埋め込まれたハンドラー"
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "SMTPエラー：認証できませんでした。"
 
 #. translators: 1: mail.add_x_header. 2: php.ini
 #: wp-includes/class-wp-phpmailer.php:44
 #, php-format
 msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
-msgstr ""
+msgstr "お使いのPHPのバージョンには、メッセージが破損する可能性のあるバグがあります。この問題を解決するには、SMTPを使用して送信するように変更するか、%2$sの%1$sオプションを無効にするか、macOSまたはLinuxに切り替えるか、PHPのバージョンをアップグレードしてください。"
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "SMTPエラー：SMTPホストに接続できませんでした。"
 
 #: wp-includes/class-wp-phpmailer.php:49
 msgid "SMTP Error: data not accepted."
-msgstr ""
+msgstr "SMTPエラー：データが受け入れられません。"
 
 #: wp-includes/class-wp-phpmailer.php:50
 msgid "Message body empty"
-msgstr ""
+msgstr "メッセージ本文が空です"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:52
 msgid "Unknown encoding: "
-msgstr ""
+msgstr "不明なエンコーディング: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr ""
+msgstr "実行できませんでした: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
 msgid "Extension missing: "
-msgstr ""
+msgstr "エクステンションがありません: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:58
 msgid "Could not access file: "
-msgstr ""
+msgstr "ファイルにアクセスできませんでした: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:60
 msgid "File Error: Could not open file: "
-msgstr ""
+msgstr "ファイルエラー: ファイルを開けませんでした: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
 msgid "The following From address failed: "
-msgstr ""
+msgstr "次のFromアドレスに失敗しました: "
 
 #: wp-includes/class-wp-phpmailer.php:63
 msgid "Could not instantiate mail function."
-msgstr ""
+msgstr "メール関数をインスタンス化できませんでした。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:65
 msgid "Invalid address: "
-msgstr ""
+msgstr "無効なアドレス: "
 
 #: wp-includes/class-wp-phpmailer.php:66
 msgid "Invalid header name or value"
-msgstr ""
+msgstr "ヘッダー名または値が無効です"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:68
 msgid "Invalid hostentry: "
-msgstr ""
+msgstr "無効なホストエントリ:"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:70
 msgid "Invalid host: "
-msgstr ""
+msgstr "無効なホスト: "
 
 #. translators: There is a space at the beginning.
 #: wp-includes/class-wp-phpmailer.php:72
 msgid " mailer is not supported."
-msgstr ""
+msgstr " メーラーはサポートされていません。"
 
 #: wp-includes/class-wp-phpmailer.php:73
 msgid "You must provide at least one recipient email address."
-msgstr ""
+msgstr "少なくとも1つの受信者のメールアドレスを入力する必要があります。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:75
 msgid "SMTP Error: The following recipients failed: "
-msgstr ""
+msgstr "SMTPエラー：次の受信者が失敗しました： "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:77
 msgid "Signing Error: "
-msgstr ""
+msgstr "署名エラー: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:79
 msgid "SMTP code: "
-msgstr ""
+msgstr "SMTPコード: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:81
 msgid "Additional SMTP info: "
-msgstr ""
+msgstr "追加SMTP情報： "
 
 #: wp-includes/class-wp-phpmailer.php:82
 msgid "SMTP connect() failed."
-msgstr ""
+msgstr "SMTP接続に失敗しました。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:84
 msgid "Detail: "
-msgstr ""
+msgstr "詳細: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:86
 msgid "SMTP server error: "
-msgstr ""
+msgstr "SMTPサーバーエラー: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:88
 msgid "Cannot set or reset variable: "
-msgstr ""
+msgstr "変数を設定またはリセットできません: "
 
 #: wp-includes/class-wp-phpmailer.php:89
 msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
-msgstr ""
+msgstr "サーバーはUnicodeアドレスに送信するために必要なSMTPUTF8をサポートしていません"
 
 #: wp-includes/class-wp-phpmailer.php:90
 msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
-msgstr ""
+msgstr "簡略化されたアドレスパーサを使用することは推奨されません。完全な RFC822 解析のために、PHP IMAP 拡張モジュールをインストールします。"
 
 #. translators: %s: $useimap
 #: wp-includes/class-wp-phpmailer.php:92
 #, php-format
 msgid "Argument %s is deprecated"
-msgstr ""
+msgstr "引数 %s は非推奨です"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -3813,12 +3813,12 @@ msgstr "この固定ページへのアップロード"
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
 msgid "Featured image"
-msgstr ""
+msgstr "注目の画像"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "page"
 msgid "Featured image"
-msgstr ""
+msgstr "注目の画像"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
@@ -3889,27 +3889,27 @@ msgstr "ページを公開しました。"
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Post published privately."
-msgstr ""
+msgstr "私的に公開された投稿。"
 
 #: wp-includes/class-wp-post-type.php:826
 msgid "Page published privately."
-msgstr ""
+msgstr "プライベートに公開されたページ"
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Post reverted to draft."
-msgstr ""
+msgstr "下書きに戻しました。"
 
 #: wp-includes/class-wp-post-type.php:827
 msgid "Page reverted to draft."
-msgstr ""
+msgstr "ページは下書きに戻されました。"
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Post scheduled."
-msgstr ""
+msgstr "投稿が予定されています。"
 
 #: wp-includes/class-wp-post-type.php:828
 msgid "Page scheduled."
-msgstr ""
+msgstr "ページが予定されています。"
 
 #: wp-includes/class-wp-post-type.php:829
 msgid "Post updated."
@@ -3922,75 +3922,75 @@ msgstr "固定ページを更新しました。"
 #: wp-includes/class-wp-post-type.php:831
 msgctxt "navigation link block title"
 msgid "Post Link"
-msgstr ""
+msgstr "投稿リンク"
 
 #: wp-includes/class-wp-post-type.php:832
 msgctxt "navigation link block title"
 msgid "Page Link"
-msgstr ""
+msgstr "ページリンク"
 
 #: wp-includes/class-wp-post-type.php:835
 msgctxt "navigation link block description"
 msgid "A link to a post."
-msgstr ""
+msgstr "投稿へのリンク"
 
 #: wp-includes/class-wp-post-type.php:836
 msgctxt "navigation link block description"
 msgid "A link to a page."
-msgstr ""
+msgstr "ページへのリンク"
 
 #: wp-includes/class-wp-query.php:1565
 msgctxt "Comma-separated list of search stopwords in your language"
 msgid "about,an,are,as,at,be,by,com,for,from,how,in,is,it,of,on,or,that,the,this,to,was,what,when,where,who,will,with,www"
-msgstr ""
+msgstr "について、1、である、として、で、である、によって、com、のために、から、どのように、で、である、それは、の、上に、または、それ、その、これ、へ、であった、何、いつ、どこ、誰、だろう、とともに、www"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:90
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:139
 msgid "No cookie present."
-msgstr ""
+msgstr "Cookie がありません。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:105
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:168
 msgid "Invalid cookie format."
-msgstr ""
+msgstr "無効な Cookie 形式です。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:112
 msgid "Cookie expired."
-msgstr ""
+msgstr "Cookieの有効期限が切れました。"
 
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:119
 msgid "Invalid cookie."
-msgstr ""
+msgstr "無効な Cookie です。"
 
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-includes/class-wp-recovery-mode-cookie-service.php:219
 #: wp-includes/pluggable.php:2527
 msgid "put your unique phrase here"
-msgstr ""
+msgstr "あなたの固有のフレーズをここに置いて"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:59
 msgid "Could not update the email last sent time."
-msgstr ""
+msgstr "最後に送信したメールを更新できませんでした。"
 
 #. translators: %s: mail()
 #: wp-includes/class-wp-recovery-mode-email-service.php:72
 #, php-format
 msgid "The email could not be sent. Possible reason: your host may have disabled the %s function."
-msgstr ""
+msgstr "メールを送信できませんでした。考えられる理由：ホストが %s 機能を無効にしている可能性があります。"
 
 #. translators: 1: Last sent as a human time diff, 2: Wait time as a human time diff.
 #: wp-includes/class-wp-recovery-mode-email-service.php:80
 #, php-format
 msgid "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
-msgstr ""
+msgstr "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:126
 msgid "Error Details"
-msgstr ""
+msgstr "エラーの詳細"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:141
 msgid "Please contact your host for assistance with investigating this issue further."
-msgstr ""
+msgstr "この問題をさらに調査するために、ホストにお問い合わせください。"
 
 #. translators: Do not translate LINK, EXPIRES, CAUSE, DETAILS, SITEURL, PAGEURL, SUPPORT. DEBUG: those are placeholders.
 #: wp-includes/class-wp-recovery-mode-email-service.php:153
@@ -4011,105 +4011,105 @@ msgstr ""
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
 #, php-format
 msgid "[%s] Your Site is Experiencing a Technical Issue"
-msgstr ""
+msgstr "[%s] あなたのサイトは技術的な問題を経験しています"
 
 #. translators: %s: Plugin name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:280
 #, php-format
 msgid "In this case, ClassicPress caught an error with one of your plugins, %s."
-msgstr ""
+msgstr "この場合、ClassicPressはあなたのプラグイン %sでエラーをキャッチしました。"
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:286
 #, php-format
 msgid "In this case, ClassicPress caught an error with your theme, %s."
-msgstr ""
+msgstr "この場合、ClassicPressはテーマ %sでエラーをキャッチしました。"
 
 #. translators: %s: Current ClassicPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
 #, php-format
 msgid "ClassicPress version %s"
-msgstr ""
+msgstr "ClassicPress version %s"
 
 #. translators: 1: Current active theme name. 2: Current active theme version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:357
 #, php-format
 msgid "Active theme: %1$s (version %2$s)"
-msgstr ""
+msgstr "アクティブなテーマ： %1$s (バージョン %2$s)"
 
 #. translators: 1: The failing plugins name. 2: The failing plugins version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:366
 #, php-format
 msgid "Current plugin: %1$s (version %2$s)"
-msgstr ""
+msgstr "現在のプラグイン: %1$s (バージョン %2$s)"
 
 #. translators: %s: The currently used PHP version.
 #: wp-includes/class-wp-recovery-mode-email-service.php:374
 #, php-format
 msgid "PHP version %s"
-msgstr ""
+msgstr "PHPのセッション"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:91
 msgid "Recovery Mode not initialized."
-msgstr ""
+msgstr "リカバリモードが初期化されていません。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:99
 msgid "Invalid recovery key format."
-msgstr ""
+msgstr "リカバリキーの形式が無効です。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:103
 msgid "Invalid recovery key."
-msgstr ""
+msgstr "リカバリキーが無効です。"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:107
 msgid "Recovery key expired."
-msgstr ""
+msgstr "リカバリキーの有効期限が切れました。"
 
 #: wp-includes/class-wp-recovery-mode.php:173
 msgid "Error not caused by a plugin or theme."
-msgstr ""
+msgstr "プラグインまたはテーマによってエラーが発生しません。"
 
 #: wp-includes/class-wp-recovery-mode.php:178
 msgid "Error occurred on a non-protected endpoint."
-msgstr ""
+msgstr "保護されていないエンドポイントでエラーが発生しました。"
 
 #: wp-includes/class-wp-recovery-mode.php:189
 msgid "Failed to store the error."
-msgstr ""
+msgstr "エラーの保存に失敗しました。"
 
 #: wp-includes/class-wp-recovery-mode.php:243
 msgid "Exit recovery mode link expired."
-msgstr ""
+msgstr "終了回復モードのリンクの有効期限が切れました。"
 
 #: wp-includes/class-wp-recovery-mode.php:247
 msgid "Failed to exit recovery mode. Please try again later."
-msgstr ""
+msgstr "リカバリーモードを終了できませんでした。後でもう一度お試しください。"
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "依存関係配列のエントリに必須のIDキーがありません。"
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "依存関係配列のエントリは、id キーを持つ文字列または配列のいずれかでなければなりません。"
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
 #, php-format
 msgid "The %1$s parameter must be an array. To pass arbitrary data to scripts, use the %2$s function instead."
-msgstr ""
+msgstr "%1$s パラメータは配列でなければなりません。スクリプトに任意のデータを渡すには、代わりに %2$s 関数を使用してください。"
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:805
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "無効なストラテジー`%1$s` に定義された `%2$s` スクリプトの登録中。"
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "エイリアスであるため、`%1$s`の戦略`%2$s`を提供できません（`src`の値がありません）。"
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -4302,31 +4302,31 @@ msgstr "よく使うもの"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Tags"
-msgstr ""
+msgstr "&larr; タグへ移動"
 
 #: wp-includes/class-wp-taxonomy.php:638
 msgid "&larr; Go to Categories"
-msgstr ""
+msgstr "&larr; カテゴリに移動"
 
 #: wp-includes/class-wp-taxonomy.php:640
 msgctxt "navigation link block title"
 msgid "Tag Link"
-msgstr ""
+msgstr "タグリンク"
 
 #: wp-includes/class-wp-taxonomy.php:641
 msgctxt "navigation link block title"
 msgid "Category Link"
-msgstr ""
+msgstr "カテゴリリンク"
 
 #: wp-includes/class-wp-taxonomy.php:644
 msgctxt "navigation link block description"
 msgid "A link to a tag."
-msgstr ""
+msgstr "ページへのリンク"
 
 #: wp-includes/class-wp-taxonomy.php:645
 msgctxt "navigation link block description"
 msgid "A link to a category."
-msgstr ""
+msgstr "ページへのリンク"
 
 #: wp-includes/class-wp-term.php:160
 msgid "Term ID is shared between multiple taxonomies"
@@ -4335,17 +4335,17 @@ msgstr "ターム ID が複数のタクソノミーで共有されています"
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:119
 msgid "Added:"
-msgstr ""
+msgstr "追加:"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:132
 msgid "Deleted:"
-msgstr ""
+msgstr "削除:"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-text-diff-renderer-table.php:145
 msgid "Unchanged:"
-msgstr ""
+msgstr "未変更:"
 
 #. translators: %s: Theme directory name.
 #: wp-includes/class-wp-theme.php:262
@@ -4359,7 +4359,7 @@ msgstr "スタイルシートが見つかりません。"
 
 #: wp-includes/class-wp-theme.php:280
 msgid "<strong>Error:</strong> The themes directory is either empty or does not exist. Please check your installation."
-msgstr ""
+msgstr "<strong>エラー:</strong> テーマディレクトリが空か存在しません。インストールを確認してください。"
 
 #: wp-includes/class-wp-theme.php:285
 msgid "Stylesheet is not readable."
@@ -4375,7 +4375,7 @@ msgstr "テーマ自身を親テーマとして定義しています。%s ヘッ
 #: wp-includes/class-wp-theme.php:344
 #, php-format
 msgid "Template is missing. Standalone themes need to have a %1$s or %2$s template file. <a href=\"%3$s\">Child themes</a> need to have a %4$s header in the %5$s stylesheet."
-msgstr ""
+msgstr "テンプレートが見つかりません。スタンドアロンテーマには、%1$s または %2$s テンプレートファイルが必要です。子テーマには、%5$s スタイルシートに %4$s ヘッダーが必要です。"
 
 #: wp-includes/class-wp-theme.php:347
 msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
@@ -4396,7 +4396,7 @@ msgstr "「%s」テーマは有効な親テーマではありません。"
 
 #: wp-includes/class-wp-theme.php:451
 msgid "This theme failed to load properly and was paused within the admin backend."
-msgstr ""
+msgstr "このテーマの読み込みに失敗し、管理バックエンド内で一時停止しました。"
 
 #. translators: Name of a comment's author after being anonymized.
 #: wp-includes/class-wp-theme.php:951
@@ -4495,7 +4495,7 @@ msgstr "季節"
 #: wp-includes/class-wp-user-query.php:915
 #, php-format
 msgid "User queries should not be run before the %s hook."
-msgstr ""
+msgstr "ユーザークエリは %s フックの前に実行しないでください。"
 
 #. translators: %s: WP_User->ID
 #: wp-includes/class-wp-user.php:279
@@ -4629,11 +4629,11 @@ msgstr "大サイズ画像の高さ"
 #: wp-includes/class-wp-xmlrpc-server.php:659
 #: wp-includes/option.php:2382
 msgid "Allow people to submit comments on new posts."
-msgstr ""
+msgstr "新しい投稿へのコメントの送信を許可する"
 
 #: wp-includes/class-wp-xmlrpc-server.php:664
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks) on new posts."
-msgstr ""
+msgstr "他のブログからのリンク通知(ピングバックとトラックバック)を新しい投稿に許可します。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:783
 msgid "Insufficient arguments passed to this XML-RPC method."
@@ -4769,13 +4769,13 @@ msgstr "指定したタクソノミーのひとつにキーワードを追加す
 #: wp-includes/class-wp-xmlrpc-server.php:5217
 #: wp-includes/class-wp-xmlrpc-server.php:5971
 msgid "Sorry, the post could not be updated."
-msgstr ""
+msgstr "申し訳ありませんが、投稿を更新できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1701
 #: wp-includes/class-wp-xmlrpc-server.php:5137
 #: wp-includes/class-wp-xmlrpc-server.php:5626
 msgid "Sorry, the post could not be created."
-msgstr ""
+msgstr "申し訳ありませんが、投稿を作成できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1756
 msgid "There is a revision of this post that is more recent."
@@ -4791,7 +4791,7 @@ msgstr "この投稿を削除する権限がありません。"
 #: wp-includes/class-wp-xmlrpc-server.php:1842
 #: wp-includes/class-wp-xmlrpc-server.php:5277
 msgid "Sorry, the post could not be deleted."
-msgstr ""
+msgstr "申し訳ありませんが、投稿を削除できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2003
 #: wp-includes/class-wp-xmlrpc-server.php:4567
@@ -4828,7 +4828,7 @@ msgstr "親キーワードがありません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2144
 msgid "Sorry, the term could not be created."
-msgstr ""
+msgstr "申し訳ありませんが、用語を作成できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2217
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:436
@@ -4897,7 +4897,7 @@ msgstr "プロフィールを編集する権限がありません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2942
 msgid "Sorry, the user could not be updated."
-msgstr ""
+msgstr "申し訳ありませんが、ユーザーを更新できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2981
 #: wp-includes/class-wp-xmlrpc-server.php:3197
@@ -4941,7 +4941,7 @@ msgstr "カテゴリーを追加する権限がありません。"
 #: wp-includes/class-wp-xmlrpc-server.php:3441
 #: wp-includes/class-wp-xmlrpc-server.php:3444
 msgid "Sorry, the category could not be created."
-msgstr ""
+msgstr "申し訳ありませんが、カテゴリを作成できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3491
 msgid "Sorry, you are not allowed to delete this category."
@@ -4978,7 +4978,7 @@ msgstr "このコメントを削除する権限がありません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3854
 msgid "Sorry, the comment could not be updated."
-msgstr ""
+msgstr "申し訳ありませんが、コメントを更新できませんでした。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3909
 #: wp-includes/comment.php:3634
@@ -4996,7 +4996,7 @@ msgstr "この投稿へのコメントは受け付けていません。"
 #: wp-includes/class-wp-xmlrpc-server.php:3940
 #: wp-includes/class-wp-xmlrpc-server.php:3947
 msgid "Sorry, you are not allowed to comment on this post."
-msgstr ""
+msgstr "申し訳ありませんが、この投稿にコメントすることはできません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3984
 msgid "Comment author name and email are required."
@@ -5016,11 +5016,11 @@ msgstr "コメントは必須です。"
 #: wp-includes/class-wp-xmlrpc-server.php:4205
 #: wp-includes/class-wp-xmlrpc-server.php:4474
 msgid "Sorry, you are not allowed to access details about this site."
-msgstr ""
+msgstr "申し訳ありませんが、このサイトの詳細へのアクセスは許可されていません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4093
 msgid "Sorry, you are not allowed to access details of this post."
-msgstr ""
+msgstr "申し訳ありませんが、この投稿の詳細にアクセスすることはできません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4306
 msgid "Sorry, you are not allowed to update options."
@@ -5049,7 +5049,7 @@ msgstr "投稿がないか、何かうまくいかなかったようです。"
 #: wp-includes/class-wp-xmlrpc-server.php:5064
 #: wp-includes/class-wp-xmlrpc-server.php:5077
 msgid "Sorry, this method is not supported."
-msgstr ""
+msgstr "申し訳ありません、このメソッドはサポートされていません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5193
 #: wp-includes/class-wp-xmlrpc-server.php:5267
@@ -5099,7 +5099,7 @@ msgstr "この投稿を公開する権限がありません。"
 #: wp-includes/class-wp-xmlrpc-server.php:6397
 #, php-format
 msgid "Sorry, you have used your space allocation of %s. Please delete some files to upload more files."
-msgstr ""
+msgstr "申し訳ありませんが、スペース割り当ての %sを使用しています。より多くのファイルをアップロードするにはいくつかのファイルを削除してください。"
 
 #. translators: 1: File name, 2: Error message.
 #: wp-includes/class-wp-xmlrpc-server.php:6422
@@ -5116,7 +5116,7 @@ msgstr "私たちへのリンクはないのですか ?"
 #: wp-includes/class-wp-xmlrpc-server.php:6920
 #: wp-includes/class-wp-xmlrpc-server.php:7088
 msgid "The specified target URL cannot be used as a target. It either does not exist, or it is not a pingback-enabled resource."
-msgstr ""
+msgstr "指定されたターゲットURLは、ターゲットとして使用できません。存在しないか、またはpingbackが有効になっていないリソースです。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6915
 msgid "The source URL and the target URL cannot both point to the same resource."
@@ -5132,7 +5132,7 @@ msgstr "元のURLが存在しません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:6973
 msgid "A title on that page cannot be found."
-msgstr ""
+msgstr "そのページのタイトルが見つかりません。"
 
 #: wp-includes/class-wp-xmlrpc-server.php:7015
 msgid "The source URL does not contain a link to the target URL, and so cannot be used as a source."
@@ -5158,13 +5158,13 @@ msgstr "この項目を表示する権限がありません。"
 
 #: wp-includes/class-wpdb.php:1226
 msgid "Cannot select database"
-msgstr ""
+msgstr "データベースを選択できません"
 
 #. translators: %s: Database name.
 #: wp-includes/class-wpdb.php:1230
 #, php-format
 msgid "The database server could be connected to (which means your username and password is okay) but the %s database could not be selected."
-msgstr ""
+msgstr "データベースサーバーに接続することができます (ユーザー名とパスワードは大丈夫です)が、 %s データベースを選択できませんでした。"
 
 #: wp-includes/class-wpdb.php:1235
 msgid "Are you sure it exists?"
@@ -5186,7 +5186,7 @@ msgstr "一部のシステムでは <code>username_%1$s</code> のようにデ�
 #: wp-includes/class-wpdb.php:1254
 #, php-format
 msgid "If you do not know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"%s\">Support forums</a>."
-msgstr ""
+msgstr "データベースの設定方法がわからない場合は、<strong>ホスティングプロバイダー</strong>にお問い合わせください。それでも解決しない場合は、<a href=\"%s\">サポートフォーラム</a>でサポートを受けられるかもしれません。"
 
 #: wp-includes/class-wpdb.php:1255
 #: wp-includes/class-wpdb.php:2024
@@ -5212,7 +5212,7 @@ msgstr "%s のクエリ引数にはプレースホルダーが必要です。"
 #: wp-includes/class-wpdb.php:1662
 #, php-format
 msgid "Arguments cannot be prepared as both an Identifier and Value. Found the following conflicts: %s"
-msgstr ""
+msgstr "識別子と値の両方として引数を作成することはできません。次の競合が見つかりました: %s"
 
 #: wp-includes/class-wpdb.php:1682
 msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
@@ -5244,7 +5244,7 @@ msgstr "データベース接続確立エラー"
 #: wp-includes/class-wpdb.php:2010
 #, php-format
 msgid "This either means that the username and password information in your %1$s file is incorrect or that contact with the database server at %2$s could not be established. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "これは、%1$s ファイル内のユーザー名とパスワードの情報が間違っているか、%2$s のデータベースサーバーとの接続が確立できなかったことを意味します。ホストのデータベースサーバーがダウンしている可能性もあります。"
 
 #: wp-includes/class-wpdb.php:2016
 msgid "Are you sure you have the correct username and password?"
@@ -5252,12 +5252,12 @@ msgstr "ユーザー名とパスワードに間違いはありませんか ?"
 
 #: wp-includes/class-wpdb.php:2017
 msgid "Are you sure you have typed the correct hostname?"
-msgstr ""
+msgstr "正しいホスト名を入力してもよろしいですか？"
 
 #: wp-includes/class-wpdb.php:2018
 #: wp-includes/class-wpdb.php:2172
 msgid "Are you sure the database server is running?"
-msgstr ""
+msgstr "データベースサーバーが稼働していることを確認しますか？"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/class-wpdb.php:2023
@@ -5265,7 +5265,7 @@ msgstr ""
 #: wp-includes/load.php:180
 #, php-format
 msgid "If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the <a href=\"%s\">ClassicPress support forums</a>."
-msgstr ""
+msgstr "これらの用語が何を意味するかわからない場合は、おそらくホストに連絡する必要があります。 それでもヘルプが必要な場合は、いつでも <a href=\"%s\">ClassicPress サポートフォーラム</a> をご覧ください。"
 
 #: wp-includes/class-wpdb.php:2163
 msgid "Error reconnecting to the database"
@@ -5275,15 +5275,15 @@ msgstr "データベース接続エラー"
 #: wp-includes/class-wpdb.php:2167
 #, php-format
 msgid "This means that the contact with the database server at %s was lost. This could mean your host&#8217;s database server is down."
-msgstr ""
+msgstr "これは、 %s のデータベースサーバーとの連絡先が失われたことを意味します。これは、ホスト&#8217;のデータベースサーバーがダウンしている可能性があります。"
 
 #: wp-includes/class-wpdb.php:2173
 msgid "Are you sure the database server is not under particularly heavy load?"
-msgstr ""
+msgstr "データベースサーバーが特に負荷がかかっていないことを確認していますか？"
 
 #: wp-includes/class-wpdb.php:2243
 msgid "ClassicPress database error: Could not perform query because it contains invalid data."
-msgstr ""
+msgstr "ClassicPress databaseエラー: 無効なデータが含まれているため、クエリを実行できませんでした。"
 
 #: wp-includes/class-wpdb.php:2280
 msgid "Unable to retrieve the error message from MySQL"
@@ -5293,83 +5293,83 @@ msgstr "MySQL からエラーメッセージを取得できません。"
 #: wp-includes/class-wpdb.php:2753
 #, php-format
 msgid "ClassicPress database error: Processing the value for the following field failed: %s. The supplied value may be too long or contains invalid data."
-msgstr ""
+msgstr "ClassicPressデータベースエラー：次のフィールドの値の処理に失敗しました：%s。指定された値が長すぎるか、無効なデータが含まれている可能性があります。"
 
 #. translators: %s: Database fields where the error occurred.
 #: wp-includes/class-wpdb.php:2759
 #, php-format
 msgid "ClassicPress database error: Processing the values for the following fields failed: %s. The supplied values may be too long or contain invalid data."
-msgstr ""
+msgstr "ClassicPress databaseエラー: 次のフィールドの値の処理に失敗しました: %s. 与えられた値が長すぎるか、無効なデータを含むことがあります。"
 
 #: wp-includes/class-wpdb.php:3087
 msgid "Could not retrieve table charset."
-msgstr ""
+msgstr "テーブルの文字セットを取得できませんでした。"
 
 #: wp-includes/class-wpdb.php:3537
 msgid "Could not strip invalid text."
-msgstr ""
+msgstr "無効なテキストを除去できませんでした。"
 
 #. translators: 1: WordPress version number, 2: Minimum required MySQL version number.
 #: wp-includes/class-wpdb.php:3856
 #, php-format
 msgid "<strong>Error:</strong> ClassicPress %1$s requires MySQL %2$s or higher"
-msgstr ""
+msgstr "<strong>エラー:</strong> ClassicPress %1$s には MySQL %2$s 以上が必要です"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:45
 msgid "Block Compatibility"
-msgstr ""
+msgstr "ブロックの互換性"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:46
 msgid "Plugins and themes using block functions."
-msgstr ""
+msgstr "ブロック関数を使用するプラグインとテーマ。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:56
 #: wp-includes/classicpress/class-cp-debug-compat.php:69
 #: wp-includes/classicpress/class-cp-debug-compat.php:96
 msgid "Plugins using block functions"
-msgstr ""
+msgstr "ブロック関数を使用するプラグイン"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:60
 #: wp-includes/classicpress/class-cp-debug-compat.php:112
 #: wp-includes/classicpress/class-cp-debug-compat.php:140
 msgid "Themes using block functions"
-msgstr ""
+msgstr "ブロック機能を使用したテーマ"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:77
 msgid "No plugins are using block functions."
-msgstr ""
+msgstr "ブロック機能を使用しているプラグインはありません。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:85
 msgid "Plugins on this list may have issues."
-msgstr ""
+msgstr "このリストのプラグインに問題がある可能性があります。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:86
 #: wp-includes/classicpress/class-cp-debug-compat.php:130
 msgid "Learn more."
-msgstr ""
+msgstr "もっと詳しく。"
 
 #. translators: %s: URL to Settings > General > Blocks Compatibility.
 #: wp-includes/classicpress/class-cp-debug-compat.php:91
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr ""
+msgstr "このリストをリセットするには、 <a href=\"%s\">ブロック互換性</a> を「オン」に切り替え、再び「トラブルシューティング」に戻ります。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
-msgstr ""
+msgstr "ブロック関数を使用しているテーマはありません。"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:129
 msgid "Themes on this list may have issues."
-msgstr ""
+msgstr "このリストのテーマに問題がある可能性があります。"
 
 #: wp-includes/classicpress/class-cp-settings.php:96
 msgid "Failed to delete the file: "
-msgstr ""
+msgstr "ファイルの削除に失敗しました: "
 
 #: wp-includes/classicpress/class-cp-settings.php:111
 msgid "Failed to copy object-cache.php to wp-content folder."
-msgstr ""
+msgstr "object-cache.phpをwp-contentフォルダにコピーできませんでした。"
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
@@ -5377,25 +5377,25 @@ msgstr ""
 #: wp-includes/classicpress/class-wp-compat.php:147
 #, php-format
 msgid "%1$s uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s はブロック関連の関数を使用しており、問題がある可能性があります。"
 
 #: wp-includes/classicpress/class-wp-compat.php:64
 #: wp-includes/classicpress/class-wp-compat.php:148
 #: wp-includes/classicpress/class-wp-compat.php:153
 msgid "Learn more"
-msgstr ""
+msgstr "もっと詳しく"
 
 #: wp-includes/classicpress/class-wp-compat.php:65
 #: wp-includes/classicpress/class-wp-compat.php:149
 #: wp-includes/classicpress/class-wp-compat.php:154
 msgid "Report an issue &rsaquo;"
-msgstr ""
+msgstr "問題 &rsaquo; を報告"
 
 #. Translators: %1$s is the theme name, %1$s is the parent theme name.
 #: wp-includes/classicpress/class-wp-compat.php:152
 #, php-format
 msgid "%1$s parent theme (%2$s) uses block-related functions and may have issues."
-msgstr ""
+msgstr "%1$s 親テーマ (%2$s) はブロック関連関数を使用し、問題がある可能性があります。"
 
 #: wp-includes/comment-template.php:635
 msgid "Password protected"
@@ -5405,7 +5405,7 @@ msgstr "パスワード保護"
 #: wp-includes/comment-template.php:639
 msgctxt "comment_excerpt_length"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. translators: %s: Number of comments.
 #: wp-includes/comment-template.php:937
@@ -5419,7 +5419,7 @@ msgstr[0] "%s件のコメント"
 #: wp-includes/comment-template.php:944
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "オフ"
 
 #: wp-includes/comment-template.php:965
 msgid "No Comments"
@@ -5561,7 +5561,7 @@ msgstr "コメントを投稿するには<a href=\"%s\">ログイン</a>して�
 #: wp-includes/comment-template.php:2623
 #, php-format
 msgid "Logged in as %1$s. <a href=\"%2$s\">Edit your profile</a>. <a href=\"%3$s\">Log out?</a>"
-msgstr ""
+msgstr "%1$sとしてログインしました。 <a href=\"%2$s\">あなたのプロフィール</a>を編集します。 <a href=\"%3$s\">ログアウトしますか？</a>"
 
 #: wp-includes/comment-template.php:2635
 msgid "Your email address will not be published."
@@ -5577,7 +5577,7 @@ msgstr "コメントを送信"
 
 #: wp-includes/comment-template.php:2744
 msgid "Array values must only be a string or `true` boolean"
-msgstr ""
+msgstr "配列値は文字列または `true` ブール値のみでなければなりません"
 
 #: wp-includes/comment.php:265
 msgid "Unapproved"
@@ -5609,35 +5609,35 @@ msgstr "コメントを急いで投稿し過ぎているようです。もう少
 
 #: wp-includes/comment.php:1284
 msgid "<strong>Error:</strong> Your name is too long."
-msgstr ""
+msgstr "<strong>エラー:</strong> あなたの名前が長すぎます。"
 
 #: wp-includes/comment.php:1288
 msgid "<strong>Error:</strong> Your email address is too long."
-msgstr ""
+msgstr "<strong>エラー:</strong> メールアドレスが長すぎます。"
 
 #: wp-includes/comment.php:1292
 msgid "<strong>Error:</strong> Your URL is too long."
-msgstr ""
+msgstr "<strong>エラー：</strong> あなたのURLが長すぎます。"
 
 #: wp-includes/comment.php:1296
 msgid "<strong>Error:</strong> Your comment is too long."
-msgstr ""
+msgstr "<strong>エラー:</strong> あなたの名前が長すぎます。"
 
 #: wp-includes/comment.php:1334
 msgid "Please consider writing more inclusive code."
-msgstr ""
+msgstr "もっと包括的なコードを書くことを検討してください。"
 
 #: wp-includes/comment.php:2444
 msgid "Could not update comment status."
-msgstr ""
+msgstr "コメントのステータスを更新できませんでした。"
 
 #: wp-includes/comment.php:2609
 msgid "Could not update comment in the database."
-msgstr ""
+msgstr "データベースのコメントを更新できませんでした。"
 
 #: wp-includes/comment.php:3514
 msgid "Sorry, replies to unapproved comments are not allowed."
-msgstr ""
+msgstr "申し訳ありませんが、未承認コメントへの返信は許可されていません。"
 
 #: wp-includes/comment.php:3582
 msgid "Sorry, comments are not allowed for this item."
@@ -5645,19 +5645,19 @@ msgstr "この項目へのコメントは受け付けていません。"
 
 #: wp-includes/comment.php:3642
 msgid "<strong>Error:</strong> Please fill the required fields."
-msgstr ""
+msgstr "<strong>エラー:</strong> 必須項目を入力してください。"
 
 #: wp-includes/comment.php:3644
 msgid "<strong>Error:</strong> Please enter a valid email address."
-msgstr ""
+msgstr "<strong>エラー:</strong> 有効なメールアドレスを入力してください。"
 
 #: wp-includes/comment.php:3672
 msgid "<strong>Error:</strong> Please type your comment text."
-msgstr ""
+msgstr "<strong>エラー:</strong> コメントテキストを入力してください。"
 
 #: wp-includes/comment.php:3686
 msgid "<strong>Error:</strong> The comment could not be saved. Please try again later."
-msgstr ""
+msgstr "<strong>エラー:</strong> コメントを保存できませんでした。後でもう一度お試しください。"
 
 #: wp-includes/comment.php:3702
 #: wp-includes/comment.php:3812
@@ -5704,7 +5704,7 @@ msgstr "コメント"
 
 #: wp-includes/comment.php:3788
 msgid "User&#8217;s comment data."
-msgstr ""
+msgstr "ユーザー&#8217;s コメントデータ。"
 
 #. translators: %d: Comment ID.
 #: wp-includes/comment.php:3891
@@ -5717,34 +5717,34 @@ msgstr "コメント %d には個人データが含まれていますが、匿�
 #: wp-includes/cron.php:344
 #: wp-includes/cron.php:465
 msgid "Event timestamp must be a valid Unix timestamp."
-msgstr ""
+msgstr "イベントタイムスタンプは有効なUnixタイムスタンプでなければなりません。"
 
 #: wp-includes/cron.php:97
 #: wp-includes/cron.php:273
 msgid "A plugin prevented the event from being scheduled."
-msgstr ""
+msgstr "プラグインによりイベントのスケジュールができませんでした。"
 
 #: wp-includes/cron.php:155
 msgid "A duplicate event already exists."
-msgstr ""
+msgstr "重複したイベントは既に存在します。"
 
 #: wp-includes/cron.php:184
 #: wp-includes/cron.php:292
 msgid "A plugin disallowed this event."
-msgstr ""
+msgstr "プラグインがこのイベントを許可しませんでした。"
 
 #: wp-includes/cron.php:251
 #: wp-includes/cron.php:421
 msgid "Event schedule does not exist."
-msgstr ""
+msgstr "イベントスケジュールが存在しません。"
 
 #: wp-includes/cron.php:405
 msgid "A plugin prevented the event from being rescheduled."
-msgstr ""
+msgstr "プラグインがイベントのスケジュールを変更できませんでした。"
 
 #: wp-includes/cron.php:496
 msgid "A plugin prevented the event from being unscheduled."
-msgstr ""
+msgstr "プラグインがイベントのスケジュールを解除できませんでした。"
 
 #: wp-includes/cron.php:547
 msgid "This argument has changed to an array to match the behavior of the other cron functions."
@@ -5753,7 +5753,7 @@ msgstr "この変数は他の cron 関数の動作と統一させるため配列
 #: wp-includes/cron.php:576
 #: wp-includes/cron.php:665
 msgid "A plugin prevented the hook from being cleared."
-msgstr ""
+msgstr "プラグインがフックをクリアできませんでした。"
 
 #: wp-includes/cron.php:1056
 msgid "Once Hourly"
@@ -5769,11 +5769,11 @@ msgstr "1日1回"
 
 #: wp-includes/cron.php:1068
 msgid "Once Weekly"
-msgstr ""
+msgstr "1週間に1回"
 
 #: wp-includes/cron.php:1219
 msgid "The cron event list could not be saved."
-msgstr ""
+msgstr "cronイベントリストを保存できませんでした。"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:43
 msgid "Top Left"
@@ -5838,13 +5838,13 @@ msgstr "%1$s (%2$s)"
 #: wp-includes/customize/class-wp-customize-date-time-control.php:243
 #, php-format
 msgid "Your timezone is set to %1$s (%2$s), currently %3$s (Coordinated Universal Time %4$s)."
-msgstr ""
+msgstr "あなたのタイムゾーンは %1$s (%2$s), 現在 %3$s (協定ユニバーサルタイム %4$s) に設定されています。"
 
 #. translators: 1: UTC abbreviation and offset, 2: UTC offset.
 #: wp-includes/customize/class-wp-customize-date-time-control.php:257
 #, php-format
 msgid "Your timezone is set to %1$s (Coordinated Universal Time %2$s)."
-msgstr ""
+msgstr "あなたのタイムゾーンは %1$s （協定世界時 %2$s）に設定されています。"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:124
 msgid "Randomize uploaded headers"
@@ -5971,7 +5971,7 @@ msgstr "画像を選択"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:246
 msgid "Select Site Icon"
-msgstr ""
+msgstr "サイトアイコンを選択"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:247
 msgid "Change image"
@@ -6021,7 +6021,7 @@ msgstr "項目を追加"
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:46
 #, php-format
 msgid "Time to add some links! Click &#8220;%s&#8221; to start putting pages, categories, and custom links in your menu. Add as many things as you would like."
-msgstr ""
+msgstr "リンクを追加しましょう！ &#8220;%s&#8221; をクリックして、メニューにページ、カテゴリ、カスタムリンクを追加してください。 好きなだけ多くのものを加えてください。"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-control.php:52
 msgid "Add or remove menu items"
@@ -6066,7 +6066,7 @@ msgstr "自分とリンク先の関係/間柄 (XFN)"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:127
 msgid "The description will be displayed in the menu if the active theme supports it."
-msgstr ""
+msgstr "アクティブなテーマがサポートしている場合、説明はメニューに表示されます。"
 
 #. translators: Nav menu item original title. %s: Original title.
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:147
@@ -6110,12 +6110,12 @@ msgstr "(メニュー<a href=\"%1$s\" %2$s>ウィジェット%3$s</a>を使用�
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:53
 msgid "https://wordpress.org/documentation/article/manage-wordpress-widgets/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/manage-wordpress-widgets/"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:64
 msgctxt "menu locations"
 msgid "Here&#8217;s where this menu appears. If you would like to change that, pick another location."
-msgstr ""
+msgstr "このメニューが表示される場所は&#8217;です。変更したい場合は、別の場所を選択してください。"
 
 #. translators: %s: Menu name.
 #: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:79
@@ -6214,7 +6214,7 @@ msgstr "新しいバージョンが利用できます。"
 #: wp-includes/customize/class-wp-customize-theme-control.php:103
 #, php-format
 msgid "New version available. %s"
-msgstr ""
+msgstr "新しいバージョンが利用可能です。 %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:104
 msgid "Update now"
@@ -6224,14 +6224,14 @@ msgstr "いますぐ更新"
 #: wp-includes/customize/class-wp-customize-theme-control.php:117
 #, php-format
 msgid "There is a new version of %s available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "新しいバージョンの %s がありますが、お使いの ClassicPress と PHP では動作しません。"
 
 #. translators: 1: URL to WordPress Updates screen, 2: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:124
 #: wp-includes/customize/class-wp-customize-theme-control.php:197
 #, php-format
 msgid "<a href=\"%1$s\">Please update ClassicPress</a>, and then <a href=\"%2$s\">learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">ClassicPressをアップデートしてください</a>。その後、<a href=\"%2$s\">PHPのアップデートについて詳しくはこちらをご覧ください</a>。"
 
 #. translators: %s: URL to Update PHP page.
 #: wp-includes/customize/class-wp-customize-theme-control.php:131
@@ -6242,7 +6242,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:245
 #, php-format
 msgid "<a href=\"%s\">Learn more about updating PHP</a>."
-msgstr ""
+msgstr "<a href=\"%s\">PHP</a> の更新について詳しくはこちらをご覧ください。"
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-includes/customize/class-wp-customize-theme-control.php:139
@@ -6251,40 +6251,40 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-theme-control.php:234
 #, php-format
 msgid "<a href=\"%s\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\">ClassicPress</a> を更新してください。"
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:155
 #, php-format
 msgid "There is a new version of %s available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "新しいバージョンの %s がありますが、お使いのClassicPressでは動作しません。"
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:170
 #, php-format
 msgid "There is a new version of %s available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "新しいバージョンの %s がありますが、お使いのバージョンの PHP では動作しません。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:192
 msgid "This theme does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "このテーマは、お使いのバージョンの ClassicPress と PHP では動作しません。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:226
 msgid "FSE themes don't work with ClassicPress."
-msgstr ""
+msgstr "FSEのテーマはClassicPressでは動作しません。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:230
 msgid "This theme does not work with your version of ClassicPress."
-msgstr ""
+msgstr "このテーマは、お使いのClassicPressバージョンでは動作しません。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:241
 msgid "This theme does not work with your version of PHP."
-msgstr ""
+msgstr "このテーマはPHPのバージョンでは動作しません。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:258
 msgctxt "theme"
 msgid "Previewing:"
-msgstr ""
+msgstr "プレビュー:"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:266
 #: wp-includes/customize/class-wp-customize-theme-control.php:320
@@ -6301,13 +6301,13 @@ msgstr "%s を有効化"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:287
 msgid "This theme doesn't support Customizer."
-msgstr ""
+msgstr "このテーマはカスタマイザをサポートしていません。"
 
 #. translators: %s: URL to the themes page (also it activates the theme).
 #: wp-includes/customize/class-wp-customize-theme-control.php:292
 #, php-format
 msgid "However, you can still <a href=\"%s\">activate this theme</a>, and use the Site Editor to customize it."
-msgstr ""
+msgstr "ただし、<a href=\"%s\">このテーマを有効化</a>して、サイトエディターを使用してカスタマイズすることは可能です。"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:312
 #: wp-includes/customize/class-wp-customize-theme-control.php:314
@@ -6346,7 +6346,7 @@ msgstr "%s を表示中"
 #: wp-includes/customize/class-wp-customize-themes-section.php:89
 #, php-format
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net or this server&#8217;s configuration. If you continue to have problems, please try the <a href=\"%s\">support forums</a>."
-msgstr ""
+msgstr "予期せぬエラーが発生しました。WordPress.org、ClassicPress.net、またはこのサーバーの設定に問題がある可能性があります。問題が解決しない場合は、<a href=\"%s\">サポートフォーラム</a>をご利用ください。"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:97
 msgid "No themes found. Try a different search."
@@ -6360,11 +6360,11 @@ msgstr "テーマが見つかりませんでした。他の検索、または %s
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:103
 msgid "Search WordPress.org themes"
-msgstr ""
+msgstr "WordPress.org テーマ"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:124
 msgid "Go to theme sources"
-msgstr ""
+msgstr "テーマソースへ移動"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/customize/class-wp-customize-themes-section.php:130
@@ -6397,7 +6397,7 @@ msgstr "並べ替えモードではウィジェットリスト内でウィジェ
 
 #: wp-includes/deprecated.php:64
 msgid "new ClassicPress Loop"
-msgstr ""
+msgstr "新しい ClassicPress Loop"
 
 #: wp-includes/deprecated.php:706
 #: wp-includes/media-template.php:848
@@ -6443,7 +6443,7 @@ msgstr "本当に実行していいですか ?"
 #: wp-includes/deprecated.php:3195
 #, php-format
 msgid "File &#8220;%s&#8221; does not exist?"
-msgstr ""
+msgstr "ファイル &#8220;%s&#8221; が存在しませんか？"
 
 #: wp-includes/deprecated.php:3199
 msgid "The GD image library is not installed."
@@ -6502,7 +6502,7 @@ msgstr "埋め込むにはこの URL をコピーして ClassicPress サイト�
 
 #: wp-includes/embed.php:1179
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: wp-includes/embed.php:1182
 msgid "Copy and paste this code into your site to embed"
@@ -6516,7 +6516,7 @@ msgstr "共有ダイアログを閉じる"
 #: wp-includes/error-protection.php:63
 #, php-format
 msgid "An error of type %1$s was caused in line %2$s of the file %3$s. Error message: %4$s"
-msgstr ""
+msgstr "%1$s 型のエラーは、ファイル %2$s の %3$s行目に発生しました。エラーメッセージ: %4$s"
 
 #. translators: Comments feed title. %s: Post title.
 #: wp-includes/feed-atom-comments.php:34
@@ -6573,62 +6573,62 @@ msgstr "代わりにフィルタ %s を使用してください。"
 #: wp-includes/feed.php:861
 #, php-format
 msgid "Error fetching feed %1$s: %2$s"
-msgstr ""
+msgstr "フィード %1$sの取得に失敗しました: %2$s"
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
 #: wp-includes/formatting.php:5614
 msgctxt "opening curly double quote"
 msgid "&#8220;"
-msgstr ""
+msgstr "&#8220;"
 
 #. translators: Closing curly double quote.
 #: wp-includes/formatting.php:86
 msgctxt "closing curly double quote"
 msgid "&#8221;"
-msgstr ""
+msgstr "&#8221;"
 
 #. translators: Apostrophe, for example in 'cause or can't.
 #: wp-includes/formatting.php:89
 msgctxt "apostrophe"
 msgid "&#8217;"
-msgstr ""
+msgstr "&#8217;"
 
 #. translators: Prime, for example in 9' (nine feet).
 #: wp-includes/formatting.php:92
 msgctxt "prime"
 msgid "&#8242;"
-msgstr ""
+msgstr "&#8242;"
 
 #. translators: Double prime, for example in 9" (nine inches).
 #: wp-includes/formatting.php:94
 msgctxt "double prime"
 msgid "&#8243;"
-msgstr ""
+msgstr "&#8243;"
 
 #. translators: Opening curly single quote.
 #: wp-includes/formatting.php:97
 msgctxt "opening curly single quote"
 msgid "&#8216;"
-msgstr ""
+msgstr "&#8216;"
 
 #. translators: Closing curly single quote.
 #: wp-includes/formatting.php:99
 msgctxt "closing curly single quote"
 msgid "&#8217;"
-msgstr ""
+msgstr "&#8217;"
 
 #. translators: En dash.
 #: wp-includes/formatting.php:102
 msgctxt "en dash"
 msgid "&#8211;"
-msgstr ""
+msgstr "&#8211;"
 
 #. translators: Em dash.
 #: wp-includes/formatting.php:104
 msgctxt "em dash"
 msgid "&#8212;"
-msgstr ""
+msgstr "&#8212;"
 
 #: wp-includes/formatting.php:121
 msgctxt "Comma-separated list of words to texturize in your language"
@@ -6697,12 +6697,12 @@ msgstr[0] "%s年"
 #: wp-includes/formatting.php:3947
 msgctxt "excerpt_length"
 msgid "55"
-msgstr ""
+msgstr "55"
 
 #: wp-includes/formatting.php:3996
 #: wp-includes/general-template.php:4564
 msgid "&hellip;"
-msgstr ""
+msgstr "&hellip;"
 
 #: wp-includes/formatting.php:4806
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
@@ -6734,7 +6734,7 @@ msgstr ""
 #: wp-includes/formatting.php:5043
 #, php-format
 msgid "Could not sanitize the %1$s option. Error code: %2$s"
-msgstr ""
+msgstr "%1$s オプションをサニタイズできませんでした。エラー コード: %2$s"
 
 #. translators: Used to join items in a list with more than 2 items.
 #: wp-includes/formatting.php:5259
@@ -6746,73 +6746,73 @@ msgstr "%1$s %2$s"
 #: wp-includes/formatting.php:5261
 #, php-format
 msgid "%1$s, and %2$s"
-msgstr ""
+msgstr "%1$sと %2$s"
 
 #. translators: Used to join items in a list with only 2 items.
 #: wp-includes/formatting.php:5263
 #, php-format
 msgid "%1$s and %2$s"
-msgstr ""
+msgstr "%1$s と %2$s"
 
 #. translators: 1: The function name, 2: The argument number, 3: The argument name, 4: The expected type, 5: The provided type.
 #: wp-includes/formatting.php:5447
 #, php-format
 msgid "Warning: %1$s expects parameter %2$s (%3$s) to be a %4$s, %5$s given."
-msgstr ""
+msgstr "警告: %1$s はパラメータ %2$s (%3$s) が %4$sであることを期待しています, %5$s 与えられました."
 
 #. translators: If months in your language require a genitive case, translate this to 'on'. Do not translate into your own language.
 #: wp-includes/functions.php:345
 msgctxt "decline months names: on or off"
 msgid "off"
-msgstr ""
+msgstr "オフ"
 
 #. translators: Unit symbol for yottabyte.
 #: wp-includes/functions.php:465
 msgctxt "unit symbol"
 msgid "YB"
-msgstr ""
+msgstr "YB"
 
 #. translators: Unit symbol for zettabyte.
 #: wp-includes/functions.php:467
 msgctxt "unit symbol"
 msgid "ZB"
-msgstr ""
+msgstr "ZB"
 
 #. translators: Unit symbol for exabyte.
 #: wp-includes/functions.php:469
 msgctxt "unit symbol"
 msgid "EB"
-msgstr ""
+msgstr "EB"
 
 #. translators: Unit symbol for petabyte.
 #: wp-includes/functions.php:471
 msgctxt "unit symbol"
 msgid "PB"
-msgstr ""
+msgstr "PB"
 
 #. translators: Unit symbol for terabyte.
 #: wp-includes/functions.php:473
 msgctxt "unit symbol"
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #. translators: Unit symbol for gigabyte.
 #: wp-includes/functions.php:475
 msgctxt "unit symbol"
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 #. translators: Unit symbol for megabyte.
 #: wp-includes/functions.php:477
 msgctxt "unit symbol"
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 #. translators: Unit symbol for kilobyte.
 #: wp-includes/functions.php:479
 msgctxt "unit symbol"
 msgid "KB"
-msgstr ""
+msgstr "KB"
 
 #. translators: Unit symbol for byte.
 #: wp-includes/functions.php:481
@@ -6826,11 +6826,11 @@ msgstr "青"
 #, php-format
 msgid "%s minute"
 msgid_plural "%s minutes"
-msgstr[0] ""
+msgstr[0] "%s 分"
 
 #: wp-includes/functions.php:1603
 msgid "<strong>Error:</strong> This is not a valid feed template."
-msgstr ""
+msgstr "<strong>エラー:</strong> これは有効なフィードテンプレートではありません。"
 
 #. translators: %s: Database repair URL.
 #: wp-includes/functions.php:1823
@@ -6845,7 +6845,7 @@ msgstr "ファイル名が空です"
 #: wp-includes/functions.php:2882
 #: wp-includes/script-loader.php:776
 msgid "Sorry, you are not allowed to upload this file type."
-msgstr ""
+msgstr "申し訳ありませんが、このファイルタイプをアップロードすることはできません。"
 
 #. translators: %s: File name.
 #: wp-includes/functions.php:2936
@@ -6887,19 +6887,19 @@ msgstr "ClassicPress &rsaquo; エラー"
 #: wp-includes/functions.php:4440
 #, php-format
 msgid "Return a %1$s or %2$s object from your callback when using the REST API."
-msgstr ""
+msgstr "REST API を使用した場合、コールバックから %1$s または %2$s オブジェクトを返します。"
 
 #. translators: %s: Path to the JSON file.
 #: wp-includes/functions.php:4578
 #, php-format
 msgid "File %s doesn't exist!"
-msgstr ""
+msgstr "ファイルが存在しませんか？"
 
 #. translators: 1: Path to the JSON file, 2: Error message.
 #: wp-includes/functions.php:4592
 #, php-format
 msgid "Error when decoding a JSON file at path %1$s: %2$s"
-msgstr ""
+msgstr "%1$sのパスで JSON ファイルをデコードするときにエラーが発生しました: %2$s"
 
 #: wp-includes/functions.php:5433
 msgid "Database Error"
@@ -6909,7 +6909,7 @@ msgstr "データベースエラー"
 #: wp-includes/functions.php:5493
 #, php-format
 msgid "Function %1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr ""
+msgstr "関数 %1$s はバージョン %2$s 以降 <strong>非推奨</strong> です。代わりに %3$s を使用してください。"
 
 #. translators: 1: PHP function name, 2: Version number.
 #: wp-includes/functions.php:5504

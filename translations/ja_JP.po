@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-17 20:44\n"
+"PO-Revision-Date: 2026-03-18 02:43\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -44,7 +44,7 @@ msgstr "有効化"
 #: wp-activate.php:164
 #: wp-activate.php:198
 msgid "Your account is now active!"
-msgstr "アカウント登録が完了しました!"
+msgstr "アカウント登録が完了しました !"
 
 #. translators: 1: Login URL, 2: Username, 3: User email address, 4: Lost password URL.
 #: wp-activate.php:170
@@ -7071,7 +7071,7 @@ msgstr ""
 
 #: wp-includes/functions.php:8318
 msgid "Update PHP"
-msgstr ""
+msgstr "PHPを更新"
 
 #. translators: Documentation explaining HTTPS and why it should be used.
 #: wp-includes/functions.php:8377
@@ -7082,13 +7082,13 @@ msgstr ""
 #: wp-includes/functions.php:8574
 #, php-format
 msgid "%1$s only accepts a non-empty path string, received %2$s."
-msgstr ""
+msgstr "%1$s は空でないパス文字列のみを受け付け、 %2$s を受け取りました。"
 
 #. translators: %s: The "type" key.
 #: wp-includes/functions.php:8723
 #, php-format
 msgid "The %s key must be a string without spaces."
-msgstr ""
+msgstr "%s キーはスペースのない文字列でなければなりません。"
 
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
@@ -7100,7 +7100,7 @@ msgstr "スクリプトおよびスタイルは %1$s、%2$s、%3$s フック以�
 #: wp-includes/functions.wp-scripts.php:59
 #, php-format
 msgid "This notice was triggered by the %s handle."
-msgstr ""
+msgstr "この通知は %s ハンドルによって引き起こされました。"
 
 #. translators: 1: <script>, 2: wp_add_inline_script()
 #. translators: 1: <style>, 2: wp_add_inline_style()
@@ -7112,7 +7112,7 @@ msgstr "%1$s タグを %2$s に渡さないでください。"
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` parameter instead."
-msgstr ""
+msgstr "代わりに、`$args`パラメータを使用してください。"
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -7244,12 +7244,12 @@ msgstr "アーカイブ"
 #: wp-includes/general-template.php:1680
 msgctxt "category archive title prefix"
 msgid "Category:"
-msgstr ""
+msgstr "カテゴリ:"
 
 #: wp-includes/general-template.php:1683
 msgctxt "tag archive title prefix"
 msgid "Tag:"
-msgstr ""
+msgstr "タグ:"
 
 #: wp-includes/general-template.php:1686
 msgctxt "author archive title prefix"
@@ -7259,12 +7259,12 @@ msgstr "作成者:"
 #: wp-includes/general-template.php:1689
 msgctxt "date archive title prefix"
 msgid "Year:"
-msgstr ""
+msgstr "年:"
 
 #: wp-includes/general-template.php:1692
 msgctxt "date archive title prefix"
 msgid "Month:"
-msgstr ""
+msgstr "月:"
 
 #: wp-includes/general-template.php:1694
 #: wp-includes/general-template.php:2358
@@ -7275,7 +7275,7 @@ msgstr "Y年n月j日"
 #: wp-includes/general-template.php:1695
 msgctxt "date archive title prefix"
 msgid "Day:"
-msgstr ""
+msgstr "日:"
 
 #: wp-includes/general-template.php:1698
 msgctxt "post format archive title"
@@ -7325,14 +7325,14 @@ msgstr "チャット"
 #: wp-includes/general-template.php:1718
 msgctxt "post type archive title prefix"
 msgid "Archives:"
-msgstr ""
+msgstr "アーカイブ:"
 
 #. translators: %s: Taxonomy singular name.
 #: wp-includes/general-template.php:1726
 #, php-format
 msgctxt "taxonomy term archive title prefix"
 msgid "%s:"
-msgstr ""
+msgstr "%s:"
 
 #. translators: 1: Title prefix. 2: Title.
 #: wp-includes/general-template.php:1745
@@ -7364,14 +7364,14 @@ msgstr "%s に投稿を公開"
 
 #: wp-includes/general-template.php:2387
 msgid "Previous and next months"
-msgstr ""
+msgstr "前と次のヶ月"
 
 #. translators: Separator between blog name and feed type in feed links.
 #: wp-includes/general-template.php:3071
 #: wp-includes/general-template.php:3123
 msgctxt "feed link"
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #. translators: 1: Blog title, 2: Separator (raquo).
 #: wp-includes/general-template.php:3073
@@ -7448,7 +7448,7 @@ msgstr "明るい"
 #: wp-includes/general-template.php:4697
 msgctxt "admin color scheme"
 msgid "Modern"
-msgstr ""
+msgstr "モダンな"
 
 #: wp-includes/general-template.php:4709
 msgctxt "admin color scheme"
@@ -7483,7 +7483,7 @@ msgstr "コーヒー"
 #. translators: Character to identify required form fields.
 #: wp-includes/general-template.php:5136
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #. translators: %s: Asterisk symbol (*).
 #: wp-includes/general-template.php:5160
@@ -7493,25 +7493,25 @@ msgstr "%s が付いている欄は必須項目です"
 
 #: wp-includes/general-template.php:5242
 msgid "Powered by ClassicPress"
-msgstr ""
+msgstr "Powered by ClassicPress"
 
 #: wp-includes/https-detection.php:134
 msgid "HTTPS request failed."
-msgstr ""
+msgstr "HTTPS リクエストに失敗しました。"
 
 #: wp-includes/https-detection.php:139
 msgid "SSL verification failed."
-msgstr ""
+msgstr "SSL 認証に失敗しました。"
 
 #: wp-includes/https-detection.php:150
 msgid "It looks like the response did not come from this site."
-msgstr ""
+msgstr "このサイトからの反応はなかったようです。"
 
 #. translators: 1: CUSTOM_TAGS, 2: Global variable names.
 #: wp-includes/kses.php:714
 #, php-format
 msgid "When using the %1$s constant, make sure to set these globals to an array: %2$s."
-msgstr ""
+msgstr "%1$s 定数を使用する場合は、これらのグローバルを配列に設定してください: %2$s。"
 
 #: wp-includes/l10n.php:1634
 msgctxt "translations"
@@ -7633,17 +7633,17 @@ msgstr "お使いのサーバーの PHP では ClassicPress に必要な MySQL �
 #: wp-includes/load.php:174
 #, php-format
 msgid "Please check that the %s PHP extension is installed and enabled."
-msgstr ""
+msgstr "%s PHP拡張がインストールされ有効になっていることを確認してください。"
 
 #: wp-includes/load.php:190
 msgid "Requirements Not Met"
-msgstr ""
+msgstr "要件が満たされていません"
 
 #. translators: %s: WP_ENVIRONMENT_TYPES
 #: wp-includes/load.php:230
 #, php-format
 msgid "The %s constant is no longer supported."
-msgstr ""
+msgstr "%s 定数はサポートされなくなりました。"
 
 #: wp-includes/load.php:304
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
@@ -7665,13 +7665,13 @@ msgstr "リクエストされたサイトは正常にインストールされて
 
 #: wp-includes/load.php:1679
 msgid "Scrape key check failed. Please try again."
-msgstr ""
+msgstr "スクラップキーのチェックに失敗しました。もう一度やり直してください。"
 
 #. translators: 1: Link to tutorial, 2: Additional link attributes, 3: Accessibility text.
 #: wp-includes/media-template.php:161
 #, php-format
 msgid "<a href=\"%1$s\" %2$s>Learn how to describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "<a href=\"%1$s\" %2$s>%3$s</a>イメージの目的を説明する方法を学びます。画像が純粋に装飾的な場合は空のままにします。"
 
 #: wp-includes/media-template.php:175
 msgctxt "media modal menu actions"
@@ -7686,7 +7686,7 @@ msgstr "メニュー"
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:188
 msgid "Selected media actions"
-msgstr ""
+msgstr "選択したメディアアクション"
 
 #: wp-includes/media-template.php:214
 #: wp-includes/media-template.php:221
@@ -7701,7 +7701,7 @@ msgstr "アップローダーを閉じる"
 
 #: wp-includes/media-template.php:242
 msgid "Your browser cannot upload files"
-msgstr ""
+msgstr "お使いのブラウザはファイルをアップロードできません"
 
 #. translators: %s: https://apps.wordpress.org
 #: wp-includes/media-template.php:247
@@ -7745,12 +7745,12 @@ msgstr "推奨画像サイズ: %1$s×%2$sピクセル"
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:343
 msgid "List view"
-msgstr ""
+msgstr "一覧表示"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:351
 msgid "Grid view"
-msgstr ""
+msgstr "グリッドビュー"
 
 #: wp-includes/media-template.php:359
 #: wp-includes/script-loader.php:838
@@ -7761,7 +7761,7 @@ msgstr "アップロード中"
 #: wp-includes/media-template.php:370
 #: wp-includes/widgets.php:2282
 msgid "Dismiss errors"
-msgstr ""
+msgstr "エラーを却下する"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:382
@@ -7776,7 +7776,7 @@ msgstr "次のメディア項目を編集"
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:393
 msgid "Attachment Preview"
-msgstr ""
+msgstr "添付ファイルのプレビュー"
 
 #: wp-includes/media-template.php:431
 #: wp-includes/media-template.php:732
@@ -7805,11 +7805,11 @@ msgstr "更新日:"
 
 #: wp-includes/media-template.php:452
 msgid "Uploaded by:"
-msgstr ""
+msgstr "アップロード者："
 
 #: wp-includes/media-template.php:461
 msgid "Uploaded to:"
-msgstr ""
+msgstr "アップロード先:"
 
 #: wp-includes/media-template.php:469
 #: wp-includes/widgets.php:2187
@@ -7835,12 +7835,12 @@ msgstr "サイズ:"
 #: wp-includes/media-template.php:719
 #, php-format
 msgid "%1$s by %2$s pixels"
-msgstr ""
+msgstr "%1$s の %2$s ピクセル"
 
 #: wp-includes/media-template.php:484
 #: wp-includes/media-template.php:726
 msgid "Original image:"
-msgstr ""
+msgstr "元の画像:"
 
 #: wp-includes/media-template.php:491
 #: wp-includes/media-template.php:737
@@ -7854,7 +7854,7 @@ msgstr "ビットレート:"
 #: wp-includes/media-template.php:507
 #: wp-includes/media-template.php:744
 msgid "Used as:"
-msgstr ""
+msgstr "として使用:"
 
 #: wp-includes/media-template.php:521
 #: wp-includes/media-template.php:1075
@@ -7890,13 +7890,13 @@ msgstr "ファイルの URL:"
 #: wp-includes/media-template.php:805
 #: wp-includes/widgets.php:2238
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "URL をクリップボードにコピー"
 
 #: wp-includes/media-template.php:558
 #: wp-includes/media-template.php:806
 #: wp-includes/widgets.php:2239
 msgid "Copied!"
-msgstr ""
+msgstr "コピーしました！"
 
 #: wp-includes/media-template.php:567
 msgid "View attachment page"
@@ -7904,7 +7904,7 @@ msgstr "添付ファイルのページを表示"
 
 #: wp-includes/media-template.php:567
 msgid "View media file"
-msgstr ""
+msgstr "メディア ファイルを表示"
 
 #: wp-includes/media-template.php:575
 msgid "Edit more details"
@@ -7912,13 +7912,13 @@ msgstr "さらに詳細を編集"
 
 #: wp-includes/media-template.php:579
 msgid "Download file"
-msgstr ""
+msgstr "ファイルをダウンロード"
 
 #: wp-includes/media-template.php:587
 #: wp-includes/media-template.php:750
 #: wp-includes/media.php:4701
 msgid "Restore from Trash"
-msgstr ""
+msgstr "ゴミ箱から復元"
 
 #: wp-includes/media-template.php:589
 #: wp-includes/media-template.php:752
@@ -7931,7 +7931,7 @@ msgstr "ゴミ箱へ移動"
 #: wp-includes/media.php:4702
 #: wp-includes/widgets.php:2201
 msgid "Delete permanently"
-msgstr ""
+msgstr "完全に削除"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:637
@@ -7946,31 +7946,31 @@ msgstr "選択を解除"
 
 #: wp-includes/media-template.php:647
 msgid "Caption&hellip;"
-msgstr ""
+msgstr "図表番号&hellip;"
 
 #: wp-includes/media-template.php:651
 msgid "Video title"
-msgstr ""
+msgstr "動画のタイトル"
 
 #: wp-includes/media-template.php:652
 msgid "Video title&hellip;"
-msgstr ""
+msgstr "動画タイトル&hellip;"
 
 #: wp-includes/media-template.php:654
 msgid "Audio title"
-msgstr ""
+msgstr "音声のタイトル"
 
 #: wp-includes/media-template.php:655
 msgid "Audio title&hellip;"
-msgstr ""
+msgstr "音声タイトル&hellip;"
 
 #: wp-includes/media-template.php:657
 msgid "Media title"
-msgstr ""
+msgstr "メディアのタイトル"
 
 #: wp-includes/media-template.php:658
 msgid "Media title&hellip;"
-msgstr ""
+msgstr "メディアタイトル&hellip;"
 
 #: wp-includes/media-template.php:667
 #: wp-includes/widgets.php:2181
@@ -8149,7 +8149,7 @@ msgstr "カスタムサイズ"
 #: wp-includes/media-template.php:1221
 #: wp-includes/widgets/class-wp-widget-media-image.php:575
 msgid "Image size in pixels"
-msgstr ""
+msgstr "画像サイズ（ピクセル単位）"
 
 #: wp-includes/media-template.php:1254
 #: wp-includes/widgets/class-wp-widget-media-image.php:605
@@ -8201,7 +8201,7 @@ msgstr "音声ソースを削除"
 #: wp-includes/media-template.php:1347
 #: wp-includes/media-template.php:1438
 msgid "Add alternate sources for maximum HTML5 playback"
-msgstr ""
+msgstr "最大HTML5再生のために別のソースを追加する"
 
 #: wp-includes/media-template.php:1359
 #: wp-includes/media-template.php:1458
@@ -8266,7 +8266,7 @@ msgstr "トラック (字幕、キャプション、説明、チャプター、�
 #: wp-includes/media-template.php:1493
 #, php-format
 msgid "The %1$s, %2$s, and %3$s values can be edited to set the video track language and kind."
-msgstr ""
+msgstr "%1$s, %2$s, %3$s の値を編集して、ビデオトラックの言語と種類を設定できます。"
 
 #: wp-includes/media-template.php:1500
 msgctxt "media"
@@ -8298,7 +8298,7 @@ msgstr "アプリアイコンとして"
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5741
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
-msgstr ""
+msgstr "画像は、遅延ロードされ、同時に高優先度としてマークされてはいけません。"
 
 #: wp-includes/media.php:3081
 msgid "Genre"
@@ -8335,7 +8335,7 @@ msgstr "(タイトルなし)"
 #: wp-includes/media.php:4683
 #: wp-includes/widgets/class-wp-widget-text.php:481
 msgid "Add media"
-msgstr ""
+msgstr "メディアを追加"
 
 #: wp-includes/media.php:4663
 msgid "Select"
@@ -8364,11 +8364,11 @@ msgstr "メディアファイルを並び替えるにはドラッグしてドロ
 #: wp-includes/media.php:4678
 #: wp-includes/widgets.php:2082
 msgid "Upload files"
-msgstr ""
+msgstr "ファイルをアップロード"
 
 #: wp-includes/media.php:4679
 msgid "Upload images"
-msgstr ""
+msgstr "画像をアップロード"
 
 #. translators: %d: Widget count.
 #: wp-includes/media.php:4682
@@ -8448,11 +8448,11 @@ msgstr "これらの項目をゴミ箱に移動しようとしています。\n"
 
 #: wp-includes/media.php:4699
 msgid "Bulk select"
-msgstr ""
+msgstr "一括選択"
 
 #: wp-includes/media.php:4703
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "添付ファイルの削除中にエラーが発生しました。"
 
 #: wp-includes/media.php:4706
 msgid "Filter by type"
@@ -8460,7 +8460,7 @@ msgstr "タイプで絞り込み"
 
 #: wp-includes/media.php:4708
 msgid "Search media"
-msgstr ""
+msgstr "メディアを検索"
 
 #: wp-includes/media.php:4709
 msgid "Search media items..."
@@ -8470,19 +8470,19 @@ msgstr "メディア項目を検索..."
 #: wp-includes/media.php:4711
 #, php-format
 msgid "Number of media items found: %d"
-msgstr ""
+msgstr "見つかったメディアアイテムの数: %d"
 
 #: wp-includes/media.php:4712
 msgid "No media items found."
-msgstr ""
+msgstr "メディアアイテムが見つかりません。"
 
 #: wp-includes/media.php:4713
 msgid "No media items found. Try a different search."
-msgstr ""
+msgstr "メディア項目が見つかりませんでした。別の検索を試してください。"
 
 #: wp-includes/media.php:4716
 msgid "Attachment details"
-msgstr ""
+msgstr "添付ファイルの詳細"
 
 #: wp-includes/media.php:4719
 #: wp-includes/widgets/class-wp-widget-media-audio.php:254
@@ -8496,12 +8496,12 @@ msgstr "URL から挿入"
 #: wp-includes/media.php:4726
 #: wp-includes/widgets/class-wp-widget-text.php:463
 msgid "Create gallery"
-msgstr ""
+msgstr "ギャラリーを作成"
 
 #: wp-includes/media.php:4727
 #: wp-includes/widgets/class-wp-widget-text.php:469
 msgid "Edit gallery"
-msgstr ""
+msgstr "ギャラリーを編集"
 
 #: wp-includes/media.php:4728
 msgid "&#8592; Cancel gallery"
@@ -8532,11 +8532,11 @@ msgstr "順序を逆にする"
 
 #: wp-includes/media.php:4736
 msgid "Image details"
-msgstr ""
+msgstr "画像の詳細"
 
 #: wp-includes/media.php:4737
 msgid "Replace image"
-msgstr ""
+msgstr "画像を置き換え"
 
 #: wp-includes/media.php:4738
 #: wp-includes/media.php:4756
@@ -8544,23 +8544,23 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-audio.php:258
 #: wp-includes/widgets/class-wp-widget-media-video.php:299
 msgid "Cancel edit"
-msgstr ""
+msgstr "編集をキャンセル"
 
 #: wp-includes/media.php:4739
 msgid "Edit image"
-msgstr ""
+msgstr "画像を編集"
 
 #: wp-includes/media.php:4743
 msgid "Select and crop"
-msgstr ""
+msgstr "選択してトリミング"
 
 #: wp-includes/media.php:4744
 msgid "Skip cropping"
-msgstr ""
+msgstr "トリミングをスキップ"
 
 #: wp-includes/media.php:4745
 msgid "Crop image"
-msgstr ""
+msgstr "画像のトリミング"
 
 #: wp-includes/media.php:4746
 msgid "Crop your image"
@@ -8577,20 +8577,20 @@ msgstr "画像を切り抜く際にエラーが発生しました。"
 #: wp-includes/media.php:4753
 #: wp-includes/widgets/class-wp-widget-media-audio.php:249
 msgid "Audio details"
-msgstr ""
+msgstr "音声の詳細"
 
 #: wp-includes/media.php:4754
 msgid "Replace audio"
-msgstr ""
+msgstr "オーディオを置き換え"
 
 #: wp-includes/media.php:4755
 msgid "Add audio source"
-msgstr ""
+msgstr "オーディオソースを追加"
 
 #: wp-includes/media.php:4759
 #: wp-includes/widgets/class-wp-widget-media-video.php:295
 msgid "Video details"
-msgstr ""
+msgstr "動画の詳細"
 
 #: wp-includes/media.php:4760
 msgid "Replace video"

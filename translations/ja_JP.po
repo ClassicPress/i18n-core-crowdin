@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-18 02:43\n"
+"PO-Revision-Date: 2026-03-19 19:02\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -8594,19 +8594,19 @@ msgstr "動画の詳細"
 
 #: wp-includes/media.php:4760
 msgid "Replace video"
-msgstr ""
+msgstr "ビデオを置き換え"
 
 #: wp-includes/media.php:4761
 msgid "Add video source"
-msgstr ""
+msgstr "オーディオソースを追加"
 
 #: wp-includes/media.php:4763
 msgid "Select poster image"
-msgstr ""
+msgstr "ポスターの画像を選択"
 
 #: wp-includes/media.php:4764
 msgid "Add subtitles"
-msgstr ""
+msgstr "字幕を追加"
 
 #: wp-includes/media.php:4767
 msgid "Drag and drop to reorder tracks."
@@ -8615,16 +8615,16 @@ msgstr "トラックの順序を変更するにはドラッグ & ドロップし
 #: wp-includes/media.php:4768
 #: wp-includes/widgets/class-wp-widget-text.php:464
 msgid "Create audio playlist"
-msgstr ""
+msgstr "オーディオプレイリストを作成"
 
 #: wp-includes/media.php:4769
 #: wp-includes/widgets/class-wp-widget-text.php:470
 msgid "Edit audio playlist"
-msgstr ""
+msgstr "オーディオプレイリストを作成"
 
 #: wp-includes/media.php:4770
 msgid "&#8592; Cancel audio playlist"
-msgstr ""
+msgstr "&#8592; オーディオプレイリストをキャンセル"
 
 #: wp-includes/media.php:4771
 #: wp-includes/widgets/class-wp-widget-text.php:476
@@ -8652,12 +8652,12 @@ msgstr "動画の順序を変更するにはドラッグ & ドロップしてく
 #: wp-includes/media.php:4778
 #: wp-includes/widgets/class-wp-widget-text.php:465
 msgid "Create video playlist"
-msgstr ""
+msgstr "動画再生リストを作成"
 
 #: wp-includes/media.php:4779
 #: wp-includes/widgets/class-wp-widget-text.php:471
 msgid "Edit video playlist"
-msgstr ""
+msgstr "動画再生リストを作成"
 
 #: wp-includes/media.php:4780
 msgid "&#8592; Cancel video playlist"
@@ -8680,16 +8680,16 @@ msgstr "動画プレイリストに追加"
 
 #: wp-includes/media.php:4784
 msgid "Add to video Playlist"
-msgstr ""
+msgstr "動画のプレイリストに追加"
 
 #: wp-includes/media.php:4787
 #: wp-includes/widgets.php:2146
 msgid "Filter media"
-msgstr ""
+msgstr "メディアをフィルター"
 
 #: wp-includes/media.php:4788
 msgid "Media list"
-msgstr ""
+msgstr "メディア リスト"
 
 #: wp-includes/media.php:5336
 msgid "ClassicPress Media"
@@ -8697,19 +8697,19 @@ msgstr "ClassicPress メディア"
 
 #: wp-includes/media.php:5393
 msgid "User&#8217;s media data."
-msgstr ""
+msgstr "ユーザー&#8217;s メディア データ."
 
 #: wp-includes/meta.php:1454
 msgid "When registering an \"array\" meta type to show in the REST API, you must specify the schema for each array item in \"show_in_rest.schema.items\"."
-msgstr ""
+msgstr "REST API に表示する \"array\" メタ タイプを登録する場合は、\"show_in_rest.schema.items\" 内の各配列アイテムのスキーマを指定する必要があります。"
 
 #: wp-includes/meta.php:1496
 msgid "When registering a default meta value the data must match the type provided."
-msgstr ""
+msgstr "デフォルトのメタ値を登録する場合、データは指定されたタイプと一致する必要があります。"
 
 #: wp-includes/nav-menu.php:97
 msgid "Nav menu locations must be strings."
-msgstr ""
+msgstr "Navメニューの場所は文字列でなければなりません。"
 
 #. translators: %s: Menu name.
 #: wp-includes/nav-menu.php:340
@@ -8732,14 +8732,14 @@ msgstr "無効なメニュー ID です。"
 #: wp-includes/object-relationships.php:355
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() はパラメータ 1 を正の整数に期待します; %s が与えられました。"
 
 #. translators: %s: String, 0, object, or array.
 #: wp-includes/object-relationships.php:86
 #: wp-includes/object-relationships.php:373
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() はパラメータ 4 を正の整数に期待します; %s が与えられました。"
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:108
@@ -8747,7 +8747,7 @@ msgstr ""
 #: wp-includes/object-relationships.php:395
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() はパラメータ 2 が %sのいずれかであることを期待します; 指定された %s。"
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:126
@@ -8755,7 +8755,7 @@ msgstr ""
 #: wp-includes/object-relationships.php:413
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 3 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() はパラメータ 3 が %sのいずれかであることを期待します; 指定された %s。"
 
 #. translators: 1: Deprecated option key, 2: New option key.
 #: wp-includes/option.php:104

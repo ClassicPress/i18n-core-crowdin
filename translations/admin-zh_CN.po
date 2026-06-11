@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-03-04 23:11\n"
+"PO-Revision-Date: 2026-06-11 10:56\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -10125,7 +10125,7 @@ msgstr "我们很想让您了解一下 ClassicPress 目录。"
 #: wp-admin/includes/dashboard.php:1844
 #, php-format
 msgid "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
-msgstr ""
+msgstr "您现在可以在<a href=\"%1$s\" target=\"_blank\">%1$s</a>查看该目录。"
 
 #: wp-admin/includes/dashboard.php:1856
 #, php-format
@@ -10575,7 +10575,7 @@ msgstr "列出目录失败。"
 
 #: wp-admin/includes/file.php:1966
 msgid "Could not create the destination directory."
-msgstr ""
+msgstr "无法创建目标目录。"
 
 #: wp-admin/includes/file.php:2039
 msgid "The source and destination are the same."
@@ -15637,7 +15637,7 @@ msgstr "ClassicPress URL 和站点 URL 可以是相同的（example.com），也
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
-msgstr ""
+msgstr "如果您希望站点的访客可以自行注册账号，请勾选复选框。如果您希望由站点管理员手动注册新账号，则不要勾选。不管使用哪种方式，您都可以为新的账号设置默认角色。"
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -16532,19 +16532,19 @@ msgstr "当此设置生效时，在仪表盘的「一目了然」组件中将中
 #: wp-admin/options-reading.php:54
 #: wp-admin/options-reading.php:271
 msgid "Object cache"
-msgstr ""
+msgstr "对象缓存"
 
 #: wp-admin/options-reading.php:55
 msgid "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
-msgstr ""
+msgstr "<a href=\"site-health.php\">站点健康</a>工具建议您为您的站点配置对象缓存来减轻您数据库的压力，同时还有助于提升您站点的响应速度。如果您未安装任何对象缓存解决方案，您可以让 ClassicPress 帮助您配置，只需要勾选“对象缓存”旁的复选框并单击页面底部的保存更改按钮。"
 
 #: wp-admin/options-reading.php:56
 msgid "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
-msgstr ""
+msgstr "请注意对象缓存不是页面缓存。您或许同时还拥有页面缓存，这种情况下 ClassicPress 的对象缓存方案不会造成任何冲突。"
 
 #: wp-admin/options-reading.php:57
 msgid "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
-msgstr ""
+msgstr "此外，相较于页面缓存，对象缓存对于登录用户也是有效的。这使得该功能对于会员制网站和内部网站极为有用。"
 
 #: wp-admin/options-reading.php:63
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
@@ -16627,7 +16627,7 @@ msgstr "您的主题决定了内容如何在浏览器中显示。<a href=\"%s\">
 #: wp-admin/options-reading.php:308
 #: wp-admin/options-reading.php:317
 msgid "Enable object caching"
-msgstr ""
+msgstr "启用对象缓存"
 
 #: wp-admin/options-reading.php:292
 msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-06-11 10:56\n"
+"PO-Revision-Date: 2026-06-11 16:54\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -16631,19 +16631,19 @@ msgstr "启用对象缓存"
 
 #: wp-admin/options-reading.php:292
 msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
-msgstr ""
+msgstr "尚未启用 APCu PHP 扩展。如果您希望使用由 ClassicPress 提供的对象缓存方案，则必须启用该扩展。您或许需要询问您的托管服务提供商来协助您安装 APCu 扩展。"
 
 #: wp-admin/options-reading.php:301
 msgid "You have activated ClassicPress's object cache on this site."
-msgstr ""
+msgstr "您已成功在该站点上启用 ClassicPress 对象缓存。"
 
 #: wp-admin/options-reading.php:309
 msgid "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
-msgstr ""
+msgstr "该站点上已经配置了由其它插件或代码所提供的对象缓存。除非您禁用这些插件或代码，否则您将无法取消勾选该复选框。"
 
 #: wp-admin/options-reading.php:318
 msgid "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
-msgstr ""
+msgstr "您目前尚未为该站点配置任何对象缓存解决方案。勾选此复选框以启用 ClassicPress 对象缓存。"
 
 #: wp-admin/options-writing.php:17
 msgid "Writing Settings"
@@ -16987,12 +16987,12 @@ msgstr "浏览插件"
 #: wp-admin/plugin-install.php:155
 #, php-format
 msgid "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "您可以在 <a href=\"%s\" target=\"_blank\">ClassicPress 目录</a>中浏览其它插件。"
 
 #: wp-admin/plugin-install.php:167
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">立即安装</a> | ClassicPress 目录集成插件：在插件菜单中直接安装专为 ClassicPress 设计的插件。"
 
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
@@ -18019,12 +18019,12 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-themes-
 #: wp-admin/theme-install.php:204
 #, php-format
 msgid "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "您可以在 <a href=\"%s\" target=\"_blank\">ClassicPress 目录</a>中浏览其它主题。"
 
 #: wp-admin/theme-install.php:216
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">立即安装</a> | ClassicPress 目录集成插件：在外观菜单中直接安装专为 ClassicPress 设计的主题。"
 
 #: wp-admin/theme-install.php:223
 msgid "The Theme Installer screen requires JavaScript."
@@ -18466,7 +18466,7 @@ msgstr "以下插件有可用的新版本。请检查您想要更新的版本，
 #: wp-admin/update-core.php:389
 #, php-format
 msgid "Compatible with ClassicPress %1$s (according to its author)."
-msgstr ""
+msgstr "与 ClassicPress %1$s 兼容（根据作者的说法）。"
 
 #: wp-admin/update-core.php:365
 #: wp-admin/update-core.php:391
@@ -18611,7 +18611,7 @@ msgstr "如何更新"
 
 #: wp-admin/update-core.php:887
 msgid "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">文档：升级 ClassicPress</a>"
 
 #: wp-admin/update-core.php:900
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
@@ -18818,7 +18818,7 @@ msgstr "您可以在简单的网格或列表视图中查看您的媒体。可使
 
 #: wp-admin/upload.php:136
 msgid "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
-msgstr ""
+msgstr "要删除媒体项目，单击页面顶部的<strong>批量删除</strong>按钮。选择您希望删除的所有项目，然后单击<strong>永久删除</strong>。单击<strong>取消</strong>会带你返回媒体列表。"
 
 #: wp-admin/upload.php:143
 msgid "Attachment Details"

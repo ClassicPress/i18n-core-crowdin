@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2026-03-04 16:46\n"
+"PO-Revision-Date: 2026-08-03 01:31\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -104,7 +104,7 @@ msgstr "Sobre o ClassicPress"
 
 #: wp-includes/admin-bar.php:167
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/admin-bar.php:177
 msgid "Documentation"
@@ -257,7 +257,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:679
 #: wp-includes/customize/class-wp-customize-nav-menus-panel.php:113
 msgid "Menus"
-msgstr ""
+msgstr "Menus"
 
 #: wp-includes/admin-bar.php:1041
 msgid "Background"

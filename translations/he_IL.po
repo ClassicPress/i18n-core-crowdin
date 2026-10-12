@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2025-08-14T11:07:58+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==2 ? 1 : 2);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: he\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 24\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-16 17:43\n"
+"PO-Revision-Date: 2026-10-12 20:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -247,7 +247,6 @@ msgid_plural "%s Comments in moderation"
 msgstr[0] "תגובה %s בהמתנה"
 msgstr[1] "%s תגובות בהמתנה"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/admin-bar.php:1019
 #: wp-includes/class-wp-customize-widgets.php:416
@@ -277,7 +276,6 @@ msgid_plural "%s updates available"
 msgstr[0] "קיים עדכון %s זמין"
 msgstr[1] "קיימים %s עדכונים זמינים"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Hidden accessibility text.
 #: wp-includes/admin-bar.php:1115
@@ -472,7 +470,6 @@ msgid_plural "%s items"
 msgstr[0] "פריט %s"
 msgstr[1] "%s פריטים"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/category-template.php:1233
 msgid "Tags: "
@@ -768,7 +765,6 @@ msgid_plural "Unable to save due to %s invalid settings."
 msgstr[0] "לא ניתן לשמור עקב הגדרה %s שגויה."
 msgstr[1] "לא ניתן לשמור עקב %s הגדרות שגויות."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/class-wp-customize-manager.php:3141
 msgid "There was an authentication problem. Please reload and try again."
@@ -1318,7 +1314,6 @@ msgid_plural "Your theme can display menus in %s locations."
 msgstr[0] "התבנית יכולה להציג תפריטים במיקום %s."
 msgstr[1] "התבנית יכולה להציג תפריטים ב-%s מיקומים."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:505
 msgctxt "missing menu item navigation label"
@@ -1516,7 +1511,6 @@ msgid_plural "Your theme can display menus in %s locations. Select which menu ap
 msgstr[0] "לתבנית מיקום תפריט %s. יש לבחור באיזה תפריט להשתמש."
 msgstr[1] "לתבנית %s מיקומי תפריט. יש לבחור איזה תפריט יוצג באיזה מיקום."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: URL to the Widgets panel of the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:694
@@ -1757,7 +1751,6 @@ msgid_plural "Your theme has %s other widget areas, but this particular page doe
 msgstr[0] "לתבנית יש אזור וידג'טים %s נוסף, אבל עמוד ספציפי זה אינו מציג אותו."
 msgstr[1] "לתבנית יש %s אזורי וידג'טים נוספים, אבל עמוד ספציפי זה אינו מציג אותם."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/class-wp-customize-widgets.php:753
 msgid "Your theme has 1 widget area, but this particular page does not display it."
@@ -1771,7 +1764,6 @@ msgid_plural "Your theme has %s widget areas, but this particular page does not 
 msgstr[0] "לתבנית יש אזור וידג'טים %s, אבל עמוד ספציפי זה אינו מציג אותו."
 msgstr[1] "לתבנית יש %s אזורי וידג'טים, אבל עמוד ספציפי זה אינו מציג אותם."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/class-wp-customize-widgets.php:779
 #: wp-includes/class-wp-editor.php:1399
@@ -5265,7 +5257,6 @@ msgid_plural "%s Comments"
 msgstr[0] "תגובה %s"
 msgstr[1] "%s תגובות"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: If comment number in your language requires declension, translate this to 'on'. Do not translate into your own language.
 #: wp-includes/comment-template.php:944
@@ -5339,7 +5330,6 @@ msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
 msgstr[0] "תגובה %1$s<span class=\"screen-reader-text\"> על %2$s</span>"
 msgstr[1] "%1$s תגובות<span class=\"screen-reader-text\"> על %2$s</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Post title.
 #: wp-includes/comment-template.php:1706
@@ -6336,7 +6326,6 @@ msgid_plural "%s <span class=\"screen-reader-text\">Comments</span>"
 msgstr[0] "<span class=\"screen-reader-text\">תגובה</span> %s"
 msgstr[1] "%s <span class=\"screen-reader-text\">תגובות</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/embed.php:1137
 msgid "Open sharing dialog"
@@ -6502,7 +6491,6 @@ msgid_plural "%s seconds"
 msgstr[0] "שניה %s"
 msgstr[1] "%s שניות"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s: Number of minutes.
 #: wp-includes/formatting.php:3851
@@ -6512,7 +6500,6 @@ msgid_plural "%s mins"
 msgstr[0] "דקה %s"
 msgstr[1] "%s דקות"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in hours. %s: Number of hours.
 #. translators: %s: Time duration in hour or hours.
@@ -6524,7 +6511,6 @@ msgid_plural "%s hours"
 msgstr[0] "שעה %s"
 msgstr[1] "%s שעות"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in days. %s: Number of days.
 #: wp-includes/formatting.php:3865
@@ -6534,7 +6520,6 @@ msgid_plural "%s days"
 msgstr[0] "יום %s"
 msgstr[1] "%s ימים"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in weeks. %s: Number of weeks.
 #: wp-includes/formatting.php:3872
@@ -6544,7 +6529,6 @@ msgid_plural "%s weeks"
 msgstr[0] "שבוע %s"
 msgstr[1] "%s שבועות"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in months. %s: Number of months.
 #: wp-includes/formatting.php:3879
@@ -6554,7 +6538,6 @@ msgid_plural "%s months"
 msgstr[0] "חודש %s"
 msgstr[1] "%s חודשים"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Time difference between two dates, in years. %s: Number of years.
 #: wp-includes/formatting.php:3886
@@ -6564,7 +6547,6 @@ msgid_plural "%s years"
 msgstr[0] "שנה %s"
 msgstr[1] "%s שנים"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Maximum number of words used in a post excerpt.
 #: wp-includes/formatting.php:3947
@@ -6702,7 +6684,6 @@ msgid_plural "%s minutes"
 msgstr[0] "דקה%s"
 msgstr[1] "%s דקות"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/functions.php:1603
 msgid "<strong>Error:</strong> This is not a valid feed template."
@@ -8889,7 +8870,6 @@ msgid_plural "Currently %s comments are waiting for approval. Please visit the m
 msgstr[0] "תגובה אחת ממתינה לאישור:"
 msgstr[1] "%s תגובות ממתינות לאישור:"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: Comment moderation notification email subject. 1: Site title, 2: Post title.
 #: wp-includes/pluggable.php:2000
@@ -9236,7 +9216,6 @@ msgid_plural "Published <span class=\"count\">(%s)</span>"
 msgstr[0] "פורסמו <span class=\"count\">(%s)</span>"
 msgstr[1] "פורסמו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:298
 msgctxt "post status"
@@ -9251,7 +9230,6 @@ msgid_plural "Scheduled <span class=\"count\">(%s)</span>"
 msgstr[0] "מתוזמנים לפרסום <span class=\"count\">(%s)</span>"
 msgstr[1] "מתוזמנים לפרסום <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:312
 msgctxt "post status"
@@ -9266,7 +9244,6 @@ msgid_plural "Drafts <span class=\"count\">(%s)</span>"
 msgstr[0] "טיוטות <span class=\"count\">(%s)</span>"
 msgstr[1] "טיוטות <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:327
 msgctxt "post status"
@@ -9283,7 +9260,6 @@ msgid_plural "Pending <span class=\"count\">(%s)</span>"
 msgstr[0] "ממתין לאישור <span class=\"count\">(%s)</span>"
 msgstr[1] "ממתין לאישור <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:342
 msgctxt "post status"
@@ -9298,7 +9274,6 @@ msgid_plural "Private <span class=\"count\">(%s)</span>"
 msgstr[0] "פרטיים <span class=\"count\">(%s)</span>"
 msgstr[1] "פרטיים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:356
 msgctxt "post status"
@@ -9313,7 +9288,6 @@ msgid_plural "Trash <span class=\"count\">(%s)</span>"
 msgstr[0] "פח <span class=\"count\">(%s)</span>"
 msgstr[1] "פח <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:391
 #: wp-includes/post.php:978
@@ -9335,7 +9309,6 @@ msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
 msgstr[0] "אושר <span class=\"count\">(%s)</span>"
 msgstr[1] "אושר <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:421
 #: wp-includes/post.php:980
@@ -9351,7 +9324,6 @@ msgid_plural "Failed <span class=\"count\">(%s)</span>"
 msgstr[0] "נדחו <span class=\"count\">(%s)</span>"
 msgstr[1] "נדחו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:436
 #: wp-includes/post.php:981
@@ -9367,7 +9339,6 @@ msgid_plural "Completed <span class=\"count\">(%s)</span>"
 msgstr[0] "הושלם <span class=\"count\">(%s)</span>"
 msgstr[1] "הושלם <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:939
 #: wp-includes/post.php:960
@@ -9414,7 +9385,6 @@ msgid_plural "Images <span class=\"count\">(%s)</span>"
 msgstr[0] "תמונות <span class=\"count\">(%s)</span>"
 msgstr[1] "תמונות <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:2891
 msgctxt "file type group"
@@ -9433,7 +9403,6 @@ msgid_plural "Audio <span class=\"count\">(%s)</span>"
 msgstr[0] "אודיו <span class=\"count\">(%s)</span>"
 msgstr[1] "אודיו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:2900
 msgctxt "file type group"
@@ -9452,7 +9421,6 @@ msgid_plural "Video <span class=\"count\">(%s)</span>"
 msgstr[0] "וידאו <span class=\"count\">(%s)</span>"
 msgstr[1] "וידאו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:2909
 msgid "Documents"
@@ -9470,7 +9438,6 @@ msgid_plural "Documents <span class=\"count\">(%s)</span>"
 msgstr[0] "מסמכים <span class=\"count\">(%s)</span>"
 msgstr[1] "מסמכים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:2918
 msgid "Spreadsheets"
@@ -9488,7 +9455,6 @@ msgid_plural "Spreadsheets <span class=\"count\">(%s)</span>"
 msgstr[0] "גיליונות אלקטרוניים: <span class=\"count\">(%s)</span>"
 msgstr[1] "גיליונות אלקטרוניים: <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:2927
 msgctxt "file type group"
@@ -9507,7 +9473,6 @@ msgid_plural "Archives <span class=\"count\">(%s)</span>"
 msgstr[0] "ארכיון <span class=\"count\">(%s)</span>"
 msgstr[1] "ארכיונים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/post.php:3709
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
@@ -9791,7 +9756,6 @@ msgid_plural "%1$s must contain at least %2$s properties."
 msgstr[0] "%1$s צריך להכיל לפחות תכונה %2$s."
 msgstr[1] "%1$s צריך להכיל לפחות %2$s תכונות."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: 1: Parameter, 2: Number.
 #: wp-includes/rest-api.php:2329
@@ -9801,7 +9765,6 @@ msgid_plural "%1$s must contain at most %2$s properties."
 msgstr[0] "%1$s צריך להכיל לא יותר מתכונה %2$s."
 msgstr[1] "%1$s צריך להכיל לא יותר מ-%2$s תכונות."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: 1: Parameter, 2: Number.
 #: wp-includes/rest-api.php:2379
@@ -9811,7 +9774,6 @@ msgid_plural "%1$s must contain at least %2$s items."
 msgstr[0] "%1$s צריך להכיל לפחות פריט %2$s."
 msgstr[1] "%1$s צריך להכיל לפחות %2$s פריטים."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: 1: Parameter, 2: Number.
 #: wp-includes/rest-api.php:2395
@@ -9821,7 +9783,6 @@ msgid_plural "%1$s must contain at most %2$s items."
 msgstr[0] "%1$s צריך להכיל לא יותר מפריט %2$s."
 msgstr[1] "%1$s צריך להכיל לא יותר מ-%2$s פריטים."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Parameter.
 #: wp-includes/rest-api.php:2408
@@ -9892,7 +9853,6 @@ msgid_plural "%1$s must be at least %2$s characters long."
 msgstr[0] "%1$s צריך להכיל לפחות תו %2$s."
 msgstr[1] "%1$s צריך להכיל לפחות %2$s תווים."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: 1: Parameter, 2: Number of characters.
 #: wp-includes/rest-api.php:2584
@@ -9902,7 +9862,6 @@ msgid_plural "%1$s must be at most %2$s characters long."
 msgstr[0] "%1$s צריך להכיל לא יותר מתו %2$s."
 msgstr[1] "%1$s צריך להכיל לא יותר מ-%2$s תווים."
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: 1: Parameter, 2: Pattern.
 #: wp-includes/rest-api.php:2599
@@ -12815,7 +12774,6 @@ msgid_plural "There are %d errors which must be fixed before you can save."
 msgstr[0] "קיימת שגיאה %d שדורשות תיקון לפני שניתן יהיה לשמור."
 msgstr[1] "קיימות %d שגיאות שדורשות תיקון לפני שניתן יהיה לשמור."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/script-loader.php:1138
 msgid "Homepage and posts page must be different."
@@ -13191,7 +13149,6 @@ msgid_plural "%1$s responses to %2$s"
 msgstr[0] "תגובה אחת על %2$s"
 msgstr[1] "%1$s תגובות על %2$s"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/theme-compat/comments.php:72
 msgid "Comments are closed."
@@ -13647,7 +13604,6 @@ msgid_plural "%d Plugin Updates"
 msgstr[0] "שדרוג תוסף %d"
 msgstr[1] "שדרוג %d תוספים"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %d: Number of available theme updates.
 #: wp-includes/update.php:891
@@ -13657,7 +13613,6 @@ msgid_plural "%d Theme Updates"
 msgstr[0] "שדרוג תבנית %d"
 msgstr[1] "שדרוג %d תבניות"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/update.php:895
 msgid "Translation Updates"
@@ -14569,7 +14524,6 @@ msgid_plural "Audio Widget (%d)"
 msgstr[0] "וידג'ט אודיו (%d)"
 msgstr[1] "וידג'ט אודיו (%d)"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:248
 msgid "Audio Widget"
@@ -14885,7 +14839,6 @@ msgid_plural "Media Widget (%d)"
 msgstr[0] "וידג'ט מדיה (%d)"
 msgstr[1] "וידג'ט מדיה (%d)"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/widgets/class-wp-widget-media.php:464
 msgid "Media Widget"
@@ -15648,7 +15601,6 @@ msgid_plural "%s items selected"
 msgstr[0] "נבחר פריט %s"
 msgstr[1] "נבחרו %s פריטים"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/js/tinymce/plugins/wordpress/plugin.js:256
 msgid "⌘ + letter:"

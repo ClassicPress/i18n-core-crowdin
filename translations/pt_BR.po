@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-03-04 16:46\n"
+"PO-Revision-Date: 2026-08-03 07:40\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -320,7 +320,7 @@ msgstr "Visitar o site de %s"
 #: wp-includes/author-template.php:535
 #, php-format
 msgid "Posts by %s"
-msgstr "Posts de %s"
+msgstr "Artigos por %s"
 
 #. translators: 1: User's first name, 2: Last name.
 #: wp-includes/author-template.php:513
@@ -445,7 +445,7 @@ msgstr "Sem categoria"
 #: wp-includes/class-wp-user-query.php:415
 #, php-format
 msgid "%1$s is deprecated. Use %2$s instead."
-msgstr "%1$s está depreciado. Utilize %2$s no lugar."
+msgstr "%1$s é obsoleto. Utilize %2$s como alternativa."
 
 #: wp-includes/category-template.php:557
 #: wp-includes/class-wp-taxonomy.php:632
@@ -470,7 +470,7 @@ msgstr[1] "%s itens"
 
 #: wp-includes/category-template.php:1233
 msgid "Tags: "
-msgstr "Tags:"
+msgstr "Marcações:"
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
@@ -1161,7 +1161,7 @@ msgstr "Sua página inicial exibe"
 
 #: wp-includes/class-wp-customize-manager.php:5644
 msgid "Your latest posts"
-msgstr "Seus posts recentes"
+msgstr "Seus artigos recentes"
 
 #: wp-includes/class-wp-customize-manager.php:5645
 msgid "A static page"
@@ -1173,7 +1173,7 @@ msgstr "Página inicial"
 
 #: wp-includes/class-wp-customize-manager.php:5679
 msgid "Posts page"
-msgstr "Página de posts"
+msgstr "Página de artigos"
 
 #: wp-includes/class-wp-customize-manager.php:5688
 msgid "Add your own CSS code here to customize the appearance and layout of your site."
@@ -1270,7 +1270,7 @@ msgstr "Apenas arquivos %1$s ou %2$s devem ser utilizados como vídeo de cabeça
 
 #: wp-includes/class-wp-customize-manager.php:6111
 msgid "Please enter a valid YouTube URL."
-msgstr "Digite um URL válido do YouTube"
+msgstr "Digite um URL válido do YouTube."
 
 #: wp-includes/class-wp-customize-nav-menus.php:167
 #: wp-includes/class-wp-customize-nav-menus.php:457
@@ -1482,7 +1482,7 @@ msgstr "%1$s. Subitem número %2$d sob %3$s."
 
 #: wp-includes/class-wp-customize-nav-menus.php:659
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
-msgstr "Este painel é utilizado para gerenciar os menus para conteúdos que você já publicou em seu site. Você pode criar menus e adicionar itens para conteúdos existentes como páginas, posts, categorias, tags, formatos, e links personalizados."
+msgstr "Este painel é utilizado para gerenciar os menus para conteúdos que você já publicou em seu site. Você pode criar menus e adicionar itens para conteúdos existentes como páginas, artigos, categorias, marcações, formatos e links personalizados."
 
 #. translators: %s: URL to the Widgets panel of the Customizer.
 #: wp-includes/class-wp-customize-nav-menus.php:663
@@ -1543,7 +1543,7 @@ msgstr "Tipo de post inválido."
 
 #: wp-includes/class-wp-customize-nav-menus.php:958
 msgid "Empty title."
-msgstr "Título em branco."
+msgstr "O título está em branco."
 
 #: wp-includes/class-wp-customize-nav-menus.php:961
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2981
@@ -3744,7 +3744,7 @@ msgstr "Ver página"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Posts"
-msgstr "Ver posts"
+msgstr "Ver artigos"
 
 #: wp-includes/class-wp-post-type.php:807
 msgid "View Pages"
@@ -3752,7 +3752,7 @@ msgstr "Ver páginas"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Posts"
-msgstr "Pesquisar posts"
+msgstr "Pesquisar artigos"
 
 #: wp-includes/class-wp-post-type.php:808
 msgid "Search Pages"
@@ -3760,7 +3760,7 @@ msgstr "Pesquisar páginas"
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No posts found."
-msgstr "Nenhum post encontrado."
+msgstr "Nenhum artigo encontrado."
 
 #: wp-includes/class-wp-post-type.php:809
 msgid "No pages found."
@@ -3768,7 +3768,7 @@ msgstr "Páginas não encontradas."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No posts found in Trash."
-msgstr "Nenhum post encontrado na lixeira."
+msgstr "Nenhum artigo encontrado na lixeira."
 
 #: wp-includes/class-wp-post-type.php:810
 msgid "No pages found in Trash."
@@ -3780,7 +3780,7 @@ msgstr "Página ascendente:"
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Posts"
-msgstr "Todos os posts"
+msgstr "Todos os artigos"
 
 #: wp-includes/class-wp-post-type.php:812
 msgid "All Pages"
@@ -3788,7 +3788,7 @@ msgstr "Todas as páginas"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Post Archives"
-msgstr "Arquivos de posts"
+msgstr "Arquivos de artigos"
 
 #: wp-includes/class-wp-post-type.php:813
 msgid "Page Archives"
@@ -3860,7 +3860,7 @@ msgstr "Usar como imagem destacada"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter posts list"
-msgstr "Filtrar lista de posts"
+msgstr "Filtrar lista de artigos"
 
 #: wp-includes/class-wp-post-type.php:821
 msgid "Filter pages list"
@@ -3873,7 +3873,7 @@ msgstr "Filtrar por data"
 
 #: wp-includes/class-wp-post-type.php:823
 msgid "Posts list navigation"
-msgstr "Navegação da lista de posts"
+msgstr "Navegação da lista de artigos"
 
 #: wp-includes/class-wp-post-type.php:823
 msgid "Pages list navigation"
@@ -3881,7 +3881,7 @@ msgstr "Navegação da lista de páginas"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Posts list"
-msgstr "Lista de posts"
+msgstr "Lista de artigos"
 
 #: wp-includes/class-wp-post-type.php:824
 msgid "Pages list"
@@ -4655,7 +4655,7 @@ msgstr "Não é possível fixar um post privado."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:615
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:826
 msgid "Sorry, you are not allowed to make posts sticky."
-msgstr "Sem permissão para fixar posts."
+msgstr "Sem permissão para fixar artigos."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1447
 #: wp-includes/class-wp-xmlrpc-server.php:1750
@@ -4685,7 +4685,7 @@ msgstr "Sem permissão para fixar posts."
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:205
 #: wp-includes/revision.php:342
 msgid "Invalid post ID."
-msgstr "ID inválido de post."
+msgstr "ID inválido de artigo."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1450
 #: wp-includes/class-wp-xmlrpc-server.php:1937
@@ -4700,7 +4700,7 @@ msgstr "ID inválido de post."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:495
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:810
 msgid "Sorry, you are not allowed to edit this post."
-msgstr "Sem permissão para editar este post."
+msgstr "Sem permissão para editar este artigo."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1453
 #: wp-includes/class-wp-xmlrpc-server.php:5748
@@ -4731,7 +4731,7 @@ msgstr "Sem permissão para criar posts protegidos por senha neste tipo de post.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:607
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:623
 msgid "Sorry, you are not allowed to create posts as this user."
-msgstr "Sem permissão para criar posts com este usuário."
+msgstr "Sem permissão para criar artigos com este usuário."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1496
 #: wp-includes/class-wp-xmlrpc-server.php:5453
@@ -4794,7 +4794,7 @@ msgstr "Há uma revisão mais recente deste post."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:980
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1034
 msgid "Sorry, you are not allowed to delete this post."
-msgstr "Sem permissão para excluir este post."
+msgstr "Sem permissão para excluir este artigo."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1842
 #: wp-includes/class-wp-xmlrpc-server.php:5277
@@ -4936,11 +4936,11 @@ msgstr "Falha ao excluir a página."
 #: wp-includes/class-wp-xmlrpc-server.php:5017
 #: wp-includes/class-wp-xmlrpc-server.php:6199
 msgid "Sorry, you are not allowed to edit posts."
-msgstr "Sem permissão para editar posts."
+msgstr "Sem permissão para editar artigos."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3351
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr "Você deve possuir permissão para editar posts neste site para ver as tags."
+msgstr "Você deve possuir permissão de editar artigos neste site para ver as marcações."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3409
 msgid "Sorry, you are not allowed to add a category."
@@ -5052,7 +5052,7 @@ msgstr "Você não tem permissão para acessar dados de usuário neste site."
 #: wp-includes/class-wp-xmlrpc-server.php:5026
 #: wp-includes/class-wp-xmlrpc-server.php:6509
 msgid "Either there are no posts, or something went wrong."
-msgstr "Não existe post ou algo deu errado."
+msgstr "Não há artigos registrados ou algo deu errado."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5064
 #: wp-includes/class-wp-xmlrpc-server.php:5077
@@ -5080,7 +5080,7 @@ msgstr "Sem permissão para publicar páginas neste site."
 #: wp-includes/class-wp-xmlrpc-server.php:5389
 #: wp-includes/class-wp-xmlrpc-server.php:5394
 msgid "Sorry, you are not allowed to publish posts on this site."
-msgstr "Sem permissão para publicar posts neste site."
+msgstr "Sem permissão para publicar artigos neste site."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5404
 #: wp-includes/class-wp-xmlrpc-server.php:5755
@@ -7380,7 +7380,7 @@ msgstr "%1$s %2$s"
 #: wp-includes/general-template.php:2360
 #, php-format
 msgid "Posts published on %s"
-msgstr "Posts publicados em %s"
+msgstr "Artigos publicados em %s"
 
 #: wp-includes/general-template.php:2387
 msgid "Previous and next months"
@@ -7433,7 +7433,7 @@ msgstr "Feed para %1$s %2$s %3$s %4$s"
 #: wp-includes/general-template.php:3133
 #, php-format
 msgid "%1$s %2$s Posts by %3$s Feed"
-msgstr "%1$s %2$s Feed dos posts para %3$s"
+msgstr "%1$s %2$s Feed de artigos para %3$s"
 
 #. translators: 1: Blog name, 2: Separator (raquo), 3: Search query.
 #: wp-includes/general-template.php:3135
@@ -7597,18 +7597,18 @@ msgstr "posts"
 
 #: wp-includes/link-template.php:2856
 msgid "Older posts"
-msgstr "Publicações mais antigas"
+msgstr "Artigos mais antigos"
 
 #: wp-includes/link-template.php:2857
 msgid "Newer posts"
-msgstr "Publicações mais novas"
+msgstr "Artigos mais novos"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/link-template.php:2858
 #: wp-includes/link-template.php:2930
 #: wp-includes/link-template.php:2998
 msgid "Posts navigation"
-msgstr "Navegação por posts"
+msgstr "Navegação entre artigos"
 
 #: wp-includes/link-template.php:2928
 msgctxt "previous set of posts"
@@ -10440,7 +10440,7 @@ msgstr "ID inválido de item."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1355
 #: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:142
 msgid "Invalid post parent ID."
-msgstr "ID inválido de post ascendente."
+msgstr "ID de post ascendente inválido."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:276
 msgid "There is no autosave revision for this post."
@@ -10729,7 +10729,7 @@ msgstr "Limitar resultados para comentários atribuídos a um tipo específico. 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1679
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:102
 msgid "The password for the post if it is password protected."
-msgstr "A senha para o post se este for protegido por senha."
+msgstr "A senha para o artigo, se este for protegido por senha."
 
 #. translators: %s: register_routes()
 #: wp-includes/rest-api/endpoints/class-wp-rest-controller.php:53
@@ -10778,7 +10778,7 @@ msgstr "Sem permissão para ver itens de menu."
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:597
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:651
 msgid "Cannot create existing post."
-msgstr "Não pode criar post existente."
+msgstr "Não é possível criar um post existente."
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:286
@@ -11206,7 +11206,7 @@ msgstr "O número de páginas requisitado é maior que o número de páginas dis
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:505
 msgid "Incorrect post password."
-msgstr "Senha de post incorreta."
+msgstr "Senha de artigo incorreta."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:631
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:834
@@ -11215,29 +11215,29 @@ msgstr "Sem permissão para atribuir os termos fornecidos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:818
 msgid "Sorry, you are not allowed to update posts as this user."
-msgstr "Sem permissão para atualizar posts como este usuário."
+msgstr "Sem permissão para atualizar artigos como este usuário."
 
 #. translators: %s: force=true
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1058
 #, php-format
 msgid "The post does not support trashing. Set '%s' to delete."
-msgstr "Posts não possui suporte para lixeira. Defina '%s' para excluir."
+msgstr "Este tipo de artigo não tem suporte a enviar para a lixeira. Defina '%s' para poder excluir."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1067
 msgid "The post has already been deleted."
-msgstr "O post já foi excluído."
+msgstr "O artigo já foi excluído."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1320
 msgid "A post can not be sticky and have a password."
-msgstr "Um post não pode ser fixo e possuir uma senha."
+msgstr "Um artigo não pode ser fixo e possuir uma senha."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1328
 msgid "A sticky post can not be password protected."
-msgstr "Um post fixo não pode ser protegido por senha."
+msgstr "Um artigo fixo não pode ser protegido por senha."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1339
 msgid "A password protected post can not be set to sticky."
-msgstr "Um post protegido por senha não pode ser definido como fixo."
+msgstr "Um artigo protegido por senha não pode ser definido como fixo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1493
 msgid "Invalid featured media ID."
@@ -11405,7 +11405,7 @@ msgstr "Use %s para adicionar novas propriedades de esquema."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2645
 msgid "The current user can publish this post."
-msgstr "O usuário atual pode publicar esse post."
+msgstr "O usuário atual pode publicar esse artigo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2661
 msgid "The current user can post unfiltered HTML markup and JavaScript."
@@ -11413,11 +11413,11 @@ msgstr "O usuário atual pode publicar marcação HTML e JavaScript, sem filtro.
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2678
 msgid "The current user can sticky this post."
-msgstr "O usuário atual pode fixar esse post."
+msgstr "O usuário atual pode fixar esse artigo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2694
 msgid "The current user can change the author on this post."
-msgstr "O usuário atual pode alterar o autor desse post."
+msgstr "O usuário atual pode alterar o autor desse artigo."
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2713
@@ -11830,7 +11830,7 @@ msgstr "O termo não pode ser excluído."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1030
 msgid "Number of published posts for the term."
-msgstr "Número de posts publicados para o termo."
+msgstr "Número de artigos publicados para o termo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1036
 msgid "HTML description of the term."
@@ -11862,7 +11862,7 @@ msgstr "Ordenar coleção por termo de atributo."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1156
 msgid "Whether to hide terms not assigned to any posts."
-msgstr "Se deseja ocultar termos não atribuídos a posts."
+msgstr "Se deseja ocultar termos não atribuídos a artigos."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php:1163
 msgid "Limit result set to terms assigned to a specific parent."
@@ -12015,7 +12015,7 @@ msgstr "Necessário para ser verdadeiro, como usuários não suporta lixeira."
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:104
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:144
 msgid "Reassign the deleted user's posts and links to this user ID."
-msgstr "Reatribuir os posts e links do usuário excluído para este ID de usuário."
+msgstr "Reatribuir os artigos e links do usuário excluído para este ID de usuário."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:178
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:567
@@ -12997,7 +12997,7 @@ msgstr[1] "Existem %d erros que precisam ser corrigidos para que você possa sal
 
 #: wp-includes/script-loader.php:1151
 msgid "Homepage and posts page must be different."
-msgstr "A página inicial e a página de posts devem ser diferentes."
+msgstr "A página inicial e a página de artigos devem ser diferentes."
 
 #: wp-includes/script-loader.php:1159
 msgid "Schedule your customization changes to publish (\"go live\") at a future date."
@@ -13669,7 +13669,7 @@ msgstr "Comentários"
 #: wp-includes/theme.php:2290
 msgctxt "Theme starter content"
 msgid "Recent Posts"
-msgstr "Posts recentes"
+msgstr "Artigos recentes"
 
 #: wp-includes/theme.php:2296
 msgctxt "Theme starter content"
@@ -14733,7 +14733,7 @@ msgstr "Mostrar como lista suspensa"
 #: wp-includes/widgets/class-wp-widget-archives.php:215
 #: wp-includes/widgets/class-wp-widget-categories.php:185
 msgid "Show post counts"
-msgstr "Mostrar número de posts"
+msgstr "Mostrar número de artigos"
 
 #: wp-includes/widgets/class-wp-widget-calendar.php:34
 msgid "A calendar of your site’s posts."
@@ -15235,20 +15235,20 @@ msgstr "Número de comentários a exibir:"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:27
 msgid "Your site&#8217;s most recent Posts."
-msgstr "O posts mais recentes de seu site."
+msgstr "Os artigos mais recentes de seu site."
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:31
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:49
 msgid "Recent Posts"
-msgstr "Posts recentes"
+msgstr "Artigo recentes"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:164
 msgid "Number of posts to show:"
-msgstr "Número de posts a exibir:"
+msgstr "Número de artigos a exibir:"
 
 #: wp-includes/widgets/class-wp-widget-recent-posts.php:170
 msgid "Display post date?"
-msgstr "Exibir a data do post?"
+msgstr "Exibir a data do artigo?"
 
 #: wp-includes/widgets/class-wp-widget-rss.php:26
 msgid "Entries from any RSS or Atom feed."

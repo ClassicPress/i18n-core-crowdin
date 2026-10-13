@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-03-04 23:11\n"
+"PO-Revision-Date: 2026-03-18 02:43\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -67,14 +67,14 @@ msgstr ""
 #: wp-admin/privacy.php:30
 #, php-format
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">CMS for Creators</a>."
-msgstr ""
+msgstr "ClassicPress、 <a href=\"%s\">CMS for Creators</a> をご利用いただきありがとうございます。"
 
 #: wp-admin/about.php:55
 #: wp-admin/credits.php:37
 #: wp-admin/freedoms.php:35
 #: wp-admin/privacy.php:35
 msgid "Stable. Lightweight. Instantly Familiar."
-msgstr ""
+msgstr "安定性軽量すぐに身近に感じられます"
 
 #: wp-admin/about.php:60
 #: wp-admin/credits.php:43
@@ -115,7 +115,7 @@ msgstr "プライバシー"
 #: wp-admin/about.php:73
 #, php-format
 msgid "Help us translate ClassicPress into your language! <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Classicの翻訳を手伝ってください。あなたの言語にプレスしてください！ <a href=\"%s\"></a>."
 
 #: wp-admin/about.php:80
 msgid "About ClassicPress"
@@ -125,17 +125,17 @@ msgstr "ClassicPress について"
 #: wp-admin/about.php:86
 #, php-format
 msgid "<a href=\"%1$s\"><strong>ClassicPress</strong></a> is a fork of the WordPress %2$s branch, including the battle-tested and proven classic editor interface using TinyMCE."
-msgstr ""
+msgstr "<a href=\"%1$s\"><strong>ClassicPress</strong></a> は WordPress %2$s ブランチのフォークで、戦闘テスト済みで実績のあるクラシックエディタインターフェイスを含むTinyMCE を使用しています。"
 
 #: wp-admin/about.php:94
 msgid "This has been a solid foundation for millions of sites for many years, and we believe it will also be an excellent foundation for the future."
-msgstr ""
+msgstr "これは長年にわたり数百万のサイトの堅固な基礎となっています。 そしてそれは未来のための素晴らしい基盤になると信じています"
 
 #. translators: link to plugin page in the ClassicPress Directory
 #: wp-admin/about.php:104
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "<a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> プラグインを使用すると、ClassicPress用にビルドされたプラグインやテーマにアクセスできます。 プラグイン>CPプラグインのインストールまたは外観>CPテーマのインストール画面に表示されます。"
 
 #: wp-admin/about.php:110
 msgid "Join our growing community"
@@ -145,45 +145,45 @@ msgstr "私たちの成長するコミュニティに参加"
 #: wp-admin/about.php:115
 #, php-format
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Zulip group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "ClassicPressについての一般的な議論については、 <a href=\"%1$s\"><strong>Zulip group</strong></a> または <a href=\"%2$s\"><strong>コミュニティ フォーラム</strong></a> に参加してください。"
 
 #. translators: 1: link to ClassicPress docs, 2: link to ClassicPress support forum
 #: wp-admin/about.php:125
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "その他ご不明な点がございましたら、<a href=\"%1$s\"><strong>ドキュメント</strong></a>をご覧ください。ドキュメントに回答が見つからない場合は、<a href=\"%2$s\"><strong>サポートフォーラム</strong></a>に新しい投稿をしてください。"
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:135
 #, php-format
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%2$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr ""
+msgstr "ClassicPressは<a href=\"%1$s\"><strong>GitHub</strong></a>で開発されています。具体的なバグ報告や技術的な提案については、<a href=\"%2$s\"><strong>課題リスト</strong></a>を参照し、まだ報告がない場合は追加してください。"
 
 #: wp-admin/about.php:142
 msgid "ClassicPress changelogs"
-msgstr ""
+msgstr "ClassicPressの変更履歴"
 
 #: wp-admin/about.php:143
 msgid "ClassicPress 2.0.0"
-msgstr ""
+msgstr "ClassicPress 2.0.0"
 
 #. translators: 1: WP version number, 2: link to ClassicPress 2.0.0 changelog
 #: wp-admin/about.php:148
 #, php-format
 msgid "ClassicPress 2.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 2.0.0 is a fork of the WordPress %1$s ブランチ. See the <a href=\"%2$s\"><strong>ClassicPress 2.0.0 (Bella) release notes</strong></a>."
 
 #. translators: current ClassicPress version
 #: wp-admin/about.php:158
 #, php-format
 msgid "ClassicPress 1.0.1 - %s"
-msgstr ""
+msgstr "ClassicPress 1.0.1 - %s"
 
 #. translators: link to ClassicPress release announcements subforum
 #: wp-admin/about.php:167
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "ClassicPressの現在および以前のバージョンに含まれる変更と新機能は、 <a href=\"%s\"><strong>Release Notes subforum</strong></a> にあります。"
 
 #: wp-admin/about.php:172
 msgid "ClassicPress 1.0.0"
@@ -193,15 +193,15 @@ msgstr "ClassicPress 1.0.0"
 #: wp-admin/about.php:177
 #, php-format
 msgid "ClassicPress 1.0.0 is a fork of the WordPress %1$s branch. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
-msgstr ""
+msgstr "ClassicPress 1.0.0 is a fork of the WordPress %1$s ブランチ. See the <a href=\"%2$s\"><strong>ClassicPress 1.0.0 (Aurora) release notes</strong></a>."
 
 #: wp-admin/about.php:183
 msgid "ClassicPress Maintenance and Security Releases"
-msgstr ""
+msgstr "クラシックプレスのメンテナンスとセキュリティリリース"
 
 #: wp-admin/about.php:186
 msgid "This version of ClassicPress includes all changes from the following versions of WordPress:"
-msgstr ""
+msgstr "このClassicPressには、以下のバージョンのWordPressからのすべての変更が含まれています。"
 
 #. translators: %s: WordPress version.
 #: wp-admin/about.php:195
@@ -210,7 +210,7 @@ msgstr ""
 #: wp-admin/about.php:255
 #, php-format
 msgid "<strong>WordPress version %s</strong> addressed some security issues."
-msgstr ""
+msgstr "<strong>WordPressのバージョン %s</strong> セキュリティ上の問題に対処しました。"
 
 #. translators: %s: HelpHub URL.
 #. translators: %s: HelpHub URL
@@ -246,7 +246,7 @@ msgstr ""
 #, php-format
 msgid "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>WordPress version %1$s</strong> addressed some security issues and fixed %2$s bugs."
-msgstr[0] ""
+msgstr[0] "<strong>WordPressのバージョン %1$s</strong> はいくつかのセキュリティ問題に対処し、 %2$s のバグを修正しました。"
 
 #: wp-admin/about.php:331
 msgid "Maintenance Release"
@@ -409,7 +409,7 @@ msgstr "%s を読み込めません。"
 #: wp-admin/admin.php:305
 #: wp-admin/import.php:15
 msgid "Sorry, you are not allowed to import content into this site."
-msgstr ""
+msgstr "申し訳ありませんが、この投稿にコメントすることはできません。"
 
 #: wp-admin/admin.php:338
 #: wp-admin/import.php:19
@@ -441,7 +441,7 @@ msgstr "無効な投稿形式。"
 #: wp-admin/includes/media.php:3308
 #: wp-admin/upload.php:607
 msgid "Copy URL to clipboard"
-msgstr ""
+msgstr "URL をクリップボードにコピー"
 
 #: wp-admin/async-upload.php:73
 #: wp-admin/includes/ajax-actions.php:3456
@@ -452,7 +452,7 @@ msgstr ""
 #: wp-admin/site-health-info.php:59
 #: wp-admin/upload.php:608
 msgid "Copied!"
-msgstr ""
+msgstr "コピーしました！"
 
 #: wp-admin/async-upload.php:77
 msgctxt "media item"
@@ -462,7 +462,7 @@ msgstr "編集"
 #: wp-admin/async-upload.php:79
 msgctxt "media item"
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/async-upload.php:120
@@ -480,62 +480,62 @@ msgstr "&#8220;%s&#8221; のアップロードに失敗しました。"
 
 #: wp-admin/authorize-application.php:66
 msgid "Authorize Application"
-msgstr ""
+msgstr "アプリケーションを承認する"
 
 #: wp-admin/authorize-application.php:87
 msgid "The Authorize Application request is not allowed."
-msgstr ""
+msgstr "Authorize Application requestは許可されていません。"
 
 #: wp-admin/authorize-application.php:88
 #: wp-admin/authorize-application.php:95
 #: wp-admin/authorize-application.php:113
 msgid "Cannot Authorize Application"
-msgstr ""
+msgstr "アプリケーションを承認できません"
 
 #: wp-admin/authorize-application.php:94
 msgid "Your website appears to use Basic Authentication, which is not currently compatible with application passwords."
-msgstr ""
+msgstr "あなたのウェブサイトはベーシック認証を使用しているようです。これは現在、アプリケーションのパスワードと互換性がありません。"
 
 #: wp-admin/authorize-application.php:98
 #: wp-admin/authorize-application.php:116
 msgid "Go Back"
-msgstr ""
+msgstr "戻る"
 
 #: wp-admin/authorize-application.php:106
 msgid "Application passwords are not available for your account. Please contact the site administrator for assistance."
-msgstr ""
+msgstr "アプリケーションのパスワードはあなたのアカウントで利用できません。サイト管理者に問い合わせてください。"
 
 #: wp-admin/authorize-application.php:108
 msgid "Application passwords are not available."
-msgstr ""
+msgstr "アプリケーションのパスワードは利用できません。"
 
 #: wp-admin/authorize-application.php:152
 msgid "An application would like to connect to your account."
-msgstr ""
+msgstr "アプリケーションがあなたのアカウントに接続しようとしています。"
 
 #. translators: %s: Application name.
 #: wp-admin/authorize-application.php:158
 #, php-format
 msgid "Would you like to give the application identifying itself as %s access to your account? You should only do this if you trust the application in question."
-msgstr ""
+msgstr "%s として識別するアプリケーションにアカウントへのアクセスを許可しますか？ 問題のアプリケーションを信頼する場合にのみ、これを行う必要があります。"
 
 #: wp-admin/authorize-application.php:164
 msgid "Would you like to give this application access to your account? You should only do this if you trust the application in question."
-msgstr ""
+msgstr "このアプリケーションにあなたのアカウントへのアクセスを許可しますか? 問題のアプリケーションを信頼する場合にのみ、これを行う必要があります。"
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
 #: wp-admin/authorize-application.php:177
 #, php-format
 msgid "This will grant access to <a href=\"%1$s\">the %2$s site in this installation that you have permissions on</a>."
 msgid_plural "This will grant access to <a href=\"%1$s\">all %2$s sites in this installation that you have permissions on</a>."
-msgstr[0] ""
+msgstr[0] "これにより、このインストール環境内の、あなたがアクセス権限を持つ %2$s サイトへのアクセスが許可されます。"
 
 #. translators: 1: URL to my-sites.php, 2: Number of sites the user has.
 #: wp-admin/authorize-application.php:185
 #, php-format
 msgid "This will grant access to <a href=\"%1$s\">the %2$s site on the network as you have Super Admin rights</a>."
 msgid_plural "This will grant access to <a href=\"%1$s\">all %2$s sites on the network as you have Super Admin rights</a>."
-msgstr[0] ""
+msgstr[0] "これにより、スーパー管理者権限を持っているため、ネットワーク上の %2$s サイトへのアクセスが許可されます。"
 
 #. translators: %s: Application name.
 #: wp-admin/authorize-application.php:209
@@ -543,29 +543,29 @@ msgstr[0] ""
 #: wp-admin/js/auth-app.js:90
 #, php-format,js-format
 msgid "Your new password for %s is:"
-msgstr ""
+msgstr "%s の新しいパスワード:"
 
 #: wp-admin/authorize-application.php:215
 #: wp-admin/user-edit.php:1095
 #: wp-admin/js/auth-app.js:98
 msgid "Be sure to save this in a safe location. You will not be able to retrieve it."
-msgstr ""
+msgstr "これを安全な場所に保存してください。取得することはできません。"
 
 #: wp-admin/authorize-application.php:247
 #: wp-admin/user-edit.php:928
 msgid "New Application Password Name"
-msgstr ""
+msgstr "新しいアプリケーションパスワード名"
 
 #: wp-admin/authorize-application.php:271
 msgid "Yes, I approve of this connection"
-msgstr ""
+msgstr "はい、この接続を承認します"
 
 #. translators: %s: The URL the user is being redirected to.
 #: wp-admin/authorize-application.php:285
 #: wp-admin/authorize-application.php:319
 #, php-format
 msgid "You will be sent to %s"
-msgstr ""
+msgstr "%sに送信されます"
 
 #: wp-admin/authorize-application.php:298
 msgid "You will be given a password to manually enter into the application in question."
@@ -573,15 +573,15 @@ msgstr "。"
 
 #: wp-admin/authorize-application.php:305
 msgid "No, I do not approve of this connection"
-msgstr ""
+msgstr "いいえ、この接続を承認しません"
 
 #: wp-admin/authorize-application.php:323
 msgid "You will be returned to the ClassicPress Dashboard, and no changes will be made."
-msgstr ""
+msgstr "ClassicPress Dashboardに戻ると、変更は加えられません。"
 
 #: wp-admin/comment.php:46
 msgid "You cannot edit this comment because the associated post is in the Trash. Please restore the post first, then try again."
-msgstr ""
+msgstr "関連付けられた投稿がゴミ箱にあるため、このコメントを編集することはできません。最初に投稿を復元してから、もう一度お試しください。"
 
 #: wp-admin/comment.php:57
 #: wp-admin/edit-form-comment.php:22
@@ -793,7 +793,7 @@ msgstr "このコメントを削除しようとしています:"
 
 #: wp-admin/comment.php:142
 msgid "Permanently delete comment"
-msgstr ""
+msgstr "コメントを完全に削除"
 
 #: wp-admin/comment.php:145
 msgid "You are about to approve the following comment:"
@@ -801,7 +801,7 @@ msgstr "このコメントを承認しようとしています:"
 
 #: wp-admin/comment.php:146
 msgid "Approve comment"
-msgstr ""
+msgstr "コメントを承認"
 
 #: wp-admin/comment.php:154
 msgid "This comment is currently approved."
@@ -871,7 +871,7 @@ msgstr "URL"
 #: wp-admin/comment.php:200
 #: wp-admin/includes/class-wp-comments-list-table.php:477
 msgid "In response to"
-msgstr ""
+msgstr "以下への対応："
 
 #. translators: %s: Comment link.
 #: wp-admin/comment.php:218
@@ -975,13 +975,13 @@ msgstr "不明なアクションです。"
 
 #: wp-admin/credits.php:52
 msgid "ClassicPress is created by a worldwide team of passionate individuals."
-msgstr ""
+msgstr "ClassicPressは、世界中の情熱的な個人チームによって作成されます。"
 
 #. translators: %s: https://www.classicpress.net/community
 #: wp-admin/credits.php:58
 #, php-format
 msgid "Interested in helping out with development? <a href=\"%s\">Get involved in ClassicPress</a>."
-msgstr ""
+msgstr "開発支援に興味がありますか？ <a href=\"%s\">ClassicPress</a> に参加しましょう。"
 
 #: wp-admin/customize.php:17
 #: wp-admin/customize.php:34
@@ -1077,7 +1077,7 @@ msgstr "公開設定"
 #: wp-admin/themes.php:665
 msgctxt "theme"
 msgid "Cannot Activate"
-msgstr ""
+msgstr "アクティベートできません"
 
 #: wp-admin/customize.php:202
 #: wp-admin/includes/ajax-actions.php:4117
@@ -1124,7 +1124,7 @@ msgstr "ヘルプ"
 
 #: wp-admin/customize.php:244
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements. The Customizer is intended for use with non-block themes."
-msgstr ""
+msgstr "カスタマイザを使用すると、サイトを公開する前に変更をプレビューすることができます。プレビュー内のサイトの異なるページに移動できます。 編集ショートカットは、いくつかの編集可能な要素に対して表示されます。カスタマイザは、非ブロックテーマで使用することを意図しています。"
 
 #: wp-admin/customize.php:249
 msgid "<a href=\"https://wordpress.org/documentation/article/customizer/\">Documentation on Customizer</a>"
@@ -1149,27 +1149,27 @@ msgstr "操作"
 #: wp-admin/customize.php:309
 #: wp-admin/widgets-form.php:572
 msgid "Add media"
-msgstr ""
+msgstr "メディアを追加"
 
 #: wp-admin/customize.php:310
 #: wp-admin/widgets-form.php:573
 msgid "Create gallery"
-msgstr ""
+msgstr "ギャラリーを作成"
 
 #: wp-admin/customize.php:311
 #: wp-admin/widgets-form.php:574
 msgid "Create audio playlist"
-msgstr ""
+msgstr "オーディオプレイリストを作成"
 
 #: wp-admin/customize.php:312
 #: wp-admin/widgets-form.php:575
 msgid "Create video playlist"
-msgstr ""
+msgstr "動画再生リストを作成"
 
 #: wp-admin/customize.php:313
 #: wp-admin/widgets-form.php:576
 msgid "Featured image"
-msgstr ""
+msgstr "注目の画像"
 
 #: wp-admin/customize.php:315
 #: wp-admin/widgets-form.php:578
@@ -1242,7 +1242,7 @@ msgstr "コメント"
 
 #: wp-admin/edit-comments.php:191
 msgid "You can manage comments made on your site similar to the way you manage posts and other content. This screen is customizable in the same ways as other management screens, and you can act on comments using the on-hover action links or the bulk actions."
-msgstr ""
+msgstr "投稿やその他のコンテンツの管理方法と同様に、サイトで行われたコメントを管理できます。 この画面は他の管理画面と同じ方法でカスタマイズできます そして、オンホバーアクションリンクや一括操作を使用してコメントを行うことができます。"
 
 #: wp-admin/edit-comments.php:197
 msgid "Moderating Comments"
@@ -1262,11 +1262,11 @@ msgstr "<strong>コメント</strong>カラムでは、コメントをマウス�
 
 #: wp-admin/edit-comments.php:202
 msgid "In the <strong>In response to</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If there are pending comments, a red notification circle with the number of pending comments is displayed. Clicking the notification circle will filter the comments screen to show only pending comments on that post."
-msgstr ""
+msgstr "「返信先」欄には、3つの要素があります。テキストは、コメントのきっかけとなった投稿名と、その投稿の編集画面へのリンクです。「投稿を表示」リンクをクリックすると、ライブサイトの該当投稿が表示されます。数字が入った小さな吹き出しは、その投稿に承認されたコメントの数を示しています。保留中のコメントがある場合は、保留中のコメント数を示す赤い通知サークルが表示されます。通知サークルをクリックすると、コメント画面がフィルタリングされ、その投稿の保留中のコメントのみが表示されます。"
 
 #: wp-admin/edit-comments.php:203
 msgid "In the <strong>Submitted on</strong> column, the date and time the comment was left on your site appears. Clicking on the date/time link will take you to that comment on your live site."
-msgstr ""
+msgstr "「投稿日時」欄には、コメントがサイトに投稿された日時が表示されます。日付/時刻のリンクをクリックすると、サイト上の該当コメントページに移動します。"
 
 #: wp-admin/edit-comments.php:204
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -1304,14 +1304,14 @@ msgstr "コメント一覧"
 #: wp-admin/js/updates.js:2665
 #, php-format,js-format
 msgid "Search results for: %s"
-msgstr ""
+msgstr "%s の検索結果"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:301
 #, php-format
 msgid "%s comment approved."
 msgid_plural "%s comments approved."
-msgstr[0] ""
+msgstr[0] "%s コメントが承認されました。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:307
@@ -1338,7 +1338,7 @@ msgstr "取り消し"
 #, php-format
 msgid "%s comment restored from the spam."
 msgid_plural "%s comments restored from the spam."
-msgstr[0] ""
+msgstr[0] "%s コメントがスパムから復元されました。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:318
@@ -1352,14 +1352,14 @@ msgstr[0] "%s件のコメントをゴミ箱へ移動しました。"
 #, php-format
 msgid "%s comment restored from the Trash."
 msgid_plural "%s comments restored from the Trash."
-msgstr[0] ""
+msgstr[0] "%s コメントがゴミ箱から復元されました。"
 
 #. translators: %s: Number of comments.
 #: wp-admin/edit-comments.php:328
 #, php-format
 msgid "%s comment permanently deleted."
 msgid_plural "%s comments permanently deleted."
-msgstr[0] ""
+msgstr[0] "%s コメントは完全に削除されました。"
 
 #: wp-admin/edit-comments.php:336
 msgid "This comment is already approved."
@@ -1411,7 +1411,7 @@ msgstr "ページを表示"
 #: wp-admin/includes/meta-boxes.php:440
 msgctxt "publish box date format"
 msgid "M j, Y"
-msgstr ""
+msgstr "M j, Y"
 
 #. translators: Publish box time format, see https://www.php.net/manual/datetime.format.php
 #: wp-admin/edit-form-advanced.php:172
@@ -1420,7 +1420,7 @@ msgstr ""
 #: wp-admin/includes/meta-boxes.php:442
 msgctxt "publish box time format"
 msgid "H:i"
-msgstr ""
+msgstr "H:i"
 
 #: wp-admin/edit-form-advanced.php:177
 #: wp-admin/edit-form-advanced.php:180
@@ -1507,7 +1507,7 @@ msgstr "メディアファイルを更新しました。"
 
 #: wp-admin/edit-form-advanced.php:233
 msgid "You can't publish an empty post."
-msgstr ""
+msgstr "空の投稿は公開できません。"
 
 #. translators: %s: URL to view the autosave.
 #: wp-admin/edit-form-advanced.php:252
@@ -1541,7 +1541,7 @@ msgstr "テキストモードでは投稿のテキストと一緒に HTML タグ
 
 #: wp-admin/edit-form-advanced.php:295
 msgid "You can insert media files by clicking the button above the post editor and following the directions. You can align or edit images using the inline formatting toolbar available in Visual mode."
-msgstr ""
+msgstr "ポストエディタの上のボタンをクリックして指示に従ってメディアファイルを挿入できます。 ビジュアルモードで使用できるインラインフォーマットツールバーを使用して、画像の整列や編集を行うことができます。"
 
 #: wp-admin/edit-form-advanced.php:296
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
@@ -1551,7 +1551,7 @@ msgstr "右側のアイコンを使用して集中執筆モードを有効にす
 #: wp-admin/edit-form-advanced.php:299
 #, php-format
 msgid "Keyboard users: When you are working in the visual editor, you can use %s to access the toolbar."
-msgstr ""
+msgstr "キーボードユーザー: ビジュアルエディターで作業している場合、 %s を使用してツールバーにアクセスできます。"
 
 #: wp-admin/edit-form-advanced.php:306
 msgid "Title and Post Editor"
@@ -1592,7 +1592,7 @@ msgstr ""
 #: wp-admin/edit-form-advanced.php:345
 #: wp-admin/media.php:88
 msgid "This screen allows you to edit fields for metadata in a file within the media library."
-msgstr ""
+msgstr "この画面では、メディアライブラリ内のファイルのメタデータのフィールドを編集できます。"
 
 #: wp-admin/edit-form-advanced.php:346
 #: wp-admin/media.php:89
@@ -1607,7 +1607,7 @@ msgstr "画像を切り抜くには切り抜きツールのアイコンがすで
 #: wp-admin/edit-form-advanced.php:348
 #: wp-admin/media.php:91
 msgid "Remember to click Update to save metadata entered or changed."
-msgstr ""
+msgstr "入力または変更されたメタデータを保存するには、format@@0をクリックします。"
 
 #: wp-admin/edit-form-advanced.php:354
 #: wp-admin/media.php:97
@@ -1676,38 +1676,38 @@ msgstr "固定ページの属性"
 #: wp-admin/edit-form-advanced.php:460
 msgctxt "Admin Post Navigation"
 msgid "Previous post: "
-msgstr ""
+msgstr "前の投稿: "
 
 #: wp-admin/edit-form-advanced.php:462
 msgctxt "Admin Post Navigation"
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; 前"
 
 #: wp-admin/edit-form-advanced.php:470
 msgctxt "Admin Post Navigation"
 msgid "Next post: "
-msgstr ""
+msgstr "次の投稿: "
 
 #: wp-admin/edit-form-advanced.php:472
 msgctxt "Admin Post Navigation"
 msgid "Next &rarr;"
-msgstr ""
+msgstr "次の &rarr;"
 
 #: wp-admin/edit-form-advanced.php:506
 msgid "<strong>Connection lost.</strong> Saving has been disabled until you are reconnected."
-msgstr ""
+msgstr "<strong>接続が切れました。</strong> 再接続するまで保存は無効になっています。"
 
 #: wp-admin/edit-form-advanced.php:507
 msgid "This post is being backed up in your browser, just in case."
-msgstr ""
+msgstr "この投稿は、念のためブラウザにバックアップされています。"
 
 #: wp-admin/edit-form-advanced.php:575
 msgid "Add title"
-msgstr ""
+msgstr "タイトルを追加"
 
 #: wp-admin/edit-form-advanced.php:579
 msgid "Skip to Editor"
-msgstr ""
+msgstr "エディターにスキップ"
 
 #: wp-admin/edit-form-advanced.php:603
 msgid "Get Shortlink"
@@ -1924,11 +1924,11 @@ msgstr "各ボックスに情報を入力することでリンクを追加、編
 
 #: wp-admin/edit-link-form.php:69
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you do not use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
-msgstr ""
+msgstr "リンク名、ウェブアドレス、説明用のボックスには固定の位置があり、他のボックスにはドラッグアンドドロップを使用して再配置することができます。 「画面オプション」タブで使用しないボックスを非表示にすることもできます。 またはボックスのタイトルバーをクリックしてボックスを最小化します。"
 
 #: wp-admin/edit-link-form.php:70
 msgid "XFN stands for <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. ClassicPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
-msgstr ""
+msgstr "XFNは <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a>の略で、オプションです。 ClassicPress は、XFN属性の生成により、あなたがリンクしているサイトの著者/所有者に関連している方法を示すことができます。"
 
 #: wp-admin/edit-link-form.php:76
 msgid "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentation on Creating Links</a>"
@@ -1962,7 +1962,7 @@ msgstr "Web アドレス"
 
 #: wp-admin/edit-link-form.php:134
 msgid "Example: <code>https://www.classicpress.net</code> &#8212; do not forget the <code>https://</code>"
-msgstr ""
+msgstr "例: <code>https://www.classicpress.net</code> &#8212; <code>https://</code>"
 
 #: wp-admin/edit-link-form.php:139
 #: wp-admin/edit-tag-form.php:205
@@ -2080,7 +2080,7 @@ msgstr "これらの項目を削除する権限がありません。"
 #: wp-admin/post.php:127
 #: wp-admin/term.php:31
 msgid "You attempted to edit an item that does not exist. Perhaps it was deleted?"
-msgstr ""
+msgstr "存在しないアイテムを編集しようとしました。おそらく削除されましたか？"
 
 #: wp-admin/edit-tags.php:173
 #: wp-admin/includes/class-wp-screen.php:288
@@ -2106,7 +2106,7 @@ msgstr "リンクカテゴリーを使ってリンクをグループ化できま
 
 #: wp-admin/edit-tags.php:256
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there is no relationship from one tag to another."
-msgstr ""
+msgstr "<strong>タグ</strong>を使用して投稿にキーワードを割り当てることができます。 カテゴリとは異なり、タグには階層がありません。つまり、タグから別のタグへの関係はありません。"
 
 #: wp-admin/edit-tags.php:260
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
@@ -2168,7 +2168,7 @@ msgstr ""
 #: wp-admin/edit-tags.php:621
 #, php-format
 msgid "Deleting a category does not delete the posts in that category. Instead, posts that were only assigned to the deleted category are set to the default category %s. The default category cannot be deleted."
-msgstr ""
+msgstr "カテゴリを削除しても、そのカテゴリの投稿は削除されません。 代わりに、削除されたカテゴリにのみ割り当てられた投稿は、デフォルトのカテゴリ %sに設定されます。既定のカテゴリは削除できません。"
 
 #. translators: %s: URL to Categories to Tags Converter tool.
 #: wp-admin/edit-tags.php:632
@@ -2198,7 +2198,7 @@ msgstr "この項目をゴミ箱へ移動する権限がありません。 "
 #: wp-admin/post.php:264
 #: wp-admin/upload.php:721
 msgid "Error in moving the item to Trash."
-msgstr ""
+msgstr "アイテムをゴミ箱に移動中にエラーが発生しました。"
 
 #: wp-admin/edit.php:156
 #: wp-admin/post.php:290
@@ -2210,18 +2210,18 @@ msgstr "この項目をゴミ箱から復元する権限がありません。 "
 #: wp-admin/post.php:294
 #: wp-admin/upload.php:742
 msgid "Error in restoring the item from Trash."
-msgstr ""
+msgstr "ゴミ箱からアイテムを復元する際にエラーが発生しました。"
 
 #: wp-admin/edit.php:181
 #: wp-admin/post.php:325
 #: wp-admin/upload.php:757
 msgid "Error in deleting the attachment."
-msgstr ""
+msgstr "添付ファイルの削除中にエラーが発生しました。"
 
 #: wp-admin/edit.php:185
 #: wp-admin/post.php:329
 msgid "Error in deleting the item."
-msgstr ""
+msgstr "項目を削除中にエラーが発生しました。"
 
 #: wp-admin/edit.php:249
 msgid "This screen provides access to all of your posts. You can customize the display of this screen to suit your workflow."
@@ -2272,7 +2272,7 @@ msgstr "<strong>クイック編集</strong>を使うと投稿のメタデータ�
 
 #: wp-admin/edit.php:275
 msgid "<strong>Trash</strong> removes your post from this list and places it in the Trash, from which you can permanently delete it."
-msgstr ""
+msgstr "<strong>Trash</strong> はこのリストからあなたの投稿を削除し、ゴミ箱に置きます。そこから完全に削除できます。"
 
 #: wp-admin/edit.php:276
 msgid "<strong>Preview</strong> will show you what your draft post will look like if you publish it. View will take you to your live site to view the post. Which link is available depends on your post&#8217;s status."
@@ -2282,11 +2282,11 @@ msgstr "<strong>プレビュー</strong>をクリックすると下書きが公�
 #: wp-admin/includes/class-wp-list-table.php:568
 #: wp-admin/revisions-list.php:100
 msgid "Bulk actions"
-msgstr ""
+msgstr "一括操作"
 
 #: wp-admin/edit.php:285
 msgid "You can also edit or move multiple posts to the Trash at once. Select the posts you want to act on using the checkboxes, then select the action you want to take from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "また、複数の投稿を一度に編集または移動することもできます。 チェックボックスを使用して行う投稿を選択します。 次に、format@@0 メニューから format@@1 を選択して、format@@2 をクリックします。"
 
 #: wp-admin/edit.php:286
 msgid "When using Bulk Edit, you can change the metadata (categories, author, etc.) for all selected posts at once. To remove a post from the grouping, just click the x next to its name in the Bulk Edit area that appears."
@@ -2306,7 +2306,7 @@ msgstr "固定ページの管理はブログ投稿の管理に似ており、管
 
 #: wp-admin/edit.php:311
 msgid "You can also perform the same types of actions, including narrowing the list by using the filters, acting on a page using the action links that appear when you hover over a row, or using the Bulk actions menu to edit the metadata for multiple pages at once."
-msgstr ""
+msgstr "フィルターを使用してリストを絞り込むなど、同じタイプのアクションを実行することもできます。 行の上にカーソルを合わせたときに表示されるアクションリンクを使って またはformat@@0メニューを使用して、複数ページのメタデータを一度に編集できます。"
 
 #: wp-admin/edit.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/pages-screen/\">Documentation on Managing Pages</a>"
@@ -2392,7 +2392,7 @@ msgstr[0] "%s件のページをゴミ箱から復元しました。"
 
 #: wp-admin/erase-personal-data.php:13
 msgid "Sorry, you are not allowed to erase personal data on this site."
-msgstr ""
+msgstr "申し訳ありませんが、このサイトの詳細へのアクセスは許可されていません。"
 
 #: wp-admin/erase-personal-data.php:17
 #: wp-admin/erase-personal-data.php:107
@@ -2402,43 +2402,43 @@ msgstr "個人データの消去"
 
 #: wp-admin/erase-personal-data.php:25
 msgid "This screen is where you manage requests to erase personal data."
-msgstr ""
+msgstr "この画面では個人データを消去するためのリクエストを管理します。"
 
 #: wp-admin/erase-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to delete, anonymize, or forget the data they collect about an individual. The rights those laws enshrine are sometimes called the \"Right to be Forgotten\"."
-msgstr ""
+msgstr "世界中のプライバシー法では、企業やオンラインサービスが個人について収集したデータを削除、匿名化、または忘れることが義務付けられています。 これらの法令を祀る権利は、「忘れてしまう権利」と呼ばれることもある。"
 
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
 msgid "The tool associates data stored in ClassicPress with a supplied email address, including profile data and comments."
-msgstr ""
+msgstr "ClassicPressに保存されているデータをプロファイルデータやコメントなどのメールアドレスと関連付けます。"
 
 #: wp-admin/erase-personal-data.php:28
 msgid "Note: As this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with erasure requests. For example, you are also responsible for ensuring that data collected by or stored with the 3rd party services your organization uses gets deleted."
-msgstr ""
+msgstr "注意: このツールはClassicPressと参加しているプラグインからデータを収集するだけなので、消去リクエストに応じるためにはもっと多くのことをする必要があるかもしれません。 たとえば、組織が使用するサードパーティのサービスによって収集または保存されたデータが削除されることを保証する責任もあります。"
 
 #: wp-admin/erase-personal-data.php:35
 #: wp-admin/export-personal-data.php:35
 msgid "Default Data"
-msgstr ""
+msgstr "デフォルトのデータ"
 
 #: wp-admin/erase-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from logged-in users but then deletes it or anonymizes it. That data can include: "
-msgstr ""
+msgstr "ClassicPressは、ログインユーザーから限られた量のデータを収集しますが（ただし<em>決して</em>公開しません）、その後削除または匿名化します。収集するデータには以下が含まれます。"
 
 #: wp-admin/erase-personal-data.php:38
 #: wp-admin/export-personal-data.php:38
 msgid "<strong>Profile Information</strong> &mdash; user email address, username, display name, nickname, first name, last name, description/bio, and registration date."
-msgstr ""
+msgstr "<strong>プロフィール情報</strong> &mdash; ユーザーのメールアドレス、ユーザー名、表示名、ニックネーム、姓、姓、説明/バイオ、登録日。"
 
 #: wp-admin/erase-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user which is used for the Upcoming Community Events shown in the dashboard widget."
-msgstr ""
+msgstr "<strong>コミュニティイベントの場所</strong> &mdash; ダッシュボードウィジェットに表示される今後のコミュニティイベントに使用されるユーザーのIPアドレス。"
 
 #: wp-admin/erase-personal-data.php:40
 #: wp-admin/export-personal-data.php:40
 msgid "<strong>Session Tokens</strong> &mdash; User login information, IP Addresses, Expiration Date, User Agent (Browser/OS), and Last Login."
-msgstr ""
+msgstr "<strong>セッショントークン</strong> &mdash; ユーザーログイン情報、IPアドレス、有効期限、ユーザーエージェント(ブラウザー/OS)、および最終ログイン。"
 
 #: wp-admin/erase-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; ClassicPress does not delete comments. The software does anonymize (but, again, <em>never</em> publishes) the associated Email Address, IP Address, and User Agent (Browser/OS)."
@@ -2446,22 +2446,22 @@ msgstr ""
 
 #: wp-admin/erase-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for all media file uploads made by the user."
-msgstr ""
+msgstr "<strong>メディア</strong> &mdash; ユーザーが行ったすべてのメディアファイルアップロードの URL のリスト。"
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/erase-personal-data.php:48
 #, php-format
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Eraser tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "よく分からない場合は、 プラグインのドキュメントをチェックするか、プラグインの作成者に連絡して、プラグインがデータを収集しているかどうかを確認し、Data Eraser ツールをサポートしているかどうかを確認します。 この情報は、 <a href=\"%s\">個人情報保護方針</a> に記載されている可能性があります。"
 
 #: wp-admin/erase-personal-data.php:55
 #: wp-admin/export-personal-data.php:55
 msgid "Plugin Data"
-msgstr ""
+msgstr "プラグインデータ"
 
 #: wp-admin/erase-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Erase Personal Data request should delete data from plugins as well."
-msgstr ""
+msgstr "多くのプラグインは、ClassicPressデータベースまたはリモートで個人データを収集または保存することがあります。 個人データの要求を消去する場合は、プラグインからもデータを削除する必要があります。"
 
 #: wp-admin/erase-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
@@ -2473,19 +2473,19 @@ msgstr ""
 
 #: wp-admin/erase-personal-data.php:94
 msgid "Filter erase personal data list"
-msgstr ""
+msgstr "個人データリストの削除"
 
 #: wp-admin/erase-personal-data.php:95
 msgid "Erase personal data list navigation"
-msgstr ""
+msgstr "個人データリストのナビゲーションを消去"
 
 #: wp-admin/erase-personal-data.php:96
 msgid "Erase personal data list"
-msgstr ""
+msgstr "個人データリストを消去"
 
 #: wp-admin/erase-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by deleting or anonymizing known data for a given user."
-msgstr ""
+msgstr "このツールは、サイト所有者が特定のユーザーの既知のデータを削除または匿名化することによって、現地の法律や規制を遵守するのに役立ちます。"
 
 #: wp-admin/erase-personal-data.php:114
 msgid "Add Data Erasure Request"
@@ -2499,11 +2499,11 @@ msgstr "ユーザー名またはメールアドレス"
 #: wp-admin/erase-personal-data.php:127
 #: wp-admin/export-personal-data.php:127
 msgid "Confirmation email"
-msgstr ""
+msgstr "確認メール"
 
 #: wp-admin/erase-personal-data.php:132
 msgid "Send personal data erasure confirmation email."
-msgstr ""
+msgstr "個人データ消去確認メールを送信します。"
 
 #: wp-admin/erase-personal-data.php:138
 #: wp-admin/export-personal-data.php:138
@@ -2527,41 +2527,41 @@ msgstr "個人データのエクスポート"
 
 #: wp-admin/export-personal-data.php:25
 msgid "This screen is where you manage requests for an export of personal data."
-msgstr ""
+msgstr "この画面では、個人データのエクスポートのリクエストを管理します。"
 
 #: wp-admin/export-personal-data.php:26
 msgid "Privacy Laws around the world require businesses and online services to provide an export of some of the data they collect about an individual, and to deliver that export on request. The rights those laws enshrine are sometimes called the \"Right of Data Portability\". It allows individuals to obtain and reuse their personal data for their own purposes across different services. It allows them to move, copy or transfer personal data easily from one IT environment to another."
-msgstr ""
+msgstr "世界中のプライバシー法では、個人について収集したデータの一部を輸出するために、企業やオンラインサービスが必要とされています。 要請に応じて輸出品を届けることができます これらの法律が定める権利は、「データポータビリティの権利」と呼ばれることがあります。 これにより、個人はさまざまなサービスにわたって自分の目的のために自分の個人データを取得し、再利用することができます。 これにより、あるIT環境から別のIT環境への個人データの移動、コピー、転送が容易になります。"
 
 #: wp-admin/export-personal-data.php:28
 msgid "Note: Since this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with export requests. For example, you should also send the requester some of the data collected from or stored with the 3rd party services your organization uses."
-msgstr ""
+msgstr "注意: このツールはClassicPressと参加しているプラグインからのみデータを収集するため、エクスポート要求に応じてより多くの作業を行う必要がある場合があります。 たとえば、要求者に組織が使用するサードパーティのサービスから収集または保存されたデータの一部を送信する必要があります。"
 
 #: wp-admin/export-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from registered users who have logged in to the site. Generally, these users are people who contribute to the site in some way -- content, store management, and so on. With rare exceptions, these users do not include occasional visitors who might have registered to comment on articles or buy products. The data ClassicPress retains can include:"
-msgstr ""
+msgstr "ClassicPressは、サイトにログインした登録ユーザーから限られた量のデータを収集しますが、決して公開しません。一般的に、これらのユーザーは、コンテンツ作成、ストア管理など、何らかの形でサイトに貢献している人々です。ごくまれな例外を除き、記事にコメントしたり商品を購入したりするために登録した一時的な訪問者は含まれません。ClassicPressが保持するデータには、以下のものが含まれます。"
 
 #: wp-admin/export-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user, which populates the Upcoming Community Events dashboard widget with relevant information."
-msgstr ""
+msgstr "<strong>コミュニティイベントの場所</strong> &mdash; 今後のコミュニティイベントダッシュボードウィジェットに関連情報を入力するユーザーのIPアドレス。"
 
 #: wp-admin/export-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; For user comments, Email Address, IP Address, User Agent (Browser/OS), Date/Time, Comment Content, and Content URL."
-msgstr ""
+msgstr "<strong>コメント</strong> &mdash; ユーザーコメント、メールアドレス、IPアドレス、ユーザーエージェント(ブラウザー/OS)、日時、コメントコンテンツ、およびコンテンツURLの場合。"
 
 #: wp-admin/export-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for media files the user uploads."
-msgstr ""
+msgstr "<strong>メディア</strong> &mdash; ユーザーがアップロードするメディアファイルの URL のリスト。"
 
 #. translators: %s: URL to Privacy Policy Guide screen.
 #: wp-admin/export-personal-data.php:48
 #, php-format
 msgid "If you are not sure, check the plugin documentation or contact the plugin author to see if the plugin collects data and if it supports the Data Exporter tool. This information may be available in the <a href=\"%s\">Privacy Policy Guide</a>."
-msgstr ""
+msgstr "よく分からない場合は、 プラグインのドキュメントを確認するか、プラグインの作成者に連絡して、プラグインがデータを収集しているかどうかを確認し、Data Exporter ツールをサポートしているかどうかを確認します。 この情報は、 <a href=\"%s\">個人情報保護方針</a> に記載されている可能性があります。"
 
 #: wp-admin/export-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Export Personal Data request should include data from plugins as well."
-msgstr ""
+msgstr "多くのプラグインは、ClassicPressデータベースまたはリモートで個人データを収集または保存することがあります。 個人データの要求を消去する場合は、プラグインからもデータを削除する必要があります。"
 
 #: wp-admin/export-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">learn more about how to add the Personal Data Exporter to a plugin here</a>."
@@ -2573,19 +2573,19 @@ msgstr ""
 
 #: wp-admin/export-personal-data.php:94
 msgid "Filter export personal data list"
-msgstr ""
+msgstr "個人データリストのエクスポート"
 
 #: wp-admin/export-personal-data.php:95
 msgid "Export personal data list navigation"
-msgstr ""
+msgstr "個人データリストのナビゲーションをエクスポート"
 
 #: wp-admin/export-personal-data.php:96
 msgid "Export personal data list"
-msgstr ""
+msgstr "個人データリストをエクスポート"
 
 #: wp-admin/export-personal-data.php:108
 msgid "This tool helps site owners comply with local laws and regulations by exporting known data for a given user in a .zip file."
-msgstr ""
+msgstr "このツールは、サイト所有者が特定のユーザーの既知のデータを削除または匿名化することによって、現地の法律や規制を遵守するのに役立ちます。"
 
 #: wp-admin/export-personal-data.php:114
 msgid "Add Data Export Request"
@@ -2593,7 +2593,7 @@ msgstr "データエクスポートリクエストを追加"
 
 #: wp-admin/export-personal-data.php:132
 msgid "Send personal data export confirmation email."
-msgstr ""
+msgstr "個人データのエクスポート確認メールを送信します。"
 
 #: wp-admin/export.php:13
 msgid "Sorry, you are not allowed to export the content of this site."
@@ -2622,7 +2622,7 @@ msgstr "下のボタンをクリックすると、ClassicPress がローカル�
 
 #: wp-admin/export.php:174
 msgid "This format, which is called ClassicPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr ""
+msgstr "ClassicPress eXtended RSS または WXR と呼ばれるこのフォーマットは、投稿、ページ、コメント、カスタムフィールド、カテゴリ、およびタグを含みます。"
 
 #: wp-admin/export.php:175
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another ClassicPress installation to import the content from this site."
@@ -2724,53 +2724,53 @@ msgstr "エクスポートファイルをダウンロード"
 #: wp-admin/freedoms.php:48
 #, php-format
 msgid "ClassicPress is Free and open source software, built by a distributed community of volunteer developers from around the world. ClassicPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
-msgstr ""
+msgstr "ClassicPressは、世界中のボランティア開発者のコミュニティによって構築された、フリーでオープンソースのソフトウェアです。 ClassicPressには、GPLの <a href=\"%s\">ライセンス</a>という素晴らしい世界観を変える権利の礼儀が付属しています。"
 
 #: wp-admin/freedoms.php:51
 msgid "The Four Freedoms"
-msgstr ""
+msgstr "四つの自由たち"
 
 #: wp-admin/freedoms.php:53
 msgid "The 1st Freedom"
-msgstr ""
+msgstr "第一自由権"
 
 #: wp-admin/freedoms.php:53
 msgid "To run the program for any purpose."
-msgstr ""
+msgstr "任意の目的のためにプログラムを実行します。"
 
 #: wp-admin/freedoms.php:54
 msgid "The 2nd Freedom"
-msgstr ""
+msgstr "第二の自由"
 
 #: wp-admin/freedoms.php:54
 msgid "To study how the program works and change it to make it do what you wish."
-msgstr ""
+msgstr "プログラムがどのように動作するかを学び、それを変更して、あなたが望むことをするようにします。"
 
 #: wp-admin/freedoms.php:55
 msgid "The 3rd Freedom"
-msgstr ""
+msgstr "第三の自由たち"
 
 #: wp-admin/freedoms.php:55
 msgid "To redistribute."
-msgstr ""
+msgstr "再配布する。"
 
 #: wp-admin/freedoms.php:56
 msgid "The 4th Freedom"
-msgstr ""
+msgstr "四番目の自由"
 
 #: wp-admin/freedoms.php:56
 msgid "To distribute copies of your modified versions to others."
-msgstr ""
+msgstr "変更したバージョンのコピーを他の人に配布する。"
 
 #. translators: 1: link to CP Directory, 2: link to GPL
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr ""
+msgstr "<a href=\"%1$s\">ClassicPress Directory</a> のすべてのプラグインとテーマは、 <a href=\"%2$s\">GPL</a> または同様のフリーで互換性のあるライセンスの下でライセンスされています。"
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
-msgstr ""
+msgstr "別のソースからプラグインやテーマを取得する場合は、それが適切なライセンスを持っていることを確認してください。 ClassicPressのライセンスを尊重しない場合は、お勧めしません。"
 
 #: wp-admin/freedoms.php:73
 msgid "Don&#8217;t you wish all software came with these freedoms? So do we! For more information, check out the <a href=\"https://www.fsf.org/\">Free Software Foundation</a>."
@@ -2792,14 +2792,14 @@ msgstr ""
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:888
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">サポートフォーラム</a>"
 
 #: wp-admin/import.php:64
 #: wp-admin/includes/network.php:116
 #: wp-admin/themes.php:361
 #: wp-admin/users.php:329
 msgid "Error:"
-msgstr ""
+msgstr "エラー:"
 
 #. translators: %s: Importer slug.
 #: wp-admin/import.php:67
@@ -2919,7 +2919,7 @@ msgstr[0] "%s件のコメント"
 #, php-format
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
+msgstr[0] "%s コメントをモデレーションに追加"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -2949,7 +2949,7 @@ msgstr "エラーが発生しました。リロードしてもう一度お試し
 
 #: wp-admin/includes/ajax-actions.php:1255
 msgid "You cannot reply to a comment on a draft post."
-msgstr ""
+msgstr "ドラフト投稿に対するコメントへの返信はできません。"
 
 #: wp-admin/includes/ajax-actions.php:1279
 msgid "Sorry, you must be logged in to reply to a comment."

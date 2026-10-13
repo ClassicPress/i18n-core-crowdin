@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Khmer\n"
 "Language: km_KH\n"
-"PO-Revision-Date: 2026-10-12 20:22\n"
+"PO-Revision-Date: 2026-10-13 02:21\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -264,7 +264,7 @@ msgstr "ផ្ទៃ​ក្រោយ"
 
 #: wp-includes/admin-bar.php:1055
 msgid "Header"
-msgstr "ផ្នែក​ក្បាល"
+msgstr "បឋមកថា"
 
 #. translators: Hidden accessibility text. %s: Total number of updates available.
 #: wp-includes/admin-bar.php:1082
@@ -467,7 +467,7 @@ msgstr[0] "%s ឯកតា"
 
 #: wp-includes/category-template.php:1233
 msgid "Tags: "
-msgstr ""
+msgstr "ស្លាក: "
 
 #: wp-includes/class-phpmailer.php:11
 msgid "The PHPMailer class has been moved to wp-includes/PHPMailer subdirectory and now uses the PHPMailer\\PHPMailer namespace."
@@ -660,7 +660,7 @@ msgstr "ចំណងជើងទំព័រថ្មី"
 
 #: wp-includes/class-wp-customize-control.php:642
 msgid "New page title&hellip;"
-msgstr ""
+msgstr "ចំណងជើងទំព័រថ្មី&hellip;"
 
 #: wp-includes/class-wp-customize-control.php:643
 #: wp-includes/class-wp-customize-nav-menus.php:1251
@@ -673,7 +673,7 @@ msgstr "បន្ថែម"
 #: wp-includes/script-loader.php:596
 #: wp-includes/script-loader.php:1124
 msgid "Something went wrong."
-msgstr ""
+msgstr "មានកំហុសមួយកើតឡើង។"
 
 #: wp-includes/class-wp-customize-manager.php:515
 #: wp-includes/script-loader.php:1125
@@ -931,19 +931,19 @@ msgstr "កំពុងបង្ហាញរូបរាងវេបសាយច
 #: wp-includes/class-wp-customize-manager.php:4940
 #, php-format
 msgid "Showing details for theme: %s"
-msgstr ""
+msgstr "បង្ហាញការអធិប្បាយនៃរូបរាងវេបសាយ: %s"
 
 #: wp-includes/class-wp-customize-manager.php:5020
 msgid "Enter desktop preview mode"
-msgstr ""
+msgstr "ចូល​មើល​ជាមុន​បែប​កុំព្យូទ័រ"
 
 #: wp-includes/class-wp-customize-manager.php:5024
 msgid "Enter tablet preview mode"
-msgstr ""
+msgstr "ចូល​មើល​ជាមុន​បែប​ថេប្លិត"
 
 #: wp-includes/class-wp-customize-manager.php:5027
 msgid "Enter mobile preview mode"
-msgstr ""
+msgstr "ចូល​មើល​ជាមុន​បែប​ទូរសព្ទ"
 
 #: wp-includes/class-wp-customize-manager.php:5061
 msgid "Looking for a theme? You can search or browse the WordPress.org theme directory, install and preview themes, then activate them right here."
@@ -1467,13 +1467,13 @@ msgstr "ចេញ​ពី​ក្រោម %s"
 #: wp-includes/class-wp-customize-nav-menus.php:572
 #, php-format
 msgid "%1$s. Menu item %2$d of %3$d."
-msgstr ""
+msgstr "%1$s។ ធាតុ​ម៉ឺនុយ %2$d នៃ %3$d។"
 
 #. translators: 1: Item name, 2: Item position, 3: Parent item name.
 #: wp-includes/class-wp-customize-nav-menus.php:574
 #, php-format
 msgid "%1$s. Sub item number %2$d under %3$s."
-msgstr ""
+msgstr "%1$s។ ធាតុរងលេខ %2$d នៅក្រោម %3$s។"
 
 #: wp-includes/class-wp-customize-nav-menus.php:659
 msgid "This panel is used for managing navigation menus for content you have already published on your site. You can create menus and add items for existing content such as pages, posts, categories, tags, formats, or custom links."
@@ -1626,7 +1626,7 @@ msgstr "ស្វែងរក​ធាតុ​ម៉ឺនុយ"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1180
 msgid "Search menu items&hellip;"
-msgstr ""
+msgstr "ស្វែងរក​ធាតុ​ម៉ឺនុយ&hellip;"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-nav-menus.php:1184
@@ -1685,7 +1685,7 @@ msgstr "ដាក់​ចូល​ម៉ឺនុយ"
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-panel.php:354
 msgid "Press return or enter to open this panel"
-msgstr ""
+msgstr "ចុច return ឬ enter ដើម្បី​បើក​ផ្ទាំង​នេះ"
 
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-includes/class-wp-customize-panel.php:386
@@ -1709,7 +1709,7 @@ msgstr "កំពុង​កែតម្រូវ​តាម​ចិត្ត
 #. translators: Hidden accessibility text.
 #: wp-includes/class-wp-customize-section.php:363
 msgid "Press return or enter to open this section"
-msgstr ""
+msgstr "ចុច Return ឬ Enter ដើម្បី​បើក​ផ្នែក​នេះ"
 
 #: wp-includes/class-wp-customize-widgets.php:417
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
@@ -1808,7 +1808,7 @@ msgstr "ស្វែងរក​វិដជិត"
 
 #: wp-includes/class-wp-customize-widgets.php:855
 msgid "Search widgets&hellip;"
-msgstr ""
+msgstr "ស្វែងរក​វិដជិត&hellip;"
 
 #: wp-includes/class-wp-customize-widgets.php:1210
 msgid "Shift-click to edit this widget."
@@ -1842,7 +1842,7 @@ msgstr "វីហ្សួល"
 #: wp-includes/class-wp-editor.php:1402
 msgctxt "Name for the Text editor tab (formerly HTML)"
 msgid "Text"
-msgstr "អក្សរ"
+msgstr "អក្សរ HTML"
 
 #: wp-includes/class-wp-editor.php:1142
 msgid "New document"
@@ -2725,7 +2725,7 @@ msgstr "ពាក្យ៖ %s"
 
 #: wp-includes/class-wp-editor.php:1370
 msgid "Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off."
-msgstr ""
+msgstr "ការ​បិទ​ភ្ជាប់​នៅ​ពេល​នេះ គឺ​ស្ថិត​ក្នុង​បែប​អត្ថបទ​ធម្មតា។ រាល់​មាតិកា​ទាំងឡាយ​នឹង​ត្រូវ​បាន​បិទ​ភ្ជាប់​ជា​អត្ថបទ​ធម្មតា ដរាប​ណា​អ្នក​បិទ​ជម្រើស​នេះ។"
 
 #: wp-includes/class-wp-editor.php:1371
 msgid "If you are looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically."
@@ -2787,7 +2787,7 @@ msgstr "ទ្រង់ទ្រាយ"
 
 #: wp-includes/class-wp-editor.php:1390
 msgid "Toolbar Toggle"
-msgstr ""
+msgstr "បិទ​បើក​របារ​ឧបករណ៍"
 
 #: wp-includes/class-wp-editor.php:1391
 #: wp-includes/script-loader.php:580
@@ -3006,7 +3006,7 @@ msgstr "URL ដែល​ត្រឹមត្រូវ​មិន​ត្រ�
 
 #: wp-includes/class-wp-http.php:307
 msgid "User has blocked requests through HTTP."
-msgstr ""
+msgstr "អ្នក​ប្រើ​បាន​ទប់​ស្កាត់​សំណើ​តាម HTTP។"
 
 #: wp-includes/class-wp-http.php:324
 msgid "Destination directory for file streaming does not exist or is not writable."
@@ -3696,12 +3696,12 @@ msgstr "ទំព័រ"
 #: wp-includes/class-wp-post-type.php:802
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "បន្ថែម​ថ្មី"
 
 #: wp-includes/class-wp-post-type.php:802
 msgctxt "page"
 msgid "Add New"
-msgstr ""
+msgstr "បន្ថែម​ថ្មី"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Post"
@@ -3709,7 +3709,7 @@ msgstr "បន្ថែម​ប្រកាស​ថ្មី"
 
 #: wp-includes/class-wp-post-type.php:803
 msgid "Add New Page"
-msgstr ""
+msgstr "បន្ថែម​ទំព័រ​ថ្មី"
 
 #: wp-includes/class-wp-post-type.php:804
 msgid "Edit Post"
@@ -4229,7 +4229,7 @@ msgstr "អាប់ដេត​ចំណាត់ក្រុម"
 
 #: wp-includes/class-wp-taxonomy.php:626
 msgid "Add New Tag"
-msgstr ""
+msgstr "បន្ថែម​ស្លាក​ថ្មី"
 
 #: wp-includes/class-wp-taxonomy.php:626
 msgid "Add New Category"
@@ -5045,7 +5045,7 @@ msgstr "សូមទោស, អ្នក​មិនមាន​សិទ្ធ�
 #: wp-includes/class-wp-xmlrpc-server.php:5026
 #: wp-includes/class-wp-xmlrpc-server.php:6509
 msgid "Either there are no posts, or something went wrong."
-msgstr ""
+msgstr "មិន​មាន​ទាំង​ប្រកាស ឬ​កំហុស​អ្វី​ទេ។"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5064
 #: wp-includes/class-wp-xmlrpc-server.php:5077
@@ -5288,7 +5288,7 @@ msgstr ""
 
 #: wp-includes/class-wpdb.php:2280
 msgid "Unable to retrieve the error message from MySQL"
-msgstr ""
+msgstr "មិន​អាច​ទៅយក​សារ​កំហុស​ពី MySQL បាន​ទេ"
 
 #. translators: %s: Database field where the error occurred.
 #: wp-includes/class-wpdb.php:2753
@@ -5794,7 +5794,7 @@ msgstr "ជ្រុង​ក្រោម​ខាង​ស្ដាំ"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:167
 msgid "Markup is not allowed in CSS."
-msgstr ""
+msgstr "Markup​​ មិនត្រូវបានអនុញ្ញាតអោយប្រើនៅក្នុង CSS​ ឡើយ។"
 
 #: wp-includes/customize/class-wp-customize-date-time-control.php:127
 msgid "Date"
@@ -5875,29 +5875,29 @@ msgstr "ការ​ព្រាវ​នូវ​ក្បាល​ទំព័
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:179
 msgid "No image set"
-msgstr ""
+msgstr "មិន​បាន​កំណត់​រូបភាព"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:215
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image that matches the size of your video &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "ចុចលើ &#8220;បន្ថែមរូបភាពថ្មី&#8221; ដើម្បីអាប់ឡូដឯកសាររូបភាពពីកុំព្យូទ័ររបស់អ្នក។ រូបរាងវេបសាយរបស់អ្នកដំណើរការល្អជាមួយនឹងរូបដែលត្រូវគ្នាទៅនឹងទំហំនៃវីដេអូរបស់អ្នក &#8212; អ្នកនឹងត្រូវការកាត់រូបភាពនោះ នៅពេលដែលវាបានអាប់ឡូដដើម្បីអោយវាសមជាមួយនឹងគ្នា។"
 
 #. translators: %s: Header size in pixels.
 #: wp-includes/customize/class-wp-customize-header-image-control.php:219
 #, php-format
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header size of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "ចុចលើ &#8220;បន្ថែមរូបភាពថ្មី&#8221; ដើម្បីអាប់ឡូដឯកសាររូបភាពពីកុំព្យូទ័ររបស់អ្នក។ រូបរាងវេបសាយរបស់អ្នកដំណើរការល្អជាមួយនឹងរូបភាពដែលមានប្រវែងក្បាល %s ភីកសែល &#8212; អ្នកនឹងត្រូវការកាត់រូបភាពនោះ នៅពេលដែលអ្នកបានអាប់ឡូដដើម្បីអោយវាសមជាមួយនឹងគ្នា។"
 
 #. translators: %s: Header width in pixels.
 #: wp-includes/customize/class-wp-customize-header-image-control.php:225
 #, php-format
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header width of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "ចុចលើ &#8220;បន្ថែមរូបភាពថ្មី&#8221; ដើម្បីអាប់ឡូដឯកសាររូបភាពពីកុំព្យូទ័ររបស់អ្នក។ រូបរាងវេបសាយរបស់អ្នកដំណើរការល្អជាមួយនឹងរូបភាពដែលមានប្រវែងបណ្ដោយ %s ភីកស៊ែល &#8212; អ្នកនឹងត្រូវការកាត់រូបភាពនោះ នៅពេលដែលវាបានអាប់ឡូដដើម្បីអោយវាសមជាមួយនឹងគ្នា។"
 
 #. translators: %s: Header height in pixels.
 #: wp-includes/customize/class-wp-customize-header-image-control.php:231
 #, php-format
 msgid "Click &#8220;Add new image&#8221; to upload an image file from your computer. Your theme works best with an image with a header height of %s pixels &#8212; you&#8217;ll be able to crop your image once you upload it for a perfect fit."
-msgstr ""
+msgstr "ចុចលើ &#8220;បន្ថែមរូបភាពថ្មី&#8221; ដើម្បីអាប់ឡូដឯកសាររូបភាពពីកុំព្យូទ័ររបស់អ្នក។ រូបរាងវេបសាយរបស់អ្នកដំណើរការល្អជាមួយនឹងរូបភាពដែលមានប្រវែងទទឹង %s ភីកស៊ែល &#8212; អ្នកនឹងត្រូវការកាត់រូបភាពនោះ នៅពេលដែលវាបានអាប់ឡូដដើម្បីអោយវាសមជាមួយនឹងគ្នា។"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:240
 msgid "Current header"
@@ -5913,11 +5913,11 @@ msgstr "បិទរូបភាព"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:249
 msgid "Add new header image"
-msgstr ""
+msgstr "ដាក់រូបភាព​ក្បាល​ទំព័រ​ថ្មី"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:249
 msgid "Add new image"
-msgstr ""
+msgstr "បន្ថែម​រូបភាព​ថ្មី"
 
 #: wp-includes/customize/class-wp-customize-header-image-control.php:254
 msgctxt "custom headers"
@@ -6373,7 +6373,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-themes-section.php:155
 #: wp-includes/customize/class-wp-customize-themes-section.php:158
 msgid "Search themes&hellip;"
-msgstr ""
+msgstr "ស្វែងរករូបរាងវេបសាយ&hellip;"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:143
 msgid "Filter themes"
@@ -6655,7 +6655,7 @@ msgstr[0] "%s វិនាទី"
 #, php-format
 msgid "%s min"
 msgid_plural "%s mins"
-msgstr[0] ""
+msgstr[0] "%s នាទី"
 
 #. translators: Time difference between two dates, in hours. %s: Number of hours.
 #. translators: %s: Time duration in hour or hours.
@@ -7919,7 +7919,7 @@ msgstr ""
 #: wp-includes/media-template.php:750
 #: wp-includes/media.php:4701
 msgid "Restore from Trash"
-msgstr ""
+msgstr "យកពីធុងសម្រាមមកវិញ"
 
 #: wp-includes/media-template.php:589
 #: wp-includes/media-template.php:752
@@ -8290,11 +8290,11 @@ msgstr "មើល​ជាមុន​នូវ​ដែន​ដែល​ត្
 
 #: wp-includes/media-template.php:1552
 msgid "As a browser icon"
-msgstr ""
+msgstr "ជា​រូប​តំណាង​ក្នុង​កម្មវិធី​អ៊ីនធឺណិត"
 
 #: wp-includes/media-template.php:1562
 msgid "As an app icon"
-msgstr ""
+msgstr "ជា​រូប​តំណាង​កម្មវិធី"
 
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5741
@@ -9020,7 +9020,7 @@ msgstr "Trackback ថ្មី​មួយ​នៅ​លើ​ប្រកា�
 
 #: wp-includes/pluggable.php:2019
 msgid "Trackback excerpt: "
-msgstr ""
+msgstr "ការ​ដក​ស្រង់ trackback:"
 
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:2024
@@ -9030,7 +9030,7 @@ msgstr "Pingback ថ្មី​មួយ​នៅ​លើ​ប្រកាស
 
 #: wp-includes/pluggable.php:2030
 msgid "Pingback excerpt: "
-msgstr ""
+msgstr "ការ​ដក​ស្រង់ pingback:"
 
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:2035
@@ -9217,7 +9217,7 @@ msgstr ""
 
 #: wp-includes/post-template.php:1785
 msgid "This content is password protected. To view it please enter your password below:"
-msgstr ""
+msgstr "មាតិកា​នេះ​ត្រូវ​បាន​ការពារ​ដោយ​ពាក្យ​សម្ងាត់។ ដើម្បី​មើល​វា សូម​បញ្ចូល​ពាក្យ​សម្ងាត់​នៅ​ខាង​ក្រោម៖"
 
 #: wp-includes/post-template.php:1786
 msgctxt "post password form"
@@ -9332,11 +9332,11 @@ msgstr ""
 #: wp-includes/post.php:205
 msgctxt "Customize Changeset"
 msgid "Add New"
-msgstr ""
+msgstr "បន្ថែមថ្មី "
 
 #: wp-includes/post.php:206
 msgid "Add New Changeset"
-msgstr ""
+msgstr "បន្ថែម Changeset"
 
 #: wp-includes/post.php:207
 msgid "New Changeset"
@@ -9717,11 +9717,11 @@ msgstr "ឯកសារ​នេះ​លែង​ត្រូវ​ដាក់
 
 #: wp-includes/rest-api.php:41
 msgid "Routes must be namespaced with plugin or theme name and version."
-msgstr ""
+msgstr "Route ត្រូវតែ​មាន namespace ជា​ឈ្មោះ​និង​កំណែ​របស់​កម្មវិធី​បន្ថែម​ឬ​រូបរាង។"
 
 #: wp-includes/rest-api.php:44
 msgid "Route must be specified."
-msgstr ""
+msgstr "ត្រូវតែ​បញ្ជាក់ Route។"
 
 #: wp-includes/rest-api.php:51
 msgid "Namespace must not start or end with a slash."
@@ -10280,11 +10280,11 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1167
 msgid "Limit result set to attachments of a particular media type."
-msgstr ""
+msgstr "កំណាត់ result set ទៅកាន់ឯកសារភ្ជាប់នៃប្រភេទរបស់មេឌាជាក់លាក់មួយ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1174
 msgid "Limit result set to attachments of a particular MIME type."
-msgstr ""
+msgstr "កំណត់ result set ជាឯកសារភ្ជាប់នៃប្រភេទ MIME ជាក់លាក់មួយ។"
 
 #. translators: %s: Required disk space in kilobytes.
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1297
@@ -10411,7 +10411,7 @@ msgstr "តំណទៅកាន់ការមើលជាមុននៃប្
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:376
 msgid "There is nothing to save. The autosave and the post content are the same."
-msgstr ""
+msgstr "ពុំមានអ្វីត្រូវរក្សាទុកនោះទេ។ មាតិកានេះដូចគ្នាទៅនឹងអ្វីដែលបានរក្សាទុកដោយស្វ័យប្រវត្តិរួចទៅហើយ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:74
 #: wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php:1391
@@ -10770,11 +10770,11 @@ msgstr "ចំណងជើងសម្រាប់កម្មបទ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:725
 msgid "Title for the object, as it exists in the database."
-msgstr ""
+msgstr "ចំណងជើងសម្រាប់ object ដូចដែលមានស្រាប់នៅក្នុងដេតាបេស។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:730
 msgid "HTML title for the object, transformed for display."
-msgstr ""
+msgstr "ចំណងជើងជា HTML នៃ object ត្រូវបានបម្លែងសម្រាប់ធ្វើការបង្ហាញ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:739
 #: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:253
@@ -10791,11 +10791,11 @@ msgstr ""
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:763
 msgid "A named status for the object."
-msgstr ""
+msgstr "ស្ថានភាពមួយដែលមានឈ្មោះសម្រាប់កម្មបទ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:771
 msgid "The ID for the parent of the object."
-msgstr ""
+msgstr "ID សម្រាប់ប្រភពនៃកម្មបទ។"
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php:779
 msgid "Text for the title attribute of the link element for this menu item."
@@ -12242,7 +12242,7 @@ msgstr "ទិសដៅ​អត្ថបទ"
 
 #: wp-includes/script-loader.php:558
 msgid "Toggle Editor Text Direction"
-msgstr ""
+msgstr "បិទ​បើក​ទិស​ដៅ​អត្ថបទ​ក្នុង​កម្មវិធី​កែ​សម្រួល"
 
 #: wp-includes/script-loader.php:561
 msgid "Close bold tag"
@@ -12296,13 +12296,13 @@ msgstr "បិទ​ស្លាក code"
 #. translators: Number of results found when using jQuery UI Autocomplete.
 #: wp-includes/script-loader.php:724
 msgid "1 result found. Use up and down arrow keys to navigate."
-msgstr ""
+msgstr "1លទ្ធផលបានរកឃើញ។ ប្រើសញ្ញាព្រួយឡើងលើចុះក្រោមដើម្បីមើល។"
 
 #. translators: %d: Number of results found when using jQuery UI Autocomplete.
 #: wp-includes/script-loader.php:726
 #, php-format
 msgid "%d results found. Use up and down arrow keys to navigate."
-msgstr ""
+msgstr "បាន​រក​ឃើញ %d លទ្ធផល។ ប្រើ​ព្រួញ​ឡើងលើ​និង​ចុះក្រោម ដើម្បី​មើល។"
 
 #: wp-includes/script-loader.php:727
 msgid "Item selected."
@@ -12519,7 +12519,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:852
 msgid "Upload"
-msgstr ""
+msgstr "ផ្ទុក​ឡើង"
 
 #: wp-includes/script-loader.php:909
 msgid "Download File"
@@ -12995,7 +12995,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-image.php:511
 #: wp-includes/widgets/class-wp-widget-text.php:515
 msgid "by"
-msgstr ""
+msgstr "ដោយ"
 
 #: wp-includes/script-loader.php:1338
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:286
@@ -13215,7 +13215,7 @@ msgstr "អាប់ដេត​ប្រភេទ​តំណ"
 
 #: wp-includes/taxonomy.php:155
 msgid "Add New Link Category"
-msgstr ""
+msgstr "បន្ថែម​ចំណាត់​ក្រុម​តំណ​ថ្មី"
 
 #: wp-includes/taxonomy.php:156
 msgid "New Link Category Name"
@@ -13699,7 +13699,7 @@ msgstr "អំពី​"
 #: wp-includes/theme.php:2382
 msgctxt "Theme starter content"
 msgid "You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe."
-msgstr ""
+msgstr "អ្នកអាចជាអ្នកបុិនប្រសព្វដែលចង់បង្ហាញពីខ្លួនអ្នក និងការងាររបស់អ្នកនៅទីនេះ ឬក៏ប្រហែលជាអ្នកជំនួញដែលមានបេសកកម្មសម្រាប់បរិយាយ។"
 
 #: wp-includes/theme.php:2386
 msgctxt "Theme starter content"
@@ -14780,7 +14780,7 @@ msgstr "កែសម្រួលអូឌីយ៉ូ"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:160
 msgid "Replace Audio"
-msgstr "ជំនួសអូឌីយ៉ូ"
+msgstr "ជំនួស​សំឡេង"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:169
 msgid "Add Audio"
@@ -14818,7 +14818,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:248
 msgid "Audio Details"
-msgstr ""
+msgstr "លម្អិត​ពី​សំឡេង"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #, php-format
@@ -14875,7 +14875,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:216
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:320
 msgid "Edit Gallery"
-msgstr ""
+msgstr "កែប្រែ​វិចិត្រសាល"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:225
 msgid "Add Images"
@@ -14888,7 +14888,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:274
 msgid "Create Gallery"
-msgstr ""
+msgstr "បង្កើត​វិចិត្រសាល"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
@@ -14903,7 +14903,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:277
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:321
 msgid "Add to Gallery"
-msgstr ""
+msgstr "បន្ថែម​ទៅ​វិចិត្រសាល"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
@@ -14951,7 +14951,7 @@ msgstr "មិនអាចមើលមេឌាដោយសារតែកំហ
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:409
 msgid "Replace Image"
-msgstr "ជំនួសរូបភាព"
+msgstr "ជំនួស​រូបភាព"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:418
 msgid "Link to:"
@@ -14970,7 +14970,7 @@ msgstr "កែសម្រួលរូបភាព"
 #: wp-includes/widgets/class-wp-widget-media-image.php:499
 #: wp-includes/widgets/class-wp-widget-text.php:505
 msgid "Image Details"
-msgstr ""
+msgstr "លម្អិត​ពី​រូបភាព"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:501
 #: wp-includes/widgets/class-wp-widget-media-video.php:290
@@ -15008,7 +15008,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:197
 msgid "Replace Video"
-msgstr ""
+msgstr "ជំនួស​វីដេអូ"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:206
 msgid "Add Video"
@@ -15038,11 +15038,11 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:291
 msgid "Add Subtitles"
-msgstr ""
+msgstr "បន្ថែម​អក្សរ​រត់​ពី​ក្រោម"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:294
 msgid "Video Details"
-msgstr ""
+msgstr "លម្អិត​ពី​វីដេអូ"
 
 #: wp-includes/widgets/class-wp-widget-media.php:138
 msgid "Attachment post ID"
@@ -15543,7 +15543,7 @@ msgstr "សកម្មភាព​នេះ​ត្រូវ​បាន​ប
 
 #: wp-mail.php:42
 msgid "Slow down cowboy, no need to check for new mails so often!"
-msgstr ""
+msgstr "កុំ​លឿន​ពេក! អ្នក​មិន​ត្រូវ​ពិនិត្យ​រក​មើល​អ៊ីមែល​ថ្មីៗ​ញឹកញាប់​ពេក​ទេ!"
 
 #: wp-mail.php:65
 msgid "There does not seem to be any new mail."
@@ -15597,11 +15597,11 @@ msgstr "ត្រូវ​តែ​យ៉ាង​តិច 4 តួ, ប្រ�
 
 #: wp-signup.php:154
 msgid "Site Title:"
-msgstr ""
+msgstr "ឈ្មោះ​វេបសាយ:"
 
 #: wp-signup.php:172
 msgid "Site Language:"
-msgstr ""
+msgstr "ភាសា​វេបសាយ៖"
 
 #: wp-signup.php:212
 msgid "Privacy:"
@@ -15625,7 +15625,7 @@ msgstr ""
 
 #: wp-signup.php:284
 msgid "Email&nbsp;Address:"
-msgstr ""
+msgstr "អាសយដ្ឋាន&nbsp;អ៊ីមែល:"
 
 #: wp-signup.php:293
 msgid "Your registration email is sent to this address. (Double-check your email address before continuing.)"
@@ -15704,7 +15704,7 @@ msgstr "ប៉ុន្តែ មុន​ពេល​អ្នក​ចាប�
 #: wp-signup.php:866
 #, php-format
 msgid "Check your inbox at %s and click the link given."
-msgstr ""
+msgstr "ពិនិត្យ​មើល​ប្រអប់​សំបុត្រ​របស់​អ្នក​នៅ %s ហើយ​ចុច​តំណ​ដែល​មាន​នៅ​ក្នុង​នោះ។"
 
 #: wp-signup.php:711
 msgid "If you do not activate your username within two days, you will have to sign up again."

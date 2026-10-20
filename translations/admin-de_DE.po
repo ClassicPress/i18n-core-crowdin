@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-03-04 23:10\n"
+"PO-Revision-Date: 2026-10-20 17:24\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -151,7 +151,7 @@ msgstr "Zur allgemeinen Diskussion über ClassicPress, <a href=\"%1$s\"><strong>
 #: wp-admin/about.php:125
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Wenn du weitere Hilfe benötigst, schau in unsere <a href=\"%1$s\"><strong>Dokumentation</strong></a>. Wenn deine Frage dort nicht beantwortet ist, starte eine Anfrage im <a href=\"%2$s\"><strong>Supportforum</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:135
@@ -1628,7 +1628,7 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/edit-media/\">Doku
 
 #: wp-admin/edit-form-advanced.php:360
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
-msgstr "Du kannst Mediendateien (Bilder, Audio, Dokumente, etc.) hochladen und einfügen, indem du den &#8222;Medien hinzufügen&#8220;-Button klickst. Du kannst die Bilder aus der Mediathek wählen, worin schon bereits hochgeladene Bilder abgelegt wurden, oder neue Medien hochladen. Um eine Bildergalerie zu erstellen, wählst du die Bilder aus, die erscheinen sollen und klickst auf &#8222;Neue Galerie erstellen&#8220;."
+msgstr "Du kannst Mediendateien (Bilder, Audio, Dokumente, etc.) hochladen und einfügen, indem du den Button &#8220;Medien hinzufügen&#8221; klickst. Du kannst die Bilder aus der Mediathek wählen, in der bereits hochgeladene Bilder abgelegt wurden, oder neue Medien hochladen. Um eine Bildergalerie zu erstellen, wählst du dafür die Bilder aus und klickst auf &#8220;Neue Galerie erstellen&#8221;."
 
 #: wp-admin/edit-form-advanced.php:361
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://wordpress.org/documentation/article/embeds/\">Learn more about embeds</a>."
@@ -1944,7 +1944,7 @@ msgstr "XFN steht für <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</
 
 #: wp-admin/edit-link-form.php:76
 msgid "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Documentation on Creating Links</a>"
-msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Dokumentation zu Links erstellen (engl.)</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Links_Add_New_Screen\">Dokumentation zur Erstellung von Links (engl.)</a>"
 
 #. translators: Add new links.
 #: wp-admin/edit-link-form.php:90
@@ -2135,7 +2135,7 @@ msgstr "Wenn du eine neue Kategorie anlegst, musst du folgende Eingabefelder aus
 
 #: wp-admin/edit-tags.php:277
 msgid "When adding a new tag on this screen, you&#8217;ll fill in the following fields:"
-msgstr "Wenn du neue Schlagwörter erstellen willst, musst du folgende Eingaben tätigen:"
+msgstr "Wenn du neue Schlagwörter erstellen willst, musst du folgende Eingabefelder ausfüllen:"
 
 #: wp-admin/edit-tags.php:281
 msgid "<strong>Name</strong> &mdash; The name is how it appears on your site."
@@ -14398,7 +14398,7 @@ msgstr "<strong>Aktivität</strong> &mdash; Zeigt anstehende, geplante und vor k
 
 #: wp-admin/index.php:87
 msgid "<strong>Quick Draft</strong> &mdash; Allows you to create a new post and save it as a draft. Also displays links to the 3 most recent draft posts you've started."
-msgstr "<strong>Schnellentwurf</strong> &mdash; Erlaubt Ihnen einen neuen Beitrag zu erstellen und ihn als Entwurf zu speichern. Zeigt auch Links zu den 3 zuletzt gestarteten Entwurfsbeiträgen an."
+msgstr "<strong>Schnellentwurf</strong> &mdash; erlaubt Ihnen einen neuen Beitrag zu erstellen und als Entwurf zu speichern. Zeigt auch Links zu den drei letzten Entwurfsbeiträgen an."
 
 #. translators: %s: ClassicPress Planet URL.
 #: wp-admin/index.php:92
@@ -15263,7 +15263,7 @@ msgstr "Um ein Menü zu bearbeiten, das bereits einer Position im Theme zugeordn
 
 #: wp-admin/nav-menus.php:729
 msgid "To add a new menu instead of assigning an existing one, <strong>click the &#8217;Use new menu&#8217; link</strong>. Your new menu will be automatically assigned to that theme location"
-msgstr "Um ein neues Menü zu erstellen, anstatt ein bestehendes zuzuordnen, klicke auf den Link <strong>Neues Menü verwenden</strong>. Dadurch wird dann dieses neue Menü automatisch dieser Position im Theme zugeordnet."
+msgstr "Um ein neues Menü zu erstellen, anstatt ein bestehendes zuzuordnen, klicke auf den Link <strong>Neues Menü verwenden</strong>. Dadurch wird dieses neue Menü automatisch dieser Position im Theme zugeordnet."
 
 #: wp-admin/nav-menus.php:742
 msgid "<a href=\"https://wordpress.org/documentation/article/appearance-menus-screen/\">Documentation on Menus</a>"
@@ -15478,7 +15478,7 @@ msgstr "Erlaube Linkbenachrichtigungen von anderen Blogs (Pingbacks und Trackbac
 
 #: wp-admin/options-discussion.php:64
 msgid "Allow people to submit comments on new posts"
-msgstr "Erlaube Leuten Kommentare zu neuen Beiträgen einzureichen"
+msgstr "Erlaube Kommentare zu neuen Beiträgen"
 
 #: wp-admin/options-discussion.php:66
 msgid "Individual posts may override these settings. Changes here will only be applied to new posts."
@@ -17190,7 +17190,7 @@ msgstr ""
 #: wp-admin/plugins.php:554
 #, php-format
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Wenn du mehr Plugins zur Auswahl möchtest, klicke auf den Button &#8220;Hinzufügen&#8221;, um im <a href=\"%s\">ClassicPress Plugin-Verzeichnis</a> zu stöbern oder nach weiteren Plugins zu suchen. Plugins im ClassicPress-Verzeichnis werden von Drittanbietern entworfen und entwickelt und sind kompatibel mit der Lizenz, die auch ClassicPress nutzt. Oh, und sie sind frei!"
 
 #: wp-admin/plugins.php:562
 msgid "Troubleshooting"
@@ -18222,7 +18222,7 @@ msgstr ""
 #: wp-admin/themes.php:161
 #, php-format
 msgid "If you would like to see more themes to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional themes from the <a href=\"%s\">WordPress Theme Directory</a>. Themes in the WordPress Theme Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Wenn du mehr Themes zur Auswahl möchtest, klicke auf den Button &#8220;Hinzufügen&#8221;, um im <a href=\"%s\">ClassicPress Theme-Verzeichnis</a> zu stöbern oder nach weiteren Themes zu suchen. Themes im ClassicPress-Verzeichnis werden von Drittanbietern entworfen und entwickelt und sind kompatibel mit der Lizenz, die auch ClassicPress nutzt. Oh, und sie sind frei!"
 
 #: wp-admin/themes.php:169
 msgid "Adding Themes"
@@ -18234,7 +18234,7 @@ msgstr "Klicke auf oder fahre mit der Maus über ein beliebiges Theme und klicke
 
 #: wp-admin/themes.php:179
 msgid "The theme being previewed is fully interactive &mdash; navigate to different pages to see how the theme handles posts, archives, and other page templates. The settings may differ depending on what theme features the theme being previewed supports. To accept the new settings and activate the theme all in one step, click the Activate &amp; Publish button above the menu."
-msgstr "Das angezeigte Theme ist vollständig interaktiv &mdash; zu verschiedenen Seiten navigieren um zu sehen, wie das Theme mit Beiträgen umgeht, und andere Seitenvorlagen. Die Einstellungen können unterschiedlich sein, je nachdem, welche Themes die Vorschau des Themes unterstützt. Um die neuen Einstellungen zu akzeptieren und das Theme in einem Schritt zu aktivieren, klicken Sie auf die Schaltfläche &amp; Veröffentlichung aktivieren oberhalb des Menüs."
+msgstr "DIe Vorschau des Theme ist vollständig interaktiv &mdash; rufe verschiedene Seiten auf, um zu sehen, wie das Theme mit Beiträgen, Archiven und anderen Vorlagen umgeht. Die angezeigten Ergebnisse können abweichen, je nachdem, wie das Theme die Vorschau unterstützt. Um die neuen Einstellungen zu akzeptieren und das Theme in einem Schritt zu aktivieren, klicke auf die Schaltfläche &amp; Veröffentlichung aktivieren oberhalb des Menüs."
 
 #: wp-admin/themes.php:180
 msgid "When previewing on smaller monitors, you can use the collapse icon at the bottom of the left-hand pane. This will hide the pane, giving you more room to preview your site in the new theme. To bring the pane back, click on the collapse icon again."
@@ -19611,7 +19611,7 @@ msgstr "Diese Übersichtsseite zeigt alle Benutzer deiner Website an. Jeder Benu
 
 #: wp-admin/users.php:36
 msgid "To add a new user for your site, click the Add New button at the top of the screen or Add New in the Users menu section."
-msgstr "Um einen neuen Benutzer anzulegen, klicke auf den Button &#8222;Neu hinzufügen&#8220; in dieser Seite oder im Menü unter Benutzer."
+msgstr "Um einen neuen Benutzer anzulegen, klicke auf den Button &#8222;Neu hinzufügen&#8220; oben auf dieser Seite oder im Menü im Bereich Benutzer."
 
 #: wp-admin/users.php:44
 msgid "You can customize the display of this screen in a number of ways:"

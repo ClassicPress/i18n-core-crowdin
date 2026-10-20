@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-03-04 16:45\n"
+"PO-Revision-Date: 2026-10-20 17:24\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3545,7 +3545,7 @@ msgstr "Handler einbetten"
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "SMTP-Fehler: Authentifizierung fehlgeschlagen."
 
 #. translators: 1: mail.add_x_header. 2: php.ini
 #: wp-includes/class-wp-phpmailer.php:44
@@ -3555,40 +3555,40 @@ msgstr ""
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "SMTP Fehler: Konnte keine Verbindung zum SMTP-Host herstellen."
 
 #: wp-includes/class-wp-phpmailer.php:49
 msgid "SMTP Error: data not accepted."
-msgstr ""
+msgstr "SMTP Fehler: Daten wurden nicht akzeptiert."
 
 #: wp-includes/class-wp-phpmailer.php:50
 msgid "Message body empty"
-msgstr ""
+msgstr "Inhalt der Nachricht ist leer"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:52
 msgid "Unknown encoding: "
-msgstr ""
+msgstr "Unbekannte Kodierung: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr ""
+msgstr "Konnte nicht ausgeführt werden:"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
 msgid "Extension missing: "
-msgstr ""
+msgstr "Erweiterung fehlt: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:58
 msgid "Could not access file: "
-msgstr ""
+msgstr "Konnte nicht auf Datei zugreifen: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:60
 msgid "File Error: Could not open file: "
-msgstr ""
+msgstr "Dateifehler: Datei konnte nicht geöffnet werden: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
@@ -4025,13 +4025,13 @@ msgstr "[%s] Deine Seite erlebt ein technisches Problem"
 #: wp-includes/class-wp-recovery-mode-email-service.php:280
 #, php-format
 msgid "In this case, ClassicPress caught an error with one of your plugins, %s."
-msgstr "In diesem Fall hat ClassicPress einen Fehler mit einem deiner Plugins %s entdeckt."
+msgstr "In diesem Fall hat ClassicPress einen Fehler mit einem deiner Plugins entdeckt, %s."
 
 #. translators: %s: Theme name.
 #: wp-includes/class-wp-recovery-mode-email-service.php:286
 #, php-format
 msgid "In this case, ClassicPress caught an error with your theme, %s."
-msgstr "In diesem Fall hat ClassicPress einen Fehler mit deinem Theme %s entdeckt."
+msgstr "In diesem Fall hat ClassicPress einen Fehler mit deinem Theme entdeckt, %s."
 
 #. translators: %s: Current ClassicPress version number.
 #: wp-includes/class-wp-recovery-mode-email-service.php:352
@@ -4075,7 +4075,7 @@ msgstr "Wiederherstellungsschlüssel ist abgelaufen."
 
 #: wp-includes/class-wp-recovery-mode.php:173
 msgid "Error not caused by a plugin or theme."
-msgstr "Fehler nicht durch ein Plugin oder Theme verursacht."
+msgstr "Der Fehler wurde nicht durch ein Plugin oder Theme verursacht."
 
 #: wp-includes/class-wp-recovery-mode.php:178
 msgid "Error occurred on a non-protected endpoint."
@@ -7107,7 +7107,7 @@ msgstr "%1$s akzeptiert nur einen nicht-leeren Pfadzeichen, erhalten %2$s."
 #: wp-includes/functions.php:8723
 #, php-format
 msgid "The %s key must be a string without spaces."
-msgstr ""
+msgstr "Der %s Schlüssel muss eine Zeichenkette ohne Leerzeichen sein."
 
 #. translators: 1: wp_enqueue_scripts, 2: admin_enqueue_scripts, 3: login_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:50
@@ -8318,7 +8318,7 @@ msgstr "Als App-Icon"
 #: wp-includes/media.php:2004
 #: wp-includes/media.php:5741
 msgid "An image should not be lazy-loaded and marked as high priority at the same time."
-msgstr ""
+msgstr "Ein Bild sollte nicht gleichzeitig als nachrangig geladen werden und mit hoher Priorität markiert werden."
 
 #: wp-includes/media.php:3081
 msgid "Genre"
@@ -8752,14 +8752,14 @@ msgstr "Ungültige Menü-ID."
 #: wp-includes/object-relationships.php:355
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 1 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() erwartet Parameter 1 als positive Ganzzahl; %s angegeben."
 
 #. translators: %s: String, 0, object, or array.
 #: wp-includes/object-relationships.php:86
 #: wp-includes/object-relationships.php:373
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 4 to a positive integer; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() erwartet Parameter 4 als positive Ganzzahl; %s angegeben."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:108
@@ -8767,7 +8767,7 @@ msgstr ""
 #: wp-includes/object-relationships.php:395
 #, php-format
 msgid "cp_add_object_relationship() expects parameter 2 to be one of %s; %s given."
-msgstr ""
+msgstr "cp_add_object_relationship() erwartet, dass Parameter 2 einer von %s ist; %s angegeben."
 
 #. translators: 1: List of recognized relationship objects, 2: Integer, object, or array.
 #: wp-includes/object-relationships.php:126
@@ -9233,7 +9233,7 @@ msgstr "Startseite"
 
 #: wp-includes/post-template.php:1778
 msgid "Invalid password."
-msgstr ""
+msgstr "Ungültiges Passwort."
 
 #: wp-includes/post-template.php:1785
 msgid "This content is password protected. To view it please enter your password below:"
@@ -9312,7 +9312,7 @@ msgstr "Anhang-Seite anschauen"
 
 #: wp-includes/post.php:80
 msgid "View Media File"
-msgstr ""
+msgstr "Mediendatei ansehen"
 
 #: wp-includes/post.php:81
 msgid "Attachment Attributes"
@@ -13362,7 +13362,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr ""
+msgstr "Bneutzer"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
@@ -14188,7 +14188,7 @@ msgstr "[%s] Passwort zurücksetzen"
 
 #: wp-includes/user.php:3278
 msgid "<strong>Error:</strong> The email could not be sent. The site may not be correctly configured to send emails."
-msgstr ""
+msgstr "<strong>Fehler:</strong> Die E-Mail konnte nicht gesendet werden. Möglicherweise ist die Seite nicht korrekt konfiguriert, um E-Mails zu senden."
 
 #: wp-includes/user.php:3342
 msgid "<strong>Error:</strong> Please enter a username."

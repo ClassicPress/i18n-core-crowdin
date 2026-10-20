@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2025-11-19T16:56:15+00:00\n"
 "X-Generator: WP-CLI 2.12.0\n"
-"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n==2 ? 1 : 2);\n"
 "X-Crowdin-Project: 485292edd2bb12fd433f184daea7ce95\n"
 "X-Crowdin-Project-ID: 1\n"
 "X-Crowdin-Language: he\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 38\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-11-20 00:04\n"
+"PO-Revision-Date: 2026-10-12 20:21\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -54,7 +54,6 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "הכל <span class=\"count\">(%s)</span>"
 msgstr[1] "הכל <span class=\"count\">(%s)</span>"
 msgstr[2] "הכל <span class=\"count\">(%s)</span>"
-msgstr[3] "הכל <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:228
@@ -64,7 +63,6 @@ msgid_plural "Public <span class=\"count\">(%s)</span>"
 msgstr[0] "ציבורי <span class=\"count\">(%s)</span>"
 msgstr[1] "ציבורי <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:234
@@ -74,7 +72,6 @@ msgid_plural "Archived <span class=\"count\">(%s)</span>"
 msgstr[0] "אורכב <span class=\"count\">(%s)</span>"
 msgstr[1] "אורכב <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:240
@@ -84,7 +81,6 @@ msgid_plural "Mature <span class=\"count\">(%s)</span>"
 msgstr[0] "ותיק <span class=\"count\">(%s)</span>"
 msgstr[1] "ותיק <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:246
@@ -95,7 +91,6 @@ msgid_plural "Spam <span class=\"count\">(%s)</span>"
 msgstr[0] "תגובות זבל <span class=\"count\">(%s)</span>"
 msgstr[1] "תגובות זבל <span class=\"count\">(%s)</span>"
 msgstr[2] "תגובות זבל <span class=\"count\">(%s)</span>"
-msgstr[3] "תגובות זבל <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:253
@@ -105,7 +100,6 @@ msgid_plural "Deleted <span class=\"count\">(%s)</span>"
 msgstr[0] "נמחקו <span class=\"count\">(%s)</span>"
 msgstr[1] "נמחקו <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:285
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:724
@@ -274,7 +268,6 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "הכל <span class=\"count\">(%s)</span>"
 msgstr[1] "הכל <span class=\"count\">(%s)</span>"
 msgstr[2] "הכל <span class=\"count\">(%s)</span>"
-msgstr[3] "הכל <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:387
@@ -285,7 +278,6 @@ msgid_plural "Enabled <span class=\"count\">(%s)</span>"
 msgstr[0] "פעיל <span class=\"count\">(%s)</span>"
 msgstr[1] "פעילים <span class=\"count\">(%s)</span>"
 msgstr[2] "פעיל <span class=\"count\">(%s)</span>"
-msgstr[3] "פעיל <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:396
@@ -296,7 +288,6 @@ msgid_plural "Disabled <span class=\"count\">(%s)</span>"
 msgstr[0] "מכובה <span class=\"count\">(%s)</span>"
 msgstr[1] "מכובים <span class=\"count\">(%s)</span>"
 msgstr[2] "מכובה <span class=\"count\">(%s)</span>"
-msgstr[3] "מכובה <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:405
@@ -307,7 +298,6 @@ msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] "עדכונים זמינים <span class=\"count\">(%s)</span>"
 msgstr[1] "עדכונים זמינים <span class=\"count\">(%s)</span>"
 msgstr[2] "עדכונים זמינים <span class=\"count\">(%s)</span>"
-msgstr[3] "עדכונים זמינים <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:414
@@ -318,7 +308,6 @@ msgid_plural "Broken <span class=\"count\">(%s)</span>"
 msgstr[0] "לא תקין <span class=\"count\">(%s)</span>"
 msgstr[1] "לא תקין <span class=\"count\">(%s)</span>"
 msgstr[2] "לא תקין <span class=\"count\">(%s)</span>"
-msgstr[3] "לא תקין <span class=\"count\">(%s)</span>"
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:423
@@ -328,7 +317,6 @@ msgid_plural "Auto-updates Enabled <span class=\"count\">(%s)</span>"
 msgstr[0] "עדכונים אוטומטיים מופעלים <span class=\"count\">(%s)</span>"
 msgstr[1] "עדכונים אוטומטיים מופעלים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #. translators: %s: Number of themes.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:431
@@ -338,7 +326,6 @@ msgid_plural "Auto-updates Disabled <span class=\"count\">(%s)</span>"
 msgstr[0] "עדכונים אוטומטיים מושבתים <span class=\"count\">(%s)</span>"
 msgstr[1] "עדכונים אוטומטיים מושבתים <span class=\"count\">(%s)</span>"
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:467
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:586
@@ -482,7 +469,6 @@ msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "הכל <span class=\"count\">(%s)</span>"
 msgstr[1] "הכל <span class=\"count\">(%s)</span>"
 msgstr[2] "הכל <span class=\"count\">(%s)</span>"
-msgstr[3] "הכל <span class=\"count\">(%s)</span>"
 
 #. translators: Number of users.
 #: wp-admin/includes/class-wp-ms-users-list-table.php:159
@@ -492,7 +478,6 @@ msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
 msgstr[0] "משתמש על <span class=\"count\">(%s)</span>"
 msgstr[1] "משתמשי על <span class=\"count\">(%s)</span>"
 msgstr[2] "משתמשי על <span class=\"count\">(%s)</span>"
-msgstr[3] "משתמשי על <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:193
 #: wp-admin/network/site-users.php:337
@@ -1553,7 +1538,6 @@ msgid_plural "%s themes enabled."
 msgstr[0] "תבנית %s הופעלה."
 msgstr[1] "%s תבניות הופעלו."
 msgstr[2] "%s תבניות הופעלו."
-msgstr[3] "%s תבניות הופעלו."
 
 #: wp-admin/network/site-themes.php:209
 #: wp-admin/network/themes.php:385
@@ -1569,7 +1553,6 @@ msgid_plural "%s themes disabled."
 msgstr[0] "תבנית %s כובתה."
 msgstr[1] "%s תבניות כובו."
 msgstr[2] "%s תבניות כובו."
-msgstr[3] "%s תבניות כובו."
 
 #: wp-admin/network/site-themes.php:225
 #: wp-admin/network/themes.php:427
@@ -2005,7 +1988,6 @@ msgid_plural "%s themes deleted."
 msgstr[0] "תבנית %s נמחקה."
 msgstr[1] "%s תבניות נמחקו."
 msgstr[2] "%s תבניות נמחקו."
-msgstr[3] "%s תבניות נמחקו."
 
 #: wp-admin/network/themes.php:407
 msgid "Theme will be auto-updated."
@@ -2019,7 +2001,6 @@ msgid_plural "%s themes will be auto-updated."
 msgstr[0] "תבנית %s תעודכן באופן אוטומטי."
 msgstr[1] "%s תבניות יעודכנו באופן אוטומטי."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-admin/network/themes.php:418
 msgid "Theme will no longer be auto-updated."
@@ -2033,7 +2014,6 @@ msgid_plural "%s themes will no longer be auto-updated."
 msgstr[0] "תבנית %s לא תעודכן באופן אוטומטי."
 msgstr[1] "%s תבניות לא יעודכנו באופן אוטומטי."
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-admin/network/themes.php:430
 msgid "You cannot delete a theme while it is active on the main site."
@@ -2301,7 +2281,6 @@ msgid_plural "Site name must be at least %s characters."
 msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
-msgstr[3] ""
 
 #: wp-includes/ms-functions.php:672
 msgid "Sorry, you may not use that site name."

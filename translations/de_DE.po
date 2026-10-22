@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-10-20 17:24\n"
+"PO-Revision-Date: 2026-10-22 19:14\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5325,7 +5325,7 @@ msgstr "<strong>FEHLER</strong>: ClassicPress %1$s benötigt mindestens MySQL %2
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:45
 msgid "Block Compatibility"
-msgstr "Blockkompatibilität"
+msgstr "Block-Kompatibilität"
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:46
 msgid "Plugins and themes using block functions."

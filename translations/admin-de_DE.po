@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-10-20 17:24\n"
+"PO-Revision-Date: 2026-10-22 19:14\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -17194,7 +17194,7 @@ msgstr "Wenn du mehr Plugins zur Auswahl möchtest, klicke auf den Button &#8220
 
 #: wp-admin/plugins.php:562
 msgid "Troubleshooting"
-msgstr "Problembehandlung"
+msgstr "Fehlerbehebung"
 
 #: wp-admin/plugins.php:564
 msgid "Most of the time, plugins play nicely with the core of ClassicPress and with other plugins. Sometimes, though, a plugin&#8217;s code will get in the way of another plugin, causing compatibility issues. If your site starts doing strange things, this may be the problem. Try deactivating all your plugins and re-activating them in various combinations until you isolate which one(s) caused the issue."

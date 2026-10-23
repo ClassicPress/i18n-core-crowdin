@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-10-22 19:14\n"
+"PO-Revision-Date: 2026-10-23 01:13\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -2028,7 +2028,7 @@ msgstr "Keine"
 #: wp-admin/edit-tag-form.php:197
 #: wp-admin/edit-tags.php:504
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
-msgstr "Kategorien können, im Gegensatz zu Schlagwörtern, hierarchisch angeordnet werden. Du kannst z.Bsp. eine Kategorie Musik anlegen, welche die Unterkategorien Schlager und Jazz enthält."
+msgstr "Kategorien können im Gegensatz zu Schlagwörtern hierarchisch angeordnet werden. Du kannst z. B. eine Kategorie Musik anlegen, die die Unterkategorien Schlager und Jazz enthält."
 
 #: wp-admin/edit-tag-form.php:304
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:30
@@ -15383,7 +15383,7 @@ msgstr "Menü speichern"
 
 #: wp-admin/nav-menus.php:1085
 msgid "Edit your default menu by adding or removing items. Drag the items into the order you prefer. Click Create Menu to save your changes."
-msgstr "Bearbeiten Sie Ihr Standardmenü, indem Sie Elemente hinzufügen oder entfernen. Ziehen Sie die Artikel in die gewünschte Reihenfolge. Klicken Sie auf Menü erstellen, um Ihre Änderungen zu speichern."
+msgstr "Bearbeite dein Standardmenü, indem Sie Elemente hinzufügen oder entfernen. Ziehen Sie die Artikel in die gewünschte Reihenfolge. Klicken Sie auf Menü erstellen, um Ihre Änderungen zu speichern."
 
 #: wp-admin/nav-menus.php:1087
 msgid "Drag the items into the order you prefer. Click the arrow on the left of the item to reveal additional configuration options."
@@ -16024,7 +16024,7 @@ msgstr ""
 
 #: wp-admin/options-general.php:681
 msgid "Link Manager enabled"
-msgstr ""
+msgstr "Link-Manager aktiviert"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:356
@@ -16365,7 +16365,7 @@ msgstr "Gebräuchliche Einstellungen"
 #: wp-admin/options-permalink.php:322
 #, php-format
 msgid "Select the permalink structure for your website. Including the %s tag makes links easy to understand, and can help your posts rank higher in search engines."
-msgstr "Wählen Sie die permalink-Struktur für Ihre Website. Das Einbinden des %s Tags macht Links leicht zu verstehen und kann Ihren Beiträgen helfen, die Rangliste in Suchmaschinen zu erhöhen."
+msgstr "Wähle die Permalink-Struktur für deine Website. Das Einbinden des %s Tags macht Links leichter verständlich und kann deinen Beiträgen helfen, die Rangliste in Suchmaschinen zu erhöhen."
 
 #: wp-admin/options-permalink.php:365
 msgid "Custom Structure"

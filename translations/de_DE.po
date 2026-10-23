@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-10-22 19:14\n"
+"PO-Revision-Date: 2026-10-23 01:13\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -26,7 +26,7 @@ msgstr "Eine Schlüssel-Wertabweichung wurde festgestellt. Bitte folge dem Link 
 #: wp-activate.php:30
 #: wp-activate.php:189
 msgid "An error occurred during the activation"
-msgstr "Ein Fehler ist während der Anmeldung aufgetreten"
+msgstr "Während der Aktivierung ist ein Fehler aufgetreten"
 
 #: wp-activate.php:148
 msgid "Activation Key Required"
@@ -44,7 +44,7 @@ msgstr "Aktivieren"
 #: wp-activate.php:164
 #: wp-activate.php:198
 msgid "Your account is now active!"
-msgstr "Dein Benutzerkonto ist nun aktiviert!"
+msgstr "Dein Konto ist jetzt aktiv!"
 
 #. translators: 1: Login URL, 2: Username, 3: User email address, 4: Lost password URL.
 #: wp-activate.php:170
@@ -1974,7 +1974,7 @@ msgstr "Quelltext"
 
 #: wp-includes/class-wp-editor.php:1172
 msgid "Font Family"
-msgstr "Schriftname"
+msgstr "Schriftfamilie"
 
 #: wp-includes/class-wp-editor.php:1173
 msgid "Font Sizes"
@@ -3551,7 +3551,7 @@ msgstr "SMTP-Fehler: Authentifizierung fehlgeschlagen."
 #: wp-includes/class-wp-phpmailer.php:44
 #, php-format
 msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
-msgstr ""
+msgstr "Ihre PHP-Version ist von einem Fehler betroffen, der zu beschädigten Nachrichten führen kann. Um es zu beheben, wechseln Sie zum Senden per SMTP, deaktivieren Sie die %1$s Option in Ihrer %2$s, oder wechseln Sie zu MacOS oder Linux, oder aktualisieren Sie Ihre PHP-Version."
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
@@ -3573,7 +3573,7 @@ msgstr "Unbekannte Kodierung: "
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr "Konnte nicht ausgeführt werden:"
+msgstr "Konnte nicht ausgeführt werden: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
@@ -3593,92 +3593,92 @@ msgstr "Dateifehler: Datei konnte nicht geöffnet werden: "
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
 msgid "The following From address failed: "
-msgstr ""
+msgstr "Die folgende Absenderadresse ist fehlerhaft: "
 
 #: wp-includes/class-wp-phpmailer.php:63
 msgid "Could not instantiate mail function."
-msgstr ""
+msgstr "Mail-Funktion konnte nicht instanziiert werden."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:65
 msgid "Invalid address: "
-msgstr ""
+msgstr "Ungültige Adresse: "
 
 #: wp-includes/class-wp-phpmailer.php:66
 msgid "Invalid header name or value"
-msgstr ""
+msgstr "Ungültiger Headername oder -wert"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:68
 msgid "Invalid hostentry: "
-msgstr ""
+msgstr "Ungültiger Hosteintrag: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:70
 msgid "Invalid host: "
-msgstr ""
+msgstr "Ungültiger Host: "
 
 #. translators: There is a space at the beginning.
 #: wp-includes/class-wp-phpmailer.php:72
 msgid " mailer is not supported."
-msgstr ""
+msgstr " Mailer wird nicht unterstützt."
 
 #: wp-includes/class-wp-phpmailer.php:73
 msgid "You must provide at least one recipient email address."
-msgstr ""
+msgstr "Du musst mindestens eine Empfänger-Adresse angeben."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:75
 msgid "SMTP Error: The following recipients failed: "
-msgstr ""
+msgstr "SMTP Fehler: Der Versand an folgende Empfänger ist fehlgeschlagen: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:77
 msgid "Signing Error: "
-msgstr ""
+msgstr "Signierfehler: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:79
 msgid "SMTP code: "
-msgstr ""
+msgstr "SMTP-Code: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:81
 msgid "Additional SMTP info: "
-msgstr ""
+msgstr "Zusätzliche SMTP-Info: "
 
 #: wp-includes/class-wp-phpmailer.php:82
 msgid "SMTP connect() failed."
-msgstr ""
+msgstr "SMTP connect() fehlgeschlagen."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:84
 msgid "Detail: "
-msgstr ""
+msgstr "Detail: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:86
 msgid "SMTP server error: "
-msgstr ""
+msgstr "SMTP-Server-Fehler: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:88
 msgid "Cannot set or reset variable: "
-msgstr ""
+msgstr "Variable kann nicht gesetzt oder zurückgesetzt werden: "
 
 #: wp-includes/class-wp-phpmailer.php:89
 msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
-msgstr ""
+msgstr "Der Server unterstützt SMTPUTF8 nicht zum Senden an Unicode-Adressen"
 
 #: wp-includes/class-wp-phpmailer.php:90
 msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
-msgstr ""
+msgstr "Es wird nicht empfohlen, vereinfachte Adressparser zu verwenden. Installieren Sie die PHP-IMAP-Erweiterung für das vollständige RFC822 Parsen."
 
 #. translators: %s: $useimap
 #: wp-includes/class-wp-phpmailer.php:92
 #, php-format
 msgid "Argument %s is deprecated"
-msgstr ""
+msgstr "Argument %s ist veraltet"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -4013,7 +4013,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "Ahoi!\n\n"
+"ClassicPress hat eine eingebaute Funktion, die erkennt, ob ein Plugin oder Theme einen fatalen Fehler auf Ihrer Seite verursacht und benachrichtigt Sie mit dieser automatisierten E-Mail.\n"
+"###CAUSE###\n"
+"Zuerst besuchen Sie Ihre Website (###SITEURL###) und überprüfen Sie alle sichtbaren Probleme. Als nächstes besuchen Sie die Seite, auf der der Fehler gefangen wurde (###PAGEURL###) und überprüfen Sie alle sichtbaren Probleme.\n\n"
+"###SUPPORT###\n\n"
+"Wenn Ihre Seite defekt erscheint und Sie auf Ihr Dashboard normal nicht zugreifen können, hat ClassicPress jetzt einen speziellen \"Recovery-Modus\". Dadurch kannst du dich sicher in dein Dashboard einloggen und weiter untersuchen.\n\n"
+"###LINK###\n\n"
+"Um deine Seite sicher zu halten, verfällt dieser Link in ###EXPIRES###. Machen Sie sich jedoch keine Sorgen: Ein neuer Link wird Ihnen per E-Mail zugesandt, wenn der Fehler nach Ablauf wieder auftritt.\n\n"
+"Wenn Sie Hilfe für dieses Problem suchen, werden Sie möglicherweise nach folgenden Informationen gefragt:\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -4095,11 +4105,11 @@ msgstr "Wiederherstellungsmodus konnte nicht beendet werden. Bitte versuche es s
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "Der notwendige ID-Key fehlt in dem Array zu den Abhängigkeiten"
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "Einträge im Array der Abhängigkeiten müssen entweder Strings oder Arrays mit Id-Schlüssel sein."
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
@@ -4111,13 +4121,13 @@ msgstr "Der %1$s Parameter muss ein Array sein. Um beliebige Daten an Skripte zu
 #: wp-includes/class-wp-scripts.php:805
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "Ungültige Strategie `%1$s` definiert für `%2$s` während der Skript-Registrierung."
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:817
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "Kann keine Strategie `%1$s` für das Skript `%2$s` angeben, da es ein Alias ist (es fehlt ein `src` Wert)."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -4160,7 +4170,7 @@ msgstr "Weise einen übergeordneten Begriff zu, um eine Hierarchie zu erstellen.
 
 #: wp-includes/class-wp-taxonomy.php:609
 msgid "The description is not prominent by default; however, some themes may show it."
-msgstr "Die Beschreibung wird nicht immer angezeigt. Bei dem ein oder anderen Theme mag sie angezeigt werden."
+msgstr "Die Beschreibung wird normalerweise nicht angezeigt, kann aber bei manchen Themes erscheinen."
 
 #: wp-includes/class-wp-taxonomy.php:612
 msgctxt "taxonomy general name"
@@ -5361,7 +5371,7 @@ msgstr "Erfahre mehr."
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr ""
+msgstr "Sie können diese Liste zurücksetzen, indem Sie die <a href=\"%s\">Blocke-Kompatibilität</a> auf \"An\" und wieder auf \"Fehlerbehebung\" schalten."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
@@ -5373,11 +5383,11 @@ msgstr "Themes in dieser Liste können Probleme haben."
 
 #: wp-includes/classicpress/class-cp-settings.php:96
 msgid "Failed to delete the file: "
-msgstr ""
+msgstr "Fehler beim Löschen der Datei: "
 
 #: wp-includes/classicpress/class-cp-settings.php:111
 msgid "Failed to copy object-cache.php to wp-content folder."
-msgstr ""
+msgstr "Fehler beim Kopieren von object-cache.php in den wp-content Ordner."
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
@@ -6584,7 +6594,7 @@ msgstr "Benutze stattdessen den %s Filter."
 #: wp-includes/feed.php:861
 #, php-format
 msgid "Error fetching feed %1$s: %2$s"
-msgstr ""
+msgstr "Fehler beim Abrufen des Feeds %1$s: %2$s"
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -7131,7 +7141,7 @@ msgstr "%1$s-Schlagwörter nicht an %2$s weitergeben."
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` parameter instead."
-msgstr ""
+msgstr "Verwende stattdessen den `$args` Parameter."
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -9760,7 +9770,7 @@ msgstr "Routen müssen angegeben werden."
 
 #: wp-includes/rest-api.php:51
 msgid "Namespace must not start or end with a slash."
-msgstr "Namensraum darf nicht mit einem Schrägstrich beginnen oder enden."
+msgstr "Der Namensraum darf nicht mit einem Schrägstrich beginnen oder enden."
 
 #. translators: %s: rest_api_init
 #: wp-includes/rest-api.php:59
@@ -9772,7 +9782,7 @@ msgstr "REST API Routen müssen in der %s Aktion registriert werden."
 #: wp-includes/rest-api.php:98
 #, php-format
 msgid "The REST API route definition for %1$s is missing the required %2$s argument. For REST API routes that are intended to be public, use %3$s as the permission callback."
-msgstr "Die REST API Routendefinition für %1$s fehlt das benötigte %2$s Argument. Für REST-API-Routen, die öffentlich sein sollen, verwenden Sie %3$s als Berechtigungsrückruf."
+msgstr "Der REST API Routendefinition für %1$s fehlt das benötigte %2$s Argument. Für REST-API-Routen, die öffentlich sein sollen, verwenden Sie %3$s als Berechtigungsrückruf."
 
 #. translators: 1: $args, 2: The REST API route being registered.
 #: wp-includes/rest-api.php:113
@@ -10417,7 +10427,7 @@ msgstr "Als Prozentsatz des Bildes, die Breite, auf die das Bild zuschneiden sol
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:1443
 msgid "As a percentage of the image, the height to crop the image to. DEPRECATED: Use `modifiers` instead."
-msgstr "Als Prozentsatz des Bildes, die Höhe auf die das Bild zuschneiden soll. DEPRECATED: Verwenden Sie stattdessen `modifiers`."
+msgstr "Als Prozentsatz des Bildes, die Höhe auf die das Bild zuschneiden soll. VERALTET/DEPRECATED: Verwenden Sie stattdessen `modifiers`."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:89
 #: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:115
@@ -12121,7 +12131,7 @@ msgstr "Anmeldename für den Benutzer."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1365
 msgid "Display name for the user."
-msgstr "Anzeige-Name für den Benutzer."
+msgstr "Anzeigename für den Benutzer."
 
 #: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1373
 msgid "First name for the user."
@@ -12478,31 +12488,31 @@ msgstr "Die URL der Datei wurde in die Zwischenablage kopiert"
 
 #: wp-includes/script-loader.php:827
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Drag & Drop Ihre Dateien oder <span class=\"filepond--label-action\">Durchsuchen</span>"
 
 #: wp-includes/script-loader.php:828
 msgid "Field contains invalid files"
-msgstr ""
+msgstr "Das Feld enthält ungültige Dateien"
 
 #: wp-includes/script-loader.php:829
 msgid "Waiting for size"
-msgstr ""
+msgstr "Wartet auf Größe"
 
 #: wp-includes/script-loader.php:830
 msgid "Size not available"
-msgstr ""
+msgstr "Größe nicht verfügbar"
 
 #: wp-includes/script-loader.php:831
 msgid "file in list"
-msgstr ""
+msgstr "Datei in Liste"
 
 #: wp-includes/script-loader.php:832
 msgid "files in list"
-msgstr ""
+msgstr "Dateien in der Liste"
 
 #: wp-includes/script-loader.php:833
 msgid "Loading"
-msgstr ""
+msgstr "Lädt"
 
 #: wp-includes/script-loader.php:834
 msgid "Added"
@@ -12510,7 +12520,7 @@ msgstr "Hinzugefügt"
 
 #: wp-includes/script-loader.php:835
 msgid "Error during load"
-msgstr ""
+msgstr "Fehler beim Laden"
 
 #: wp-includes/script-loader.php:836
 msgid "Removed"
@@ -12518,39 +12528,39 @@ msgstr "Entfernt"
 
 #: wp-includes/script-loader.php:837
 msgid "Error during remove"
-msgstr ""
+msgstr "Fehler beim Entfernen"
 
 #: wp-includes/script-loader.php:839
 msgid "Upload complete"
-msgstr ""
+msgstr "Upload abgeschlossen"
 
 #: wp-includes/script-loader.php:840
 msgid "Upload cancelled"
-msgstr ""
+msgstr "Upload abgebrochen"
 
 #: wp-includes/script-loader.php:841
 msgid "Error during upload"
-msgstr ""
+msgstr "Fehler beim Hochladen"
 
 #: wp-includes/script-loader.php:842
 msgid "Error during revert"
-msgstr ""
+msgstr "Fehler beim Zurücksetzen"
 
 #: wp-includes/script-loader.php:843
 msgid "tap to cancel"
-msgstr ""
+msgstr "Antippen, um abzubrechen"
 
 #: wp-includes/script-loader.php:844
 msgid "tap to retry"
-msgstr ""
+msgstr "Antippen, um es erneut zu versuchen"
 
 #: wp-includes/script-loader.php:845
 msgid "tap to undo"
-msgstr ""
+msgstr "Antippen, um rückgängig zu machen"
 
 #: wp-includes/script-loader.php:847
 msgid "Abort"
-msgstr ""
+msgstr "Abbrechen"
 
 #: wp-includes/script-loader.php:848
 #: wp-includes/script-loader.php:851
@@ -12563,7 +12573,7 @@ msgstr "Hochladen"
 
 #: wp-includes/script-loader.php:909
 msgid "Download File"
-msgstr ""
+msgstr "Datei herunterladen"
 
 #: wp-includes/script-loader.php:911
 #: wp-includes/theme.php:1661
@@ -12589,11 +12599,11 @@ msgstr "Live-Übertragung"
 
 #: wp-includes/script-loader.php:916
 msgid "Current time"
-msgstr ""
+msgstr "Aktuelle Zeit"
 
 #: wp-includes/script-loader.php:917
 msgid "Total duration"
-msgstr ""
+msgstr "Gesamtdauer"
 
 #: wp-includes/script-loader.php:918
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -13067,7 +13077,7 @@ msgstr "Hochladen fehlgeschlagen"
 
 #: wp-includes/script-loader.php:1343
 msgid "Upload aborted for"
-msgstr ""
+msgstr "Upload abgebrochen für"
 
 #: wp-includes/script-loader.php:1344
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
@@ -13358,43 +13368,43 @@ msgstr "&larr; Gehe zu Medientags"
 
 #: wp-includes/taxonomy.php:285
 msgid "User Groups"
-msgstr ""
+msgstr "Nutzergruppen"
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr "Bneutzer"
+msgstr "Nutzergruppe"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
-msgstr ""
+msgstr "Nutzergruppen suchen"
 
 #: wp-includes/taxonomy.php:289
 msgid "All User Groups"
-msgstr ""
+msgstr "Alle Nutzergruppen"
 
 #: wp-includes/taxonomy.php:290
 msgid "Edit User Group"
-msgstr ""
+msgstr "Nutzergruppe bearbeiten"
 
 #: wp-includes/taxonomy.php:291
 msgid "Update User Group"
-msgstr ""
+msgstr "Nutzergruppe aktualisieren"
 
 #: wp-includes/taxonomy.php:292
 msgid "Add New User Group"
-msgstr ""
+msgstr "Neue Nutzergruppe hinzufügen"
 
 #: wp-includes/taxonomy.php:293
 msgid "New User Group Name"
-msgstr ""
+msgstr "Neuer Name der Nutzergruppe"
 
 #: wp-includes/taxonomy.php:297
 msgid "&larr; Go to User Groups"
-msgstr ""
+msgstr "&larr; Gehe zu Nutzergruppen"
 
 #: wp-includes/taxonomy.php:298
 msgid "Filter by user group"
-msgstr ""
+msgstr "Nach Nutzergruppe filtern"
 
 #: wp-includes/taxonomy.php:585
 #: wp-includes/taxonomy.php:586
@@ -14555,7 +14565,7 @@ msgstr "Der Bestätigungsschlüssel ist für diese Anfrage über persönliche Da
 
 #: wp-includes/user.php:5038
 msgid "Invalid User ID."
-msgstr ""
+msgstr "Ungültige Nutzer-ID."
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -14619,7 +14629,7 @@ msgstr "Beitrags-Datum anzeigen?"
 
 #: wp-includes/widgets.php:2087
 msgid "2 items"
-msgstr ""
+msgstr "2 Elemente"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
@@ -14635,7 +14645,7 @@ msgstr "Letzte Seite"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
-msgstr ""
+msgstr "Details bearbeiten"
 
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303
@@ -14646,7 +14656,7 @@ msgstr "Erfahre, wie man den Zweck des Bildes beschreibt"
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets/class-wp-widget-media-image.php:549
 msgid ". Leave empty if the image is purely decorative."
-msgstr ". Leer lassen, wenn es sich um ein reines Schmuckbild handelt."
+msgstr ". Leer lassen, wenn das Bild rein dekorativ ist."
 
 #: wp-includes/widgets.php:2220
 msgid "Saved!"
@@ -14662,7 +14672,7 @@ msgstr "Taxonomie erfolgreich aktualisiert!"
 
 #: wp-includes/widgets.php:2303
 msgid "Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "Leer lassen, wenn das Bild rein dekorativ ist."
 
 #: wp-includes/widgets.php:2340
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
@@ -14882,7 +14892,7 @@ msgstr "Medien hinzufügen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:238
 msgid "Add to widget"
-msgstr ""
+msgstr "Zum Widget hinzufügen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:239
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
@@ -14922,7 +14932,7 @@ msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt d
 #: wp-includes/widgets/class-wp-widget-media-audio.php:253
 #: wp-includes/widgets/class-wp-widget-media-video.php:296
 msgid "No file exists at that URL"
-msgstr ""
+msgstr "Es existiert keine Datei unter dieser URL"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:260
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
@@ -14930,7 +14940,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-video.php:301
 #: wp-includes/widgets/class-wp-widget-text.php:495
 msgid "media items"
-msgstr ""
+msgstr "Medien-Elemente"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:297
 #: wp-includes/widgets/class-wp-widget-media-video.php:338
@@ -14977,7 +14987,7 @@ msgstr "Galerie erstellen"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
-msgstr ""
+msgstr "Galerie abbrechen"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:276
 #: wp-includes/widgets/class-wp-widget-media-image.php:428
@@ -14996,7 +15006,7 @@ msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
@@ -15004,27 +15014,27 @@ msgstr "3"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:343
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:344
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:345
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:346
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:347
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -15066,12 +15076,12 @@ msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt d
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
 #: wp-includes/widgets/class-wp-widget-text.php:503
 msgid "The current image has no alternative text. The file name is: "
-msgstr ""
+msgstr "Das aktuelle Bild hat keinen alternativen Text. Der Dateiname ist: "
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 #: wp-includes/widgets/class-wp-widget-text.php:506
 msgid "No file exists at the URL provided."
-msgstr ""
+msgstr "Es existiert keine Datei unter der angegebenen URL."
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
 msgid "Video"
@@ -15314,43 +15324,43 @@ msgstr "Text"
 
 #: wp-includes/widgets/class-wp-widget-text.php:472
 msgid "Cancel gallery"
-msgstr ""
+msgstr "Galerie abbrechen"
 
 #: wp-includes/widgets/class-wp-widget-text.php:473
 msgid "Cancel audio playlist"
-msgstr ""
+msgstr "Audio-Wiedergabeliste abbrechen"
 
 #: wp-includes/widgets/class-wp-widget-text.php:474
 msgid "Cancel video playlist"
-msgstr ""
+msgstr "Video-Wiedergabeliste abbrechen"
 
 #: wp-includes/widgets/class-wp-widget-text.php:496
 msgid "item selected"
-msgstr ""
+msgstr "Element ausgewählt"
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "items selected"
-msgstr ""
+msgstr "Elemente ausgewählt"
 
 #: wp-includes/widgets/class-wp-widget-text.php:500
 msgid "Wrong URL"
-msgstr ""
+msgstr "Falsche URL"
 
 #: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "Unsupported file type"
-msgstr ""
+msgstr "Nicht unterstützter Dateityp"
 
 #: wp-includes/widgets/class-wp-widget-text.php:511
 msgid "New filename"
-msgstr ""
+msgstr "Neuer Dateiname"
 
 #: wp-includes/widgets/class-wp-widget-text.php:512
 msgid "Invalid type"
-msgstr ""
+msgstr "Ungültiger Typ"
 
 #: wp-includes/widgets/class-wp-widget-text.php:513
 msgid "Check types"
-msgstr ""
+msgstr "Prüfe Typen"
 
 #: wp-includes/widgets/class-wp-widget-text.php:612
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -15926,11 +15936,11 @@ msgstr "Medienupload fehlgeschlagen. Wenn dies ein Foto oder ein großes Bild is
 
 #: wp-includes/js/dist/api-fetch.js:1821
 msgid "Unable to connect. Please check your Internet connection."
-msgstr ""
+msgstr "Verbindung nicht möglich. Bitte überprüfen Sie Ihre Internetverbindung."
 
 #: wp-includes/js/dist/api-fetch.js:1828
 msgid "Could not get a valid response from the server."
-msgstr ""
+msgstr "Konnte keine gültige Antwort vom Server erhalten."
 
 #: wp-includes/js/media-editor.js:630
 msgid "Could not set that as the thumbnail image. Try a different attachment."

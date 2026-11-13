@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 36\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-11-20 00:04\n"
+"PO-Revision-Date: 2026-10-20 17:24\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -18173,7 +18173,7 @@ msgstr "Klicke auf oder fahre mit der Maus über ein beliebiges Theme und klicke
 
 #: wp-admin/themes.php:179
 msgid "The theme being previewed is fully interactive &mdash; navigate to different pages to see how the theme handles posts, archives, and other page templates. The settings may differ depending on what theme features the theme being previewed supports. To accept the new settings and activate the theme all in one step, click the Activate &amp; Publish button above the menu."
-msgstr "Das angezeigte Theme ist vollständig interaktiv &mdash; zu verschiedenen Seiten navigieren um zu sehen, wie das Theme mit Beiträgen umgeht, und andere Seitenvorlagen. Die Einstellungen können unterschiedlich sein, je nachdem, welche Themes die Vorschau des Themes unterstützt. Um die neuen Einstellungen zu akzeptieren und das Theme in einem Schritt zu aktivieren, klicken Sie auf die Schaltfläche &amp; Veröffentlichung aktivieren oberhalb des Menüs."
+msgstr "Das angezeigte Theme ist vollständig interaktiv &mdash; zu verschiedenen Seiten navigieren um zu sehen, wie das Theme mit Beiträgen umgeht, und andere Seitenvorlagen. Die Einstellungen können unterschiedlich sein, je nachdem, welche Themes die VoBrschau des Themes unterstützt. Um die neuen Einstellungen zu akzeptieren und das Theme in einem Schritt zu aktivieren, klicken Sie auf die Schaltfläche &amp; Veröffentlichung aktivieren oberhalb des Menüs."
 
 #: wp-admin/themes.php:180
 msgid "When previewing on smaller monitors, you can use the collapse icon at the bottom of the left-hand pane. This will hide the pane, giving you more room to preview your site in the new theme. To bring the pane back, click on the collapse icon again."

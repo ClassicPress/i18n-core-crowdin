@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File-ID: 14\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-09-30 10:05\n"
+"PO-Revision-Date: 2026-10-20 17:23\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3150,7 +3150,7 @@ msgstr "ClassicPress ist auf dem neuesten Stand."
 
 #: wp-admin/includes/class-core-upgrader.php:30
 msgid "Another update was started but has not completed yet."
-msgstr ""
+msgstr "Eine weitere Aktualisierung wurde gestartet, ist aber noch nicht abgeschlossen."
 
 #: wp-admin/includes/class-core-upgrader.php:31
 #: wp-admin/includes/class-language-pack-upgrader.php:114
@@ -4531,7 +4531,7 @@ msgstr "Aktionen"
 #. translators: 1: site name, 2: site tagline.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:331
 msgid "%1$s &#8211; %2$s"
-msgstr ""
+msgstr "%1$s &#8211; %2$s"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:355
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:376
@@ -4813,7 +4813,7 @@ msgstr "Leistung"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:415
 msgctxt "Plugin installer group title"
 msgid "Social"
-msgstr ""
+msgstr "Soziale Netzwerke"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:416
 msgctxt "Plugin installer group title"
@@ -5530,15 +5530,15 @@ msgstr "Afrika"
 
 #: wp-admin/includes/continents-cities.php:13
 msgid "Abidjan"
-msgstr ""
+msgstr "Abidjan"
 
 #: wp-admin/includes/continents-cities.php:14
 msgid "Accra"
-msgstr ""
+msgstr "Akra"
 
 #: wp-admin/includes/continents-cities.php:15
 msgid "Addis Ababa"
-msgstr ""
+msgstr "Addis Abeba"
 
 #: wp-admin/includes/continents-cities.php:16
 msgid "Algiers"
@@ -5546,15 +5546,15 @@ msgstr "Algier"
 
 #: wp-admin/includes/continents-cities.php:17
 msgid "Asmara"
-msgstr ""
+msgstr "Asmara"
 
 #: wp-admin/includes/continents-cities.php:18
 msgid "Asmera"
-msgstr ""
+msgstr "Asmera"
 
 #: wp-admin/includes/continents-cities.php:19
 msgid "Bamako"
-msgstr ""
+msgstr "Bamako"
 
 #: wp-admin/includes/continents-cities.php:20
 msgid "Bangui"
@@ -5586,11 +5586,11 @@ msgstr "Kairo"
 
 #: wp-admin/includes/continents-cities.php:27
 msgid "Casablanca"
-msgstr ""
+msgstr "Casablanca"
 
 #: wp-admin/includes/continents-cities.php:28
 msgid "Ceuta"
-msgstr ""
+msgstr "Ceuta"
 
 #: wp-admin/includes/continents-cities.php:29
 msgid "Conakry"
@@ -5598,7 +5598,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:30
 msgid "Dakar"
-msgstr ""
+msgstr "Dakar"
 
 #: wp-admin/includes/continents-cities.php:31
 msgid "Dar es Salaam"
@@ -5630,7 +5630,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:38
 msgid "Johannesburg"
-msgstr ""
+msgstr "Johannesburg"
 
 #: wp-admin/includes/continents-cities.php:39
 msgid "Juba"
@@ -5654,7 +5654,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:44
 msgid "Lagos"
-msgstr ""
+msgstr "Lagos"
 
 #: wp-admin/includes/continents-cities.php:45
 msgid "Libreville"
@@ -5698,11 +5698,11 @@ msgstr "Mogadischu"
 
 #: wp-admin/includes/continents-cities.php:55
 msgid "Monrovia"
-msgstr ""
+msgstr "Monrowia"
 
 #: wp-admin/includes/continents-cities.php:56
 msgid "Nairobi"
-msgstr ""
+msgstr "Nairobi"
 
 #: wp-admin/includes/continents-cities.php:57
 msgid "Ndjamena"

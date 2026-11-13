@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 48\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-03-04 17:11\n"
+"PO-Revision-Date: 2026-10-22 19:14\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -368,7 +368,7 @@ msgstr "%s deaktivieren"
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:605
 #, php-format
 msgid "Network Disable %s"
-msgstr "%s netzwerkweit deaktivieren"
+msgstr "Netzwerk deaktivieren %s"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/class-wp-ms-themes-list-table.php:633

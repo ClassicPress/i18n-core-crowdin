@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-03-04 16:46\n"
+"PO-Revision-Date: 2026-06-11 16:54\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3537,140 +3537,140 @@ msgstr "嵌入内容处理器"
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "SMTP 错误：身份验证失败。"
 
 #. translators: 1: mail.add_x_header. 2: php.ini
 #: wp-includes/class-wp-phpmailer.php:44
 #, php-format
 msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
-msgstr ""
+msgstr "您正在使用的 PHP 版本有一个已知的故障，这可能导致产生损坏的邮件信息。要修复该故障，您可以选择切换到 SMTP，在 %2$s 中禁用 %1$s，切换至 macOS 或 Linux 操作系统，或升级您的 PHP 版本。"
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "SMTP 错误：无法连接到 SMTP 主机。"
 
 #: wp-includes/class-wp-phpmailer.php:49
 msgid "SMTP Error: data not accepted."
-msgstr ""
+msgstr "SMTP 错误：提供的数据被拒绝。"
 
 #: wp-includes/class-wp-phpmailer.php:50
 msgid "Message body empty"
-msgstr ""
+msgstr "邮件正文为空"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:52
 msgid "Unknown encoding: "
-msgstr ""
+msgstr "未知编码："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr ""
+msgstr "无法执行："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
 msgid "Extension missing: "
-msgstr ""
+msgstr "缺少扩展："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:58
 msgid "Could not access file: "
-msgstr ""
+msgstr "无法访问文件："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:60
 msgid "File Error: Could not open file: "
-msgstr ""
+msgstr "文件错误：无法打开文件："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
 msgid "The following From address failed: "
-msgstr ""
+msgstr "下列发件地址失败："
 
 #: wp-includes/class-wp-phpmailer.php:63
 msgid "Could not instantiate mail function."
-msgstr ""
+msgstr "无法初始化 mail 函数。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:65
 msgid "Invalid address: "
-msgstr ""
+msgstr "无效地址："
 
 #: wp-includes/class-wp-phpmailer.php:66
 msgid "Invalid header name or value"
-msgstr ""
+msgstr "无效的标头名称或内容"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:68
 msgid "Invalid hostentry: "
-msgstr ""
+msgstr "无效的主机条目："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:70
 msgid "Invalid host: "
-msgstr ""
+msgstr "无效的主机名："
 
 #. translators: There is a space at the beginning.
 #: wp-includes/class-wp-phpmailer.php:72
 msgid " mailer is not supported."
-msgstr ""
+msgstr " 发送程序不受支持。"
 
 #: wp-includes/class-wp-phpmailer.php:73
 msgid "You must provide at least one recipient email address."
-msgstr ""
+msgstr "你必须提供至少一个收件人地址。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:75
 msgid "SMTP Error: The following recipients failed: "
-msgstr ""
+msgstr "SMTP 错误：下列收件人失败："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:77
 msgid "Signing Error: "
-msgstr ""
+msgstr "签名错误："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:79
 msgid "SMTP code: "
-msgstr ""
+msgstr "SMTP 代码："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:81
 msgid "Additional SMTP info: "
-msgstr ""
+msgstr "更多 SMTP 信息："
 
 #: wp-includes/class-wp-phpmailer.php:82
 msgid "SMTP connect() failed."
-msgstr ""
+msgstr "SMTP connect() 失败。"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:84
 msgid "Detail: "
-msgstr ""
+msgstr "详细信息："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:86
 msgid "SMTP server error: "
-msgstr ""
+msgstr "SMTP 服务器错误："
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:88
 msgid "Cannot set or reset variable: "
-msgstr ""
+msgstr "无法设置或重设变量："
 
 #: wp-includes/class-wp-phpmailer.php:89
 msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
-msgstr ""
+msgstr "服务器不接受发送 Unicode 信息所需要的 SMTPUTF8 功能"
 
 #: wp-includes/class-wp-phpmailer.php:90
 msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
-msgstr ""
+msgstr "不建议使用内置的简单地址解析器。安装 PHP IMAP 扩展以使用完整的 RFC822 邮件地址解析。"
 
 #. translators: %s: $useimap
 #: wp-includes/class-wp-phpmailer.php:92
 #, php-format
 msgid "Argument %s is deprecated"
-msgstr ""
+msgstr "参数 %s 已被弃用"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -4005,7 +4005,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "您好：\n\n"
+"ClassicPress 内置了一个功能，可以自动检查您站点上是否有主题或插件导致了致命错误，并自动向您发送该电子邮件。\n"
+"###CAUSE###\n"
+"首先，访问您的站点（###SITEURL###）并检查任何可见的错误。然后，访问发生错误的页面（###PAGEURL###）并检查任何可见的错误。\n\n"
+"###SUPPORT###\n\n"
+"如果您的站点看上去不正常，并且您无法访问仪表盘，ClassicPress 现在提供了称为“恢复模式”的功能，允许您登录到仪表盘并进行进一步的排障。\n\n"
+"###LINK###\n\n"
+"为了保护您的站点，该链接将在以下时间后过期：###EXPIRES###。不必担心：当错误再度发生时，我们会向您发送新的链接。\n\n"
+"当您需要协助时，您可能会被要求提供以下信息：\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -5365,11 +5375,11 @@ msgstr "此列表中的主题可能遇到问题。"
 
 #: wp-includes/classicpress/class-cp-settings.php:96
 msgid "Failed to delete the file: "
-msgstr ""
+msgstr "删除文件失败："
 
 #: wp-includes/classicpress/class-cp-settings.php:111
 msgid "Failed to copy object-cache.php to wp-content folder."
-msgstr ""
+msgstr "将 object-cache.php 复制到 wp-content 时失败。"
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
@@ -6573,7 +6583,7 @@ msgstr "使用 %s 过滤器代替。"
 #: wp-includes/feed.php:861
 #, php-format
 msgid "Error fetching feed %1$s: %2$s"
-msgstr ""
+msgstr "获取 Feed %1$s 时发生错误：%2$s"
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -7112,7 +7122,7 @@ msgstr "不要将 %1$s 标签传递到 %2$s。"
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` parameter instead."
-msgstr ""
+msgstr "使用参数 `$args` 代替。"
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -15265,43 +15275,43 @@ msgstr "文本"
 
 #: wp-includes/widgets/class-wp-widget-text.php:472
 msgid "Cancel gallery"
-msgstr ""
+msgstr "取消相册"
 
 #: wp-includes/widgets/class-wp-widget-text.php:473
 msgid "Cancel audio playlist"
-msgstr ""
+msgstr "取消音频播放列表"
 
 #: wp-includes/widgets/class-wp-widget-text.php:474
 msgid "Cancel video playlist"
-msgstr ""
+msgstr "取消视频播放列表"
 
 #: wp-includes/widgets/class-wp-widget-text.php:496
 msgid "item selected"
-msgstr ""
+msgstr "项目已选择"
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "items selected"
-msgstr ""
+msgstr "项目已选择"
 
 #: wp-includes/widgets/class-wp-widget-text.php:500
 msgid "Wrong URL"
-msgstr ""
+msgstr "错误的 URL"
 
 #: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "Unsupported file type"
-msgstr ""
+msgstr "不支持的文件类型"
 
 #: wp-includes/widgets/class-wp-widget-text.php:511
 msgid "New filename"
-msgstr ""
+msgstr "新的文件名"
 
 #: wp-includes/widgets/class-wp-widget-text.php:512
 msgid "Invalid type"
-msgstr ""
+msgstr "无效类型"
 
 #: wp-includes/widgets/class-wp-widget-text.php:513
 msgid "Check types"
-msgstr ""
+msgstr "检查类型"
 
 #: wp-includes/widgets/class-wp-widget-text.php:612
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"

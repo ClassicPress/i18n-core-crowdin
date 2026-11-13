@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 46\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-03-04 23:11\n"
+"PO-Revision-Date: 2026-06-11 16:54\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -10125,7 +10125,7 @@ msgstr "我们很想让您了解一下 ClassicPress 目录。"
 #: wp-admin/includes/dashboard.php:1844
 #, php-format
 msgid "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
-msgstr ""
+msgstr "您现在可以在<a href=\"%1$s\" target=\"_blank\">%1$s</a>查看该目录。"
 
 #: wp-admin/includes/dashboard.php:1856
 #, php-format
@@ -10575,7 +10575,7 @@ msgstr "列出目录失败。"
 
 #: wp-admin/includes/file.php:1966
 msgid "Could not create the destination directory."
-msgstr ""
+msgstr "无法创建目标目录。"
 
 #: wp-admin/includes/file.php:2039
 msgid "The source and destination are the same."
@@ -15637,7 +15637,7 @@ msgstr "ClassicPress URL 和站点 URL 可以是相同的（example.com），也
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
-msgstr ""
+msgstr "如果您希望站点的访客可以自行注册账号，请勾选复选框。如果您希望由站点管理员手动注册新账号，则不要勾选。不管使用哪种方式，您都可以为新的账号设置默认角色。"
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -16532,19 +16532,19 @@ msgstr "当此设置生效时，在仪表盘的「一目了然」组件中将中
 #: wp-admin/options-reading.php:54
 #: wp-admin/options-reading.php:271
 msgid "Object cache"
-msgstr ""
+msgstr "对象缓存"
 
 #: wp-admin/options-reading.php:55
 msgid "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
-msgstr ""
+msgstr "<a href=\"site-health.php\">站点健康</a>工具建议您为您的站点配置对象缓存来减轻您数据库的压力，同时还有助于提升您站点的响应速度。如果您未安装任何对象缓存解决方案，您可以让 ClassicPress 帮助您配置，只需要勾选“对象缓存”旁的复选框并单击页面底部的保存更改按钮。"
 
 #: wp-admin/options-reading.php:56
 msgid "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
-msgstr ""
+msgstr "请注意对象缓存不是页面缓存。您或许同时还拥有页面缓存，这种情况下 ClassicPress 的对象缓存方案不会造成任何冲突。"
 
 #: wp-admin/options-reading.php:57
 msgid "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
-msgstr ""
+msgstr "此外，相较于页面缓存，对象缓存对于登录用户也是有效的。这使得该功能对于会员制网站和内部网站极为有用。"
 
 #: wp-admin/options-reading.php:63
 msgid "<a href=\"https://wordpress.org/documentation/article/settings-reading-screen/\">Documentation on Reading Settings</a>"
@@ -16627,23 +16627,23 @@ msgstr "您的主题决定了内容如何在浏览器中显示。<a href=\"%s\">
 #: wp-admin/options-reading.php:308
 #: wp-admin/options-reading.php:317
 msgid "Enable object caching"
-msgstr ""
+msgstr "启用对象缓存"
 
 #: wp-admin/options-reading.php:292
 msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
-msgstr ""
+msgstr "尚未启用 APCu PHP 扩展。如果您希望使用由 ClassicPress 提供的对象缓存方案，则必须启用该扩展。您或许需要询问您的托管服务提供商来协助您安装 APCu 扩展。"
 
 #: wp-admin/options-reading.php:301
 msgid "You have activated ClassicPress's object cache on this site."
-msgstr ""
+msgstr "您已成功在该站点上启用 ClassicPress 对象缓存。"
 
 #: wp-admin/options-reading.php:309
 msgid "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
-msgstr ""
+msgstr "该站点上已经配置了由其它插件或代码所提供的对象缓存。除非您禁用这些插件或代码，否则您将无法取消勾选该复选框。"
 
 #: wp-admin/options-reading.php:318
 msgid "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
-msgstr ""
+msgstr "您目前尚未为该站点配置任何对象缓存解决方案。勾选此复选框以启用 ClassicPress 对象缓存。"
 
 #: wp-admin/options-writing.php:17
 msgid "Writing Settings"
@@ -16987,12 +16987,12 @@ msgstr "浏览插件"
 #: wp-admin/plugin-install.php:155
 #, php-format
 msgid "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "您可以在 <a href=\"%s\" target=\"_blank\">ClassicPress 目录</a>中浏览其它插件。"
 
 #: wp-admin/plugin-install.php:167
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">立即安装</a> | ClassicPress 目录集成插件：在插件菜单中直接安装专为 ClassicPress 设计的插件。"
 
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
@@ -18019,12 +18019,12 @@ msgstr "<a href=\"https://wordpress.org/documentation/article/appearance-themes-
 #: wp-admin/theme-install.php:204
 #, php-format
 msgid "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "您可以在 <a href=\"%s\" target=\"_blank\">ClassicPress 目录</a>中浏览其它主题。"
 
 #: wp-admin/theme-install.php:216
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">立即安装</a> | ClassicPress 目录集成插件：在外观菜单中直接安装专为 ClassicPress 设计的主题。"
 
 #: wp-admin/theme-install.php:223
 msgid "The Theme Installer screen requires JavaScript."
@@ -18466,7 +18466,7 @@ msgstr "以下插件有可用的新版本。请检查您想要更新的版本，
 #: wp-admin/update-core.php:389
 #, php-format
 msgid "Compatible with ClassicPress %1$s (according to its author)."
-msgstr ""
+msgstr "与 ClassicPress %1$s 兼容（根据作者的说法）。"
 
 #: wp-admin/update-core.php:365
 #: wp-admin/update-core.php:391
@@ -18611,7 +18611,7 @@ msgstr "如何更新"
 
 #: wp-admin/update-core.php:887
 msgid "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/dashboard-updates-screen/\">文档：升级 ClassicPress</a>"
 
 #: wp-admin/update-core.php:900
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
@@ -18818,7 +18818,7 @@ msgstr "您可以在简单的网格或列表视图中查看您的媒体。可使
 
 #: wp-admin/upload.php:136
 msgid "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
-msgstr ""
+msgstr "要删除媒体项目，单击页面顶部的<strong>批量删除</strong>按钮。选择您希望删除的所有项目，然后单击<strong>永久删除</strong>。单击<strong>取消</strong>会带你返回媒体列表。"
 
 #: wp-admin/upload.php:143
 msgid "Attachment Details"

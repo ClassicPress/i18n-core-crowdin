@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 44\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-03-05 13:22\n"
+"PO-Revision-Date: 2026-11-16 14:16\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -9039,7 +9039,7 @@ msgstr "%s verwijderen"
 #: wp-includes/pluggable.php:2066
 #, php-format
 msgid "Spam it: %s"
-msgstr "%s als spam markeren"
+msgstr "Als spam markeren: %s"
 
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:2013

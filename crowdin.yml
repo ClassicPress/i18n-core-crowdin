@@ -1,0 +1,9 @@
+files:
+  - source: /en_US.pot
+    translation: /translations/%locale_with_underscore%.po
+  - source: /admin-en_US.pot
+    translation: /translations/admin-%locale_with_underscore%.po
+  - source: /admin-network-en_US.pot
+    translation: /translations/admin-network-%locale_with_underscore%.po
+  - source: /continents-cities-en_US.pot
+    translation: /translations/continents-cities-%locale_with_underscore%.po

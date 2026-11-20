@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 55\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-11-19 18:54\n"
+"PO-Revision-Date: 2026-11-20 00:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -19272,7 +19272,7 @@ msgstr ""
 #: wp-admin/upload.php:343
 #, php-format
 msgid "%s items"
-msgstr ""
+msgstr "%s elementos"
 
 #: wp-admin/upload.php:369
 msgid "of"

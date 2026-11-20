@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
-"PO-Revision-Date: 2026-11-19 18:53\n"
+"PO-Revision-Date: 2026-11-20 00:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5649,7 +5649,7 @@ msgstr "Seznam událostí cron nelze uložit."
 #: wp-includes/customize/class-wp-customize-background-image-control.php:135
 #: wp-includes/customize/class-wp-customize-background-image-control.php:139
 msgid "Select Image"
-msgstr ""
+msgstr "Zvolit obrázek"
 
 #: wp-includes/customize/class-wp-customize-background-image-control.php:106
 #: wp-includes/customize/class-wp-customize-background-image-control.php:112
@@ -12361,7 +12361,7 @@ msgstr ""
 #: wp-includes/script-loader.php:831
 #: wp-includes/script-loader.php:834
 msgid "Retry"
-msgstr ""
+msgstr "Opakovat"
 
 #: wp-includes/script-loader.php:835
 msgid "Upload"
@@ -12902,11 +12902,11 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
 #: wp-includes/widgets/class-wp-widget-text.php:519
 msgid "Error:"
-msgstr ""
+msgstr "Chyba:"
 
 #: wp-includes/script-loader.php:1217
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "Skrýt toto upozornění."
 
 #: wp-includes/script-loader.php:1218
 msgid "Tag successfully deleted."
@@ -12914,19 +12914,19 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1272
 msgid "Add New Theme"
-msgstr ""
+msgstr "Instalovat šablonu"
 
 #: wp-includes/script-loader.php:1273
 msgid "Search Themes"
-msgstr ""
+msgstr "Hledat šablony"
 
 #: wp-includes/script-loader.php:1274
 msgid "Search themes..."
-msgstr ""
+msgstr "Hledat šablony..."
 
 #: wp-includes/script-loader.php:1275
 msgid "Upload Theme"
-msgstr ""
+msgstr "Nahrát šablonu"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/script-loader.php:1279
@@ -12936,13 +12936,13 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1282
 msgid "Try Again"
-msgstr ""
+msgstr "Zkuste to prosím znovu"
 
 #. translators: %d: Number of themes.
 #: wp-includes/script-loader.php:1284
 #, php-format
 msgid "Number of Themes found: %d"
-msgstr ""
+msgstr "Počet nalezených šablon: %d"
 
 #: wp-includes/script-loader.php:1285
 msgid "No themes found. Try a different search."
@@ -12950,16 +12950,16 @@ msgstr "Nebyly nalezeny žádné šablony. Zkuste to znovu s nějakým dalším 
 
 #: wp-includes/script-loader.php:1286
 msgid "Collapse Sidebar"
-msgstr ""
+msgstr "Zmenšit postranní panel"
 
 #: wp-includes/script-loader.php:1287
 msgid "Expand Sidebar"
-msgstr ""
+msgstr "Rozbalit postranní panel"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/script-loader.php:1289
 msgid "Select one or more Theme features to filter by"
-msgstr ""
+msgstr "Vyberte jednu nebo více funkcí šablony, podle kterých chcete filtrovat"
 
 #: wp-includes/script-loader.php:1290
 msgid "Version"
@@ -12967,11 +12967,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1291
 msgid "Installing..."
-msgstr ""
+msgstr "Instaluji..."
 
 #: wp-includes/script-loader.php:1292
 msgid "Installing... please wait."
-msgstr ""
+msgstr "Instalace právě probíhá, počkejte prosím..."
 
 #: wp-includes/script-loader.php:1293
 msgid "Installed"
@@ -12987,57 +12987,57 @@ msgstr "Aktivace není možná"
 
 #: wp-includes/script-loader.php:1297
 msgid "Delete"
-msgstr ""
+msgstr "Smazat"
 
 #: wp-includes/script-loader.php:1298
 msgid "Updated!"
-msgstr ""
+msgstr "Aktualizováno!"
 
 #: wp-includes/script-loader.php:1335
 #, php-format
 msgid "%s plugin successfully updated."
-msgstr ""
+msgstr "%s plugin byl úspěšně aktualizován."
 
 #: wp-includes/script-loader.php:1336
 #, php-format
 msgid "%s plugins successfully updated."
-msgstr ""
+msgstr "%s pluginů bylo úspěšně aktualizováno."
 
 #: wp-includes/script-loader.php:1337
 #, php-format
 msgid "%s theme successfully updated."
-msgstr ""
+msgstr "%s šablona byla úspěšně aktualizována."
 
 #: wp-includes/script-loader.php:1338
 #, php-format
 msgid "%s themes successfully updated."
-msgstr ""
+msgstr "%s šablon bylo úspěšně aktualizováno."
 
 #: wp-includes/script-loader.php:1339
 #, php-format
 msgid "%s update failed."
-msgstr ""
+msgstr "%s aktualizace selhala."
 
 #: wp-includes/script-loader.php:1340
 #, php-format
 msgid "%s updates failed."
-msgstr ""
+msgstr "%s aktualizace selhaly."
 
 #: wp-includes/script-loader.php:1341
 msgid "Show more details"
-msgstr ""
+msgstr "Zobrazit více podrobností"
 
 #: wp-includes/script-loader.php:1342
 #, php-format
 msgctxt "plugin"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "Šablona %s byla úspěšně smazána."
 
 #: wp-includes/script-loader.php:1343
 #, php-format
 msgctxt "theme"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "Šablona %s byla úspěšně smazána."
 
 #: wp-includes/script-loader.php:1395
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
@@ -14612,15 +14612,15 @@ msgstr ""
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
-msgstr ""
+msgstr "První stránka"
 
 #: wp-includes/widgets.php:2096
 msgid "Current Page"
-msgstr ""
+msgstr "Aktuální stránka"
 
 #: wp-includes/widgets.php:2116
 msgid "Last page"
-msgstr ""
+msgstr "Poslední stránka"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
@@ -14643,7 +14643,7 @@ msgstr ""
 
 #: wp-includes/widgets.php:2234
 msgid "File URL"
-msgstr ""
+msgstr "URL souboru"
 
 #: wp-includes/widgets.php:2244
 msgid "Taxonomy updated successfully!"

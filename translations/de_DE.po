@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2026-11-19 18:54\n"
+"PO-Revision-Date: 2026-11-20 00:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3941,11 +3941,11 @@ msgstr "Wiederherstellungsmodus konnte nicht beendet werden. Bitte versuche es s
 
 #: wp-includes/class-wp-script-modules.php:70
 msgid "Missing required id key in entry among dependencies array."
-msgstr ""
+msgstr "Der notwendige ID-Key fehlt in dem Array zu den Abhängigkeiten"
 
 #: wp-includes/class-wp-script-modules.php:83
 msgid "Entries in dependencies array must be either strings or arrays with an id key."
-msgstr ""
+msgstr "Einträge im Array der Abhängigkeiten müssen entweder Strings oder Arrays mit Id-Schlüssel sein."
 
 #. translators: 1: $l10n, 2: wp_add_inline_script()
 #: wp-includes/class-wp-scripts.php:565
@@ -3957,13 +3957,13 @@ msgstr "Der %1$s Parameter muss ein Array sein. Um beliebige Daten an Skripte zu
 #: wp-includes/class-wp-scripts.php:800
 #, php-format
 msgid "Invalid strategy `%1$s` defined for `%2$s` during script registration."
-msgstr ""
+msgstr "Ungültige Strategie `%1$s` definiert für `%2$s` während der Skript-Registrierung."
 
 #. translators: 1: $strategy, 2: $handle
 #: wp-includes/class-wp-scripts.php:812
 #, php-format
 msgid "Cannot supply a strategy `%1$s` for script `%2$s` because it is an alias (it lacks a `src` value)."
-msgstr ""
+msgstr "Kann keine Strategie `%1$s` für das Skript `%2$s` angeben, da es ein Alias ist (es fehlt ein `src` Wert)."
 
 #: wp-includes/class-wp-tax-query.php:549
 #: wp-includes/class-wp-tax-query.php:556
@@ -5211,7 +5211,7 @@ msgstr "Erfahre mehr."
 #: wp-includes/classicpress/class-cp-debug-compat.php:135
 #, php-format
 msgid "You can reset this list by switching the <a href=\"%s\">Blocks Compatibility</a> to \"On\" and back to \"Troubleshooting\" again."
-msgstr ""
+msgstr "Sie können diese Liste zurücksetzen, indem Sie die <a href=\"%s\">Blocke-Kompatibilität</a> auf \"An\" und wieder auf \"Fehlerbehebung\" schalten."
 
 #: wp-includes/classicpress/class-cp-debug-compat.php:120
 msgid "No themes are using block functions."
@@ -12210,7 +12210,7 @@ msgstr "Die URL der Datei wurde in die Zwischenablage kopiert"
 
 #: wp-includes/script-loader.php:809
 msgid "Drag & Drop your files or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Drag & Drop Ihre Dateien oder <span class=\"filepond--label-action\">Durchsuchen</span>"
 
 #: wp-includes/script-loader.php:810
 msgid "Drag & Drop your zip file or <span class=\"filepond--label-action\">Browse</span>"
@@ -12218,27 +12218,27 @@ msgstr ""
 
 #: wp-includes/script-loader.php:811
 msgid "Field contains invalid files"
-msgstr ""
+msgstr "Das Feld enthält ungültige Dateien"
 
 #: wp-includes/script-loader.php:812
 msgid "Waiting for size"
-msgstr ""
+msgstr "Wartet auf Größe"
 
 #: wp-includes/script-loader.php:813
 msgid "Size not available"
-msgstr ""
+msgstr "Größe nicht verfügbar"
 
 #: wp-includes/script-loader.php:814
 msgid "file in list"
-msgstr ""
+msgstr "Datei in Liste"
 
 #: wp-includes/script-loader.php:815
 msgid "files in list"
-msgstr ""
+msgstr "Dateien in der Liste"
 
 #: wp-includes/script-loader.php:816
 msgid "Loading"
-msgstr ""
+msgstr "Lädt"
 
 #: wp-includes/script-loader.php:817
 msgid "Added"
@@ -12246,7 +12246,7 @@ msgstr "Hinzugefügt"
 
 #: wp-includes/script-loader.php:818
 msgid "Error during load"
-msgstr ""
+msgstr "Fehler beim Laden"
 
 #: wp-includes/script-loader.php:819
 msgid "Removed"
@@ -12254,39 +12254,39 @@ msgstr "Entfernt"
 
 #: wp-includes/script-loader.php:820
 msgid "Error during remove"
-msgstr ""
+msgstr "Fehler beim Entfernen"
 
 #: wp-includes/script-loader.php:822
 msgid "Upload complete"
-msgstr ""
+msgstr "Upload abgeschlossen"
 
 #: wp-includes/script-loader.php:823
 msgid "Upload cancelled"
-msgstr ""
+msgstr "Upload abgebrochen"
 
 #: wp-includes/script-loader.php:824
 msgid "Error during upload"
-msgstr ""
+msgstr "Fehler beim Hochladen"
 
 #: wp-includes/script-loader.php:825
 msgid "Error during revert"
-msgstr ""
+msgstr "Fehler beim Zurücksetzen"
 
 #: wp-includes/script-loader.php:826
 msgid "tap to cancel"
-msgstr ""
+msgstr "Antippen, um abzubrechen"
 
 #: wp-includes/script-loader.php:827
 msgid "tap to retry"
-msgstr ""
+msgstr "Antippen, um es erneut zu versuchen"
 
 #: wp-includes/script-loader.php:828
 msgid "tap to undo"
-msgstr ""
+msgstr "Antippen, um rückgängig zu machen"
 
 #: wp-includes/script-loader.php:830
 msgid "Abort"
-msgstr ""
+msgstr "Abbrechen"
 
 #: wp-includes/script-loader.php:831
 #: wp-includes/script-loader.php:834
@@ -12299,7 +12299,7 @@ msgstr "Hochladen"
 
 #: wp-includes/script-loader.php:894
 msgid "Download File"
-msgstr ""
+msgstr "Datei herunterladen"
 
 #: wp-includes/script-loader.php:896
 #: wp-includes/theme.php:1699
@@ -12325,11 +12325,11 @@ msgstr "Live-Übertragung"
 
 #: wp-includes/script-loader.php:901
 msgid "Current time"
-msgstr ""
+msgstr "Aktuelle Zeit"
 
 #: wp-includes/script-loader.php:902
 msgid "Total duration"
-msgstr ""
+msgstr "Gesamtdauer"
 
 #: wp-includes/script-loader.php:903
 msgid "Use Up/Down Arrow keys to increase or decrease volume."
@@ -12998,7 +12998,7 @@ msgstr "Hochladen fehlgeschlagen"
 
 #: wp-includes/script-loader.php:1401
 msgid "Upload aborted for"
-msgstr ""
+msgstr "Upload abgebrochen für"
 
 #: wp-includes/script-loader.php:1402
 #: wp-includes/widgets/class-wp-widget-media-image.php:516
@@ -13271,43 +13271,43 @@ msgstr "&larr; Gehe zu Medientags"
 
 #: wp-includes/taxonomy.php:285
 msgid "User Groups"
-msgstr ""
+msgstr "Nutzergruppen"
 
 #: wp-includes/taxonomy.php:286
 msgid "User Group"
-msgstr ""
+msgstr "Nutzergruppe"
 
 #: wp-includes/taxonomy.php:287
 msgid "Search User Groups"
-msgstr ""
+msgstr "Nutzergruppen suchen"
 
 #: wp-includes/taxonomy.php:289
 msgid "All User Groups"
-msgstr ""
+msgstr "Alle Nutzergruppen"
 
 #: wp-includes/taxonomy.php:290
 msgid "Edit User Group"
-msgstr ""
+msgstr "Nutzergruppe bearbeiten"
 
 #: wp-includes/taxonomy.php:291
 msgid "Update User Group"
-msgstr ""
+msgstr "Nutzergruppe aktualisieren"
 
 #: wp-includes/taxonomy.php:292
 msgid "Add New User Group"
-msgstr ""
+msgstr "Neue Nutzergruppe hinzufügen"
 
 #: wp-includes/taxonomy.php:293
 msgid "New User Group Name"
-msgstr ""
+msgstr "Neuer Name der Nutzergruppe"
 
 #: wp-includes/taxonomy.php:297
 msgid "&larr; Go to User Groups"
-msgstr ""
+msgstr "&larr; Gehe zu Nutzergruppen"
 
 #: wp-includes/taxonomy.php:298
 msgid "Filter by user group"
-msgstr ""
+msgstr "Nach Nutzergruppe filtern"
 
 #: wp-includes/taxonomy.php:585
 #: wp-includes/taxonomy.php:586
@@ -14468,7 +14468,7 @@ msgstr "Der Bestätigungsschlüssel ist für diese Anfrage über persönliche Da
 
 #: wp-includes/user.php:5048
 msgid "Invalid User ID."
-msgstr ""
+msgstr "Ungültige Nutzer-ID."
 
 #. translators: %d: Sidebar number.
 #: wp-includes/widgets.php:182
@@ -14532,7 +14532,7 @@ msgstr "Beitrags-Datum anzeigen?"
 
 #: wp-includes/widgets.php:2087
 msgid "2 items"
-msgstr ""
+msgstr "2 Elemente"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
@@ -14548,7 +14548,7 @@ msgstr "Letzte Seite"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
-msgstr ""
+msgstr "Details bearbeiten"
 
 #: wp-includes/widgets.php:2212
 #: wp-includes/widgets.php:2303
@@ -14575,7 +14575,7 @@ msgstr "Taxonomie erfolgreich aktualisiert!"
 
 #: wp-includes/widgets.php:2303
 msgid "Leave empty if the image is purely decorative."
-msgstr ""
+msgstr "Leer lassen, wenn das Bild rein dekorativ ist."
 
 #: wp-includes/widgets.php:2340
 #: wp-includes/widgets/class-wp-widget-media-image.php:497
@@ -14795,7 +14795,7 @@ msgstr "Medien hinzufügen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:238
 msgid "Add to widget"
-msgstr ""
+msgstr "Zum Widget hinzufügen"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:239
 msgctxt "label for button in the audio widget; should preferably not be longer than ~13 characters long"
@@ -14835,7 +14835,7 @@ msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt d
 #: wp-includes/widgets/class-wp-widget-media-audio.php:253
 #: wp-includes/widgets/class-wp-widget-media-video.php:296
 msgid "No file exists at that URL"
-msgstr ""
+msgstr "Es existiert keine Datei unter dieser URL"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:260
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:282
@@ -14843,7 +14843,7 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-video.php:301
 #: wp-includes/widgets/class-wp-widget-text.php:495
 msgid "media items"
-msgstr ""
+msgstr "Medien-Elemente"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:297
 #: wp-includes/widgets/class-wp-widget-media-video.php:338
@@ -14890,7 +14890,7 @@ msgstr "Galerie erstellen"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
-msgstr ""
+msgstr "Galerie abbrechen"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:276
 #: wp-includes/widgets/class-wp-widget-media-image.php:428
@@ -14905,11 +14905,11 @@ msgstr "Zur Galerie hinzufügen"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
@@ -14917,27 +14917,27 @@ msgstr "3"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:343
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:344
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:345
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:346
 msgid "8"
-msgstr ""
+msgstr "8"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:347
 msgid "9"
-msgstr ""
+msgstr "9"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:30
 msgid "Displays an image."
@@ -14979,12 +14979,12 @@ msgstr "Dies ist scheinbar nicht der richtige Dateityp. Bitte verlinke anstatt d
 #: wp-includes/widgets/class-wp-widget-media-image.php:502
 #: wp-includes/widgets/class-wp-widget-text.php:503
 msgid "The current image has no alternative text. The file name is: "
-msgstr ""
+msgstr "Das aktuelle Bild hat keinen alternativen Text. Der Dateiname ist: "
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:504
 #: wp-includes/widgets/class-wp-widget-text.php:506
 msgid "No file exists at the URL provided."
-msgstr ""
+msgstr "Es existiert keine Datei unter der angegebenen URL."
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:28
 msgid "Video"

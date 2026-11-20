@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 59\n"
 "Language-Team: Khmer\n"
 "Language: km_KH\n"
-"PO-Revision-Date: 2026-11-19 18:56\n"
+"PO-Revision-Date: 2026-11-20 00:52\n"
 
 #: wp-admin/includes/continents-cities.php:12
 msgid "Africa"
@@ -709,7 +709,7 @@ msgstr ""
 
 #: wp-admin/includes/continents-cities.php:185
 msgid "Center"
-msgstr ""
+msgstr "កណ្ដាល"
 
 #: wp-admin/includes/continents-cities.php:186
 msgid "New Salem"

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 55\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2026-11-19 18:55\n"
+"PO-Revision-Date: 2026-11-20 00:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -897,7 +897,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:300
 #: wp-admin/includes/template.php:498
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #. translators: Column name or table row header.
 #: wp-admin/comment.php:200
@@ -1223,7 +1223,7 @@ msgstr "Temas instalados"
 
 #: wp-admin/customize.php:595
 msgid "WordPress.org themes"
-msgstr ""
+msgstr "Temas WordPress.org"
 
 #: wp-admin/customize.php:606
 msgid "Search themes&hellip;"
@@ -1363,7 +1363,7 @@ msgstr "A personalizar"
 #: wp-admin/nav-menus.php:32
 #: wp-admin/nav-menus.php:750
 msgid "Menus"
-msgstr ""
+msgstr "Menus"
 
 #: wp-admin/customize.php:1234
 #: wp-admin/customize.php:2409
@@ -1504,7 +1504,7 @@ msgstr "Eliminar menu"
 #: wp-admin/includes/plugin-install.php:395
 #: wp-admin/widgets.php:28
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: wp-admin/customize.php:1698
 msgid "Move to another area&hellip;"
@@ -1714,11 +1714,11 @@ msgstr ""
 
 #: wp-admin/customize.php:2041
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-admin/customize.php:2042
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #: wp-admin/customize.php:2059
 msgid "Discard changes"
@@ -1795,7 +1795,7 @@ msgstr ""
 #: wp-admin/customize.php:2169
 #: wp-admin/widgets-form.php:546
 msgid "Featured image"
-msgstr ""
+msgstr "Imagem destacada"
 
 #: wp-admin/customize.php:2173
 #: wp-admin/widgets-form.php:548
@@ -1813,7 +1813,7 @@ msgstr "Biblioteca multimédia"
 #: wp-admin/customize.php:2185
 #: wp-admin/widgets-form.php:559
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: wp-admin/customize.php:2189
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:171
@@ -2471,7 +2471,7 @@ msgstr "Pendente"
 
 #: wp-admin/edit-form-comment.php:123
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/edit-form-comment.php:133
@@ -2491,7 +2491,7 @@ msgstr "Pendente"
 #: wp-admin/edit-form-comment.php:138
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #. translators: %s: Comment date.
 #: wp-admin/edit-form-comment.php:156
@@ -3563,8 +3563,8 @@ msgstr[1] "%s Comentários"
 #, php-format
 msgid "%s Comment in moderation"
 msgid_plural "%s Comments in moderation"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s comentário em moderação"
+msgstr[1] "%s comentários em moderação"
 
 #. translators: %s: Number of comments.
 #. translators: %s: Number of items.
@@ -4822,7 +4822,7 @@ msgstr "Tamanho da imagem"
 #: wp-admin/includes/class-custom-background.php:442
 msgctxt "Original Size"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #: wp-admin/includes/class-custom-background.php:443
 msgid "Fit to Screen"
@@ -5663,7 +5663,7 @@ msgstr "Para o topo"
 #: wp-admin/includes/class-walker-nav-menu-edit.php:267
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:29
 msgid "Created"
@@ -5845,7 +5845,7 @@ msgstr "Se está com dificuldades ou necessita de apoio, os voluntários no fór
 #: wp-admin/includes/translation-install.php:89
 #: wp-admin/includes/translation-install.php:101
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:882
 #: wp-admin/update-core.php:860
@@ -6284,7 +6284,7 @@ msgstr "Marcar este comentário como spam"
 #: wp-admin/includes/dashboard.php:783
 msgctxt "verb"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:778
 msgid "Restore this comment from the spam"
@@ -7275,12 +7275,12 @@ msgstr "Seleccionar todo(a)s"
 #: wp-admin/includes/class-wp-media-list-table.php:43
 #: wp-admin/upload.php:304
 msgid "List view"
-msgstr ""
+msgstr "Visão em lista"
 
 #: wp-admin/includes/class-wp-media-list-table.php:44
 #: wp-admin/upload.php:307
 msgid "Grid view"
-msgstr ""
+msgstr "Visão em grade"
 
 #: wp-admin/includes/class-wp-media-list-table.php:135
 #: wp-admin/includes/media.php:3975
@@ -10512,11 +10512,11 @@ msgstr "De %1$s %2$s"
 
 #: wp-admin/includes/dashboard.php:891
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #: wp-admin/includes/dashboard.php:894
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #. translators: 1: Type of comment, 2: Post link, 3: Notification if the comment is pending.
 #: wp-admin/includes/dashboard.php:908
@@ -11917,7 +11917,7 @@ msgstr ""
 #: wp-admin/includes/nav-menu.php:463
 #: wp-admin/includes/nav-menu.php:765
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #: wp-admin/includes/media.php:2835
 msgid "Filter &#187;"
@@ -11987,12 +11987,12 @@ msgstr "(sem autor)"
 #: wp-admin/includes/media.php:3281
 #: wp-admin/upload.php:582
 msgid "Uploaded by:"
-msgstr ""
+msgstr "Enviado por:"
 
 #: wp-admin/includes/media.php:3294
 #: wp-admin/includes/media.php:3296
 msgid "Uploaded to:"
-msgstr ""
+msgstr "Enviado para:"
 
 #: wp-admin/includes/media.php:3305
 msgid "File URL:"
@@ -12074,7 +12074,7 @@ msgstr "Definir estado"
 #: wp-admin/includes/template.php:902
 #: wp-admin/js/post.js:1009
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: wp-admin/includes/meta-boxes.php:174
 msgid "Visibility:"
@@ -12188,7 +12188,7 @@ msgstr "Formatos de artigo"
 #: wp-admin/includes/meta-boxes.php:697
 #, php-format
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/meta-boxes.php:766
@@ -17648,7 +17648,7 @@ msgstr ""
 #: wp-admin/update-core.php:265
 #: wp-admin/update-core.php:284
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #. translators: 1: Plugin file, 2: Error message.
 #: wp-admin/plugins.php:617

@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-11-19 18:54\n"
+"PO-Revision-Date: 2026-11-20 00:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5629,7 +5629,7 @@ msgstr "无法保存计划任务列表。"
 #: wp-includes/customize/class-wp-customize-background-image-control.php:135
 #: wp-includes/customize/class-wp-customize-background-image-control.php:139
 msgid "Select Image"
-msgstr ""
+msgstr "选择图像"
 
 #: wp-includes/customize/class-wp-customize-background-image-control.php:106
 #: wp-includes/customize/class-wp-customize-background-image-control.php:112
@@ -12249,11 +12249,11 @@ msgstr "终止"
 #: wp-includes/script-loader.php:831
 #: wp-includes/script-loader.php:834
 msgid "Retry"
-msgstr ""
+msgstr "重试"
 
 #: wp-includes/script-loader.php:835
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: wp-includes/script-loader.php:894
 msgid "Download File"
@@ -12789,11 +12789,11 @@ msgstr "删除附件失败。"
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
 #: wp-includes/widgets/class-wp-widget-text.php:519
 msgid "Error:"
-msgstr ""
+msgstr "错误："
 
 #: wp-includes/script-loader.php:1217
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "忽略此消息。"
 
 #: wp-includes/script-loader.php:1218
 msgid "Tag successfully deleted."
@@ -12801,19 +12801,19 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1272
 msgid "Add New Theme"
-msgstr ""
+msgstr "添加新主题"
 
 #: wp-includes/script-loader.php:1273
 msgid "Search Themes"
-msgstr ""
+msgstr "搜索主题"
 
 #: wp-includes/script-loader.php:1274
 msgid "Search themes..."
-msgstr ""
+msgstr "搜索主题..."
 
 #: wp-includes/script-loader.php:1275
 msgid "Upload Theme"
-msgstr ""
+msgstr "上传主题"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/script-loader.php:1279
@@ -12823,13 +12823,13 @@ msgstr "发生了一个未知错误。WordPress.org，ClassicPress.net，或是�
 
 #: wp-includes/script-loader.php:1282
 msgid "Try Again"
-msgstr ""
+msgstr "重试"
 
 #. translators: %d: Number of themes.
 #: wp-includes/script-loader.php:1284
 #, php-format
 msgid "Number of Themes found: %d"
-msgstr ""
+msgstr "找到的主题数量：%d"
 
 #: wp-includes/script-loader.php:1285
 msgid "No themes found. Try a different search."
@@ -12837,16 +12837,16 @@ msgstr "未找到主题。请尝试其他搜索词。"
 
 #: wp-includes/script-loader.php:1286
 msgid "Collapse Sidebar"
-msgstr ""
+msgstr "收起侧栏"
 
 #: wp-includes/script-loader.php:1287
 msgid "Expand Sidebar"
-msgstr ""
+msgstr "展开侧栏"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/script-loader.php:1289
 msgid "Select one or more Theme features to filter by"
-msgstr ""
+msgstr "选择一个或多个主题功能进行筛选"
 
 #: wp-includes/script-loader.php:1290
 msgid "Version"
@@ -12854,11 +12854,11 @@ msgstr "版本"
 
 #: wp-includes/script-loader.php:1291
 msgid "Installing..."
-msgstr ""
+msgstr "正在安装..."
 
 #: wp-includes/script-loader.php:1292
 msgid "Installing... please wait."
-msgstr ""
+msgstr "正在安装... 请稍候。"
 
 #: wp-includes/script-loader.php:1293
 msgid "Installed"
@@ -12874,57 +12874,57 @@ msgstr "无法启用"
 
 #: wp-includes/script-loader.php:1297
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: wp-includes/script-loader.php:1298
 msgid "Updated!"
-msgstr ""
+msgstr "已更新！"
 
 #: wp-includes/script-loader.php:1335
 #, php-format
 msgid "%s plugin successfully updated."
-msgstr ""
+msgstr "%s 款插件已成功更新。"
 
 #: wp-includes/script-loader.php:1336
 #, php-format
 msgid "%s plugins successfully updated."
-msgstr ""
+msgstr "%s 款插件已成功更新。"
 
 #: wp-includes/script-loader.php:1337
 #, php-format
 msgid "%s theme successfully updated."
-msgstr ""
+msgstr "%s 款主题已成功更新。"
 
 #: wp-includes/script-loader.php:1338
 #, php-format
 msgid "%s themes successfully updated."
-msgstr ""
+msgstr "%s 款主题已成功更新。"
 
 #: wp-includes/script-loader.php:1339
 #, php-format
 msgid "%s update failed."
-msgstr ""
+msgstr "插件 %s 更新失败。"
 
 #: wp-includes/script-loader.php:1340
 #, php-format
 msgid "%s updates failed."
-msgstr ""
+msgstr "%s 次升级失败。"
 
 #: wp-includes/script-loader.php:1341
 msgid "Show more details"
-msgstr ""
+msgstr "显示详情"
 
 #: wp-includes/script-loader.php:1342
 #, php-format
 msgctxt "plugin"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "主题「%s」已成功移除。"
 
 #: wp-includes/script-loader.php:1343
 #, php-format
 msgctxt "theme"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "主题「%s」已成功移除。"
 
 #: wp-includes/script-loader.php:1395
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
@@ -13832,7 +13832,7 @@ msgstr "翻译更新"
 
 #: wp-includes/update.php:1061
 msgid "Unable to locate ClassicPress content directory (wp-content)."
-msgstr ""
+msgstr "无法定位 ClassicPress 内容目录（wp-content）。"
 
 #: wp-includes/user.php:148
 msgid "<strong>Error:</strong> The username field is empty."
@@ -14489,15 +14489,15 @@ msgstr "2 个项目"
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
-msgstr ""
+msgstr "首页"
 
 #: wp-includes/widgets.php:2096
 msgid "Current Page"
-msgstr ""
+msgstr "当前页"
 
 #: wp-includes/widgets.php:2116
 msgid "Last page"
-msgstr ""
+msgstr "末页"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
@@ -14520,7 +14520,7 @@ msgstr "已保存！"
 
 #: wp-includes/widgets.php:2234
 msgid "File URL"
-msgstr ""
+msgstr "文件 URL"
 
 #: wp-includes/widgets.php:2244
 msgid "Taxonomy updated successfully!"
@@ -14768,7 +14768,7 @@ msgstr "无法找到该音频文件。请检查您的<a href=\"%s\">媒体库</a
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:248
 msgid "Audio Details"
-msgstr ""
+msgstr "音频详情"
 
 #: wp-includes/widgets/class-wp-widget-media-audio.php:250
 #, php-format
@@ -14838,7 +14838,7 @@ msgstr "编辑相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:274
 msgid "Create Gallery"
-msgstr ""
+msgstr "创建相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:275
 msgid "Cancel Gallery"
@@ -14853,11 +14853,11 @@ msgstr "添加图像"
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:277
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:321
 msgid "Add to Gallery"
-msgstr ""
+msgstr "添加至相册"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"
@@ -14920,7 +14920,7 @@ msgstr "编辑图像"
 #: wp-includes/widgets/class-wp-widget-media-image.php:499
 #: wp-includes/widgets/class-wp-widget-text.php:505
 msgid "Image Details"
-msgstr ""
+msgstr "图像详情"
 
 #: wp-includes/widgets/class-wp-widget-media-image.php:501
 #: wp-includes/widgets/class-wp-widget-media-video.php:290
@@ -14988,11 +14988,11 @@ msgstr "无法找到该文件。请检查您的<a href=\"%s\">媒体库</a>并�
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:291
 msgid "Add Subtitles"
-msgstr ""
+msgstr "添加字幕"
 
 #: wp-includes/widgets/class-wp-widget-media-video.php:294
 msgid "Video Details"
-msgstr ""
+msgstr "视频详情"
 
 #: wp-includes/widgets/class-wp-widget-media.php:138
 msgid "Attachment post ID"

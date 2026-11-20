@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-11-20 00:51\n"
+"PO-Revision-Date: 2026-11-20 15:03\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -662,7 +662,7 @@ msgstr "Nieuwe paginatitel"
 
 #: wp-includes/class-wp-customize-control.php:693
 msgid "New page title..."
-msgstr ""
+msgstr "Nieuwe paginatitel..."
 
 #: wp-includes/class-wp-customize-control.php:696
 #: wp-includes/class-wp-customize-control.php:697
@@ -672,11 +672,11 @@ msgstr "Toevoegen"
 
 #: wp-includes/class-wp-customize-control.php:696
 msgid "Saving ..."
-msgstr ""
+msgstr "Opslaan ..."
 
 #: wp-includes/class-wp-customize-control.php:703
 msgid "Please enter a page title"
-msgstr ""
+msgstr "Voer een paginatitel in"
 
 #: wp-includes/class-wp-customize-manager.php:470
 #: wp-includes/class-wp-xmlrpc-server.php:4036
@@ -807,7 +807,7 @@ msgstr "Je hebt geen toestemming om dit over te nemen."
 
 #: wp-includes/class-wp-customize-manager.php:3833
 msgid "You must be logged in to access the Customizer lock."
-msgstr ""
+msgstr "Je moet ingelogd zijn om toegang te krijgen tot de Customizer vergrendeling."
 
 #. translators: 1: Panel ID, 2: Link to 'customize_loaded_components' filter reference.
 #: wp-includes/class-wp-customize-manager.php:4156
@@ -1214,7 +1214,7 @@ msgstr "Als je thema meerdere menu's heeft, geef ze duidelijke namen om je te he
 #: wp-includes/class-wp-customize-nav-menus.php:528
 #: wp-includes/class-wp-customize-nav-menus.php:1219
 msgid "Add to menu:"
-msgstr ""
+msgstr "Aan menu toevoegen:"
 
 #: wp-includes/class-wp-customize-nav-menus.php:529
 msgid "Menu item added"
@@ -1305,19 +1305,19 @@ msgstr "Herschikmodus sluiten"
 
 #: wp-includes/class-wp-customize-nav-menus.php:553
 msgid "Nonce check failed. Please refresh the page."
-msgstr ""
+msgstr "Nonce check mislukt. Ververs de pagina."
 
 #: wp-includes/class-wp-customize-nav-menus.php:554
 msgid "The server rejected the request."
-msgstr ""
+msgstr "De server heeft het verzoek afgewezen."
 
 #: wp-includes/class-wp-customize-nav-menus.php:555
 msgid "Unexpected server response: "
-msgstr ""
+msgstr "Onverwachte serverreactie: "
 
 #: wp-includes/class-wp-customize-nav-menus.php:556
 msgid "Failed to save advanced menu settings:"
-msgstr ""
+msgstr "Opslaan van geavanceerde menu instellingen is mislukt:"
 
 #: wp-includes/class-wp-customize-nav-menus.php:573
 msgid "Move up one"
@@ -1474,7 +1474,7 @@ msgstr "Resultaten opschonen"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1193
 msgid "Please enter a title"
-msgstr ""
+msgstr "Voer een titel in"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1275
 msgid "Custom Links"
@@ -1514,7 +1514,7 @@ msgstr "Aan menu toevoegen"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1319
 msgid "Please enter some link text"
-msgstr ""
+msgstr "Voer een linktekst in"
 
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-includes/class-wp-customize-panel.php:345
@@ -1535,7 +1535,7 @@ msgstr "Aan het aanpassen"
 
 #: wp-includes/class-wp-customize-widgets.php:418
 msgid "Widgets are independent sections of content that can be placed into widgetized areas provided by your theme (commonly called sidebars)."
-msgstr "Widgets zijn onafhankelijke gedeeltes met inhoud die in de widgetruimtes van je thema geplaatst kunnen worden."
+msgstr "Widgets zijn onafhankelijke secties met inhoud die in de widget gebieden van je thema geplaatst kunnen worden (gewoonlijk zijbalken genoemd)."
 
 #: wp-includes/class-wp-customize-widgets.php:700
 msgid "Move to another area&hellip;"
@@ -2803,7 +2803,7 @@ msgstr "https://wordpress.org/documentation/article/faq-troubleshooting/"
 
 #: wp-includes/class-wp-fatal-error-handler.php:202
 msgid "Learn more about troubleshooting ClassicPress."
-msgstr "Leer meer over probleemoplossing in ClassicPress."
+msgstr "Meer informatie over probleemoplossing in ClassicPress."
 
 #: wp-includes/class-wp-feed-cache.php:15
 msgid "This file is only loaded for backward compatibility with SimplePie 1.2.x. Please consider switching to a recent SimplePie version."
@@ -3377,7 +3377,7 @@ msgstr "Insluiten handler"
 #: wp-includes/class-wp-oembed.php:235
 #, php-format
 msgid "The oEmbed provider data returned by the %1$s filter at key %2$s is malformed. The providers array must be a mapping of provider URL patterns to a tuple array consisting of a provider endpoint URL string at index 0 and an optional boolean regex flag at index 1."
-msgstr ""
+msgstr "De oEmbed providergegevens van het %1$s filter op sleutel %2$s zijn ongeldig. De provider-array moet een indeling van provider-URL-patronen zijn naar een tuple array bestaande uit een provider endpoint URL string bij index 0 en een optionele boolean regex flag bij index 1."
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
@@ -3672,7 +3672,7 @@ msgstr "Uitgelichte afbeelding instellen"
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "page"
 msgid "Set featured image"
-msgstr "Uitgelichte afbeelding instellen"
+msgstr "Uitgelichte afbeelding kiezen"
 
 #: wp-includes/class-wp-post-type.php:819
 msgctxt "post"
@@ -4505,7 +4505,7 @@ msgstr "Je hebt geen toestemming om berichten sticky te maken."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1467
 msgid "Sorry, this post type is not supported over XML-RPC."
-msgstr ""
+msgstr "Sorry, dit berichttype wordt niet ondersteund via XML-RPC."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1474
 #: wp-includes/class-wp-xmlrpc-server.php:1777
@@ -5645,7 +5645,7 @@ msgstr "Afbeelding selecteren"
 #: wp-includes/customize/class-wp-customize-background-image-control.php:112
 #: wp-includes/customize/class-wp-customize-background-image-control.php:136
 msgid "Change Image"
-msgstr ""
+msgstr "Afbeelding wijzigen"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:39
 msgid "Top Left"
@@ -5665,7 +5665,7 @@ msgstr "Rechtsonder"
 
 #: wp-includes/customize/class-wp-customize-color-control.php:116
 msgid "Custom Color Hue"
-msgstr ""
+msgstr "Aangepaste kleur"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:167
 msgid "Markup is not allowed in CSS."
@@ -5855,7 +5855,7 @@ msgstr "Menu-item verwijderen: %1$s (%2$s)"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:104
 msgid "Menu Item Settings"
-msgstr ""
+msgstr "Menu-item instellingen"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:127
 msgid "Navigation Label"
@@ -5917,11 +5917,11 @@ msgstr "Gedeeltelijke verwerking moet de inhoud of de inhoudelijke regel (of arr
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:179
 msgid "Shift-click to edit this menu."
-msgstr ""
+msgstr "Shift-klik om dit menu te bewerken."
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:181
 msgid "Shift-click to edit the site title."
-msgstr ""
+msgstr "Shift-klik om de site titel te bewerken."
 
 #. translators: %s: document.write()
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:184
@@ -5986,22 +5986,22 @@ msgstr "Live voorbeeld van thema: %s"
 #: wp-includes/customize/class-wp-customize-theme-control.php:190
 #, php-format
 msgid "Screenshot of theme: %s"
-msgstr ""
+msgstr "Screenshot van thema: %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:239
 msgid "Incompatible Theme"
-msgstr ""
+msgstr "Incompatibel thema"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:246
 msgid "This theme doesn't support ClassicPress."
-msgstr ""
+msgstr "Dit thema ondersteunt ClassicPress niet."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:267
 #, php-format
 msgctxt "theme"
 msgid "Live preview theme %s"
-msgstr ""
+msgstr "Live voorbeeld van thema: %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:273
 #: wp-includes/customize/class-wp-customize-theme-control.php:284
@@ -8717,14 +8717,14 @@ msgstr "Naar de prullenbak: %s"
 #: wp-includes/pluggable.php:2062
 #, php-format
 msgid "Delete it: %s"
-msgstr "%s verwijderen"
+msgstr "Verwijderen: %s"
 
 #. translators: Comment moderation. %s: Comment action URL.
 #: wp-includes/pluggable.php:1886
 #: wp-includes/pluggable.php:2066
 #, php-format
 msgid "Spam it: %s"
-msgstr "%s als spam markeren"
+msgstr "Als spam markeren: %s"
 
 #. translators: %s: Post title.
 #: wp-includes/pluggable.php:2013
@@ -9181,7 +9181,7 @@ msgstr[1] "Prullenbak <span class=\"count\">(%s)</span>"
 #: wp-includes/post.php:978
 msgctxt "request status"
 msgid "Pending"
-msgstr "Wachtend"
+msgstr "In behandeling"
 
 #: wp-includes/post.php:406
 #: wp-includes/post.php:979
@@ -9477,7 +9477,7 @@ msgstr "REST API %1$s moet een array van arrays zijn. Niet-array waarde gedetect
 
 #: wp-includes/rest-api.php:363
 msgid "The REST route parameter must be a string."
-msgstr ""
+msgstr "De REST route parameter moet een tekenreeks zijn."
 
 #. translators: 1: Function name, 2: WordPress version number, 3: New function name.
 #: wp-includes/rest-api.php:630
@@ -12041,15 +12041,15 @@ msgstr "Afbeelding bijsnijden"
 
 #: wp-includes/script-loader.php:626
 msgid "Close crop dialog"
-msgstr ""
+msgstr "Sluit bijsnijden dialoogvenster"
 
 #: wp-includes/script-loader.php:627
 msgid "Image to crop"
-msgstr ""
+msgstr "Afbeelding om bij te snijden"
 
 #: wp-includes/script-loader.php:628
 msgid "You can skip cropping if you do not need to adjust the image."
-msgstr ""
+msgstr "Je kunt het bijsnijden overslaan als je de afbeelding niet hoeft aan te passen."
 
 #: wp-includes/script-loader.php:629
 msgid "Skip Cropping"
@@ -12057,7 +12057,7 @@ msgstr "Bijsnijden overslaan"
 
 #: wp-includes/script-loader.php:630
 msgid "Saving"
-msgstr ""
+msgstr "Opslaan"
 
 #. translators: Number of results found when using jQuery UI Autocomplete.
 #: wp-includes/script-loader.php:705
@@ -12214,7 +12214,7 @@ msgstr "Bestanden slepen en neerzetten of <span class=\"filepond--label-action\"
 
 #: wp-includes/script-loader.php:810
 msgid "Drag & Drop your zip file or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Je zip file slepen en neerzetten of <span class=\"filepond--label-action\">Bladeren</span>"
 
 #: wp-includes/script-loader.php:811
 msgid "Field contains invalid files"
@@ -12649,7 +12649,7 @@ msgstr "Concept opgeslagen"
 
 #: wp-includes/script-loader.php:1094
 msgid "Page could not be created"
-msgstr ""
+msgstr "Pagina kon niet worden aangemaakt"
 
 #: wp-includes/script-loader.php:1095
 msgid "Updating"
@@ -12657,7 +12657,7 @@ msgstr "Aan het updaten"
 
 #: wp-includes/script-loader.php:1096
 msgid "Customizing:"
-msgstr ""
+msgstr "Aanpassen:"
 
 #: wp-includes/script-loader.php:1097
 msgctxt "customizer changeset action/button label"
@@ -12794,11 +12794,11 @@ msgstr "Actief thema"
 
 #: wp-includes/script-loader.php:1166
 msgid "Current:"
-msgstr ""
+msgstr "Huidige:"
 
 #: wp-includes/script-loader.php:1167
 msgid "Currently set to:"
-msgstr ""
+msgstr "Momenteel ingesteld op:"
 
 #: wp-includes/script-loader.php:1169
 #: wp-includes/script-loader.php:1403
@@ -12840,7 +12840,7 @@ msgstr "Dit bericht verbergen."
 
 #: wp-includes/script-loader.php:1218
 msgid "Tag successfully deleted."
-msgstr ""
+msgstr "Tag succesvol verwijderd."
 
 #: wp-includes/script-loader.php:1272
 msgid "Add New Theme"
@@ -12880,16 +12880,16 @@ msgstr "Geen thema's gevonden. Een andere zoekopdracht proberen."
 
 #: wp-includes/script-loader.php:1286
 msgid "Collapse Sidebar"
-msgstr "Sidebar inklappen"
+msgstr "Zijbalk inklappen"
 
 #: wp-includes/script-loader.php:1287
 msgid "Expand Sidebar"
-msgstr "Sidebar uitklappen"
+msgstr "Zijbalk uitklappen"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/script-loader.php:1289
 msgid "Select one or more Theme features to filter by"
-msgstr "Één of meerdere themafuncties selecteren om op te filteren"
+msgstr "Eén of meerdere themafuncties selecteren om op te filteren"
 
 #: wp-includes/script-loader.php:1290
 msgid "Version"
@@ -12961,13 +12961,13 @@ msgstr "Meer details tonen"
 #, php-format
 msgctxt "plugin"
 msgid "%s was successfully deleted."
-msgstr "%s is verwijderd."
+msgstr "%s is succesvol verwijderd."
 
 #: wp-includes/script-loader.php:1343
 #, php-format
 msgctxt "theme"
 msgid "%s was successfully deleted."
-msgstr "%s is verwijderd."
+msgstr "%s is succesvol verwijderd."
 
 #: wp-includes/script-loader.php:1395
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
@@ -15346,7 +15346,7 @@ msgstr "Bevestig dat het <strong>beheerders e-mailadres</strong> voor deze site 
 #. translators: URL to the WordPress help section about admin email.
 #: wp-login.php:656
 msgid "https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/#administration-email-address"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/#administration-email-address"
 
 #: wp-login.php:667
 msgid "Why is this important?"
@@ -15495,7 +15495,7 @@ msgstr "<strong>Fout:</strong> cookies zijn geblokkeerd vanwege onverwachte uitv
 #: wp-login.php:1316
 #: wp-login.php:1327
 msgid "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/cookies/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/cookies/"
 
 #. translators: %s: Browser cookie documentation URL.
 #: wp-login.php:1326

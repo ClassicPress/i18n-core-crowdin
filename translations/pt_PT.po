@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2026-11-19 18:54\n"
+"PO-Revision-Date: 2026-11-20 00:51\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -3195,7 +3195,7 @@ msgstr "Dezembro"
 #: wp-includes/class-wp-locale.php:203
 msgctxt "January abbreviation"
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:204
@@ -3207,7 +3207,7 @@ msgstr "Fev"
 #: wp-includes/class-wp-locale.php:205
 msgctxt "March abbreviation"
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:206
@@ -3225,13 +3225,13 @@ msgstr "Maio"
 #: wp-includes/class-wp-locale.php:208
 msgctxt "June abbreviation"
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:209
 msgctxt "July abbreviation"
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:210
@@ -3255,7 +3255,7 @@ msgstr "Out"
 #: wp-includes/class-wp-locale.php:213
 msgctxt "November abbreviation"
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #. translators: Three-letter abbreviation of the month.
 #: wp-includes/class-wp-locale.php:214
@@ -3265,19 +3265,19 @@ msgstr "Dez"
 
 #: wp-includes/class-wp-locale.php:217
 msgid "am"
-msgstr ""
+msgstr "am"
 
 #: wp-includes/class-wp-locale.php:218
 msgid "pm"
-msgstr ""
+msgstr "pm"
 
 #: wp-includes/class-wp-locale.php:219
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: wp-includes/class-wp-locale.php:220
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #. translators: $thousands_sep argument for https://www.php.net/number_format, default is ','
 #: wp-includes/class-wp-locale.php:228
@@ -3293,7 +3293,7 @@ msgstr ","
 #: wp-includes/class-wp-locale.php:241
 #: wp-includes/l10n.php:1873
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
 #: wp-includes/class-wp-locale.php:248
@@ -3302,7 +3302,7 @@ msgstr ""
 #: wp-includes/js/dist/i18n.js:1335
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #. translators: Localized date format, see https://www.php.net/manual/datetime.format.php
 #: wp-includes/class-wp-locale.php:397
@@ -3657,12 +3657,12 @@ msgstr "Carregado nesta página"
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "post"
 msgid "Featured image"
-msgstr ""
+msgstr "Imagem destacada"
 
 #: wp-includes/class-wp-post-type.php:817
 msgctxt "page"
 msgid "Featured image"
-msgstr ""
+msgstr "Imagem destacada"
 
 #: wp-includes/class-wp-post-type.php:818
 msgctxt "post"
@@ -3830,7 +3830,7 @@ msgstr ""
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:126
 msgid "Error Details"
-msgstr ""
+msgstr "Detalhes do erro"
 
 #: wp-includes/class-wp-recovery-mode-email-service.php:141
 msgid "Please contact your host for assistance with investigating this issue further."
@@ -3891,7 +3891,7 @@ msgstr ""
 #: wp-includes/class-wp-recovery-mode-email-service.php:374
 #, php-format
 msgid "PHP version %s"
-msgstr ""
+msgstr "PHP versão %s"
 
 #: wp-includes/class-wp-recovery-mode-key-service.php:91
 msgid "Recovery Mode not initialized."
@@ -5042,7 +5042,7 @@ msgstr ""
 #: wp-includes/load.php:183
 #: wp-includes/script-loader.php:1280
 msgid "https://wordpress.org/support/forums/"
-msgstr ""
+msgstr "https://wordpress.org/support/forums/"
 
 #. translators: %s: Database access abstraction class, usually wpdb or a class extending wpdb.
 #: wp-includes/class-wpdb.php:1300
@@ -5253,7 +5253,7 @@ msgstr "Protegido por senha"
 #: wp-includes/comment-template.php:639
 msgctxt "comment_excerpt_length"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #. translators: %s: Number of comments.
 #: wp-includes/comment-template.php:937
@@ -5268,7 +5268,7 @@ msgstr[1] "%s Comentários"
 #: wp-includes/comment-template.php:944
 msgctxt "Comment number declension: on or off"
 msgid "off"
-msgstr ""
+msgstr "off"
 
 #: wp-includes/comment-template.php:965
 msgid "No Comments"
@@ -5292,11 +5292,11 @@ msgstr "Comentário"
 
 #: wp-includes/comment-template.php:1159
 msgid "Trackback"
-msgstr ""
+msgstr "Trackback"
 
 #: wp-includes/comment-template.php:1162
 msgid "Pingback"
-msgstr ""
+msgstr "Pingback"
 
 #. translators: %s: Comment author link.
 #: wp-includes/comment-template.php:1200
@@ -5441,7 +5441,7 @@ msgstr "Aprovado"
 #: wp-includes/comment.php:267
 msgctxt "comment status"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-includes/comment.php:268
 msgctxt "comment status"
@@ -5619,7 +5619,7 @@ msgstr "Uma vez por dia"
 
 #: wp-includes/cron.php:1068
 msgid "Once Weekly"
-msgstr ""
+msgstr "Uma vez por semana"
 
 #: wp-includes/cron.php:1219
 msgid "The cron event list could not be saved."
@@ -5796,7 +5796,7 @@ msgstr "Seleccionar imagem"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:380
 msgid "Select Site Icon"
-msgstr ""
+msgstr "Selecione o ícone do site"
 
 #: wp-includes/customize/class-wp-customize-media-control.php:381
 msgid "Change image"
@@ -5870,7 +5870,7 @@ msgstr ""
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:257
 #, php-format
 msgid "Original: %s"
-msgstr ""
+msgstr "Original: %s"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:90
 msgid "Create a menu for this location"
@@ -6193,7 +6193,7 @@ msgstr "Copie e cole este URL no seu site ClassicPress para incorporar"
 
 #: wp-includes/embed.php:1179
 msgid "HTML"
-msgstr ""
+msgstr "HTML"
 
 #: wp-includes/embed.php:1182
 msgid "Copy and paste this code into your site to embed"
@@ -6426,7 +6426,7 @@ msgstr "É necessária uma estrutura de etiquetas quando usa ligações permanen
 
 #: wp-includes/formatting.php:5054
 msgid "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/customize-permalinks/#choosing-your-permalink-structure"
 
 #. translators: 1: Option name, 2: Error code.
 #: wp-includes/formatting.php:5082
@@ -6462,7 +6462,7 @@ msgstr ""
 #: wp-includes/functions.php:345
 msgctxt "decline months names: on or off"
 msgid "off"
-msgstr ""
+msgstr "off"
 
 #. translators: Unit symbol for yottabyte.
 #: wp-includes/functions.php:465
@@ -6517,7 +6517,7 @@ msgstr ""
 #: wp-includes/functions.php:486
 msgctxt "unit symbol"
 msgid "B"
-msgstr ""
+msgstr "B"
 
 #. translators: %s: Time duration in minute or minutes.
 #: wp-includes/functions.php:556
@@ -6693,7 +6693,7 @@ msgstr "Escolha uma cidade"
 #: wp-includes/functions.php:6620
 #: wp-includes/functions.php:6625
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: wp-includes/functions.php:6629
 msgid "Manual Offsets"
@@ -6760,7 +6760,7 @@ msgstr "Este conteúdo foi eliminado pelo autor."
 #: wp-includes/functions.php:8209
 msgctxt "localized PHP upgrade information page"
 msgid "https://wordpress.org/support/update-php/"
-msgstr ""
+msgstr "https://wordpress.org/support/update-php/"
 
 #. translators: %s: Default Update PHP page URL.
 #: wp-includes/functions.php:8259
@@ -6775,7 +6775,7 @@ msgstr ""
 #. translators: Documentation explaining HTTPS and why it should be used.
 #: wp-includes/functions.php:8375
 msgid "https://wordpress.org/documentation/article/why-should-i-use-https/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/why-should-i-use-https/"
 
 #. translators: 1: Function name, 2: A variable type, like "boolean" or "integer".
 #: wp-includes/functions.php:8574
@@ -6943,12 +6943,12 @@ msgstr "Arquivo"
 #: wp-includes/general-template.php:1680
 msgctxt "category archive title prefix"
 msgid "Category:"
-msgstr ""
+msgstr "Categoria:"
 
 #: wp-includes/general-template.php:1683
 msgctxt "tag archive title prefix"
 msgid "Tag:"
-msgstr ""
+msgstr "Marcação:"
 
 #: wp-includes/general-template.php:1686
 msgctxt "author archive title prefix"
@@ -6958,12 +6958,12 @@ msgstr "Autor:"
 #: wp-includes/general-template.php:1689
 msgctxt "date archive title prefix"
 msgid "Year:"
-msgstr ""
+msgstr "Ano:"
 
 #: wp-includes/general-template.php:1692
 msgctxt "date archive title prefix"
 msgid "Month:"
-msgstr ""
+msgstr "Mês:"
 
 #: wp-includes/general-template.php:1694
 #: wp-includes/general-template.php:2358
@@ -6974,7 +6974,7 @@ msgstr "j \\d\\e F, Y"
 #: wp-includes/general-template.php:1695
 msgctxt "date archive title prefix"
 msgid "Day:"
-msgstr ""
+msgstr "Dia:"
 
 #: wp-includes/general-template.php:1698
 msgctxt "post format archive title"
@@ -7024,7 +7024,7 @@ msgstr "Conversas"
 #: wp-includes/general-template.php:1718
 msgctxt "post type archive title prefix"
 msgid "Archives:"
-msgstr ""
+msgstr "Arquivos:"
 
 #. translators: %s: Taxonomy singular name.
 #: wp-includes/general-template.php:1726
@@ -7070,7 +7070,7 @@ msgstr ""
 #: wp-includes/general-template.php:3123
 msgctxt "feed link"
 msgid "&raquo;"
-msgstr ""
+msgstr "&raquo;"
 
 #. translators: 1: Blog title, 2: Separator (raquo).
 #: wp-includes/general-template.php:3073
@@ -7380,7 +7380,7 @@ msgstr "Acções"
 #: wp-includes/media-template.php:177
 msgctxt "media modal menu"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:188
@@ -7444,12 +7444,12 @@ msgstr "Dimensões de imagem sugeridas: %1$s por %2$s píxeis."
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:343
 msgid "List view"
-msgstr ""
+msgstr "Visão em lista"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:351
 msgid "Grid view"
-msgstr ""
+msgstr "Visão em grade"
 
 #: wp-includes/media-template.php:359
 #: wp-includes/script-loader.php:821
@@ -7460,7 +7460,7 @@ msgstr "A carregar"
 #: wp-includes/media-template.php:370
 #: wp-includes/widgets.php:2282
 msgid "Dismiss errors"
-msgstr ""
+msgstr "Dispensar erros"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/media-template.php:382
@@ -7504,11 +7504,11 @@ msgstr "Carregado em:"
 
 #: wp-includes/media-template.php:452
 msgid "Uploaded by:"
-msgstr ""
+msgstr "Enviado por:"
 
 #: wp-includes/media-template.php:461
 msgid "Uploaded to:"
-msgstr ""
+msgstr "Enviado para:"
 
 #: wp-includes/media-template.php:469
 #: wp-includes/widgets.php:2187
@@ -12614,7 +12614,7 @@ msgstr "Ligação inserida."
 #: wp-includes/script-loader.php:1066
 msgctxt "minimum input length for searching post links"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: wp-includes/script-loader.php:1088
 msgid "Activate &amp; Publish"
@@ -14862,7 +14862,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:341
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:342
 msgid "4"
@@ -15053,7 +15053,7 @@ msgstr "Criado com ClassicPress, plataforma de publicação pessoal sem&acirc;nt
 #: wp-includes/widgets/class-wp-widget-meta.php:86
 msgctxt "meta widget link text"
 msgid "ClassicPress.net"
-msgstr ""
+msgstr "ClassicPress.net"
 
 #: wp-includes/widgets/class-wp-widget-pages.php:27
 msgid "A list of your site&#8217;s Pages."

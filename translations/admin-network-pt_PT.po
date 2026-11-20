@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 57\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2026-11-19 18:55\n"
+"PO-Revision-Date: 2026-11-20 00:52\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -29,7 +29,7 @@ msgstr "Arquivado"
 #: wp-admin/network/site-info.php:199
 msgctxt "site"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:40
 #: wp-admin/network/site-info.php:200
@@ -120,7 +120,7 @@ msgstr "Filtrar"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:358
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:359
 #: wp-admin/network/site-info.php:192
@@ -492,7 +492,7 @@ msgstr "Registado"
 #: wp-admin/network/sites.php:21
 #: wp-admin/network/sites.php:374
 msgid "Sites"
-msgstr ""
+msgstr "Sites"
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:285
 msgid "Super Admin"
@@ -1072,7 +1072,7 @@ msgstr ""
 #: wp-admin/network/menu.php:103
 #: wp-admin/network/settings.php:507
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: wp-admin/network/menu.php:105
 msgid "Installed Plugins"

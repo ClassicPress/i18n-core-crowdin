@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 57\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-11-19 18:55\n"
+"PO-Revision-Date: 2026-11-20 00:51\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -59,8 +59,8 @@ msgstr[1] "Tous <span class=\"count\">(%s)</span> "
 #, php-format
 msgid "Public <span class=\"count\">(%s)</span>"
 msgid_plural "Public <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] "Publics <span class=\"count\">(%s)</span>"
+msgstr[0] "Publics <span class=\"count\">(%s)</span>"
+msgstr[1] ""
 
 #. translators: %s: Number of sites.
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:234

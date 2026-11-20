@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2026-11-19 18:54\n"
+"PO-Revision-Date: 2026-11-20 00:50\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -5639,7 +5639,7 @@ msgstr "לא ניתן לשמור את רשימת אירועי ה-cron."
 #: wp-includes/customize/class-wp-customize-background-image-control.php:135
 #: wp-includes/customize/class-wp-customize-background-image-control.php:139
 msgid "Select Image"
-msgstr ""
+msgstr "בחירת תמונה"
 
 #: wp-includes/customize/class-wp-customize-background-image-control.php:106
 #: wp-includes/customize/class-wp-customize-background-image-control.php:112
@@ -7057,7 +7057,7 @@ msgstr ""
 #, php-format
 msgctxt "archive title"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s לפוסט %2$s"
 
 #. translators: 1: Month name, 2: 4-digit year.
 #. translators: 1: Month, 2: Year.
@@ -7072,7 +7072,7 @@ msgstr ""
 #, php-format
 msgctxt "calendar caption"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "%1$s לפוסט %2$s"
 
 #. translators: Post calendar label. %s: Date.
 #: wp-includes/general-template.php:2360
@@ -12322,7 +12322,7 @@ msgstr ""
 #: wp-includes/script-loader.php:831
 #: wp-includes/script-loader.php:834
 msgid "Retry"
-msgstr ""
+msgstr "נסה שוב"
 
 #: wp-includes/script-loader.php:835
 msgid "Upload"
@@ -12862,11 +12862,11 @@ msgstr ""
 #: wp-includes/widgets/class-wp-widget-media-image.php:514
 #: wp-includes/widgets/class-wp-widget-text.php:519
 msgid "Error:"
-msgstr ""
+msgstr "שגיאה:"
 
 #: wp-includes/script-loader.php:1217
 msgid "Dismiss this notice."
-msgstr ""
+msgstr "סגור התראה זו."
 
 #: wp-includes/script-loader.php:1218
 msgid "Tag successfully deleted."
@@ -12874,19 +12874,19 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1272
 msgid "Add New Theme"
-msgstr ""
+msgstr "תבנית חדשה"
 
 #: wp-includes/script-loader.php:1273
 msgid "Search Themes"
-msgstr ""
+msgstr "חיפוש תבניות"
 
 #: wp-includes/script-loader.php:1274
 msgid "Search themes..."
-msgstr ""
+msgstr "חיפוש תבניות..."
 
 #: wp-includes/script-loader.php:1275
 msgid "Upload Theme"
-msgstr ""
+msgstr "העלאת תבנית"
 
 #. translators: %s: Support forums URL.
 #: wp-includes/script-loader.php:1279
@@ -12896,13 +12896,13 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1282
 msgid "Try Again"
-msgstr ""
+msgstr "לנסות שוב"
 
 #. translators: %d: Number of themes.
 #: wp-includes/script-loader.php:1284
 #, php-format
 msgid "Number of Themes found: %d"
-msgstr ""
+msgstr "מספר התבניות שנמצאו: %d"
 
 #: wp-includes/script-loader.php:1285
 msgid "No themes found. Try a different search."
@@ -12910,16 +12910,16 @@ msgstr "לא נמצאו תבניות. נסה חיפוש אחר."
 
 #: wp-includes/script-loader.php:1286
 msgid "Collapse Sidebar"
-msgstr ""
+msgstr "מזער סרגל צדדי"
 
 #: wp-includes/script-loader.php:1287
 msgid "Expand Sidebar"
-msgstr ""
+msgstr "הצד תפריט צדדי"
 
 #. translators: Hidden accessibility text.
 #: wp-includes/script-loader.php:1289
 msgid "Select one or more Theme features to filter by"
-msgstr ""
+msgstr "בחירת מאפייני תבנית לסינון"
 
 #: wp-includes/script-loader.php:1290
 msgid "Version"
@@ -12927,11 +12927,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1291
 msgid "Installing..."
-msgstr ""
+msgstr "מתקין..."
 
 #: wp-includes/script-loader.php:1292
 msgid "Installing... please wait."
-msgstr ""
+msgstr "מתקין... נא להמתין."
 
 #: wp-includes/script-loader.php:1293
 msgid "Installed"
@@ -12951,53 +12951,53 @@ msgstr ""
 
 #: wp-includes/script-loader.php:1298
 msgid "Updated!"
-msgstr ""
+msgstr "עודכן!"
 
 #: wp-includes/script-loader.php:1335
 #, php-format
 msgid "%s plugin successfully updated."
-msgstr ""
+msgstr "תוסף %s עודכן בהצלחה."
 
 #: wp-includes/script-loader.php:1336
 #, php-format
 msgid "%s plugins successfully updated."
-msgstr ""
+msgstr "%s תוספים עודכנו בהצלחה."
 
 #: wp-includes/script-loader.php:1337
 #, php-format
 msgid "%s theme successfully updated."
-msgstr ""
+msgstr "תבנית %s עודכנה בהצלחה."
 
 #: wp-includes/script-loader.php:1338
 #, php-format
 msgid "%s themes successfully updated."
-msgstr ""
+msgstr "%s תבניות עודכנו בהצלחה."
 
 #: wp-includes/script-loader.php:1339
 #, php-format
 msgid "%s update failed."
-msgstr ""
+msgstr "עדכון %s נכשל."
 
 #: wp-includes/script-loader.php:1340
 #, php-format
 msgid "%s updates failed."
-msgstr ""
+msgstr "%s עדכונים נכשלו."
 
 #: wp-includes/script-loader.php:1341
 msgid "Show more details"
-msgstr ""
+msgstr "פרטים נוספים"
 
 #: wp-includes/script-loader.php:1342
 #, php-format
 msgctxt "plugin"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "%s נמחק בהצלחה."
 
 #: wp-includes/script-loader.php:1343
 #, php-format
 msgctxt "theme"
 msgid "%s was successfully deleted."
-msgstr ""
+msgstr "%s נמחק בהצלחה."
 
 #: wp-includes/script-loader.php:1395
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:285
@@ -14531,15 +14531,15 @@ msgstr ""
 
 #: wp-includes/widgets.php:2090
 msgid "First page"
-msgstr ""
+msgstr "עמוד ראשון"
 
 #: wp-includes/widgets.php:2096
 msgid "Current Page"
-msgstr ""
+msgstr "עמוד נוכחי"
 
 #: wp-includes/widgets.php:2116
 msgid "Last page"
-msgstr ""
+msgstr "עמוד אחרון"
 
 #: wp-includes/widgets.php:2198
 msgid "Edit details"
@@ -14562,7 +14562,7 @@ msgstr ""
 
 #: wp-includes/widgets.php:2234
 msgid "File URL"
-msgstr ""
+msgstr "כתובת הקובץ"
 
 #: wp-includes/widgets.php:2244
 msgid "Taxonomy updated successfully!"
@@ -14901,7 +14901,7 @@ msgstr ""
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:339
 msgid "1"
-msgstr ""
+msgstr "0"
 
 #: wp-includes/widgets/class-wp-widget-media-gallery.php:340
 msgid "2"

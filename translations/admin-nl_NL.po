@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 55\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-11-23 19:54\n"
+"PO-Revision-Date: 2026-11-24 01:51\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -1476,7 +1476,7 @@ msgstr "Klaar"
 #: wp-admin/customize.php:1489
 #: wp-admin/customize.php:2461
 msgid "When in reorder mode, additional controls to reorder menu items will be available in the items list above."
-msgstr "In de herschikkingsmodus zijn er extra besturingen om items in het menu te herschikken beschikbaar in de lijst met items hierboven."
+msgstr "In de herschikkingsmodus zijn extra knoppen beschikbaar in de items lijst hierboven, om de menu-items te herschikken."
 
 #: wp-admin/customize.php:1499
 #: wp-admin/customize.php:2471
@@ -1569,7 +1569,7 @@ msgstr "Widgets herschikken"
 
 #: wp-admin/customize.php:1827
 msgid "When in reorder mode, additional controls to reorder widgets will be available in the widgets list above."
-msgstr "In de herschikkingsmodus zijn extra knoppen beschikbaar in de widget lijst hierboven, om de widgets te herschikken."
+msgstr "In de herschikkingsmodus zijn extra knoppen beschikbaar in de widgets lijst hierboven, om de widgets te herschikken."
 
 #: wp-admin/customize.php:1851
 #: wp-admin/customize.php:1855

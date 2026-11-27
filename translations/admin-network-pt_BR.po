@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 57\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-11-20 00:52\n"
+"PO-Revision-Date: 2026-11-27 18:52\n"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:38
 #: wp-admin/network/site-info.php:198
@@ -648,7 +648,7 @@ msgstr "Selecione um usuário"
 #: wp-admin/includes/ms.php:957
 #, php-format
 msgid "Site: %s"
-msgstr ""
+msgstr "Site: %s"
 
 #: wp-admin/includes/ms.php:961
 msgid "Delete all content."
@@ -747,7 +747,7 @@ msgstr "Para mais informações:"
 #: wp-admin/network/site-new.php:32
 #: wp-admin/network/sites.php:46
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-sites-screen/\">Documentation on Site Management</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-sites-screen/\">Documentação sobre o gerenciamento de sites</a>"
 
 #: wp-admin/includes/ms.php:1167
 #: wp-admin/network/index.php:57
@@ -756,7 +756,7 @@ msgstr ""
 #: wp-admin/network/user-new.php:30
 #: wp-admin/network/users.php:243
 msgid "<a href=\"https://wordpress.org/support/forum/multisite/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/support/forum/multisite/\">Fóruns de suporte</a>"
 
 #: wp-admin/ms-delete-site.php:13
 #: wp-admin/my-sites.php:13
@@ -795,13 +795,23 @@ msgid "Hello ###USERNAME###,\n\n"
 "Thank you for using the site,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Olá, ###USERNAME###,\n\n"
+"Você clicou recentemente no link \"Excluir site\" em seu site e preencheu um\n"
+"formulário naquela página.\n\n"
+"Se você realmente deseja excluir seu site, clique no link abaixo. Não será\n"
+"solicitada uma nova confirmação, então só clique neste link se tiver certeza absoluta:\n"
+"###URL_DELETE###\n\n"
+"Se você excluir seu site, considere criar um novo site aqui algum dia\n"
+"no futuro! (Mas lembre-se de que seu site e seu nome de usuário atuais serão perdidos para sempre.)\n\n"
+"Obrigado por usar o site,\n"
+"Equipe ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: %s: Site title.
 #: wp-admin/ms-delete-site.php:93
 #, php-format
 msgid "[%s] Delete My Site"
-msgstr ""
+msgstr "[%s] Excluir meu site"
 
 #: wp-admin/ms-delete-site.php:104
 msgid "Thank you. Please check your email for a link to confirm your action. Your site will not be deleted until this link is clicked."
@@ -821,7 +831,7 @@ msgstr "Lembre-se, uma vez excluído, seu site não poderá ser restaurado."
 #: wp-admin/ms-delete-site.php:127
 #, php-format
 msgid "I'm sure I want to permanently delete my site, and I am aware I can never get it back or use %s again."
-msgstr ""
+msgstr "Tenho certeza de que quero excluir permanentemente meu site e estou ciente de que nunca poderei recuperá-lo nem usar %s novamente."
 
 #: wp-admin/ms-delete-site.php:132
 msgid "Delete My Site Permanently"
@@ -860,7 +870,7 @@ msgstr "Esta tela mostra ao usuário todos os seus sites nesta rede e também pe
 
 #: wp-admin/my-sites.php:52
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">Documentation on My Sites</a>"
-msgstr ""
+msgstr "<a href=\"https://codex.wordpress.org/Dashboard_My_Sites_Screen\">Documentação sobre Meus sites</a>"
 
 #: wp-admin/my-sites.php:53
 #: wp-admin/network.php:83
@@ -941,7 +951,7 @@ msgstr "A escolha de sites em subdiretórios fica desativada se a instalação t
 #: wp-admin/network.php:68
 #: wp-admin/network.php:81
 msgid "<a href=\"https://wordpress.org/documentation/article/create-a-network/\">Documentation on Creating a Network</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/create-a-network/\">Documentação sobre a criação de uma rede</a>"
 
 #: wp-admin/network.php:69
 #: wp-admin/network.php:82
@@ -1006,7 +1016,7 @@ msgstr "Tarefas rápidas"
 
 #: wp-admin/network/index.php:56
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin/\">Documentation on the Network Admin</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin/\">Documentação sobre a administração da rede</a>"
 
 #: wp-admin/network/menu.php:13
 msgid "Home"
@@ -1061,7 +1071,7 @@ msgstr "Adicionar nova"
 
 #: wp-admin/network/menu.php:82
 msgid "Theme File Editor"
-msgstr ""
+msgstr "Editor de arquivos de tema"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/network/menu.php:88
@@ -1126,7 +1136,7 @@ msgstr "Superadministradores não podem mais ser adicionados pela tela Opções.
 
 #: wp-admin/network/settings.php:64
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-settings-screen/\">Documentation on Network Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-settings-screen/\">Documentação sobre as configurações da rede</a>"
 
 #: wp-admin/network/settings.php:156
 msgid "Operational Settings"
@@ -1428,7 +1438,7 @@ msgstr "Não é possível criar um site vazio."
 #: wp-admin/network/site-new.php:59
 #, php-format
 msgid "The following words are reserved for use by ClassicPress functions and cannot be used as site names: %s"
-msgstr ""
+msgstr "As seguintes palavras são reservadas para uso por funções do ClassicPress e não podem ser usadas como nomes de sites: %s"
 
 #: wp-admin/network/site-new.php:87
 msgid "Missing or invalid site address."
@@ -1937,7 +1947,7 @@ msgstr "As atualizações automáticas podem ser ativadas ou desativadas para ca
 
 #: wp-admin/network/themes.php:313
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "Observação: temas e plugins de terceiros, ou código personalizado, podem substituir o agendamento do ClassicPress."
 
 #: wp-admin/network/themes.php:317
 msgid "<a href=\"https://wordpress.org/documentation/article/plugins-themes-auto-updates/\">Documentation on Auto-updates</a>"
@@ -2017,7 +2027,7 @@ msgstr "Se este processo falhar por qualquer motivo, quando os usuários acessar
 
 #: wp-admin/network/upgrade.php:32
 msgid "<a href=\"https://wordpress.org/documentation/article/network-admin-updates-screen/\">Documentation on Upgrade Network</a>"
-msgstr ""
+msgstr "<a href=\"https://wordpress.org/documentation/article/network-admin-updates-screen/\">Documentação sobre a atualização da rede</a>"
 
 #: wp-admin/network/upgrade.php:74
 msgid "All done!"
@@ -2043,7 +2053,7 @@ msgstr "Necessária a atualização do banco de dados"
 
 #: wp-admin/network/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to individually upgrade the sites in your network."
-msgstr ""
+msgstr "O ClassicPress foi atualizado! A próxima e última etapa é atualizar individualmente os sites da sua rede."
 
 #: wp-admin/network/upgrade.php:144
 msgid "The database update process may take a little while, so please be patient."
@@ -2146,7 +2156,7 @@ msgstr "A constante %1$s <strong>está obsoleta</strong>. Utilize a constante bo
 #: wp-includes/ms-default-constants.php:151
 #, php-format
 msgid "<strong>Conflicting values for the constants %1$s and %2$s.</strong> The value of %2$s will be assumed to be your subdomain configuration setting."
-msgstr ""
+msgstr "<strong>Valores conflitantes para as constantes %1$s e %2$s.</strong> O valor de %2$s será considerado como sua configuração de subdomínio."
 
 #: wp-includes/ms-deprecated.php:277
 #: wp-includes/ms-deprecated.php:296
@@ -2160,11 +2170,11 @@ msgstr "Sem permissão para ver este item."
 
 #: wp-includes/ms-deprecated.php:406
 msgid "<strong>Error:</strong> Site URL you&#8217;ve entered is already taken."
-msgstr ""
+msgstr "<strong>Erro:</strong> o URL do site informado já está em uso."
 
 #: wp-includes/ms-deprecated.php:415
 msgid "<strong>Error:</strong> There was a problem creating site entry."
-msgstr ""
+msgstr "<strong>Erro:</strong> ocorreu um problema ao criar o registro do site."
 
 #: wp-includes/ms-deprecated.php:619
 msgid "Already Installed"
@@ -2205,7 +2215,7 @@ msgstr "Digite um endereço de e-mail válido."
 
 #: wp-includes/ms-functions.php:493
 msgid "You cannot use that email address to signup. There are problems with them blocking some emails from ClassicPress. Please use another email provider."
-msgstr ""
+msgstr "Você não pode usar esse endereço de e-mail para se registrar. Esse provedor tem problemas ao bloquear alguns e-mails do ClassicPress. Use outro provedor de e-mail."
 
 #: wp-includes/ms-functions.php:497
 msgid "Username must be at least 4 characters."
@@ -2295,7 +2305,11 @@ msgid "To activate your site, please click the following link:\n\n"
 "After you activate, you will receive *another email* with your login.\n\n"
 "After you activate, you can visit your site here:\n\n"
 "%2$s"
-msgstr ""
+msgstr "Para ativar seu site, clique no link a seguir:\n\n"
+"%1$s\n\n"
+"Depois de ativá-lo, você receberá *outro e-mail* com seus dados de acesso.\n\n"
+"Depois de ativá-lo, você poderá visitar seu site aqui:\n\n"
+"%2$s"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site URL.
 #: wp-includes/ms-functions.php:1012
@@ -2386,7 +2400,15 @@ msgid "Hello USERNAME,\n\n"
 "Log in here: BLOG_URLwp-login.php\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Olá, USERNAME,\n\n"
+"Seu novo site SITE_NAME foi configurado com sucesso em:\n"
+"BLOG_URL\n\n"
+"Você pode acessar a conta de administrador com as seguintes informações:\n\n"
+"Nome de usuário: USERNAME\n"
+"Senha: PASSWORD\n"
+"Acesse aqui: BLOG_URLwp-login.php\n\n"
+"Esperamos que você goste do seu novo site. Obrigado!\n\n"
+"--Equipe SITE_NAME"
 
 #. translators: New site notification email subject. 1: Network title, 2: New site title.
 #: wp-includes/ms-functions.php:1678
@@ -2423,19 +2445,19 @@ msgstr "Novo %1$s Usuário: %2$s"
 
 #: wp-includes/ms-functions.php:2122
 msgid "Unable to submit this form, please try again."
-msgstr ""
+msgstr "Não foi possível enviar este formulário. Tente novamente."
 
 #. translators: %s: Home URL.
 #: wp-includes/ms-functions.php:2187
 #, php-format
 msgid "An error occurred adding you to this site. Go to the <a href=\"%s\">homepage</a>."
-msgstr ""
+msgstr "Ocorreu um erro ao adicionar você a este site. Vá para a <a href=\"%s\">página inicial</a>."
 
 #. translators: 1: Home URL, 2: Admin URL.
 #: wp-includes/ms-functions.php:2196
 #, php-format
 msgid "You have been added to this site. Please visit the <a href=\"%1$s\">homepage</a> or <a href=\"%2$s\">log in</a> using your username and password."
-msgstr ""
+msgstr "Você foi adicionado a este site. Visite a <a href=\"%1$s\">página inicial</a> ou <a href=\"%2$s\">acesse</a> usando seu nome de usuário e senha."
 
 #: wp-includes/ms-functions.php:2200
 msgid "ClassicPress &rsaquo; Success"
@@ -2451,7 +2473,14 @@ msgid "Hello USERNAME,\n\n"
 "LOGINLINK\n\n"
 "Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Olá, USERNAME,\n\n"
+"Sua nova conta foi configurada.\n\n"
+"Você pode acessá-la com as seguintes informações:\n"
+"Nome de usuário: USERNAME\n"
+"Senha: PASSWORD\n"
+"LOGINLINK\n\n"
+"Obrigado!\n\n"
+"--Equipe SITE_NAME"
 
 #. translators: Do not translate USERNAME, ADMIN_URL, EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2735
@@ -2466,13 +2495,23 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Olá, ###USERNAME###,\n\n"
+"Você solicitou recentemente a alteração do endereço de e-mail do\n"
+"administrador da sua rede.\n\n"
+"Se isso estiver correto, clique no link a seguir para alterá-lo:\n"
+"###ADMIN_URL###\n\n"
+"Você pode ignorar e excluir este e-mail com segurança se não quiser\n"
+"realizar esta ação.\n\n"
+"Este e-mail foi enviado para ###EMAIL###\n\n"
+"Atenciosamente,\n"
+"Equipe ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: Email change notification email subject. %s: Network title.
 #: wp-includes/ms-functions.php:2787
 #, php-format
 msgid "[%s] Network Admin Email Change Request"
-msgstr ""
+msgstr "[%s] Solicitação de alteração do e-mail do administrador da rede"
 
 #. translators: Do not translate OLD_EMAIL, NEW_EMAIL, SITENAME, SITEURL: those are placeholders.
 #: wp-includes/ms-functions.php:2833
@@ -2495,7 +2534,7 @@ msgstr "Olá,\n\n"
 #: wp-includes/ms-functions.php:2850
 #, php-format
 msgid "[%s] Network Admin Email Changed"
-msgstr ""
+msgstr "[%s] E-mail do administrador da rede alterado"
 
 #: wp-includes/ms-load.php:99
 msgid "This site is no longer available."
@@ -2521,13 +2560,13 @@ msgstr "Se o seu site não for exibido, contate o dono desta rede."
 
 #: wp-includes/ms-load.php:475
 msgid "If you are the owner of this network please check that your host&#8217;s database server is running properly and all tables are error free."
-msgstr ""
+msgstr "Se você é o dono desta rede, verifique se o servidor de banco de dados da sua hospedagem está funcionando corretamente e se todas as tabelas estão livres de erros."
 
 #. translators: %s: Table name.
 #: wp-includes/ms-load.php:480
 #, php-format
 msgid "<strong>Database tables are missing.</strong> This means that your host&#8217;s database server is not running, ClassicPress was not installed properly, or someone deleted %s. You really should look at your database now."
-msgstr ""
+msgstr "<strong>Há tabelas ausentes no banco de dados.</strong> Isso significa que o servidor de banco de dados da sua hospedagem não está funcionando, que o ClassicPress não foi instalado corretamente ou que alguém excluiu %s. Você realmente deveria verificar seu banco de dados agora."
 
 #. translators: 1: Site URL, 2: Table name, 3: Database name.
 #: wp-includes/ms-load.php:486
@@ -2543,86 +2582,86 @@ msgstr "O que eu faço agora?"
 #: wp-includes/ms-load.php:495
 #, php-format
 msgid "Read the <a href=\"%s\" target=\"_blank\">Debugging a ClassicPress Network</a> article. Some of the suggestions there may help you figure out what went wrong."
-msgstr ""
+msgstr "Leia o artigo <a href=\"%s\" target=\"_blank\">Depurando uma rede ClassicPress</a>. Algumas das sugestões podem ajudar você a descobrir o que deu errado."
 
 #: wp-includes/ms-load.php:496
 msgid "https://wordpress.org/documentation/article/debugging-a-wordpress-network/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/debugging-a-wordpress-network/"
 
 #: wp-includes/ms-load.php:498
 msgid "If you are still stuck with this message, then check that your database contains the following tables:"
-msgstr ""
+msgstr "Se você continua vendo esta mensagem, verifique se o seu banco de dados contém as seguintes tabelas:"
 
 #: wp-includes/ms-site.php:69
 msgid "Could not insert site into the database."
-msgstr ""
+msgstr "Não foi possível inserir o site no banco de dados."
 
 #: wp-includes/ms-site.php:79
 msgid "Could not retrieve site data."
-msgstr ""
+msgstr "Não foi possível recuperar os dados do site."
 
 #: wp-includes/ms-site.php:161
 #: wp-includes/ms-site.php:214
 #: wp-includes/ms-site.php:658
 #: wp-includes/ms-site.php:789
 msgid "Site ID must not be empty."
-msgstr ""
+msgstr "O ID do site não pode estar vazio."
 
 #: wp-includes/ms-site.php:166
 #: wp-includes/ms-site.php:219
 msgid "Site does not exist."
-msgstr ""
+msgstr "O site não existe."
 
 #: wp-includes/ms-site.php:180
 msgid "Could not update site in the database."
-msgstr ""
+msgstr "Não foi possível atualizar o site no banco de dados."
 
 #: wp-includes/ms-site.php:269
 msgid "Could not delete site from the database."
-msgstr ""
+msgstr "Não foi possível excluir o site do banco de dados."
 
 #: wp-includes/ms-site.php:579
 msgid "Site domain must not be empty."
-msgstr ""
+msgstr "O domínio do site não pode estar vazio."
 
 #: wp-includes/ms-site.php:584
 msgid "Site path must not be empty."
-msgstr ""
+msgstr "O caminho do site não pode estar vazio."
 
 #: wp-includes/ms-site.php:589
 msgid "Site network ID must be provided."
-msgstr ""
+msgstr "O ID de rede do site precisa ser informado."
 
 #: wp-includes/ms-site.php:596
 msgid "Both registration and last updated dates must be provided."
-msgstr ""
+msgstr "As datas de registro e de última atualização precisam ser informadas."
 
 #: wp-includes/ms-site.php:607
 msgid "Both registration and last updated dates must be valid dates."
-msgstr ""
+msgstr "As datas de registro e de última atualização precisam ser datas válidas."
 
 #: wp-includes/ms-site.php:663
 #: wp-includes/ms-site.php:794
 msgid "Site with the ID does not exist."
-msgstr ""
+msgstr "Não existe um site com esse ID."
 
 #: wp-includes/ms-site.php:667
 msgid "The site appears to be already initialized."
-msgstr ""
+msgstr "O site parece já ter sido inicializado."
 
 #. translators: %d: Site ID.
 #: wp-includes/ms-site.php:680
 #, php-format
 msgid "Site %d"
-msgstr ""
+msgstr "Site %d"
 
 #: wp-includes/ms-site.php:798
 msgid "The site appears to be already uninitialized."
-msgstr ""
+msgstr "O site parece já ter sido desinicializado."
 
 #. translators: %s: Database table name.
 #: wp-includes/ms-site.php:1319
 #, php-format
 msgid "The %s table is not installed. Please run the network database upgrade."
-msgstr ""
+msgstr "A tabela %s não está instalada. Execute a atualização do banco de dados da rede."
 

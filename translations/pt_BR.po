@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-11-20 00:51\n"
+"PO-Revision-Date: 2026-11-27 12:46\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -15065,7 +15065,7 @@ msgstr "Editar mídia"
 msgid "Media Widget (%d)"
 msgid_plural "Media Widget (%d)"
 msgstr[0] "Widget de mídia (%d)"
-msgstr[1] "Widgets de mídia (%d)"
+msgstr[1] ""
 
 #: wp-includes/widgets/class-wp-widget-media.php:464
 msgid "Media Widget"

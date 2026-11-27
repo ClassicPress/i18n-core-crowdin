@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 55\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-11-20 00:52\n"
+"PO-Revision-Date: 2026-11-27 18:52\n"
 
 #. translators: Page title of the About ClassicPress page in the admin.
 #: wp-admin/about.php:15
@@ -56,7 +56,7 @@ msgstr "Versão %s"
 #: wp-admin/about.php:38
 #, php-format
 msgid "You must visit the <a href=\"%s\">Updates Page</a> and Press the Re-Install Now button to complete the migration process!"
-msgstr ""
+msgstr "Você precisa visitar a <a href=\"%s\">página de atualizações</a> e clicar no botão Reinstalar agora para concluir o processo de migração!"
 
 #. translators: link to "business-focused CMS" article
 #. translators: link to ClassicPress website
@@ -67,7 +67,7 @@ msgstr ""
 #: wp-admin/privacy.php:30
 #, php-format
 msgid "Thank you for using ClassicPress, the <a href=\"%s\">CMS for Creators</a>."
-msgstr ""
+msgstr "Obrigado por usar o ClassicPress, o <a href=\"%s\">CMS para criadores</a>."
 
 #: wp-admin/about.php:55
 #: wp-admin/credits.php:37
@@ -135,7 +135,7 @@ msgstr "Esta tem sido uma base sólida para milhões de sítios Web há muitos a
 #: wp-admin/about.php:104
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins and themes that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins or Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "Com o plugin <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a>, você tem acesso a plugins e temas criados para o ClassicPress. Eles aparecerão nas telas Plugins > Instalar plugins CP ou Aparência > Instalar temas CP."
 
 #: wp-admin/about.php:110
 msgid "Join our growing community"
@@ -145,19 +145,19 @@ msgstr "Junte-se à nossa comunidade que cresce a cada dia"
 #: wp-admin/about.php:115
 #, php-format
 msgid "For general discussion about ClassicPress, <a href=\"%1$s\"><strong>join our Zulip group</strong></a> or our <a href=\"%2$s\"><strong>community forum</strong></a>."
-msgstr ""
+msgstr "Para discussões gerais sobre o ClassicPress, <a href=\"%1$s\"><strong>participe do nosso grupo no Zulip</strong></a> ou do nosso <a href=\"%2$s\"><strong>fórum da comunidade</strong></a>."
 
 #. translators: 1: link to ClassicPress docs, 2: link to ClassicPress support forum
 #: wp-admin/about.php:125
 #, php-format
 msgid "If you need help with something else, please see our <a href=\"%1$s\"><strong>documentation</strong></a>. If your question is not answered there, you can make a new post on our <a href=\"%2$s\"><strong>support forum</strong></a>."
-msgstr ""
+msgstr "Se precisar de ajuda com outra coisa, consulte nossa <a href=\"%1$s\"><strong>documentação</strong></a>. Se sua dúvida não for respondida lá, você pode criar um novo tópico em nosso <a href=\"%2$s\"><strong>fórum de suporte</strong></a>."
 
 #. translators: 1: link to ClassicPress GitHub repository, 2: link to GitHub issues list
 #: wp-admin/about.php:135
 #, php-format
 msgid "ClassicPress is developed <a href=\"%1$s\"><strong>on GitHub</strong></a>. For specific bug reports or technical suggestions, see the <a href=\"%2$s\"><strong>issues list</strong></a> and add your report if it is not already present."
-msgstr ""
+msgstr "O ClassicPress é desenvolvido <a href=\"%1$s\"><strong>no GitHub</strong></a>. Para relatar bugs específicos ou fazer sugestões técnicas, consulte a <a href=\"%2$s\"><strong>lista de issues</strong></a> e adicione seu relato se ele ainda não estiver lá."
 
 #: wp-admin/about.php:142
 msgid "ClassicPress changelogs"
@@ -183,7 +183,7 @@ msgstr "ClassicPress 1.0.1 - %s"
 #: wp-admin/about.php:167
 #, php-format
 msgid "The changes and new features included in current and previous versions of ClassicPress can be found in our <a href=\"%s\"><strong>Release Notes subforum</strong></a>."
-msgstr ""
+msgstr "As alterações e os novos recursos incluídos nas versões atual e anteriores do ClassicPress podem ser encontrados em nosso <a href=\"%s\"><strong>subfórum de notas de versão</strong></a>."
 
 #: wp-admin/about.php:172
 msgid "ClassicPress 1.0.0"
@@ -261,7 +261,7 @@ msgstr "https://wordpress.org/support/wordpress-version/version-%s/"
 #: wp-admin/about.php:215
 #, php-format
 msgid "<strong>WordPress version %s</strong> addressed one security issue."
-msgstr ""
+msgstr "A <strong>versão %s do WordPress</strong> corrigiu um problema de segurança."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
 #: wp-admin/about.php:395
@@ -722,7 +722,7 @@ msgstr "Para mais informações:"
 #: wp-admin/comment.php:71
 #: wp-admin/edit-comments.php:209
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/comments-screen/\">Documentation on Comments</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/comments-screen/\">Documentação sobre comentários</a>"
 
 #: wp-admin/comment.php:72
 #: wp-admin/edit-comments.php:210
@@ -764,7 +764,7 @@ msgstr ""
 #: wp-admin/users.php:84
 #: wp-admin/widgets-form.php:56
 msgid "<a href=\"https://forums.classicpress.net/c/support/\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support/\">Fóruns de suporte</a>"
 
 #: wp-admin/comment.php:79
 #: wp-admin/comment.php:291
@@ -1054,7 +1054,7 @@ msgstr "A verificação de segurança falhou."
 
 #: wp-admin/customize.php:59
 msgid "Insufficient permissions."
-msgstr ""
+msgstr "Permissões insuficientes."
 
 #: wp-admin/customize.php:339
 msgid "Customizer"
@@ -1159,11 +1159,11 @@ msgstr "O Personalizador permite que você visualize as alterações em seu site
 
 #: wp-admin/customize.php:465
 msgid "Documentation on Customizer"
-msgstr ""
+msgstr "Documentação sobre o Personalizador"
 
 #: wp-admin/customize.php:471
 msgid "Customizer sections"
-msgstr ""
+msgstr "Seções do Personalizador"
 
 #: wp-admin/customize.php:481
 msgid "Active theme"
@@ -1231,7 +1231,7 @@ msgstr "Pesquisar temas&hellip;"
 
 #: wp-admin/customize.php:609
 msgid "Search themes…"
-msgstr ""
+msgstr "Procurar temas…"
 
 #: wp-admin/customize.php:615
 #: wp-admin/plugin-install.php:103
@@ -1243,7 +1243,7 @@ msgstr "Os resultados da pesquisa serão atualizados à medida que você digita.
 
 #: wp-admin/customize.php:623
 msgid "themes"
-msgstr ""
+msgstr "temas"
 
 #: wp-admin/customize.php:627
 msgid "Filter themes"
@@ -1258,15 +1258,15 @@ msgstr "Filtrar temas (%s)"
 #: wp-admin/customize.php:674
 #, php-format
 msgid "An unexpected error occurred. Something may be wrong with WordPress.org, ClassicPress.net or this server’s configuration. If you continue to have problems, please try the %s."
-msgstr ""
+msgstr "Ocorreu um erro inesperado. Pode haver algum problema com o WordPress.org, o ClassicPress.net ou a configuração deste servidor. Se os problemas continuarem, consulte os %s."
 
 #: wp-admin/customize.php:678
 msgid "support forums"
-msgstr ""
+msgstr "fóruns de suporte"
 
 #: wp-admin/customize.php:764
 msgid "Menu Properties"
-msgstr ""
+msgstr "Propriedades do menu"
 
 #: wp-admin/customize.php:779
 #: wp-admin/includes/nav-menu.php:1133
@@ -1393,7 +1393,7 @@ msgstr "(Se você planeja usar um <a href=\"%1$s\" %2$s>widget%3$s</a> de menu, 
 
 #: wp-admin/customize.php:1261
 msgid "https://docs.classicpress.net/user-guides/using-classicpress/widgets-screen/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/using-classicpress/widgets-screen/"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:1266
@@ -1424,7 +1424,7 @@ msgstr "(abre em uma nova aba)"
 #: wp-admin/customize.php:2498
 #, php-format
 msgid "(Current: <span class=\"current-menu-location-name-main-nav\">%s</span>)"
-msgstr ""
+msgstr "(Atual: <span class=\"current-menu-location-name-main-nav\">%s</span>)"
 
 #: wp-admin/customize.php:1312
 msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
@@ -1436,12 +1436,12 @@ msgstr "Seguinte"
 
 #: wp-admin/customize.php:1403
 msgid "This menu is currently empty. Add items using the Add Items panel."
-msgstr ""
+msgstr "Este menu está vazio no momento. Adicione itens usando o painel Adicionar Itens."
 
 #: wp-admin/customize.php:1463
 #: wp-admin/customize.php:2435
 msgid "Time to add some links! Click “Add Items” to start putting pages, categories, and custom links in your menu. Add as many things as you would like."
-msgstr ""
+msgstr "Hora de adicionar alguns links! Clique em “Adicionar Itens” para começar a incluir páginas, categorias e links personalizados no seu menu. Adicione quantos itens quiser."
 
 #: wp-admin/customize.php:1468
 #: wp-admin/customize.php:2440
@@ -1481,7 +1481,7 @@ msgstr "Quando estiver em modo de reorganização, controles adicionais para reo
 #: wp-admin/customize.php:1499
 #: wp-admin/customize.php:2471
 msgid "Here’s where this menu appears. If you would like to change that, pick another location."
-msgstr ""
+msgstr "É aqui que este menu aparece. Se quiser mudar isso, escolha outro local."
 
 #: wp-admin/customize.php:1553
 #: wp-admin/customize.php:2522
@@ -1590,7 +1590,7 @@ msgstr "Entrar no modo de pré-visualização para dispositivo móvel"
 
 #: wp-admin/customize.php:1907
 msgid "Publish status"
-msgstr ""
+msgstr "Status de publicação"
 
 #: wp-admin/customize.php:1911
 msgid "Action"
@@ -1629,54 +1629,54 @@ msgstr "Mês"
 
 #: wp-admin/customize.php:1967
 msgid "1-Jan"
-msgstr ""
+msgstr "1-jan"
 
 #: wp-admin/customize.php:1968
 msgid "2-Feb"
-msgstr ""
+msgstr "2-fev"
 
 #: wp-admin/customize.php:1969
 msgid "3-Mar"
-msgstr ""
+msgstr "3-mar"
 
 #: wp-admin/customize.php:1970
 msgid "4-Apr"
-msgstr ""
+msgstr "4-abr"
 
 #: wp-admin/customize.php:1971
 msgid "5-May"
-msgstr ""
+msgstr "5-mai"
 
 #: wp-admin/customize.php:1972
 msgid "6-Jun"
-msgstr ""
+msgstr "6-jun"
 
 #: wp-admin/customize.php:1973
 msgid "7-Jul"
-msgstr ""
+msgstr "7-jul"
 
 #: wp-admin/customize.php:1974
 msgid "8-Aug"
-msgstr ""
+msgstr "8-ago"
 
 #: wp-admin/customize.php:1975
 msgid "9-Sep"
-msgstr ""
+msgstr "9-set"
 
 #: wp-admin/customize.php:1976
 #: wp-admin/includes/class-wp-media-list-table.php:1242
 msgid "10-Oct"
-msgstr ""
+msgstr "10-out"
 
 #: wp-admin/customize.php:1977
 #: wp-admin/includes/class-wp-media-list-table.php:1243
 msgid "11-Nov"
-msgstr ""
+msgstr "11-nov"
 
 #: wp-admin/customize.php:1978
 #: wp-admin/includes/class-wp-media-list-table.php:1244
 msgid "12-Dec"
-msgstr ""
+msgstr "12-dez"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/customize.php:1981
@@ -1710,7 +1710,7 @@ msgstr "Minuto"
 
 #: wp-admin/customize.php:2038
 msgid "Morning or Afternoon"
-msgstr ""
+msgstr "Manhã ou tarde"
 
 #: wp-admin/customize.php:2041
 msgid "AM"
@@ -1726,7 +1726,7 @@ msgstr "Descartar modificações"
 
 #: wp-admin/customize.php:2062
 msgid "This will permanently discard all unsaved customizer changes."
-msgstr ""
+msgstr "Isso descartará permanentemente todas as alterações não salvas no Personalizador."
 
 #: wp-admin/customize.php:2070
 msgid "Share Preview Link"
@@ -1756,11 +1756,11 @@ msgstr "Copiado"
 
 #: wp-admin/customize.php:2105
 msgid "Copy preview link to clipboard"
-msgstr ""
+msgstr "Copiar o link de visualização para a área de transferência"
 
 #: wp-admin/customize.php:2130
 msgid "Setting up your live preview. This might take a while."
-msgstr ""
+msgstr "Preparando sua visualização ao vivo. Isso pode demorar um pouco."
 
 #: wp-admin/customize.php:2133
 msgid "Site Preview"
@@ -1824,15 +1824,15 @@ msgstr "Fechar janela"
 
 #: wp-admin/customize.php:2200
 msgid "Customization lock notice"
-msgstr ""
+msgstr "Aviso de bloqueio da personalização"
 
 #: wp-admin/customize.php:2202
 msgid "Customizer locked"
-msgstr ""
+msgstr "Personalizador bloqueado"
 
 #: wp-admin/customize.php:2207
 msgid "is already customizing this site. Do you want to take over?"
-msgstr ""
+msgstr "já está personalizando este site. Deseja assumir o controle?"
 
 #: wp-admin/customize.php:2214
 #: wp-admin/includes/post.php:1858
@@ -1849,11 +1849,11 @@ msgstr "Mover um nível abaixo"
 
 #: wp-admin/customize.php:2246
 msgid "Remove Menu Item:"
-msgstr ""
+msgstr "Remover item de menu:"
 
 #: wp-admin/customize.php:2253
 msgid "Menu Item Settings"
-msgstr ""
+msgstr "Configurações do item de menu"
 
 #: wp-admin/customize.php:2262
 #: wp-admin/includes/class-walker-nav-menu-edit.php:202
@@ -1872,7 +1872,7 @@ msgstr "A descrição será exibida no menu se o tema ativo suportá-lo."
 
 #: wp-admin/customize.php:2366
 msgid "Original:"
-msgstr ""
+msgstr "Original:"
 
 #: wp-admin/customize.php:2370
 #: wp-admin/includes/class-walker-nav-menu-edit.php:286
@@ -2248,7 +2248,7 @@ msgstr "Editor de título e post"
 
 #: wp-admin/edit-form-advanced.php:313
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-add-new-screen/\">Documentation on Writing and Editing Posts</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-add-new-screen/\">Documentação sobre como escrever e editar posts</a>"
 
 #: wp-admin/edit-form-advanced.php:317
 #: wp-admin/edit.php:302
@@ -2265,7 +2265,7 @@ msgstr "Sobre páginas"
 
 #: wp-admin/edit-form-advanced.php:330
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/pages-add-new-screen/\">Documentation on Adding and Editing Pages</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/pages-add-new-screen/\">Documentação sobre como adicionar e editar páginas</a>"
 
 #: wp-admin/edit-form-advanced.php:339
 #: wp-admin/media.php:88
@@ -2292,7 +2292,7 @@ msgstr "Lembre-se de clicar em Atualizar Mídia para salvar os metadados inserid
 #: wp-admin/media.php:97
 #: wp-admin/upload.php:869
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/media-library-screen/\">Documentation on Media Library</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/media-library-screen/\">Documentação sobre a biblioteca de mídia</a>"
 
 #: wp-admin/edit-form-advanced.php:354
 msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
@@ -2300,7 +2300,7 @@ msgstr "Você pode enviar e inserir mídias (imagens, áudios, documentos, etc.)
 
 #: wp-admin/edit-form-advanced.php:355
 msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. <a href=\"https://docs.classicpress.net/user-guides/using-classicpress/embeds/\">Learn more about embeds</a>."
-msgstr ""
+msgstr "Você também pode incorporar mídia de muitos sites populares, como Twitter, YouTube, Flickr e outros, colando o URL da mídia em uma linha própria no conteúdo do seu post ou página. <a href=\"https://docs.classicpress.net/user-guides/using-classicpress/embeds/\">Saiba mais sobre incorporações</a>."
 
 #: wp-admin/edit-form-advanced.php:360
 msgid "Inserting Media"
@@ -2316,7 +2316,7 @@ msgstr "<strong>Publicar</strong> &mdash; Você pode configurar os termos da pub
 
 #: wp-admin/edit-form-advanced.php:373
 msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Your theme could enable all or some of 10 possible formats. <a href=\"https://docs.classicpress.net/user-guides/using-classicpress/post-formats/\">Learn more about each post format</a>."
-msgstr ""
+msgstr "<strong>Formato</strong>: os formatos de post definem como o seu tema exibirá um post específico. Por exemplo, você pode ter um post de blog <em>padrão</em>, com título e parágrafos, ou um <em>aside</em> curto, sem título e com um pequeno trecho de texto. Seu tema pode ativar todos ou alguns dos 10 formatos possíveis. <a href=\"https://docs.classicpress.net/user-guides/using-classicpress/post-formats/\">Saiba mais sobre cada formato de post</a>."
 
 #. translators: %s: Featured image.
 #: wp-admin/edit-form-advanced.php:379
@@ -2602,11 +2602,11 @@ msgstr "As caixas para nome do link, endereço web e descrição têm posições
 
 #: wp-admin/edit-link-form.php:70
 msgid "XFN stands for <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. ClassicPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
-msgstr ""
+msgstr "XFN significa <a href=\"https://gmpg.org/xfn/\">XHTML Friends Network</a> e é opcional. O ClassicPress permite gerar atributos XFN para mostrar sua relação com os autores/donos do site para o qual você está criando o link."
 
 #: wp-admin/edit-link-form.php:76
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/#adding-links\">Documentation on Creating Links</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/#adding-links\">Documentação sobre a criação de links</a>"
 
 #. translators: Add new links.
 #: wp-admin/edit-link-form.php:90
@@ -2636,7 +2636,7 @@ msgstr "Endereço (URL)"
 
 #: wp-admin/edit-link-form.php:134
 msgid "Example: <code>https://www.classicpress.net</code> &#8212; do not forget the <code>https://</code>"
-msgstr ""
+msgstr "Exemplo: <code>https://www.classicpress.net</code> &#8212; não se esqueça do <code>https://</code>"
 
 #: wp-admin/edit-link-form.php:142
 msgid "This will be shown when someone hovers over the link in the blogroll, or optionally below the link."
@@ -2786,15 +2786,15 @@ msgstr "Adicionando tags"
 
 #: wp-admin/edit-tags.php:305
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-categories-screen/\">Documentation on Categories</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-categories-screen/\">Documentação sobre categorias</a>"
 
 #: wp-admin/edit-tags.php:307
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/#link-categories\">Documentation on Link Categories</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/#link-categories\">Documentação sobre categorias de links</a>"
 
 #: wp-admin/edit-tags.php:309
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-tags-screen/\">Documentation on Tags</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-tags-screen/\">Documentação sobre tags</a>"
 
 #. translators: %s: Default category.
 #: wp-admin/edit-tags.php:621
@@ -2926,7 +2926,7 @@ msgstr "Quando se usa Edição em Massa, você pode alterar os metadados (catego
 
 #: wp-admin/edit.php:292
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-screen/\">Documentation on Managing Posts</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/posts-screen/\">Documentação sobre o gerenciamento de posts</a>"
 
 #: wp-admin/edit.php:308
 msgid "Managing Pages"
@@ -2942,7 +2942,7 @@ msgstr "Você também pode executar os mesmos tipos de ações, incluindo reduzi
 
 #: wp-admin/edit.php:317
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/pages-screen/\">Documentation on Managing Pages</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/pages-screen/\">Documentação sobre o gerenciamento de páginas</a>"
 
 #. translators: %s: Number of posts.
 #: wp-admin/edit.php:350
@@ -3053,11 +3053,11 @@ msgstr "As leis de privacidade em todo o mundo exigem que empresas e serviços o
 #: wp-admin/erase-personal-data.php:27
 #: wp-admin/export-personal-data.php:27
 msgid "The tool associates data stored in ClassicPress with a supplied email address, including profile data and comments."
-msgstr ""
+msgstr "A ferramenta associa os dados armazenados no ClassicPress a um endereço de e-mail informado, incluindo dados de perfil e comentários."
 
 #: wp-admin/erase-personal-data.php:28
 msgid "Note: As this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with erasure requests. For example, you are also responsible for ensuring that data collected by or stored with the 3rd party services your organization uses gets deleted."
-msgstr ""
+msgstr "Observação: como esta ferramenta só coleta dados do ClassicPress e dos plugins participantes, talvez você precise fazer mais para atender a solicitações de exclusão. Por exemplo, você também é responsável por garantir que os dados coletados ou armazenados pelos serviços de terceiros que sua organização usa sejam excluídos."
 
 #: wp-admin/erase-personal-data.php:35
 #: wp-admin/export-personal-data.php:35
@@ -3066,7 +3066,7 @@ msgstr "Dados por padrão"
 
 #: wp-admin/erase-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from logged-in users but then deletes it or anonymizes it. That data can include: "
-msgstr ""
+msgstr "O ClassicPress coleta (mas <em>nunca</em> publica) uma quantidade limitada de dados de usuários conectados, e depois os exclui ou os torna anônimos. Esses dados podem incluir: "
 
 #: wp-admin/erase-personal-data.php:38
 #: wp-admin/export-personal-data.php:38
@@ -3084,7 +3084,7 @@ msgstr "<strong>Tokens de sessão</strong> &mdash; Informação de conta de aces
 
 #: wp-admin/erase-personal-data.php:41
 msgid "<strong>Comments</strong> &mdash; ClassicPress does not delete comments. The software does anonymize (but, again, <em>never</em> publishes) the associated Email Address, IP Address, and User Agent (Browser/OS)."
-msgstr ""
+msgstr "<strong>Comentários</strong>: o ClassicPress não exclui comentários. O software torna anônimos (mas, novamente, <em>nunca</em> publica) o endereço de e-mail, o endereço IP e o user agent (navegador/sistema operacional) associados."
 
 #: wp-admin/erase-personal-data.php:42
 msgid "<strong>Media</strong> &mdash; A list of URLs for all media file uploads made by the user."
@@ -3103,15 +3103,15 @@ msgstr "Dados do plugin"
 
 #: wp-admin/erase-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Erase Personal Data request should delete data from plugins as well."
-msgstr ""
+msgstr "Muitos plugins podem coletar ou armazenar dados pessoais no banco de dados do ClassicPress ou remotamente. Qualquer solicitação de exclusão de dados pessoais também deve excluir os dados dos plugins."
 
 #: wp-admin/erase-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">learn more about how to add support for the Personal Data Eraser to a plugin here</a>."
-msgstr ""
+msgstr "Os autores de plugins podem <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-eraser-to-your-plugin/\" target=\"_blank\">saber mais aqui sobre como adicionar compatibilidade com a ferramenta de exclusão de dados pessoais a um plugin</a>."
 
 #: wp-admin/erase-personal-data.php:65
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/erase-personal-data-screen/\">Documentation on Erase Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/erase-personal-data-screen/\">Documentação sobre a exclusão de dados pessoais</a>"
 
 #: wp-admin/erase-personal-data.php:94
 msgid "Filter erase personal data list"
@@ -3177,11 +3177,11 @@ msgstr "As leis de privacidade em todo o mundo exigem que empresas e serviços o
 
 #: wp-admin/export-personal-data.php:28
 msgid "Note: Since this tool only gathers data from ClassicPress and participating plugins, you may need to do more to comply with export requests. For example, you should also send the requester some of the data collected from or stored with the 3rd party services your organization uses."
-msgstr ""
+msgstr "Observação: como esta ferramenta só coleta dados do ClassicPress e dos plugins participantes, talvez você precise fazer mais para atender a solicitações de exportação. Por exemplo, você também deve enviar ao solicitante alguns dos dados coletados ou armazenados pelos serviços de terceiros que sua organização usa."
 
 #: wp-admin/export-personal-data.php:37
 msgid "ClassicPress collects (but <em>never</em> publishes) a limited amount of data from registered users who have logged in to the site. Generally, these users are people who contribute to the site in some way -- content, store management, and so on. With rare exceptions, these users do not include occasional visitors who might have registered to comment on articles or buy products. The data ClassicPress retains can include:"
-msgstr ""
+msgstr "O ClassicPress coleta (mas <em>nunca</em> publica) uma quantidade limitada de dados de usuários registrados que acessaram o site. Geralmente, esses usuários são pessoas que contribuem com o site de alguma forma: conteúdo, gerenciamento de loja etc. Com raras exceções, esses usuários não incluem visitantes ocasionais que possam ter se registrado para comentar artigos ou comprar produtos. Os dados que o ClassicPress mantém podem incluir:"
 
 #: wp-admin/export-personal-data.php:39
 msgid "<strong>Community Events Location</strong> &mdash; The IP Address of the user, which populates the Upcoming Community Events dashboard widget with relevant information."
@@ -3203,15 +3203,15 @@ msgstr "Se você não tem certeza, verifique a documentação do plugin ou entre
 
 #: wp-admin/export-personal-data.php:57
 msgid "Many plugins may collect or store personal data either in the ClassicPress database or remotely. Any Export Personal Data request should include data from plugins as well."
-msgstr ""
+msgstr "Muitos plugins podem coletar ou armazenar dados pessoais no banco de dados do ClassicPress ou remotamente. Qualquer solicitação de exportação de dados pessoais também deve incluir os dados dos plugins."
 
 #: wp-admin/export-personal-data.php:58
 msgid "Plugin authors can <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">learn more about how to add the Personal Data Exporter to a plugin here</a>."
-msgstr ""
+msgstr "Os autores de plugins podem <a href=\"https://developer.wordpress.org/plugins/privacy/adding-the-personal-data-exporter-to-your-plugin/\" target=\"_blank\">saber mais aqui sobre como adicionar a ferramenta de exportação de dados pessoais a um plugin</a>."
 
 #: wp-admin/export-personal-data.php:65
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/export-personal-data-screen/\">Documentation on Export Personal Data</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/export-personal-data-screen/\">Documentação sobre a exportação de dados pessoais</a>"
 
 #: wp-admin/export-personal-data.php:94
 msgid "Filter export personal data list"
@@ -3256,7 +3256,7 @@ msgstr "Uma vez criado, o arquivo WXR pode ser importado por qualquer outro site
 
 #: wp-admin/export.php:59
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/export-screen/\">Documentation on Export</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/export-screen/\">Documentação sobre a exportação</a>"
 
 #: wp-admin/export.php:173
 msgid "When you click the button below ClassicPress will create an XML file for you to save to your computer."
@@ -3264,7 +3264,7 @@ msgstr "Quando você clicar no botão abaixo, o ClassicPress irá criar um arqui
 
 #: wp-admin/export.php:174
 msgid "This format, which is called ClassicPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr ""
+msgstr "Este formato, chamado ClassicPress eXtended RSS ou WXR, conterá seus posts, páginas, comentários, campos personalizados, categorias e tags."
 
 #: wp-admin/export.php:175
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another ClassicPress installation to import the content from this site."
@@ -3408,7 +3408,7 @@ msgstr "Distribuir cópias de suas versões modificadas a outros."
 #: wp-admin/freedoms.php:64
 #, php-format
 msgid "Every plugin and theme in the <a href=\"%1$s\">ClassicPress Directory</a> is licensed under the <a href=\"%2$s\">GPL</a> or a similarly free and compatible license."
-msgstr ""
+msgstr "Todos os plugins e temas do <a href=\"%1$s\">Diretório do ClassicPress</a> são licenciados sob a <a href=\"%2$s\">GPL</a> ou uma licença livre e compatível semelhante."
 
 #: wp-admin/freedoms.php:71
 msgid "If you get a plugin or theme from another source, make sure it has the right license. If it does not respect the ClassicPress license, we do not recommend it."
@@ -3428,13 +3428,13 @@ msgstr "Em vesões prévias do ClassicPress, todos os importadores eram embutido
 
 #: wp-admin/import.php:32
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/tools-screen/\">Documentation on Import</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/tools-screen/\">Documentação sobre a importação</a>"
 
 #: wp-admin/import.php:33
 #: wp-admin/includes/class-custom-background.php:101
 #: wp-admin/update-core.php:888
 msgid "<a href=\"https://forums.classicpress.net/c/support\">Support forums</a>"
-msgstr ""
+msgstr "<a href=\"https://forums.classicpress.net/c/support\">Fóruns de suporte</a>"
 
 #: wp-admin/import.php:64
 #: wp-admin/includes/network.php:116
@@ -3608,7 +3608,7 @@ msgstr "Digite o texto do seu comentário."
 
 #: wp-admin/includes/ajax-actions.php:1502
 msgid "Menu Item"
-msgstr ""
+msgstr "Item de menu"
 
 #. translators: 1: Post creation date, 2: Post creation time.
 #: wp-admin/includes/ajax-actions.php:1559
@@ -3749,23 +3749,23 @@ msgstr "O arquivo enviado não é uma imagem válida. Tente novamente."
 
 #: wp-admin/includes/ajax-actions.php:2614
 msgid "You do not have permission to do this."
-msgstr ""
+msgstr "Você não tem permissão para fazer isso."
 
 #: wp-admin/includes/ajax-actions.php:2619
 msgid "The upload media category folder has been updated."
-msgstr ""
+msgstr "A pasta de categoria de mídia para envios foi atualizada."
 
 #: wp-admin/includes/ajax-actions.php:2633
 msgid "You need to create a media category before you can upload a file."
-msgstr ""
+msgstr "Você precisa criar uma categoria de mídia antes de enviar um arquivo."
 
 #: wp-admin/includes/ajax-actions.php:2645
 msgid "You need to choose a media category folder before you can upload a file."
-msgstr ""
+msgstr "Você precisa escolher uma pasta de categoria de mídia antes de enviar um arquivo."
 
 #: wp-admin/includes/ajax-actions.php:2654
 msgid "You need to choose a valid media category folder before you can upload a file."
-msgstr ""
+msgstr "Você precisa escolher uma pasta de categoria de mídia válida antes de enviar um arquivo."
 
 #. translators: %s: Attachment title.
 #. translators: %s: Post title.
@@ -3780,7 +3780,7 @@ msgstr "&#8220;%s&#8221; (Editar)"
 
 #: wp-admin/includes/ajax-actions.php:3490
 msgid "Select "
-msgstr ""
+msgstr "Selecionar "
 
 #: wp-admin/includes/ajax-actions.php:3493
 msgid "File"
@@ -3788,7 +3788,7 @@ msgstr "Arquivo"
 
 #: wp-admin/includes/ajax-actions.php:3497
 msgid "File name: "
-msgstr ""
+msgstr "Nome do arquivo: "
 
 #: wp-admin/includes/ajax-actions.php:3505
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:97
@@ -3804,7 +3804,7 @@ msgstr "Ver"
 #: wp-admin/includes/ajax-actions.php:3509
 #: wp-admin/includes/class-wp-media-list-table.php:1031
 msgid "Copy URL"
-msgstr ""
+msgstr "Copiar URL"
 
 #: wp-admin/includes/ajax-actions.php:3514
 #: wp-admin/includes/class-wp-media-list-table.php:1040
@@ -3841,7 +3841,7 @@ msgstr "Imagem destacada"
 
 #: wp-admin/includes/ajax-actions.php:3531
 msgid "Used In"
-msgstr ""
+msgstr "Usado em"
 
 #: wp-admin/includes/ajax-actions.php:3533
 msgid "Uploaded to"
@@ -3870,19 +3870,19 @@ msgstr "Legenda"
 
 #: wp-admin/includes/ajax-actions.php:3840
 msgid "Current "
-msgstr ""
+msgstr "Atual "
 
 #: wp-admin/includes/ajax-actions.php:3862
 #: wp-admin/includes/ajax-actions.php:3875
 #: wp-admin/revision.php:188
 msgid "Autosave by "
-msgstr ""
+msgstr "Salvamento automático por "
 
 #: wp-admin/includes/ajax-actions.php:3862
 #: wp-admin/includes/ajax-actions.php:3875
 #: wp-admin/revision.php:186
 msgid "Revision by "
-msgstr ""
+msgstr "Revisão por "
 
 #. translators: %s: Human-readable time difference.
 #: wp-admin/includes/ajax-actions.php:3865
@@ -3920,7 +3920,7 @@ msgstr "Detalhes do tema: %s"
 #: wp-admin/includes/ajax-actions.php:4073
 #, php-format
 msgid "Screenshot of theme: %s"
-msgstr ""
+msgstr "Captura de tela do tema: %s"
 
 #: wp-admin/includes/ajax-actions.php:4099
 msgid "Installed"
@@ -4120,7 +4120,7 @@ msgstr "Instalar %s"
 
 #: wp-admin/includes/ajax-actions.php:4223
 msgid "Install & Preview"
-msgstr ""
+msgstr "Instalar e visualizar"
 
 #. translators: %s: Theme name.
 #: wp-admin/includes/ajax-actions.php:4227
@@ -4505,7 +4505,7 @@ msgstr "Não foi possível inserir o link no banco de dados"
 #: wp-admin/includes/bookmark.php:351
 #, php-format
 msgid "If you are looking to use the link manager, please enable it in the <a href=\"%s\">General Settings</a>."
-msgstr ""
+msgstr "Se quiser usar o gerenciador de links, ative-o nas <a href=\"%s\">Configurações gerais</a>."
 
 #. translators: %s: A link to activate the Link Manager plugin.
 #: wp-admin/includes/bookmark.php:366
@@ -4529,7 +4529,7 @@ msgstr "Ir para página de plugins"
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:66
 #: wp-admin/includes/class-language-pack-upgrader-skin.php:80
 msgid "Go to ClassicPress Updates page"
-msgstr ""
+msgstr "Ir para a página de atualizações do ClassicPress"
 
 #. translators: 1: Theme name, 2: Number of the theme, 3: Total number of themes being updated.
 #: wp-admin/includes/class-bulk-theme-upgrader-skin.php:34
@@ -4629,24 +4629,24 @@ msgstr "A atualização não pode ser instalada porque não foi possível copiar
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:25
 msgid "Revision ID"
-msgstr ""
+msgstr "ID da revisão"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:27
 msgid "Revised by"
-msgstr ""
+msgstr "Revisado por"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:28
 msgid "Date of Revision"
-msgstr ""
+msgstr "Data da revisão"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:29
 msgid "View in Modal"
-msgstr ""
+msgstr "Ver em janela modal"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:69
 #, php-format
 msgid "Select Revision %1$d"
-msgstr ""
+msgstr "Selecionar a revisão %1$d"
 
 #: wp-admin/includes/class-cp-post-revisions-list-table.php:180
 #: wp-admin/includes/class-wp-theme-install-list-table.php:395
@@ -4677,7 +4677,7 @@ msgstr "Não esqueça de clicar no botão Salvar alterações quando terminar."
 
 #: wp-admin/includes/class-custom-background.php:100
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/appearance-background-screen/\">Documentation on Custom Background</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/appearance-background-screen/\">Documentação sobre fundo personalizado</a>"
 
 #: wp-admin/includes/class-custom-background.php:221
 #: wp-admin/includes/theme.php:313
@@ -4939,7 +4939,7 @@ msgstr "Não esqueça de clicar em &#8220;Salvar alterações&#8221; quando voc�
 
 #: wp-admin/includes/class-custom-image-header.php:137
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/appearance-header-screen/\">Documentation on Custom Header</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/appearance-header-screen/\">Documentação sobre cabeçalho personalizado</a>"
 
 #: wp-admin/includes/class-custom-image-header.php:317
 msgid "<strong>Random:</strong> Show a different image on each page."
@@ -5084,7 +5084,7 @@ msgstr "Algo deu errado."
 #: wp-admin/includes/class-custom-image-header.php:826
 #: wp-admin/includes/class-custom-image-header.php:1012
 msgid "The active theme does not support uploading a custom header image."
-msgstr ""
+msgstr "O tema ativo não suporta o envio de uma imagem de cabeçalho personalizada."
 
 #: wp-admin/includes/class-custom-image-header.php:905
 #: wp-admin/includes/class-custom-image-header.php:1064
@@ -5236,7 +5236,7 @@ msgstr "Nome do plugin"
 #: wp-admin/includes/class-wp-debug-data.php:1190
 #: wp-admin/themes.php:242
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: wp-admin/includes/class-plugin-installer-skin.php:219
 #: wp-admin/includes/class-theme-installer-skin.php:242
@@ -5275,7 +5275,7 @@ msgstr "A versão atual do PHP no seu servidor é %1$s, entretanto o plugin envi
 #: wp-admin/includes/class-plugin-upgrader.php:470
 #, php-format
 msgid "Your ClassicPress version is %1$s, however the uploaded plugin requires %2$s."
-msgstr ""
+msgstr "Sua versão do ClassicPress é %1$s, mas o plugin enviado requer %2$s."
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-plugin-installer-skin.php:295
@@ -5288,7 +5288,7 @@ msgstr "Você está enviando uma versão antiga de um plugin instalado. Você po
 #: wp-admin/includes/class-theme-installer-skin.php:331
 #: wp-admin/includes/class-theme-installer-skin.php:337
 msgid "https://wordpress.org/documentation/article/wordpress-backups/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/wordpress-backups/"
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-plugin-installer-skin.php:301
@@ -5479,13 +5479,13 @@ msgstr "A versão atual do PHP no seu servidor é %1$s, entretanto o tema enviad
 #: wp-admin/includes/class-theme-upgrader.php:628
 #, php-format
 msgid "Your ClassicPress version is %1$s, however the uploaded theme requires %2$s."
-msgstr ""
+msgstr "Sua versão do ClassicPress é %1$s, mas o tema enviado requer %2$s."
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-theme-installer-skin.php:330
 #, php-format
 msgid "You are uploading an older version of the active theme. You can continue to install the older version, but be sure to <a href=\"%s\">back up your database and files</a> first."
-msgstr ""
+msgstr "Você está enviando uma versão mais antiga do tema ativo. Você pode continuar e instalar a versão mais antiga, mas não se esqueça de <a href=\"%s\">fazer um backup do banco de dados e dos arquivos</a> antes."
 
 #. translators: %s: Documentation URL.
 #: wp-admin/includes/class-theme-installer-skin.php:336
@@ -5496,7 +5496,7 @@ msgstr "Você está atualizando um tema. Tenha certeza de <a href=\"%s\">fazer u
 #: wp-admin/includes/class-theme-installer-skin.php:348
 msgctxt "theme"
 msgid "Replace active with uploaded"
-msgstr ""
+msgstr "Substituir o ativo pelo enviado"
 
 #: wp-admin/includes/class-theme-upgrader-skin.php:44
 #: wp-admin/update.php:243
@@ -5641,7 +5641,7 @@ msgstr "subitem"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:183
 msgid "Move menu item"
-msgstr ""
+msgstr "Mover item de menu"
 
 #: wp-admin/includes/class-walker-nav-menu-edit.php:220
 msgid "CSS Classes (optional)"
@@ -5696,7 +5696,7 @@ msgstr "Revogar todas as senhas de aplicação"
 
 #: wp-admin/includes/class-wp-application-passwords-list-table.php:230
 msgid "Just now"
-msgstr ""
+msgstr "Agora mesmo"
 
 #. translators: %s: The "$dir" argument.
 #: wp-admin/includes/class-wp-automatic-updater.php:81
@@ -5750,7 +5750,7 @@ msgstr "Falha na instalação."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:481
 msgid "ClassicPress updated successfully."
-msgstr ""
+msgstr "ClassicPress atualizado com sucesso."
 
 #. translators: Site updated notification email subject. 1: Site title, 2: ClassicPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:769
@@ -5774,7 +5774,7 @@ msgstr "[%1$s] URGENTE: Seu site pode estar fora do ar devido a uma falha na atu
 #: wp-admin/includes/class-wp-automatic-updater.php:797
 #, php-format
 msgid "Howdy! Your site at %1$s has been updated automatically to ClassicPress %2$s."
-msgstr ""
+msgstr "Olá! Seu site em %1$s foi atualizado automaticamente para o ClassicPress %2$s."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:803
 msgid "No further action is needed on your part."
@@ -5854,7 +5854,7 @@ msgstr "Manter seu site atualizado é importante por segurança. Também torna a
 
 #: wp-admin/includes/class-wp-automatic-updater.php:886
 msgid "Reach out to ClassicPress Core developers to ensure you'll never have this problem again."
-msgstr ""
+msgstr "Entre em contato com os desenvolvedores do núcleo do ClassicPress para garantir que você nunca mais tenha esse problema."
 
 #: wp-admin/includes/class-wp-automatic-updater.php:891
 msgid "You also have some plugins or themes with updates available. Update them now:"
@@ -5963,7 +5963,7 @@ msgstr "Confira seu site agora. É possível que tudo esteja funcionando. Se hou
 
 #: wp-admin/includes/class-wp-automatic-updater.php:1154
 msgid "These plugins failed to update:"
-msgstr ""
+msgstr "Não foi possível atualizar estes plugins:"
 
 #. translators: 1: Plugin name, 2: Current version number, 3: New version number, 4: Plugin URL.
 #: wp-admin/includes/class-wp-automatic-updater.php:1167
@@ -6019,7 +6019,7 @@ msgstr "Para gerenciar temas em seu site, visite a página de temas: %s"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:1311
 msgid "https://forums.classicpress.net/c/support/"
-msgstr ""
+msgstr "https://forums.classicpress.net/c/support/"
 
 #. translators: %s: Network home URL.
 #: wp-admin/includes/class-wp-automatic-updater.php:1369
@@ -6083,7 +6083,13 @@ msgid "BETA TESTING?\n"
 " * Open a thread in the support forums: https://forums.classicpress.net/c/support/\n"
 " * Or, if you're comfortable writing a bug report: https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
 "Thanks! -- The ClassicPress Team"
-msgstr ""
+msgstr "TESTANDO UMA VERSÃO BETA?\n"
+"=============\n\n"
+"Este e-mail de depuração é enviado quando você usa uma versão de desenvolvimento do ClassicPress.\n\n"
+"Se você acha que essas falhas podem ser causadas por um bug no ClassicPress, poderia relatá-lo?\n"
+" * Abra um tópico nos fóruns de suporte: https://forums.classicpress.net/c/support/\n"
+" * Ou, se você se sente à vontade para escrever um relatório de bug: https://github.com/ClassicPress/ClassicPress/issues/new/choose\n\n"
+"Obrigado! -- Equipe do ClassicPress"
 
 #. translators: Background update failed notification email subject. %s: Site title.
 #: wp-admin/includes/class-wp-automatic-updater.php:1455
@@ -6373,7 +6379,7 @@ msgstr "(Versão mais recente: %s)"
 #: wp-admin/setup-config.php:115
 #: wp-admin/upgrade.php:69
 msgid "ClassicPress"
-msgstr ""
+msgstr "ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:76
 #: wp-admin/options-general.php:367
@@ -6477,7 +6483,7 @@ msgstr "Drop-ins"
 #: wp-admin/includes/class-wp-plugins-list-table.php:677
 #, php-format
 msgid "Drop-ins are single files, found in the %s directory, that replace or enhance ClassicPress features in ways that are not possible for traditional plugins."
-msgstr ""
+msgstr "Drop-ins são arquivos individuais, localizados no diretório %s, que substituem ou aprimoram recursos do ClassicPress de formas que não são possíveis com plugins tradicionais."
 
 #: wp-admin/includes/class-wp-debug-data.php:154
 #: wp-admin/includes/theme.php:818
@@ -6564,11 +6570,11 @@ msgstr "Indefinido"
 
 #: wp-admin/includes/class-wp-debug-data.php:247
 msgid "ClassicPress Constants"
-msgstr ""
+msgstr "Constantes do ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:248
 msgid "These settings alter where and how parts of ClassicPress are loaded."
-msgstr ""
+msgstr "Estas configurações alteram onde e como partes do ClassicPress são carregadas."
 
 #: wp-admin/includes/class-wp-debug-data.php:346
 msgid "Filesystem Permissions"
@@ -6576,11 +6582,11 @@ msgstr "Permissões do sistema de arquivos"
 
 #: wp-admin/includes/class-wp-debug-data.php:347
 msgid "Shows whether ClassicPress is able to write to the directories it needs access to."
-msgstr ""
+msgstr "Mostra se o ClassicPress consegue gravar nos diretórios aos quais precisa ter acesso."
 
 #: wp-admin/includes/class-wp-debug-data.php:350
 msgid "The main ClassicPress directory"
-msgstr ""
+msgstr "O diretório principal do ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:351
 #: wp-admin/includes/class-wp-debug-data.php:356
@@ -6635,11 +6641,11 @@ msgstr "Carregando&hellip;"
 
 #: wp-admin/includes/class-wp-debug-data.php:415
 msgid "ClassicPress directory location"
-msgstr ""
+msgstr "Local do diretório do ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:419
 msgid "ClassicPress directory size"
-msgstr ""
+msgstr "Tamanho do diretório do ClassicPress"
 
 #: wp-admin/includes/class-wp-debug-data.php:424
 msgid "Uploads directory location"
@@ -6726,7 +6732,7 @@ msgstr "Real tamanho máximo de um arquivo"
 
 #: wp-admin/includes/class-wp-debug-data.php:548
 msgid "Max number of files allowed"
-msgstr ""
+msgstr "Número máximo de arquivos permitidos"
 
 #: wp-admin/includes/class-wp-debug-data.php:576
 msgid "Imagick Resource Limits"
@@ -6790,7 +6796,7 @@ msgstr "PHP SAPI"
 
 #: wp-admin/includes/class-wp-debug-data.php:699
 msgid "Unable to determine PHP SAPI"
-msgstr ""
+msgstr "Não foi possível determinar a SAPI do PHP"
 
 #: wp-admin/includes/class-wp-debug-data.php:706
 msgid "Server settings"
@@ -6852,7 +6858,7 @@ msgstr "Regras personalizadas foram adicionadas ao seu arquivo %s."
 #: wp-admin/includes/class-wp-debug-data.php:810
 #, php-format
 msgid "Your %s file contains only core ClassicPress features."
-msgstr ""
+msgstr "Seu arquivo %s contém apenas recursos nativos do ClassicPress."
 
 #: wp-admin/includes/class-wp-debug-data.php:814
 msgid ".htaccess rules"
@@ -6860,7 +6866,7 @@ msgstr "Regras .htaccess"
 
 #: wp-admin/includes/class-wp-debug-data.php:834
 msgid "Extension"
-msgstr ""
+msgstr "Extensão"
 
 #: wp-admin/includes/class-wp-debug-data.php:839
 msgid "Server version"
@@ -7304,7 +7310,7 @@ msgstr "Lixo"
 
 #: wp-admin/includes/class-wp-media-list-table.php:196
 msgid "Attach to post"
-msgstr ""
+msgstr "Anexar ao post"
 
 #: wp-admin/includes/class-wp-media-list-table.php:311
 msgid "No media files found in Trash."
@@ -7351,7 +7357,7 @@ msgstr "Imagem destacada"
 #: wp-admin/includes/class-wp-media-list-table.php:412
 msgctxt "column name"
 msgid "Used In"
-msgstr ""
+msgstr "Usado em"
 
 #: wp-admin/includes/class-wp-media-list-table.php:415
 msgctxt "column name"
@@ -7481,7 +7487,7 @@ msgstr "Separe as tags com vírgulas"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1171
 msgid "— No Change —"
-msgstr ""
+msgstr "— Sem alteração —"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1210
 #: wp-admin/includes/class-wp-posts-list-table.php:1624
@@ -7491,39 +7497,39 @@ msgstr "Edição rápida"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1233
 msgid "01-Jan"
-msgstr ""
+msgstr "01-jan"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1234
 msgid "02-Feb"
-msgstr ""
+msgstr "02-fev"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1235
 msgid "03-Mar"
-msgstr ""
+msgstr "03-mar"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1236
 msgid "04-Apr"
-msgstr ""
+msgstr "04-abr"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1237
 msgid "05-May"
-msgstr ""
+msgstr "05-mai"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1238
 msgid "06-Jun"
-msgstr ""
+msgstr "06-jun"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1239
 msgid "07-Jul"
-msgstr ""
+msgstr "07-jul"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1240
 msgid "08-Aug"
-msgstr ""
+msgstr "08-ago"
 
 #: wp-admin/includes/class-wp-media-list-table.php:1241
 msgid "09-Sep"
-msgstr ""
+msgstr "09-set"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:105
 #: wp-admin/includes/class-wp-theme-install-list-table.php:60
@@ -7599,7 +7605,7 @@ msgstr "Atualize agora"
 #: wp-admin/includes/plugin-install.php:943
 msgctxt "plugin"
 msgid "Cannot Update"
-msgstr ""
+msgstr "Não é possível atualizar"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:572
 msgctxt "plugin"
@@ -7643,12 +7649,12 @@ msgstr "Mais detalhes"
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:660
 #: wp-admin/includes/class-wp-plugins-list-table.php:1290
 msgid "This plugin does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Este plugin não funciona com as suas versões do ClassicPress e do PHP."
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:693
 #: wp-admin/includes/class-wp-plugins-list-table.php:1322
 msgid "This plugin does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Este plugin não funciona com a sua versão do ClassicPress."
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:703
 #: wp-admin/includes/class-wp-plugins-list-table.php:1331
@@ -8056,7 +8062,7 @@ msgstr "Modelo"
 #: wp-admin/includes/class-wp-posts-list-table.php:1831
 #: wp-admin/includes/meta-boxes.php:1079
 msgid "Default template"
-msgstr ""
+msgstr "Modelo padrão"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:1886
 #: wp-admin/includes/class-wp-posts-list-table.php:1899
@@ -8193,7 +8199,7 @@ msgstr "O texto de sugestão para política de privacidade foi alterado. <a href
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:336
 msgid "Need help putting together your new Privacy Policy page? Check out our guide for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr ""
+msgstr "Precisa de ajuda para montar sua nova página de política de privacidade? Confira nosso guia com recomendações sobre o conteúdo a incluir, junto com as políticas sugeridas pelos seus plugins e tema."
 
 #: wp-admin/includes/class-wp-privacy-policy-content.php:338
 msgid "View Privacy Policy Guide."
@@ -8375,7 +8381,7 @@ msgstr "Nesta subseção você deve descrever qual o serviço de analises que o 
 #. translators: Privacy policy tutorial.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:542
 msgid "By default ClassicPress does not collect any analytics data. However, many web hosting accounts collect some anonymous analytics data. You may also have installed a plugin that provides analytics services. In that case, add information from that plugin here."
-msgstr ""
+msgstr "Por padrão, o ClassicPress não coleta nenhum dado analítico. No entanto, muitas contas de hospedagem coletam alguns dados analíticos anônimos. Você também pode ter instalado um plugin que fornece serviços de análise. Nesse caso, adicione aqui as informações desse plugin."
 
 #. translators: Default privacy policy heading.
 #: wp-admin/includes/class-wp-privacy-policy-content.php:546
@@ -8631,7 +8637,7 @@ msgstr "Ativar o editor tela-cheia e a funcionalidade escrita sem distrações."
 #: wp-admin/includes/class-wp-screen.php:1034
 msgctxt "Admin Post Navigation"
 msgid "Enable Previous and Next buttons"
-msgstr ""
+msgstr "Ativar os botões Anterior e Próximo"
 
 #: wp-admin/includes/class-wp-screen.php:1094
 msgid "Screen Options Tab"
@@ -8754,7 +8760,7 @@ msgstr "Nenhum sistema de controle de versões foi detectado."
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:296
 msgid "Your installation of ClassicPress prompts for FTP credentials to perform updates."
-msgstr ""
+msgstr "Sua instalação do ClassicPress solicita credenciais de FTP para realizar atualizações."
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:297
 msgid "(Your site is performing updates over FTP due to file ownership. Talk to your hosting company.)"
@@ -8762,49 +8768,49 @@ msgstr "(Seu site está fazendo atualizações através de FTP devido à proprie
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:306
 msgid "Your installation of ClassicPress does not require FTP credentials to perform updates."
-msgstr ""
+msgstr "Sua instalação do ClassicPress não requer credenciais de FTP para realizar atualizações."
 
 #. translators: %s: ClassicPress version.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:356
 #, php-format
 msgid "Couldn't retrieve a list of the checksums for ClassicPress %s."
-msgstr ""
+msgstr "Não foi possível obter a lista de checksums do ClassicPress %s."
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:359
 msgid "This could mean that connections are failing to WordPress.org or ClassicPress.net."
-msgstr ""
+msgstr "Isso pode significar que as conexões com o WordPress.org ou o ClassicPress.net estão falhando."
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:385
 msgid "Some files are not writable by ClassicPress:"
-msgstr ""
+msgstr "Alguns arquivos não são graváveis pelo ClassicPress:"
 
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:390
 msgid "All of your ClassicPress files are writable."
-msgstr ""
+msgstr "Todos os seus arquivos do ClassicPress são graváveis."
 
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:415
 #, php-format
 msgid "ClassicPress development updates are blocked by the %s constant."
-msgstr ""
+msgstr "As atualizações de desenvolvimento do ClassicPress estão bloqueadas pela constante %s."
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:427
 #, php-format
 msgid "ClassicPress development updates are blocked by the %s filter."
-msgstr ""
+msgstr "As atualizações de desenvolvimento do ClassicPress estão bloqueadas pelo filtro %s."
 
 #. translators: %s: Name of the constant used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:450
 #, php-format
 msgid "ClassicPress security and maintenance releases are blocked by %s."
-msgstr ""
+msgstr "As versões de segurança e manutenção do ClassicPress estão bloqueadas por %s."
 
 #. translators: %s: Name of the filter used.
 #: wp-admin/includes/class-wp-site-health-auto-updates.php:462
 #, php-format
 msgid "ClassicPress security and maintenance releases are blocked by the %s filter."
-msgstr ""
+msgstr "As versões de segurança e manutenção do ClassicPress estão bloqueadas pelo filtro %s."
 
 #: wp-admin/includes/class-wp-site-health.php:259
 #: wp-admin/includes/class-wp-site-health.php:737
@@ -8831,7 +8837,7 @@ msgstr "Versão %s do ClassicPress"
 
 #: wp-admin/includes/class-wp-site-health.php:281
 msgid "Unable to check if any new versions of ClassicPress are available."
-msgstr ""
+msgstr "Não foi possível verificar se há novas versões do ClassicPress disponíveis."
 
 #: wp-admin/includes/class-wp-site-health.php:287
 msgid "Check for updates manually"
@@ -8841,15 +8847,15 @@ msgstr "Verificar atualizações manualmente"
 #: wp-admin/includes/class-wp-site-health.php:300
 #, php-format
 msgid "ClassicPress update available (%s)"
-msgstr ""
+msgstr "Atualização do ClassicPress disponível (%s)"
 
 #: wp-admin/includes/class-wp-site-health.php:307
 msgid "Install the latest version of ClassicPress"
-msgstr ""
+msgstr "Instale a versão mais recente do ClassicPress"
 
 #: wp-admin/includes/class-wp-site-health.php:315
 msgid "A new version of ClassicPress is available."
-msgstr ""
+msgstr "Uma nova versão do ClassicPress está disponível."
 
 #: wp-admin/includes/class-wp-site-health.php:320
 #: wp-admin/includes/class-wp-site-health.php:360
@@ -8876,11 +8882,11 @@ msgstr "Uma atualização menor está disponível para o seu site. Como atualiza
 #: wp-admin/includes/class-wp-site-health.php:330
 #, php-format
 msgid "Your version of ClassicPress (%s) is up to date"
-msgstr ""
+msgstr "Sua versão do ClassicPress (%s) está atualizada"
 
 #: wp-admin/includes/class-wp-site-health.php:336
 msgid "You are currently running the latest version of ClassicPress available, keep it up!"
-msgstr ""
+msgstr "Você está usando a versão mais recente do ClassicPress disponível. Continue assim!"
 
 #: wp-admin/includes/class-wp-site-health.php:357
 msgid "Your plugins are all up to date"
@@ -9010,7 +9016,7 @@ msgstr "Para melhorar a segurança do seu site, é recomendado remover os temas 
 #: wp-admin/includes/class-wp-site-health.php:656
 #, php-format
 msgid "To enhance your site&#8217;s security, you should consider removing any themes you are not using. You should keep %1$s, the default ClassicPress theme, %2$s, your active theme, and %3$s, its parent theme."
-msgstr ""
+msgstr "Para aumentar a segurança do seu site, considere remover os temas que você não está usando. Você deve manter %1$s, o tema padrão do ClassicPress, %2$s, seu tema ativo, e %3$s, o tema ascendente dele."
 
 #. translators: 1: The amount of inactive themes. 2: The currently active theme.
 #: wp-admin/includes/class-wp-site-health.php:674
@@ -9030,8 +9036,8 @@ msgstr "Recomendamos a remoção de qualquer tema que não esteja sendo usado pa
 #, php-format
 msgid "Your site has %1$d inactive theme, other than %2$s, the default ClassicPress theme, and %3$s, your active theme."
 msgid_plural "Your site has %1$d inactive themes, other than %2$s, the default ClassicPress theme, and %3$s, your active theme."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Seu site tem %1$d tema inativo, além de %2$s, o tema padrão do ClassicPress, e %3$s, seu tema ativo."
+msgstr[1] "Seu site tem %1$d temas inativos, além de %2$s, o tema padrão do ClassicPress, e %3$s, seu tema ativo."
 
 #: wp-admin/includes/class-wp-site-health.php:708
 msgid "Have a default theme available"
@@ -9039,19 +9045,19 @@ msgstr "Tenha um tema padrão disponível"
 
 #: wp-admin/includes/class-wp-site-health.php:712
 msgid "Your site does not have any default theme. Default themes are used by ClassicPress automatically if anything is wrong with your chosen theme."
-msgstr ""
+msgstr "Seu site não tem nenhum tema padrão. Os temas padrão são usados automaticamente pelo ClassicPress se houver algum problema com o tema escolhido."
 
 #. translators: %s: The current PHP version.
 #: wp-admin/includes/class-wp-site-health.php:732
 #, php-format
 msgid "Your site is running PHP version (%s)"
-msgstr ""
+msgstr "Seu site está executando a versão (%s) do PHP"
 
 #. translators: %s: The minimum recommended PHP version.
 #: wp-admin/includes/class-wp-site-health.php:744
 #, php-format
 msgid "PHP is one of the programming languages used to build ClassicPress. Newer versions of PHP receive regular security updates and may increase your site&#8217;s performance. The minimum recommended version of PHP is %s."
-msgstr ""
+msgstr "O PHP é uma das linguagens de programação usadas para criar o ClassicPress. As versões mais recentes do PHP recebem atualizações de segurança regulares e podem melhorar o desempenho do seu site. A versão mínima recomendada do PHP é %s."
 
 #: wp-admin/includes/class-wp-site-health.php:751
 #: wp-admin/includes/dashboard.php:1697
@@ -9062,7 +9068,7 @@ msgstr "Aprenda mais sobre como atualizar o PHP"
 #: wp-admin/includes/class-wp-site-health.php:765
 #, php-format
 msgid "Your site is running on an older and unsupported version of PHP (%s), which should be updated"
-msgstr ""
+msgstr "Seu site está executando uma versão antiga e sem suporte do PHP (%s), que deveria ser atualizada"
 
 #: wp-admin/includes/class-wp-site-health.php:825
 msgid "Required and recommended modules are installed"
@@ -9076,7 +9082,7 @@ msgstr "Os módulos PHP executam a maioria das tarefas no servidor que fazem seu
 #: wp-admin/includes/class-wp-site-health.php:836
 #, php-format
 msgid "ClassicPress maintains a list of those modules, both recommended and required, in <a href=\"%1$s\" %2$s>the server requirements%3$s</a>."
-msgstr ""
+msgstr "O ClassicPress mantém uma lista desses módulos, tanto recomendados quanto obrigatórios, nos <a href=\"%1$s\" %2$s>requisitos de servidor%3$s</a>."
 
 #. translators: Localized team handbook, if one exists.
 #: wp-admin/includes/class-wp-site-health.php:838
@@ -9122,7 +9128,7 @@ msgstr "Fuso horário padrão do PHP válido"
 
 #: wp-admin/includes/class-wp-site-health.php:1071
 msgid "PHP default timezone was configured by ClassicPress on loading. This is necessary for correct calculations of dates and times."
-msgstr ""
+msgstr "O fuso horário padrão do PHP foi configurado pelo ClassicPress durante o carregamento. Isso é necessário para o cálculo correto de datas e horários."
 
 #: wp-admin/includes/class-wp-site-health.php:1080
 msgid "PHP default timezone is invalid"
@@ -9132,7 +9138,7 @@ msgstr "Fuso horário padrão do PHP inválido"
 #: wp-admin/includes/class-wp-site-health.php:1086
 #, php-format
 msgid "PHP default timezone was changed after ClassicPress loading by a %s function call. This interferes with correct calculations of dates and times."
-msgstr ""
+msgstr "O fuso horário padrão do PHP foi alterado após o carregamento do ClassicPress por uma chamada da função %s. Isso interfere no cálculo correto de datas e horários."
 
 #: wp-admin/includes/class-wp-site-health.php:1104
 msgid "No PHP sessions detected"
@@ -9160,7 +9166,7 @@ msgstr "O servidor SQL está atualizado"
 
 #: wp-admin/includes/class-wp-site-health.php:1162
 msgid "The SQL server is a required piece of software for the database ClassicPress uses to store all your site&#8217;s content and settings."
-msgstr ""
+msgstr "O servidor SQL é um software obrigatório para o banco de dados que o ClassicPress usa para armazenar todo o conteúdo e as configurações do seu site."
 
 #. translators: Localized version of ClassicPress requirements if one exists.
 #: wp-admin/includes/class-wp-site-health.php:1167
@@ -9169,7 +9175,7 @@ msgstr "https://br.wordpress.org/about/requirements/"
 
 #: wp-admin/includes/class-wp-site-health.php:1168
 msgid "Learn more about what ClassicPress requires to run."
-msgstr ""
+msgstr "Saiba mais sobre o que o ClassicPress requer para funcionar."
 
 #: wp-admin/includes/class-wp-site-health.php:1180
 msgid "Outdated SQL server"
@@ -9189,7 +9195,7 @@ msgstr "Servidor SQL muito desatualizado"
 #: wp-admin/includes/class-wp-site-health.php:1203
 #, php-format
 msgid "ClassicPress requires %1$s version %2$s or higher. Contact your web hosting company to correct this."
-msgstr ""
+msgstr "O ClassicPress requer o %1$s na versão %2$s ou superior. Entre em contato com sua empresa de hospedagem para corrigir isso."
 
 #. translators: 1: The name of the drop-in. 2: The name of the database engine.
 #: wp-admin/includes/class-wp-site-health.php:1216
@@ -9199,26 +9205,26 @@ msgstr "Você está usando o plugin avançado %1$s, o que pode significar que o 
 
 #: wp-admin/includes/class-wp-site-health.php:1239
 msgid "Can communicate with ClassicPress.net"
-msgstr ""
+msgstr "Consegue se comunicar com o ClassicPress.net"
 
 #: wp-admin/includes/class-wp-site-health.php:1247
 msgid "Communicating with the ClassicPress servers is used to check for new versions, and to both install and update ClassicPress core, themes or plugins."
-msgstr ""
+msgstr "A comunicação com os servidores do ClassicPress é usada para verificar novas versões e para instalar e atualizar o núcleo do ClassicPress, temas ou plugins."
 
 #: wp-admin/includes/class-wp-site-health.php:1264
 msgid "Could not reach ClassicPress.net"
-msgstr ""
+msgstr "Não foi possível acessar o ClassicPress.net"
 
 #. translators: 1: The IP address WordPress.org resolves to. 2: The error returned by the lookup.
 #: wp-admin/includes/class-wp-site-health.php:1274
 #, php-format
 msgid "Your site is unable to reach ClassicPress.net at %1$s, and returned the error: %2$s"
-msgstr ""
+msgstr "Seu site não consegue acessar o ClassicPress.net em %1$s e retornou o erro: %2$s"
 
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:1284
 msgid "https://wordpress.org/support"
-msgstr ""
+msgstr "https://wordpress.org/support"
 
 #: wp-admin/includes/class-wp-site-health.php:1285
 msgid "Get help resolving this issue."
@@ -9239,7 +9245,7 @@ msgstr "https://wordpress.org/documentation/article/debugging-in-wordpress/"
 
 #: wp-admin/includes/class-wp-site-health.php:1323
 msgid "Learn more about debugging in ClassicPress."
-msgstr ""
+msgstr "Saiba mais sobre depuração no ClassicPress."
 
 #: wp-admin/includes/class-wp-site-health.php:1332
 msgid "Your site is set to log errors to a potentially public file"
@@ -9263,31 +9269,31 @@ msgstr "%1$s foi habilitado por %2$s ou adicionado ao arquivo de configuração.
 
 #: wp-admin/includes/class-wp-site-health.php:1384
 msgid "Your site is disabled for database repair"
-msgstr ""
+msgstr "Seu site está desativado para reparo do banco de dados"
 
 #: wp-admin/includes/class-wp-site-health.php:1392
 msgid "Database repair mode is temporarily enabled in <code>wp-config.php</code> to repair and optimize database tables. The setting allows unauthenicated access so should be disabled again at the earliest opportunity."
-msgstr ""
+msgstr "O modo de reparo do banco de dados está temporariamente ativado no <code>wp-config.php</code> para reparar e otimizar as tabelas do banco de dados. Essa configuração permite acesso não autenticado, por isso deve ser desativada novamente assim que possível."
 
 #. translators: Documentation explaining debugging in WordPress.
 #: wp-admin/includes/class-wp-site-health.php:1397
 #: wp-admin/setup-config.php:536
 msgid "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/editing-wp-config-php/"
 
 #: wp-admin/includes/class-wp-site-health.php:1398
 msgid "Learn more about working with wp-config.php in ClassicPress."
-msgstr ""
+msgstr "Saiba mais sobre como trabalhar com o wp-config.php no ClassicPress."
 
 #: wp-admin/includes/class-wp-site-health.php:1406
 msgid "Your site is enabled for database repair"
-msgstr ""
+msgstr "Seu site está ativado para reparo do banco de dados"
 
 #. translators: %s: WP_DEBUG_LOG
 #: wp-admin/includes/class-wp-site-health.php:1414
 #, php-format
 msgid "The value, %s, has been added to this website&#8217;s configuration file. The Database Repair feature is available to all visitors to your site."
-msgstr ""
+msgstr "O valor %s foi adicionado ao arquivo de configuração deste site. O recurso de reparo do banco de dados está disponível para todos os visitantes do seu site."
 
 #: wp-admin/includes/class-wp-site-health.php:1442
 msgid "Your website is using an active HTTPS connection"
@@ -9321,13 +9327,13 @@ msgstr "Seu <a href=\"%s\">endereço de site</a> não está configurado para usa
 #: wp-admin/includes/class-wp-site-health.php:1494
 #, php-format
 msgid "You are accessing this website using HTTPS, but your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS by default."
-msgstr ""
+msgstr "Você está acessando este site usando HTTPS, mas o seu <a href=\"%1$s\">Endereço do ClassicPress</a> e o seu <a href=\"%2$s\">Endereço do site</a> não estão configurados para usar HTTPS por padrão."
 
 #. translators: 1: URL to Settings > General > ClassicPress Address, 2: URL to Settings > General > Site Address.
 #: wp-admin/includes/class-wp-site-health.php:1504
 #, php-format
 msgid "Your <a href=\"%1$s\">ClassicPress Address</a> and <a href=\"%2$s\">Site Address</a> are not set up to use HTTPS."
-msgstr ""
+msgstr "O seu <a href=\"%1$s\">Endereço do ClassicPress</a> e o seu <a href=\"%2$s\">Endereço do site</a> não estão configurados para usar HTTPS."
 
 #: wp-admin/includes/class-wp-site-health.php:1515
 msgid "HTTPS is already supported for your website."
@@ -9337,7 +9343,7 @@ msgstr "HTTPS já é suportado pelo seu site."
 #: wp-admin/includes/class-wp-site-health.php:1523
 #, php-format
 msgid "However, your ClassicPress Address is currently controlled by a PHP constant and therefore cannot be updated. You need to edit your %1$s and remove or update the definitions of %2$s and %3$s."
-msgstr ""
+msgstr "No entanto, o seu Endereço do ClassicPress está sendo controlado por uma constante do PHP e, por isso, não pode ser atualizado. Você precisa editar o %1$s e remover ou atualizar as definições de %2$s e %3$s."
 
 #: wp-admin/includes/class-wp-site-health.php:1537
 #: wp-admin/includes/class-wp-site-health.php:1545
@@ -9371,7 +9377,7 @@ msgstr "Os eventos agendados estão sendo executados"
 
 #: wp-admin/includes/class-wp-site-health.php:1635
 msgid "Scheduled events are what periodically looks for updates to plugins, themes and ClassicPress itself. It is also what makes sure scheduled posts are published on time. It may also be used by various plugins to make sure that planned actions are executed."
-msgstr ""
+msgstr "Os eventos agendados são o que verifica periodicamente se há atualizações de plugins, temas e do próprio ClassicPress. Também são eles que garantem que os posts agendados sejam publicados no horário. Também podem ser usados por vários plugins para garantir que ações planejadas sejam executadas."
 
 #: wp-admin/includes/class-wp-site-health.php:1646
 msgid "It was not possible to check your scheduled events"
@@ -9409,7 +9415,7 @@ msgstr "As atualizações em segundo plano estão funcionando"
 
 #: wp-admin/includes/class-wp-site-health.php:1708
 msgid "Background updates ensure that ClassicPress can auto-update if a security update is released for the version you are currently using."
-msgstr ""
+msgstr "As atualizações em segundo plano garantem que o ClassicPress possa se atualizar automaticamente se for lançada uma atualização de segurança para a versão que você está usando."
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/class-wp-site-health.php:1727
@@ -9452,11 +9458,11 @@ msgstr "Não foi possível determinar o espaço em disco disponível para atuali
 
 #: wp-admin/includes/class-wp-site-health.php:1833
 msgid "Available disk space is critically low, less than 20 MB available. Proceed with caution, updates may fail."
-msgstr ""
+msgstr "O espaço disponível em disco está criticamente baixo, com menos de 20 MB disponíveis. Prossiga com cuidado: as atualizações podem falhar."
 
 #: wp-admin/includes/class-wp-site-health.php:1836
 msgid "Available disk space is low, less than 100 MB available."
-msgstr ""
+msgstr "O espaço disponível em disco está baixo, com menos de 100 MB disponíveis."
 
 #: wp-admin/includes/class-wp-site-health.php:1856
 msgid "Plugin and theme temporary backup directory is writable"
@@ -9472,7 +9478,7 @@ msgstr "O diretório %s usado para melhorar a estabilidade das atualizações de
 #: wp-admin/includes/class-wp-site-health.php:1882
 #, php-format
 msgid "Unable to locate ClassicPress content directory (%s)"
-msgstr ""
+msgstr "Não foi possível localizar o diretório de conteúdo do ClassicPress (%s)"
 
 #. translators: %s: wp-content
 #: wp-admin/includes/class-wp-site-health.php:1887
@@ -9524,7 +9530,7 @@ msgstr "O diretório %s existe, mas não tem permissão de escrita. Esse diretó
 #: wp-admin/includes/class-wp-site-health.php:1952
 #, php-format
 msgid "The %s directory exists but is not writable"
-msgstr ""
+msgstr "O diretório %s existe, mas não é gravável"
 
 #. translators: %s: wp-content/upgrade
 #: wp-admin/includes/class-wp-site-health.php:1957
@@ -9536,7 +9542,7 @@ msgstr "O diretório %s existe, mas não tem permissão de escrita. Esse diretó
 #: wp-admin/includes/class-wp-site-health.php:1967
 #, php-format
 msgid "The %s directory cannot be created"
-msgstr ""
+msgstr "O diretório %s não pode ser criado"
 
 #. translators: 1: wp-content/upgrade, 2: wp-content.
 #: wp-admin/includes/class-wp-site-health.php:1972
@@ -9591,55 +9597,55 @@ msgstr "Solicitações HTTP foram bloqueadas pela constante %1$s, com alguns hos
 #: wp-admin/includes/class-wp-site-health.php:2136
 #, php-format
 msgid "HTTP Protocol is %s"
-msgstr ""
+msgstr "O protocolo HTTP é %s"
 
 #: wp-admin/includes/class-wp-site-health.php:2124
 #: wp-admin/includes/class-wp-site-health.php:2787
 msgid "HTTP Protocol"
-msgstr ""
+msgstr "Protocolo HTTP"
 
 #: wp-admin/includes/class-wp-site-health.php:2127
 msgid "There was an error detecting the site HTTP Protocol. Try reloading this page."
-msgstr ""
+msgstr "Ocorreu um erro ao detectar o protocolo HTTP do site. Tente recarregar esta página."
 
 #: wp-admin/includes/class-wp-site-health.php:2143
 msgid "Your site appears to be using development code. This information may not be relevant."
-msgstr ""
+msgstr "Seu site parece estar usando código de desenvolvimento. Esta informação pode não ser relevante."
 
 #: wp-admin/includes/class-wp-site-health.php:2151
 msgid "Your site is running with <code>SCRIPT_DEBUG</code> enabled in <code>wp-config.php</code>. This information may not be relevant."
-msgstr ""
+msgstr "Seu site está sendo executado com <code>SCRIPT_DEBUG</code> ativado no <code>wp-config.php</code>. Esta informação pode não ser relevante."
 
 #: wp-admin/includes/class-wp-site-health.php:2159
 msgid "Your site is running with <code>CONCATENATE_SCRIPTS</code> defined in <code>wp-config.php</code>. This information may not be relevant."
-msgstr ""
+msgstr "Seu site está sendo executado com <code>CONCATENATE_SCRIPTS</code> definido no <code>wp-config.php</code>. Esta informação pode não ser relevante."
 
 #: wp-admin/includes/class-wp-site-health.php:2165
 #, php-format
 msgid "You can easily adjust script concatenation in <code>wp-config.php</code>. <a href=\"%s\">Learn more</a>."
-msgstr ""
+msgstr "Você pode ajustar facilmente a concatenação de scripts no <code>wp-config.php</code>. <a href=\"%s\">Saiba mais</a>."
 
 #: wp-admin/includes/class-wp-site-health.php:2173
 msgid "By default, ClassicPress concatenates scripts but on modern HTTP protocol connections this may slow your site loading."
-msgstr ""
+msgstr "Por padrão, o ClassicPress concatena scripts, mas, em conexões com protocolos HTTP modernos, isso pode deixar o carregamento do seu site mais lento."
 
 #: wp-admin/includes/class-wp-site-health.php:2174
 msgid "Your site may load faster with script concatenation disabled. Script concatenation is currently enabled."
-msgstr ""
+msgstr "Seu site pode carregar mais rápido com a concatenação de scripts desativada. A concatenação de scripts está ativada no momento."
 
 #: wp-admin/includes/class-wp-site-health.php:2178
 #, php-format
 msgid "Your site is using %s and script concatenation is disabled, which is the optimal configuration."
-msgstr ""
+msgstr "Seu site está usando %s e a concatenação de scripts está desativada, que é a configuração ideal."
 
 #: wp-admin/includes/class-wp-site-health.php:2184
 msgid "Your site may load faster with script concatenation enabled. Script concatenation is currently disabled."
-msgstr ""
+msgstr "Seu site pode carregar mais rápido com a concatenação de scripts ativada. A concatenação de scripts está desativada no momento."
 
 #: wp-admin/includes/class-wp-site-health.php:2188
 #, php-format
 msgid "Your site is using %s and script concatenation is enabled, which is the optimal configuration."
-msgstr ""
+msgstr "Seu site está usando %s e a concatenação de scripts está ativada, que é a configuração ideal."
 
 #: wp-admin/includes/class-wp-site-health.php:2207
 msgid "The REST API is available"
@@ -9647,7 +9653,7 @@ msgstr "A API REST está disponível"
 
 #: wp-admin/includes/class-wp-site-health.php:2215
 msgid "The REST API is one way that ClassicPress and other applications communicate with the server. For example, the block editor screen relies on the REST API to display and save your posts and pages."
-msgstr ""
+msgstr "A API REST é uma das formas pelas quais o ClassicPress e outros aplicativos se comunicam com o servidor. Por exemplo, a tela do editor de blocos depende da API REST para exibir e salvar seus posts e páginas."
 
 #: wp-admin/includes/class-wp-site-health.php:2250
 msgid "The REST API encountered an error"
@@ -9772,7 +9778,7 @@ msgstr "O cache da página é detectado procurando por um plugin de cache de pá
 
 #: wp-admin/includes/class-wp-site-health.php:2484
 msgid "https://wordpress.org/documentation/article/optimization/#Caching"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/optimization/#Caching"
 
 #: wp-admin/includes/class-wp-site-health.php:2485
 msgid "Learn more about page cache"
@@ -9843,7 +9849,7 @@ msgstr "Um plugin de cache de página não foi detectado."
 #. translators: Localized Support reference.
 #: wp-admin/includes/class-wp-site-health.php:2593
 msgid "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/optimization/#persistent-object-cache"
 
 #: wp-admin/includes/class-wp-site-health.php:2603
 msgid "A persistent object cache is being used"
@@ -9851,7 +9857,7 @@ msgstr "Um cache de objeto persistente está sendo usado"
 
 #: wp-admin/includes/class-wp-site-health.php:2606
 msgid "A persistent object cache makes your site&#8217;s database more efficient, resulting in faster load times because ClassicPress can retrieve your site&#8217;s content and settings much more quickly."
-msgstr ""
+msgstr "Um cache de objetos persistente torna o banco de dados do seu site mais eficiente, resultando em carregamentos mais rápidos, pois o ClassicPress consegue recuperar o conteúdo e as configurações do seu site com muito mais rapidez."
 
 #: wp-admin/includes/class-wp-site-health.php:2611
 msgid "Learn more about persistent object caching."
@@ -9877,7 +9883,7 @@ msgstr "Você deve usar um cache de objeto persistente"
 
 #: wp-admin/includes/class-wp-site-health.php:2688
 msgid "ClassicPress Version"
-msgstr ""
+msgstr "Versão do ClassicPress"
 
 #: wp-admin/includes/class-wp-site-health.php:2692
 msgid "Plugin Versions"
@@ -9929,7 +9935,7 @@ msgstr "Depuração ativada"
 
 #: wp-admin/includes/class-wp-site-health.php:2741
 msgid "Repair Mode enabled"
-msgstr ""
+msgstr "Modo de reparo ativado"
 
 #: wp-admin/includes/class-wp-site-health.php:2749
 msgid "Plugin and theme auto-updates"
@@ -9945,7 +9951,7 @@ msgstr "Espaço disponível em disco"
 
 #: wp-admin/includes/class-wp-site-health.php:2763
 msgid "Communication with ClassicPress.net"
-msgstr ""
+msgstr "Comunicação com o ClassicPress.net"
 
 #: wp-admin/includes/class-wp-site-health.php:2769
 msgid "Background updates"
@@ -10389,11 +10395,11 @@ msgstr "Seus rascunhos recentes"
 
 #: wp-admin/includes/dashboard.php:92
 msgid "ClassicPress News"
-msgstr ""
+msgstr "Notícias do ClassicPress"
 
 #: wp-admin/includes/dashboard.php:99
 msgid "ClassicPress Directory"
-msgstr ""
+msgstr "Diretório do ClassicPress"
 
 #: wp-admin/includes/dashboard.php:156
 msgid "View all"
@@ -10452,7 +10458,7 @@ msgstr[1] "%s usuários"
 msgid "%s site"
 msgid_plural "%s sites"
 msgstr[0] "%s site"
-msgstr[1] ""
+msgstr[1] "%s sites"
 
 #. translators: 1: Text indicating the number of sites on the network, 2: Text indicating the number of users on the network.
 #: wp-admin/includes/dashboard.php:474
@@ -10590,32 +10596,32 @@ msgstr "Feed desconhecido"
 #: wp-admin/includes/dashboard.php:1327
 #, php-format
 msgid "You can always find the latest ClassicPress news on our <a href=\"%s\" target=\"_blank\">official blog <span aria-hidden=\"true\" class=\"dashicons dashicons-external\"></span></a>."
-msgstr ""
+msgstr "Você sempre encontra as últimas notícias do ClassicPress em nosso <a href=\"%s\" target=\"_blank\">blog oficial <span aria-hidden=\"true\" class=\"dashicons dashicons-external\"></span></a>."
 
 #: wp-admin/includes/dashboard.php:1337
 msgid "Get Help"
-msgstr ""
+msgstr "Obter ajuda"
 
 #: wp-admin/includes/dashboard.php:1338
 msgid "Feature Requests"
-msgstr ""
+msgstr "Sugestões de recursos"
 
 #: wp-admin/includes/dashboard.php:1339
 msgid "Volunteer"
-msgstr ""
+msgstr "Seja voluntário"
 
 #: wp-admin/includes/dashboard.php:1340
 msgid "Donate"
-msgstr ""
+msgstr "Doe"
 
 #: wp-admin/includes/dashboard.php:1364
 #: wp-admin/index.php:93
 msgid "https://www.classicpress.net/blog/"
-msgstr ""
+msgstr "https://www.classicpress.net/blog/"
 
 #: wp-admin/includes/dashboard.php:1373
 msgid "https://www.classicpress.net/feed/"
-msgstr ""
+msgstr "https://www.classicpress.net/feed/"
 
 #: wp-admin/includes/dashboard.php:1382
 msgid "ClassicPress Blog"
@@ -10645,7 +10651,7 @@ msgstr "Espaço Usado %1$s MB (%2$s%%)"
 
 #: wp-admin/includes/dashboard.php:1497
 msgid "Internet Explorer does not give you the best ClassicPress experience. Switch to Microsoft Edge, or another more modern browser to get the most from your site."
-msgstr ""
+msgstr "O Internet Explorer não oferece a melhor experiência com o ClassicPress. Mude para o Microsoft Edge ou outro navegador mais moderno para aproveitar ao máximo o seu site."
 
 #. translators: %s: Browser name and link.
 #: wp-admin/includes/dashboard.php:1501
@@ -10679,7 +10685,7 @@ msgstr "Dispensar o painel de avisos do navegador"
 #: wp-admin/includes/dashboard.php:1652
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which does not receive security updates and soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "Seu site está executando uma versão desatualizada do PHP (%s), que não recebe atualizações de segurança e em breve não será mais suportada pelo ClassicPress. Garanta que o PHP seja atualizado no seu servidor o quanto antes. Caso contrário, você não conseguirá atualizar o ClassicPress."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1658
@@ -10691,7 +10697,7 @@ msgstr "Seu site está usando uma versão desatualizada do PHP (%s), que não re
 #: wp-admin/includes/dashboard.php:1665
 #, php-format
 msgid "Your site is running on an outdated version of PHP (%s), which soon will not be supported by ClassicPress. Ensure that PHP is updated on your server as soon as possible. Otherwise you will not be able to upgrade ClassicPress."
-msgstr ""
+msgstr "Seu site está executando uma versão desatualizada do PHP (%s), que em breve não será mais suportada pelo ClassicPress. Garanta que o PHP seja atualizado no seu servidor o quanto antes. Caso contrário, você não conseguirá atualizar o ClassicPress."
 
 #. translators: %s: The server PHP version.
 #: wp-admin/includes/dashboard.php:1671
@@ -10705,7 +10711,7 @@ msgstr "O que é PHP e como isso afeta o meu site?"
 
 #: wp-admin/includes/dashboard.php:1680
 msgid "PHP is one of the programming languages used to build ClassicPress. Newer versions of PHP receive regular security updates and may increase your site&#8217;s performance."
-msgstr ""
+msgstr "O PHP é uma das linguagens de programação usadas para criar o ClassicPress. As versões mais recentes do PHP recebem atualizações de segurança regulares e podem melhorar o desempenho do seu site."
 
 #. translators: %s: The minimum recommended PHP version.
 #: wp-admin/includes/dashboard.php:1685
@@ -10758,17 +10764,17 @@ msgstr[1] "Dê uma olhada nos <strong>%1$d itens</strong> na <a href=\"%2$s\">p�
 
 #: wp-admin/includes/dashboard.php:1843
 msgid "We would like to let you know about the ClassicPress Directory."
-msgstr ""
+msgstr "Gostaríamos de apresentar a você o Diretório do ClassicPress."
 
 #: wp-admin/includes/dashboard.php:1844
 #, php-format
 msgid "You can browse the directory at <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
-msgstr ""
+msgstr "Você pode navegar pelo diretório em <a href=\"%1$s\" target=\"_blank\">%1$s</a>."
 
 #: wp-admin/includes/dashboard.php:1856
 #, php-format
 msgid "<a href=\"%1$s\">Install</a> the ClassicPress Directory Integration plugin to install plugins from the Plugins Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">Instale</a> o plugin ClassicPress Directory Integration para instalar plugins pelo menu Plugins."
 
 #. translators: 1: Starting number of users on the current page, 2: Ending number of users, 3: Total number of users.
 #: wp-admin/includes/deprecated.php:613
@@ -10791,13 +10797,13 @@ msgstr "Instalar %s"
 #: wp-admin/includes/deprecated.php:1706
 #, php-format
 msgid "The enqueued script %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "O script enfileirado %1$s foi descontinuado. Ele será removido na versão 3.0.0 do ClassicPress. Mais detalhes podem ser encontrados em %2$s."
 
 #. translators: 1: Stylesheet handle. 2: URL for more information.
 #: wp-admin/includes/deprecated.php:1719
 #, php-format
 msgid "The enqueued stylesheet %1$s has been deprecated. It will be removed in version 3.0.0 of ClassicPress. Further details may be found at %2$s."
-msgstr ""
+msgstr "A folha de estilos enfileirada %1$s foi descontinuada. Ela será removida na versão 3.0.0 do ClassicPress. Mais detalhes podem ser encontrados em %2$s."
 
 #: wp-admin/includes/edit-tag-messages.php:14
 msgid "Item added."
@@ -11042,7 +11048,7 @@ msgstr "Você precisa conceder permissão de escrita para este arquivo para pode
 #: wp-admin/includes/file.php:327
 #: wp-admin/theme-editor.php:364
 msgid "https://wordpress.org/documentation/article/changing-file-permissions/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/changing-file-permissions/"
 
 #: wp-admin/includes/file.php:338
 msgid "Update anyway, even though it might break your site?"
@@ -11205,7 +11211,7 @@ msgstr "Ocorreu uma falha ao listar o diretório."
 
 #: wp-admin/includes/file.php:1975
 msgid "Could not create the destination directory."
-msgstr ""
+msgstr "Não foi possível criar o diretório de destino."
 
 #: wp-admin/includes/file.php:2048
 msgid "The source and destination are the same."
@@ -11324,11 +11330,11 @@ msgstr "Recortar"
 
 #: wp-admin/includes/image-edit.php:74
 msgid "Rotate left"
-msgstr ""
+msgstr "Girar para a esquerda"
 
 #: wp-admin/includes/image-edit.php:75
 msgid "Rotate right"
-msgstr ""
+msgstr "Girar para a direita"
 
 #: wp-admin/includes/image-edit.php:78
 msgid "Image rotation is not supported by your web host."
@@ -11597,7 +11603,7 @@ msgstr "Importar posts e arquivos do Tumblr usando a API."
 
 #: wp-admin/includes/import.php:229
 msgid "Install the WordPress importer to import posts, pages, comments, custom fields, categories, and tags from a WordPress export file."
-msgstr ""
+msgstr "Instale o importador do WordPress para importar posts, páginas, comentários, campos personalizados, categorias e tags de um arquivo de exportação do WordPress."
 
 #: wp-admin/includes/media.php:18
 msgid "From Computer"
@@ -12025,15 +12031,15 @@ msgstr "Imagem original:"
 
 #: wp-admin/includes/media.php:3848
 msgid "Sorry, you are not allowed to edit media attachment pages."
-msgstr ""
+msgstr "Você não tem permissão para editar páginas de anexos de mídia."
 
 #: wp-admin/includes/media.php:3932
 msgid "Please choose the upload media category"
-msgstr ""
+msgstr "Escolha a categoria de mídia para envio"
 
 #: wp-admin/includes/media.php:3934
 msgid "Select Media Category"
-msgstr ""
+msgstr "Selecionar categoria de mídia"
 
 #: wp-admin/includes/media.php:4004
 msgid "Bulk select"
@@ -12513,7 +12519,7 @@ msgstr "Discussão"
 #: wp-admin/includes/misc.php:42
 #, php-format
 msgid "commit %s"
-msgstr ""
+msgstr "commit %s"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/misc.php:468
@@ -12564,7 +12570,18 @@ msgid "Hello ###USERNAME###,\n\n"
 "Regards,\n"
 "All at ###SITENAME###\n"
 "###SITEURL###"
-msgstr ""
+msgstr "Olá, ###USERNAME###,\n\n"
+"Alguém com permissões de administrador solicitou recentemente a alteração do\n"
+"endereço de e-mail de administração deste site:\n"
+"###SITEURL###\n\n"
+"Para confirmar essa alteração, clique no link a seguir:\n"
+"###ADMIN_URL###\n\n"
+"Você pode ignorar e excluir este e-mail com segurança se não quiser\n"
+"realizar esta ação.\n\n"
+"Este e-mail foi enviado para ###EMAIL###\n\n"
+"Atenciosamente,\n"
+"Equipe ###SITENAME###\n"
+"###SITEURL###"
 
 #. translators: New admin email address notification email subject. %s: Site title.
 #: wp-admin/includes/misc.php:1561
@@ -12682,17 +12699,17 @@ msgstr "Uma vez que a rede estiver criada, você pode reativar seus plugins."
 
 #: wp-admin/includes/network.php:155
 msgid "Installing a network of sites with your server address is experimental."
-msgstr ""
+msgstr "A instalação de uma rede de sites com o endereço do seu servidor é experimental."
 
 #. translators: %s: Port number.
 #: wp-admin/includes/network.php:163
 #, php-format
 msgid "Use port numbers such as %s at your own risk."
-msgstr ""
+msgstr "Use números de porta como %s por sua conta e risco."
 
 #: wp-admin/includes/network.php:174
 msgid "Error: The network could not be created."
-msgstr ""
+msgstr "Erro: não foi possível criar a rede."
 
 #. translators: %s: Default network title.
 #: wp-admin/includes/network.php:192
@@ -12706,7 +12723,7 @@ msgstr "Bem-vindo ao processo de instalação da rede!"
 
 #: wp-admin/includes/network.php:202
 msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of ClassicPress sites. Configuration files will be created in the next step."
-msgstr ""
+msgstr "Preencha as informações abaixo e você estará a caminho de criar uma rede de sites ClassicPress. Os arquivos de configuração serão criados na próxima etapa."
 
 #. translators: %s: mod_rewrite
 #: wp-admin/includes/network.php:219
@@ -12780,7 +12797,7 @@ msgstr "Endereço do servidor"
 #: wp-admin/includes/network.php:307
 #, php-format
 msgid "You should consider changing your site domain to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
-msgstr ""
+msgstr "Considere mudar o domínio do seu site para %1$s antes de ativar o recurso de rede. Ainda será possível visitar seu site usando o prefixo %3$s com um endereço como %2$s, mas nenhum link terá o prefixo %3$s."
 
 #. translators: %s: Host name.
 #: wp-admin/includes/network.php:321
@@ -12864,13 +12881,13 @@ msgstr "Complete as seguintes etapas para ativar os recursos para a criação da
 #: wp-admin/includes/network.php:502
 #, php-format
 msgid "You should back up your existing %1$s and %2$s files."
-msgstr ""
+msgstr "Você deve fazer backup dos seus arquivos %1$s e %2$s existentes."
 
 #. translators: %s: wp-config.php
 #: wp-admin/includes/network.php:509
 #, php-format
 msgid "You should back up your existing %s file."
-msgstr ""
+msgstr "Você deve fazer backup do seu arquivo %s existente."
 
 #. translators: 1: wp-config.php, 2: Location of wp-config file, 3: Translated version of "That's all, stop editing! Happy publishing."
 #: wp-admin/includes/network.php:522
@@ -12881,7 +12898,7 @@ msgstr "Adicione o seguinte código ao seu arquivo %1$s em %2$s <strong>acima</s
 #. translators: This string should only be translated if wp-config-sample.php is localized. You can check the localized release package or https://i18n.svn.wordpress.org/<locale code>/branches/<wp version>/dist/wp-config-sample.php
 #: wp-admin/includes/network.php:530
 msgid "That&#8217;s all, stop editing! Happy publishing."
-msgstr ""
+msgstr "That&#8217;s all, stop editing! Happy publishing."
 
 #. translators: %s: File name (wp-config.php, .htaccess or web.config).
 #: wp-admin/includes/network.php:538
@@ -12889,7 +12906,7 @@ msgstr ""
 #: wp-admin/includes/network.php:739
 #, php-format
 msgid "Network configuration rules for %s"
-msgstr ""
+msgstr "Regras de configuração da rede para %s"
 
 #. translators: %s: wp-config.php
 #: wp-admin/includes/network.php:588
@@ -12909,7 +12926,7 @@ msgstr "Para deixar sua instalação mais segura, você deve também adicionar:"
 
 #: wp-admin/includes/network.php:601
 msgid "Network configuration authentication keys"
-msgstr ""
+msgstr "Chaves de autenticação da configuração da rede"
 
 #. translators: 1: File name (.htaccess or web.config), 2: File path.
 #: wp-admin/includes/network.php:664
@@ -12922,11 +12939,11 @@ msgstr "Adicione o seguinte no seu arquivo %1$s em %2$s, <strong>substituindo</s
 #: wp-admin/includes/network.php:692
 #, php-format
 msgid "It seems your network is running with Nginx web server. <a href=\"%s\">Learn more about further configuration</a>."
-msgstr ""
+msgstr "Parece que sua rede está sendo executada com o servidor web Nginx. <a href=\"%s\">Saiba mais sobre configurações adicionais</a>."
 
 #: wp-admin/includes/network.php:693
 msgid "https://wordpress.org/documentation/article/nginx/"
-msgstr ""
+msgstr "https://wordpress.org/documentation/article/nginx/"
 
 #: wp-admin/includes/network.php:753
 msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
@@ -13023,11 +13040,11 @@ msgstr "Arquivo zip do plugin"
 
 #: wp-admin/includes/plugin-install.php:372
 msgid "If you have marked plugins as favorites on ClassicPress.net, you can browse them here."
-msgstr ""
+msgstr "Se você marcou plugins como favoritos no ClassicPress.net, pode navegar por eles aqui."
 
 #: wp-admin/includes/plugin-install.php:376
 msgid "Your ClassicPress.net username:"
-msgstr ""
+msgstr "Seu nome de usuário no ClassicPress.net:"
 
 #: wp-admin/includes/plugin-install.php:378
 msgid "Get Favorites"
@@ -13035,27 +13052,27 @@ msgstr "Pegar os favoritos"
 
 #: wp-admin/includes/plugin-install.php:394
 msgid "Forms"
-msgstr ""
+msgstr "Formulários"
 
 #: wp-admin/includes/plugin-install.php:396
 msgid "Admin Utilities"
-msgstr ""
+msgstr "Utilitários de administração"
 
 #: wp-admin/includes/plugin-install.php:397
 msgid "Page Builders"
-msgstr ""
+msgstr "Construtores de páginas"
 
 #: wp-admin/includes/plugin-install.php:398
 msgid "eCommerce"
-msgstr ""
+msgstr "E-commerce"
 
 #: wp-admin/includes/plugin-install.php:400
 msgid "SEO"
-msgstr ""
+msgstr "SEO"
 
 #: wp-admin/includes/plugin-install.php:401
 msgid "Social Networking"
-msgstr ""
+msgstr "Redes sociais"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/includes/plugin-install.php:402
@@ -13066,15 +13083,15 @@ msgstr "Membros"
 
 #: wp-admin/includes/plugin-install.php:403
 msgid "Newsletters"
-msgstr ""
+msgstr "Newsletters"
 
 #: wp-admin/includes/plugin-install.php:404
 msgid "Forums"
-msgstr ""
+msgstr "Fóruns"
 
 #: wp-admin/includes/plugin-install.php:408
 msgid "These are some of the most common types of plugins. Not all categories are represented here."
-msgstr ""
+msgstr "Estes são alguns dos tipos de plugins mais comuns. Nem todas as categorias estão representadas aqui."
 
 #. translators: %s: URL to "Features as Plugins" page.
 #: wp-admin/includes/plugin-install.php:442
@@ -13143,7 +13160,7 @@ msgstr "%s ou superior"
 
 #: wp-admin/includes/plugin-install.php:722
 msgid "Compatible Up to WordPress Version:"
-msgstr ""
+msgstr "Compatível até a versão do WordPress:"
 
 #: wp-admin/includes/plugin-install.php:725
 msgid "Requires PHP Version:"
@@ -13224,17 +13241,17 @@ msgstr "<a href=\"%s\" target=\"_blank\">Clique aqui para aprender mais sobre at
 
 #: wp-admin/includes/plugin-install.php:880
 msgid "<strong>Warning:</strong> This plugin <strong>has not been tested</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>Aviso:</strong> este plugin <strong>não foi testado</strong> com a sua versão do ClassicPress."
 
 #: wp-admin/includes/plugin-install.php:887
 msgid "<strong>Error:</strong> This plugin <strong>does not work</strong> with your version of ClassicPress."
-msgstr ""
+msgstr "<strong>Erro:</strong> este plugin <strong>não funciona</strong> com a sua versão do ClassicPress."
 
 #. translators: %s: URL to WordPress Updates screen.
 #: wp-admin/includes/plugin-install.php:891
 #, php-format
 msgid "<a href=\"%s\" target=\"_parent\">Please update ClassicPress</a>."
-msgstr ""
+msgstr "<a href=\"%s\" target=\"_parent\">Atualize o ClassicPress</a>."
 
 #: wp-admin/includes/plugin-install.php:939
 msgid "Install Update Now"
@@ -13347,7 +13364,7 @@ msgstr "O plugin não possui um cabeçalho válido."
 #, php-format
 msgctxt "plugin"
 msgid "<strong>Error:</strong> Current versions of ClassicPress (%1$s) and PHP (%2$s) do not meet minimum requirements for %3$s. The plugin requires WordPress %4$s and PHP %5$s."
-msgstr ""
+msgstr "<strong>Erro:</strong> as versões atuais do ClassicPress (%1$s) e do PHP (%2$s) não atendem aos requisitos mínimos de %3$s. O plugin requer o WordPress %4$s e o PHP %5$s."
 
 #. translators: 1: Current PHP version, 2: Plugin name, 3: Required PHP version.
 #: wp-admin/includes/plugin.php:1183
@@ -13361,7 +13378,7 @@ msgstr "<strong>Erro:</strong> A versão atual do PHP (%1$s) não atende aos req
 #, php-format
 msgctxt "plugin"
 msgid "<strong>Error:</strong> Current ClassicPress version (%1$s) does not meet minimum requirements for %2$s. The plugin requires WordPress %3$s."
-msgstr ""
+msgstr "<strong>Erro:</strong> a versão atual do ClassicPress (%1$s) não atende aos requisitos mínimos de %2$s. O plugin requer o WordPress %3$s."
 
 #. translators: %s: add_menu_page()
 #. translators: %s: add_submenu_page()
@@ -13404,19 +13421,19 @@ msgstr "Ir para a tela de plugins"
 #: wp-admin/includes/plugin.php:2576
 #, php-format
 msgid "%1$s %2$s was deactivated due to incompatibility with ClassicPress %3$s, please upgrade to %1$s %4$s or later."
-msgstr ""
+msgstr "%1$s %2$s foi desativado por incompatibilidade com o ClassicPress %3$s. Atualize para %1$s %4$s ou posterior."
 
 #. translators: 1: Name of deactivated plugin, 2: Plugin version deactivated, 3: Current WP version.
 #: wp-admin/includes/plugin.php:2585
 #, php-format
 msgid "%1$s %2$s was deactivated due to incompatibility with ClassicPress %3$s."
-msgstr ""
+msgstr "%1$s %2$s foi desativado por incompatibilidade com o ClassicPress %3$s."
 
 #. translators: %s: Name of deactivated plugin.
 #: wp-admin/includes/plugin.php:2597
 #, php-format
 msgid "%s plugin deactivated during ClassicPress upgrade."
-msgstr ""
+msgstr "Plugin %s desativado durante a atualização do ClassicPress."
 
 #: wp-admin/includes/post.php:35
 #: wp-admin/includes/post.php:49
@@ -13773,7 +13790,15 @@ msgid "Hello USERNAME,\n\n"
 "Log in here: BLOG_URLwp-login.php\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The Team @ SITE_NAME"
-msgstr ""
+msgstr "Olá, USERNAME,\n\n"
+"Seu novo site SITE_NAME foi configurado com sucesso em:\n"
+"BLOG_URL\n\n"
+"Você pode acessar a conta de administrador com as seguintes informações:\n\n"
+"Nome de usuário: USERNAME\n"
+"Senha: PASSWORD\n"
+"Acesse aqui: BLOG_URLwp-login.php\n\n"
+"Esperamos que você goste do seu novo site. Obrigado!\n\n"
+"--Equipe SITE_NAME"
 
 #: wp-admin/includes/schema.php:1276
 msgid "My Network"
@@ -14298,22 +14323,22 @@ msgstr "Atualizar incompatível"
 #: wp-admin/includes/theme.php:903
 #: wp-admin/themes.php:1063
 msgid "There is a new version of this theme available, but it does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Há uma nova versão deste tema disponível, mas ela não funciona com as suas versões do ClassicPress e do PHP."
 
 #: wp-admin/includes/theme.php:939
 #: wp-admin/themes.php:1099
 msgid "There is a new version of this theme available, but it does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Há uma nova versão deste tema disponível, mas ela não funciona com a sua versão do ClassicPress."
 
 #: wp-admin/includes/theme.php:952
 #: wp-admin/themes.php:1112
 msgid "There is a new version of this theme available, but it does not work with your version of PHP."
-msgstr ""
+msgstr "Há uma nova versão deste tema disponível, mas ela não funciona com a sua versão do PHP."
 
 #: wp-admin/includes/theme.php:1002
 #: wp-admin/themes.php:1162
 msgid "This is a child theme of:"
-msgstr ""
+msgstr "Este é um tema descendente de:"
 
 #: wp-admin/includes/theme.php:1005
 #: wp-admin/themes.php:1165
@@ -14348,7 +14373,7 @@ msgstr "(O ClassicPress não conseguiu estabelecer uma conexão segura com o Cla
 
 #: wp-admin/includes/translation-install.php:328
 msgid "Unable to update language pack for locales"
-msgstr ""
+msgstr "Não foi possível atualizar o pacote de idioma para os locais"
 
 #: wp-admin/includes/update-core.php:308
 msgid "Verifying the unpacked files&#8230;"
@@ -14380,7 +14405,7 @@ msgstr "A atualização não pode ser instalada porque o ClassicPress %1$s neces
 #: wp-admin/includes/update-core.php:431
 #, php-format
 msgid "The update cannot be installed because ClassicPress %1$s requires the %2$s PHP extension."
-msgstr ""
+msgstr "A atualização não pode ser instalada porque o ClassicPress %1$s requer a extensão %2$s do PHP."
 
 #: wp-admin/includes/update-core.php:439
 msgid "Preparing to install the latest version&#8230;"
@@ -14446,7 +14471,7 @@ msgstr "Obter versão %s"
 #: wp-admin/includes/update.php:295
 #, php-format
 msgid "https://www.classicpress.net/version/%s"
-msgstr ""
+msgstr "https://www.classicpress.net/version/%s"
 
 #. translators: 1: URL to ClassicPress release notes, 2: New ClassicPress version, 3: URL to network admin, 4: Accessibility text.
 #: wp-admin/includes/update.php:302
@@ -14594,7 +14619,8 @@ msgstr "Um comentarista do ClassicPress"
 #: wp-admin/includes/upgrade.php:254
 msgid "Hi, this is a comment.\n"
 "To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard."
-msgstr ""
+msgstr "Olá, isto é um comentário.\n"
+"Para começar a moderar, editar e excluir comentários, visite a tela Comentários no painel."
 
 #. translators: First page content.
 #: wp-admin/includes/upgrade.php:279
@@ -14620,7 +14646,7 @@ msgstr "A Companhia de Miniaturas XYZ foi fundada em 1971, e desde então tem fo
 #: wp-admin/includes/upgrade.php:288
 #, php-format
 msgid "As a new ClassicPress user, you should go to <a href=\"%s\">your dashboard</a> to delete this page and create new pages for your content. Have fun!"
-msgstr ""
+msgstr "Como novo usuário do ClassicPress, você deve ir ao <a href=\"%s\">seu painel</a> para excluir esta página e criar novas páginas para o seu conteúdo. Divirta-se!"
 
 #: wp-admin/includes/upgrade.php:303
 msgid "Sample Page"
@@ -14653,7 +14679,15 @@ msgid "Your new ClassicPress site has been successfully set up at:\n\n"
 "We hope you enjoy your new site. Thanks!\n\n"
 "--The ClassicPress Team\n"
 "https://www.classicpress.net/\n"
-msgstr ""
+msgstr "Seu novo site ClassicPress foi configurado com sucesso em:\n\n"
+"%1$s\n\n"
+"Você pode acessar a conta de administrador com as seguintes informações:\n\n"
+"Nome de usuário: %2$s\n"
+"Senha: %3$s\n"
+"Acesse aqui: %4$s\n\n"
+"Esperamos que você goste do seu novo site. Obrigado!\n\n"
+"--Equipe do ClassicPress\n"
+"https://www.classicpress.net/\n"
 
 #: wp-admin/includes/upgrade.php:604
 msgid "New ClassicPress Site"
@@ -14786,11 +14820,11 @@ msgstr "Painel"
 
 #: wp-admin/index.php:35
 msgid "Welcome to your ClassicPress Dashboard!"
-msgstr ""
+msgstr "Boas-vindas ao seu painel do ClassicPress!"
 
 #: wp-admin/index.php:36
 msgid "The Dashboard is the first place you will come to every time you log into your site. It is where you access to all the site management features of ClassicPress. You can get help for any screen by clicking the Help tab above the screen title."
-msgstr ""
+msgstr "O painel é o primeiro lugar que você verá sempre que acessar seu site. É nele que você encontra todos os recursos de gerenciamento do site no ClassicPress. Você pode obter ajuda sobre qualquer tela clicando na aba Ajuda acima do título da tela."
 
 #: wp-admin/index.php:50
 msgid "The left-hand navigation menu provides links to all of the ClassicPress administration screens, with submenu items displayed on hover. You can minimize this menu to a narrow icon strip by clicking on the Collapse Menu arrow at the bottom."
@@ -14826,11 +14860,11 @@ msgstr "As caixas na tela de seu painel são:"
 
 #: wp-admin/index.php:77
 msgid "<strong>Site Health Status</strong> &mdash; Informs you of any potential issues that should be addressed to improve the performance or security of your website."
-msgstr "<strong>Diagnóstico do site</strong> %mdash; informa quaisquer problemas potenciais devem ser corrigidos para melhorar o desempenho ou segurança do seu site."
+msgstr "<strong>Diagnóstico do site</strong> &mdash; informa quaisquer problemas potenciais devem ser corrigidos para melhorar o desempenho ou segurança do seu site."
 
 #: wp-admin/index.php:81
 msgid "<strong>At a Glance</strong> &mdash; Displays a summary of the content on your site and identifies which theme and version of ClassicPress you are using."
-msgstr ""
+msgstr "<strong>Agora</strong>: mostra um resumo do conteúdo do seu site e identifica o tema e a versão do ClassicPress que você está usando."
 
 #: wp-admin/index.php:84
 msgid "<strong>Activity</strong> &mdash; Shows the upcoming scheduled posts, recently published posts, and the most recent comments on your posts and allows you to moderate them."
@@ -14844,11 +14878,11 @@ msgstr "<strong>Rascunho rápido</strong> &mdash; Permite criar um novo post e s
 #: wp-admin/index.php:92
 #, php-format
 msgid "<strong>ClassicPress News</strong> &mdash; Latest news from the official <a href=\"%s\">ClassicPress blog</a>."
-msgstr ""
+msgstr "<strong>Notícias do ClassicPress</strong>: as últimas notícias do <a href=\"%s\">blog oficial do ClassicPress</a>."
 
 #: wp-admin/index.php:108
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/dashboard-screen/\">Documentation on Dashboard</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/dashboard-screen/\">Documentação sobre o painel</a>"
 
 #. translators: %s: Human-readable time interval.
 #: wp-admin/index.php:134
@@ -14994,7 +15028,7 @@ msgstr "Parece que você já possui o ClassicPress instalado. Para reinstalá-lo
 #: wp-admin/install.php:276
 #: wp-admin/install.php:284
 msgid "<a href=\""
-msgstr ""
+msgstr "<a href=\""
 
 #: wp-admin/install.php:293
 msgid "Requirements Not Met"
@@ -15019,11 +15053,11 @@ msgstr "A constante %s não pôde ser definida durante a instalação do Classic
 
 #: wp-admin/install.php:363
 msgid "Admin Setup"
-msgstr ""
+msgstr "Configuração do administrador"
 
 #: wp-admin/install.php:365
 msgid "Give your site a great title and fill out your administrator account details. Take note of your username and password – you will need these again in a moment."
-msgstr ""
+msgstr "Dê um ótimo título ao seu site e preencha os dados da sua conta de administrador. Anote seu nome de usuário e senha – você precisará deles daqui a pouco."
 
 #: wp-admin/install.php:396
 msgid "Please provide a valid username."
@@ -15053,7 +15087,7 @@ msgstr "Sucesso!"
 #: wp-admin/install.php:426
 #, php-format
 msgid "ClassicPress has been installed. Consider making a donation to support <a href=\"%s\">ClassicPress</a>, please. Thank you, and enjoy!"
-msgstr ""
+msgstr "O ClassicPress foi instalado. Considere fazer uma doação para apoiar o <a href=\"%s\">ClassicPress</a>. Obrigado, e aproveite!"
 
 #: wp-admin/link-add.php:13
 msgid "Sorry, you are not allowed to add links to this site."
@@ -15087,7 +15121,7 @@ msgstr "Se você excluir um link, ele será removido permanentemente, pois ainda
 
 #: wp-admin/link-manager.php:79
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/\">Documentation on Managing Links</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/link-manager/\">Documentação sobre o gerenciamento de links</a>"
 
 #: wp-admin/link-manager.php:85
 msgid "Links list"
@@ -15098,7 +15132,7 @@ msgstr "Lista de links"
 #, php-format
 msgid "%s link deleted."
 msgid_plural "%s links deleted."
-msgstr[0] ""
+msgstr[0] "%s link excluído."
 msgstr[1] "%s links excluídos."
 
 #: wp-admin/link-manager.php:139
@@ -15206,7 +15240,7 @@ msgstr "Falha ao otimizar a tabela %1$s. Erro: %2$s"
 #: wp-admin/maint/repair.php:161
 #, php-format
 msgid "Some database problems could not be repaired. Please copy-and-paste the following list of errors to the <a href=\"%s\">ClassicPress support forums</a> to get additional assistance."
-msgstr ""
+msgstr "Alguns problemas do banco de dados não puderam ser reparados. Copie e cole a lista de erros abaixo nos <a href=\"%s\">fóruns de suporte do ClassicPress</a> para obter mais ajuda."
 
 #: wp-admin/maint/repair.php:162
 msgid "https://wordpress.org/support/forum/how-to-and-troubleshooting"
@@ -15276,15 +15310,15 @@ msgstr "Editar mídia"
 
 #: wp-admin/media.php:68
 msgid "You attempted to edit an attachment that does not exist. Perhaps it was deleted?"
-msgstr ""
+msgstr "Você tentou editar um anexo que não existe. Talvez ele tenha sido excluído?"
 
 #: wp-admin/media.php:71
 msgid "You attempted to edit an item that is not an attachment. Please go back and try again."
-msgstr ""
+msgstr "Você tentou editar um item que não é um anexo. Volte e tente novamente."
 
 #: wp-admin/media.php:74
 msgid "You cannot edit this attachment because it is in the Trash. Please move it out of the Trash and try again."
-msgstr ""
+msgstr "Você não pode editar este anexo porque ele está na lixeira. Tire-o da lixeira e tente novamente."
 
 #. translators: Add new file.
 #: wp-admin/media.php:130
@@ -15366,7 +15400,7 @@ msgstr "Temas %s"
 #: wp-admin/menu.php:236
 msgctxt "theme editor"
 msgid "Theme File Editor"
-msgstr ""
+msgstr "Editor de arquivos de tema"
 
 #. translators: %s: Number of available plugin updates.
 #: wp-admin/menu.php:252
@@ -15595,11 +15629,11 @@ msgstr "Item de menu agora é um subitem"
 
 #: wp-admin/nav-menus.php:570
 msgid "menu position"
-msgstr ""
+msgstr "posição no menu"
 
 #: wp-admin/nav-menus.php:571
 msgid "moved to"
-msgstr ""
+msgstr "movido para"
 
 #. translators: %s: URL to Widgets screen.
 #: wp-admin/nav-menus.php:664
@@ -15696,7 +15730,7 @@ msgstr "Para adicionar um novo menu ao invés de atribuir um existente, <strong>
 
 #: wp-admin/nav-menus.php:742
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/menus-screen/\">Documentation on Menus</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/menus-screen/\">Documentação sobre menus</a>"
 
 #: wp-admin/nav-menus.php:757
 #: wp-admin/widgets-form.php:369
@@ -15720,7 +15754,7 @@ msgstr "Gerenciar posições"
 
 #: wp-admin/nav-menus.php:797
 msgid "Your theme supports one menu. Select which menu you would like to use."
-msgstr "Seu tema suporta %s menu. Selecione qual menu você quer utilizar."
+msgstr "Seu tema suporta um menu. Selecione qual menu você quer utilizar."
 
 #. translators: %s: Number of menus.
 #: wp-admin/nav-menus.php:801
@@ -15812,7 +15846,7 @@ msgstr "Edite seu menu padrão adicionando e removendo itens. Arraste cada item 
 
 #: wp-admin/nav-menus.php:1079
 msgid "Drag the items into the order you prefer. Click the arrow on the left of the item to reveal additional configuration options."
-msgstr ""
+msgstr "Arraste os itens na ordem que preferir. Clique na seta à esquerda do item para mostrar mais opções de configuração."
 
 #: wp-admin/nav-menus.php:1090
 #: wp-admin/nav-menus.php:1125
@@ -15877,7 +15911,7 @@ msgstr "Você deve clicar no botão Salvar Alterações no final desta tela para
 
 #: wp-admin/options-discussion.php:32
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-discussion-screen/\">Documentation on Discussion Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-discussion-screen/\">Documentação sobre as configurações de discussão</a>"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-discussion.php:47
@@ -15923,7 +15957,7 @@ msgstr "(O registro foi desativado. Somente membros deste site podem comentar.)"
 #: wp-admin/options-discussion.php:95
 #, php-format
 msgid "Automatically close comments on posts older than %s days"
-msgstr ""
+msgstr "Fechar automaticamente os comentários de posts com mais de %s dias"
 
 #: wp-admin/options-discussion.php:104
 msgid "Show comments cookies opt-in checkbox, allowing comment author cookies to be set"
@@ -16005,7 +16039,7 @@ msgstr "Reter um comentário na fila se este contiver %s ou mais links. (Uma car
 
 #: wp-admin/options-discussion.php:227
 msgid "When a comment contains any of these words in its content, author name, URL, email, IP address, or browser&#8217;s user agent string, it will be held in the <a href=\"edit-comments.php?comment_status=moderated\">moderation queue</a>. One word or IP address per line. It will match inside words, so &#8220;press&#8221; will match &#8220;ClassicPress&#8221;."
-msgstr ""
+msgstr "Quando um comentário tiver qualquer uma destas palavras no conteúdo, no nome do autor, no URL, no e-mail, no endereço IP ou na string de user agent do navegador, ele será retido na <a href=\"edit-comments.php?comment_status=moderated\">fila de moderação</a>. Uma palavra ou endereço IP por linha. A correspondência também ocorre dentro de palavras, então &#8220;press&#8221; corresponderá a &#8220;ClassicPress&#8221;."
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-discussion.php:234
@@ -16015,7 +16049,7 @@ msgstr "Comentários não permitidos"
 
 #: wp-admin/options-discussion.php:241
 msgid "When a comment contains any of these words in its content, author name, URL, email, IP address, or browser&#8217;s user agent string, it will be put in the Trash. One word or IP address per line. It will match inside words, so &#8220;press&#8221; will match &#8220;ClassicPress&#8221;."
-msgstr ""
+msgstr "Quando um comentário tiver qualquer uma destas palavras no conteúdo, no nome do autor, no URL, no e-mail, no endereço IP ou na string de user agent do navegador, ele será colocado na lixeira. Uma palavra ou endereço IP por linha. A correspondência também ocorre dentro de palavras, então &#8220;press&#8221; corresponderá a &#8220;ClassicPress&#8221;."
 
 #: wp-admin/options-discussion.php:250
 msgid "Avatars"
@@ -16103,11 +16137,11 @@ msgstr "RoboHash (gerado)"
 
 #: wp-admin/options-discussion.php:325
 msgid "Initials (Generated)"
-msgstr ""
+msgstr "Iniciais (geradas)"
 
 #: wp-admin/options-discussion.php:326
 msgid "Color (Generated)"
-msgstr ""
+msgstr "Cor (gerada)"
 
 #: wp-admin/options-general.php:20
 msgid "General Settings"
@@ -16129,11 +16163,11 @@ msgstr "A maioria dos temas exibem o título do site no topo de toda página, na
 
 #: wp-admin/options-general.php:35
 msgid "The ClassicPress URL and the site URL can be the same (example.com) or different; for example, having the ClassicPress core files (example.com/classicpress) in a subdirectory instead of the root directory."
-msgstr ""
+msgstr "O URL do ClassicPress e o URL do site podem ser iguais (example.com) ou diferentes; por exemplo, com os arquivos do núcleo do ClassicPress (example.com/classicpress) em um subdiretório, em vez do diretório raiz."
 
 #: wp-admin/options-general.php:36
 msgid "If you want site visitors to be able to register themselves, check the membership box. If you want the site administrator to register every new user, leave the box unchecked. In either case, you can set a default user role for all new users."
-msgstr ""
+msgstr "Se você quiser que os visitantes do site possam se registrar, marque a caixa Membros. Se quiser que o administrador do site registre cada novo usuário, deixe a caixa desmarcada. Em ambos os casos, você pode definir uma função padrão para todos os novos usuários."
 
 #: wp-admin/options-general.php:39
 msgid "You can set the language, and the translation files will be automatically downloaded and installed (available if your filesystem is writable)."
@@ -16145,12 +16179,12 @@ msgstr "UTC significa \"horário universal coordenado\" (Coordinated Universal T
 
 #: wp-admin/options-general.php:53
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/\">Documentation on General Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/\">Documentação sobre as configurações gerais</a>"
 
 #. translators: Site tagline.
 #: wp-admin/options-general.php:75
 msgid "Just another ClassicPress site"
-msgstr ""
+msgstr "Apenas mais um site ClassicPress"
 
 #. translators: %s: Network title.
 #: wp-admin/options-general.php:78
@@ -16171,28 +16205,28 @@ msgstr "Em poucas palavras, explique sobre o que é esse site."
 #: wp-admin/js/site-icon.js:161
 #, php-format,js-format
 msgid "App icon preview: The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "Visualização do ícone do aplicativo: a imagem atual não tem texto alternativo. O nome do arquivo é: %s"
 
 #. translators: %s: The selected image filename.
 #: wp-admin/options-general.php:125
 #: wp-admin/js/site-icon.js:168
 #, php-format,js-format
 msgid "Browser icon preview: The current image has no alternative text. The file name is: %s"
-msgstr ""
+msgstr "Visualização do ícone do navegador: a imagem atual não tem texto alternativo. O nome do arquivo é: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:132
 #: wp-admin/js/site-icon.js:150
 #, php-format,js-format
 msgid "App icon preview: Current image: %s"
-msgstr ""
+msgstr "Visualização do ícone do aplicativo: imagem atual: %s"
 
 #. translators: %s: The selected image alt text.
 #: wp-admin/options-general.php:138
 #: wp-admin/js/site-icon.js:155
 #, php-format,js-format
 msgid "Browser icon preview: Current image: %s"
-msgstr ""
+msgstr "Visualização do ícone do navegador: imagem atual: %s"
 
 #: wp-admin/options-general.php:165
 #: wp-admin/options-general.php:174
@@ -16230,11 +16264,11 @@ msgstr "Endereço do site (URL)"
 #: wp-admin/options-general.php:224
 #, php-format
 msgid "Enter the same address here unless you <a href=\"%s\">want your site home page to be different from your ClassicPress installation directory</a>."
-msgstr ""
+msgstr "Digite aqui o mesmo endereço, a menos que você <a href=\"%s\">queira que a página inicial do seu site seja diferente do diretório de instalação do ClassicPress</a>."
 
 #: wp-admin/options-general.php:225
 msgid "https://developer.wordpress.org/advanced-administration/server/wordpress-in-directory/"
-msgstr ""
+msgstr "https://developer.wordpress.org/advanced-administration/server/wordpress-in-directory/"
 
 #: wp-admin/options-general.php:236
 msgid "Administration Email Address"
@@ -16253,11 +16287,11 @@ msgstr "Existe uma alteração pendente do e-mail do administrador para %s."
 #: wp-admin/options-general.php:285
 #: wp-admin/options-general.php:288
 msgid "Custom Login Image"
-msgstr ""
+msgstr "Imagem de login personalizada"
 
 #: wp-admin/options-general.php:290
 msgid "If you choose an image here and enable this option, then that image will be shown at the top of the login page instead of the ClassicPress logo."
-msgstr ""
+msgstr "Se você escolher uma imagem aqui e ativar esta opção, essa imagem será exibida no topo da página de login no lugar do logotipo do ClassicPress."
 
 #: wp-admin/options-general.php:292
 #: wp-admin/options-general.php:645
@@ -16266,23 +16300,23 @@ msgstr "Saiba mais."
 
 #: wp-admin/options-general.php:297
 msgid "No custom image: use the <strong>ClassicPress logo</strong>"
-msgstr ""
+msgstr "Sem imagem personalizada: usar o <strong>logotipo do ClassicPress</strong>"
 
 #: wp-admin/options-general.php:307
 msgid "Use my custom image as a <strong>logo</strong>"
-msgstr ""
+msgstr "Usar minha imagem personalizada como <strong>logotipo</strong>"
 
 #: wp-admin/options-general.php:317
 msgid "Use my custom image as a <strong>banner</strong>"
-msgstr ""
+msgstr "Usar minha imagem personalizada como <strong>banner</strong>"
 
 #: wp-admin/options-general.php:323
 msgid "Clear Image"
-msgstr ""
+msgstr "Limpar imagem"
 
 #: wp-admin/options-general.php:327
 msgid "Changing the custom login image requires JavaScript to be enabled."
-msgstr ""
+msgstr "Alterar a imagem de login personalizada requer que o JavaScript esteja ativado."
 
 #: wp-admin/options-general.php:345
 msgid "Anyone can register"
@@ -16384,7 +16418,7 @@ msgstr "Formato de hora personalizado:"
 
 #: wp-admin/options-general.php:601
 msgid "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/date-and-time-format/\">Documentation on date and time formatting</a>."
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/date-and-time-format/\">Documentação sobre a formatação de data e hora</a>."
 
 #: wp-admin/options-general.php:607
 msgid "Week Starts On"
@@ -16392,12 +16426,12 @@ msgstr "Semana começa em"
 
 #: wp-admin/options-general.php:625
 msgid "Blocks Compatibility"
-msgstr ""
+msgstr "Compatibilidade com blocos"
 
 #: wp-admin/options-general.php:631
 msgctxt "Block Compatibility"
 msgid "Off"
-msgstr ""
+msgstr "Desativada"
 
 #: wp-admin/options-general.php:632
 msgctxt "Block Compatibility"
@@ -16411,37 +16445,37 @@ msgstr "Solução de problemas"
 
 #: wp-admin/options-general.php:643
 msgid "ClassicPress is incompatible with the block editor. When blocks compatibility is turned on (default), it allows more plugins and themes to work but block-related features will not work. "
-msgstr ""
+msgstr "O ClassicPress é incompatível com o editor de blocos. Quando a compatibilidade com blocos está ativada (padrão), mais plugins e temas funcionam, mas os recursos relacionados a blocos não. "
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:651
 #: wp-admin/options-general.php:655
 msgid "Disable Emojis"
-msgstr ""
+msgstr "Desativar emojis"
 
 #: wp-admin/options-general.php:659
 msgid "Emojis disabled"
-msgstr ""
+msgstr "Emojis desativados"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:661
 #: wp-admin/options-general.php:665
 msgid "Disable XML-RPC"
-msgstr ""
+msgstr "Desativar XML-RPC"
 
 #: wp-admin/options-general.php:669
 msgid "XML-RPC server disabled"
-msgstr ""
+msgstr "Servidor XML-RPC desativado"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-general.php:673
 #: wp-admin/options-general.php:677
 msgid "Enable Link Manager"
-msgstr ""
+msgstr "Ativar o gerenciador de links"
 
 #: wp-admin/options-general.php:681
 msgid "Link Manager enabled"
-msgstr ""
+msgstr "Gerenciador de links ativado"
 
 #: wp-admin/options-head.php:15
 #: wp-admin/options.php:357
@@ -16462,23 +16496,23 @@ msgstr "A seção Enviando Arquivos permite que você escolha a pasta e o caminh
 
 #: wp-admin/options-media.php:29
 msgid "You can choose how you would like uploads to be organized after uploading. By default uploads are organized into month- and year-based folders."
-msgstr ""
+msgstr "Você pode escolher como quer que os arquivos sejam organizados após o envio. Por padrão, eles são organizados em pastas por mês e ano."
 
 #: wp-admin/options-media.php:31
 msgid "Media attachments, including image, audio, video files, can have attachment pages. An attachment page displays information about a particular media file you have uploaded to your site. You can choose to enable or disable attachment pages."
-msgstr ""
+msgstr "Anexos de mídia, incluindo arquivos de imagem, áudio e vídeo, podem ter páginas de anexo. Uma página de anexo mostra informações sobre um arquivo de mídia específico que você enviou ao seu site. Você pode ativar ou desativar as páginas de anexo."
 
 #: wp-admin/options-media.php:45
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-media-screen/\">Documentation on Media Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-media-screen/\">Documentação sobre as configurações de mídia</a>"
 
 #: wp-admin/options-media.php:72
 msgid "This option requires that at least one media category has been created."
-msgstr ""
+msgstr "Esta opção requer que pelo menos uma categoria de mídia tenha sido criada."
 
 #: wp-admin/options-media.php:72
 msgid "Create one now."
-msgstr ""
+msgstr "Criar uma agora."
 
 #: wp-admin/options-media.php:90
 msgid "Image sizes"
@@ -16556,43 +16590,43 @@ msgstr "Essa configuração é opcional, por padrão deveria estar em branco."
 
 #: wp-admin/options-media.php:194
 msgid "How do you want your uploads organized?"
-msgstr ""
+msgstr "Como você quer que seus envios sejam organizados?"
 
 #: wp-admin/options-media.php:199
 msgid "Store all uploads in the same folder."
-msgstr ""
+msgstr "Armazenar todos os envios na mesma pasta."
 
 #: wp-admin/options-media.php:202
 msgid "Organize uploads into year-based folders."
-msgstr ""
+msgstr "Organizar os envios em pastas por ano."
 
 #: wp-admin/options-media.php:205
 msgid "Organize uploads into month- and year-based folders."
-msgstr ""
+msgstr "Organizar os envios em pastas por mês e ano."
 
 #: wp-admin/options-media.php:211
 msgid "Organize uploads according to media category."
-msgstr ""
+msgstr "Organizar os envios de acordo com a categoria de mídia."
 
 #: wp-admin/options-media.php:218
 msgid "Do you want to be able to re-name your files as you upload them?"
-msgstr ""
+msgstr "Você quer poder renomear seus arquivos ao enviá-los?"
 
 #: wp-admin/options-media.php:221
 msgid "Enable file re-naming."
-msgstr ""
+msgstr "Ativar a renomeação de arquivos."
 
 #: wp-admin/options-media.php:230
 msgid "Attachment Pages"
-msgstr ""
+msgstr "Páginas de anexo"
 
 #: wp-admin/options-media.php:234
 msgid "Do you want to enable media attachment pages?"
-msgstr ""
+msgstr "Você quer ativar as páginas de anexos de mídia?"
 
 #: wp-admin/options-media.php:239
 msgid "Enable media attachment pages."
-msgstr ""
+msgstr "Ativar páginas de anexos de mídia."
 
 #: wp-admin/options-permalink.php:17
 #: wp-admin/options-permalink.php:33
@@ -16633,11 +16667,11 @@ msgstr "Os campos opcionais permitem que você personalize os nomes base da &#82
 
 #: wp-admin/options-permalink.php:60
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-permalinks-screen/\">Documentation on Permalinks Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-permalinks-screen/\">Documentação sobre as configurações de links permanentes</a>"
 
 #: wp-admin/options-permalink.php:63
 msgid "<a href=\"https://developer.wordpress.org/advanced-administration/server/web-server/nginx/\">Documentation on Nginx configuration</a>."
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/advanced-administration/server/web-server/nginx/\">Documentação sobre a configuração do Nginx</a>."
 
 #: wp-admin/options-permalink.php:175
 msgid "Permalink structure updated."
@@ -16665,7 +16699,7 @@ msgstr "ClassicPress oferece a possibilidade de criar estruturas personalizadas 
 
 #: wp-admin/options-permalink.php:226
 msgid "https://docs.classicpress.net/user-guides/using-classicpress/settings-permalinks-screen/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/using-classicpress/settings-permalinks-screen/"
 
 #: wp-admin/options-permalink.php:245
 msgid "Plain"
@@ -16830,7 +16864,7 @@ msgstr "<strong>Erro:</strong> seu arquivo %1$s não tem <a href=\"%2$s\">permis
 #: wp-admin/options-permalink.php:499
 #: wp-admin/options-permalink.php:535
 msgid "https://wordpress.org/support/article/changing-file-permissions/"
-msgstr ""
+msgstr "https://wordpress.org/support/article/changing-file-permissions/"
 
 #: wp-admin/options-permalink.php:477
 #: wp-admin/options-permalink.php:509
@@ -16877,7 +16911,7 @@ msgstr "Esta tela inclui sugestões para ajudar você a escrever sua própria po
 
 #: wp-admin/options-privacy.php:47
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-privacy-screen/\">Documentation on Privacy Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-privacy-screen/\">Documentação sobre as configurações de privacidade</a>"
 
 #: wp-admin/options-privacy.php:57
 msgid "Privacy Policy page updated successfully."
@@ -16966,7 +17000,7 @@ msgstr "<a href=\"%1$s\">Edite</a> ou <a href=\"%2$s\">pré-visualize</a> o cont
 #: wp-admin/options-privacy.php:239
 #, php-format
 msgid "Need help putting together your new Privacy Policy page? <a href=\"%1$s\" %2$s>Check out our privacy policy guide%3$s</a> for recommendations on what content to include, along with policies suggested by your plugins and theme."
-msgstr ""
+msgstr "Precisa de ajuda para montar sua nova página de política de privacidade? <a href=\"%1$s\" %2$s>Confira nosso guia de política de privacidade%3$s</a> com recomendações sobre o conteúdo a incluir, junto com as políticas sugeridas pelos seus plugins e tema."
 
 #: wp-admin/options-privacy.php:265
 msgid "Create a new Privacy Policy page"
@@ -16978,7 +17012,7 @@ msgstr "Não há nenhuma página."
 
 #: wp-admin/options-privacy.php:277
 msgid "Create"
-msgstr ""
+msgstr "Criar"
 
 #: wp-admin/options-privacy.php:288
 msgid "Change your Privacy Policy page"
@@ -17015,7 +17049,7 @@ msgstr "Você também pode controlar a exibição de seu conteúdo em feeds RSS,
 #: wp-admin/options-reading.php:35
 #: wp-admin/options-reading.php:210
 msgid "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/classicpress-feeds/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/classicpress-feeds/"
 
 #: wp-admin/options-reading.php:45
 msgid "You can choose whether or not your site will be crawled by robots, ping services, and spiders. If you want those services to ignore your site, click the checkbox next to &#8220;Discourage search engines from indexing this site&#8221; and click the Save Changes button at the bottom of the screen."
@@ -17032,23 +17066,23 @@ msgstr "Quando esta configuração está ativa, uma notificação é exibida na 
 #: wp-admin/options-reading.php:54
 #: wp-admin/options-reading.php:271
 msgid "Object cache"
-msgstr ""
+msgstr "Cache de objetos"
 
 #: wp-admin/options-reading.php:55
 msgid "The <a href=\"site-health.php\">Site Health</a> tool recommends that you use an object cache to reduce the load on your site's database and potentially speed up the responsiveness of your site. If you have not already installed an object cache and would like ClassicPress to do so for you, click the checkbox next to &#8220;Object cache&#8221; and click the Save Changes button at the bottom of the screen."
-msgstr ""
+msgstr "A ferramenta <a href=\"site-health.php\">Diagnóstico</a> recomenda usar um cache de objetos para reduzir a carga no banco de dados do seu site e, possivelmente, acelerar a resposta do site. Se você ainda não instalou um cache de objetos e quer que o ClassicPress faça isso por você, marque a caixa ao lado de &#8220;Cache de objetos&#8221; e clique no botão Salvar alterações no fim da tela."
 
 #: wp-admin/options-reading.php:56
 msgid "Note that an object cache is different from page caching. You may have them both running on your site; ClassicPress's object cache will not conflict with page caching plugins."
-msgstr ""
+msgstr "Observe que o cache de objetos é diferente do cache de páginas. Você pode usar os dois no seu site; o cache de objetos do ClassicPress não entra em conflito com plugins de cache de páginas."
 
 #: wp-admin/options-reading.php:57
 msgid "Unlike page caching, object caching will work even when a user is logged in. This makes it particularly useful for membership sites and intranets."
-msgstr ""
+msgstr "Ao contrário do cache de páginas, o cache de objetos funciona mesmo quando um usuário está conectado. Isso o torna especialmente útil para sites de membros e intranets."
 
 #: wp-admin/options-reading.php:63
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-reading-screen/\">Documentation on Reading Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-reading-screen/\">Documentação sobre as configurações de leitura</a>"
 
 #: wp-admin/options-reading.php:78
 msgid "Encoding for pages and feeds"
@@ -17127,23 +17161,23 @@ msgstr "Seu tema determina como o conteúdo é mostrado nos navegadores. <a href
 #: wp-admin/options-reading.php:308
 #: wp-admin/options-reading.php:317
 msgid "Enable object caching"
-msgstr ""
+msgstr "Ativar o cache de objetos"
 
 #: wp-admin/options-reading.php:292
 msgid "The APCu extension for PHP is not installed. If you wish to have ClassicPress activate object caching, you should ask your host to install the APCu extension."
-msgstr ""
+msgstr "A extensão APCu do PHP não está instalada. Se você quer que o ClassicPress ative o cache de objetos, peça à sua hospedagem para instalar a extensão APCu."
 
 #: wp-admin/options-reading.php:301
 msgid "You have activated ClassicPress's object cache on this site."
-msgstr ""
+msgstr "Você ativou o cache de objetos do ClassicPress neste site."
 
 #: wp-admin/options-reading.php:309
 msgid "Object caching has already been installed on this site by a plugin or other code. You will not be able to uncheck this box unless you first deactivate the plugin or other code."
-msgstr ""
+msgstr "Um cache de objetos já foi instalado neste site por um plugin ou outro código. Você não poderá desmarcar esta caixa sem antes desativar esse plugin ou código."
 
 #: wp-admin/options-reading.php:318
 msgid "You do not currently have an object cache installed on this site. Check the box if you want ClassicPress to install one for you."
-msgstr ""
+msgstr "No momento, você não tem um cache de objetos instalado neste site. Marque a caixa se quiser que o ClassicPress instale um para você."
 
 #: wp-admin/options-writing.php:17
 msgid "Writing Settings"
@@ -17172,7 +17206,7 @@ msgstr "Se desejar, o ClassicPress alertará automaticamente os vários serviço
 
 #: wp-admin/options-writing.php:53
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-writing-screen/\">Documentation on Writing Settings</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/settings-writing-screen/\">Documentação sobre as configurações de escrita</a>"
 
 #. translators: Hidden accessibility text.
 #: wp-admin/options-writing.php:69
@@ -17208,7 +17242,7 @@ msgstr "Publicar por e-mail"
 #: wp-admin/options-writing.php:151
 #, php-format
 msgid "To post to ClassicPress by email, you must set up a secret email account with POP3 access. Any mail received at this address will be posted, so it&#8217;s a good idea to keep this address very secret. Here are three random strings you could use: %1$s, %2$s, %3$s."
-msgstr ""
+msgstr "Para publicar no ClassicPress por e-mail, você precisa configurar uma conta de e-mail secreta com acesso POP3. Qualquer mensagem recebida neste endereço será publicada, então é uma boa ideia manter esse endereço bem secreto. Aqui estão três sequências aleatórias que você pode usar: %1$s, %2$s, %3$s."
 
 #: wp-admin/options-writing.php:161
 msgid "Mail Server"
@@ -17230,12 +17264,12 @@ msgstr "Categoria de e-mail padrão"
 #: wp-admin/options-writing.php:215
 #, php-format
 msgid "When you publish a new post, ClassicPress automatically notifies the following site update services. For more about this, see the <a href=\"%s\">Update Services</a> documentation article. Separate multiple service URLs with line breaks."
-msgstr ""
+msgstr "Quando você publica um novo post, o ClassicPress notifica automaticamente os seguintes serviços de atualização de sites. Para saber mais, consulte o artigo da documentação sobre <a href=\"%s\">serviços de atualização</a>. Separe vários URLs de serviços com quebras de linha."
 
 #: wp-admin/options-writing.php:216
 #: wp-admin/options-writing.php:230
 msgid "https://docs.classicpress.net/user-guides/using-classicpress/settings-writing-screen/#update-services"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/using-classicpress/settings-writing-screen/#update-services"
 
 #. translators: 1: Documentation URL, 2: URL to Reading Settings screen.
 #: wp-admin/options-writing.php:229
@@ -17326,12 +17360,12 @@ msgstr "Quaisquer edições em arquivos nesta tela serão refletidas em todos os
 
 #: wp-admin/plugin-editor.php:143
 msgid "<a href=\"https://developer.wordpress.org/plugins/\">Documentation on Plugin Development</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/plugins/\">Documentação sobre o desenvolvimento de plugins</a>"
 
 #: wp-admin/plugin-editor.php:144
 #: wp-admin/theme-editor.php:53
 msgid "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/editing-files/\">Documentation on Editing Files</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/editing-files/\">Documentação sobre a edição de arquivos</a>"
 
 #. translators: 1: Line number, 2: File path.
 #: wp-admin/plugin-editor.php:162
@@ -17409,7 +17443,7 @@ msgstr "Atualizar arquivo"
 #: wp-admin/plugin-editor.php:335
 #: wp-admin/setup-config.php:504
 msgid "https://developer.wordpress.org/advanced-administration/server/file-permissions/"
-msgstr ""
+msgstr "https://developer.wordpress.org/advanced-administration/server/file-permissions/"
 
 #: wp-admin/plugin-editor.php:366
 #: wp-admin/theme-editor.php:401
@@ -17418,7 +17452,7 @@ msgstr "Atenção!"
 
 #: wp-admin/plugin-editor.php:367
 msgid "You appear to be making direct edits to your plugin in the ClassicPress dashboard. Editing plugins directly is not recommended as it may introduce incompatibilities that break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "Parece que você está editando seu plugin diretamente no painel do ClassicPress. Editar plugins diretamente não é recomendado, pois isso pode introduzir incompatibilidades que quebram seu site, e suas alterações podem ser perdidas em atualizações futuras."
 
 #: wp-admin/plugin-editor.php:368
 msgid "If you absolutely have to make direct edits to this plugin, use a file manager to create a copy with a new name and hang on to the original. That way, you can re-enable a functional version if something goes wrong."
@@ -17437,7 +17471,7 @@ msgstr "Instalar plugins"
 #: wp-admin/plugin-install.php:100
 #, php-format
 msgid "Plugins hook into ClassicPress to extend its functionality with custom features. Plugins are developed independently from the core ClassicPress application by developers all over the world. All plugins in the <a href=\"%s\">WordPress Plugin Directory</a> are compatible with the license WordPress uses."
-msgstr ""
+msgstr "Os plugins se conectam ao ClassicPress para estender suas funcionalidades com recursos personalizados. Eles são desenvolvidos de forma independente do núcleo do ClassicPress por desenvolvedores do mundo inteiro. Todos os plugins do <a href=\"%s\">diretório de plugins do WordPress</a> são compatíveis com a licença usada pelo WordPress."
 
 #: wp-admin/plugin-install.php:103
 msgid "You can find new plugins to install by searching or browsing the directory right here in your own Plugins section."
@@ -17466,7 +17500,7 @@ msgstr "Se você quer instalar um plugin que você baixou em outro lugar, clique
 #: wp-admin/plugin-install.php:121
 #: wp-admin/plugins.php:592
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/managing-plugins/\">Documentation on Managing Plugins</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/managing-plugins/\">Documentação sobre o gerenciamento de plugins</a>"
 
 #: wp-admin/plugin-install.php:127
 #: wp-admin/plugins.php:599
@@ -17490,12 +17524,12 @@ msgstr "Procurar plugins"
 #: wp-admin/plugin-install.php:158
 #, php-format
 msgid "You can browse other plugins in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "Você pode navegar por outros plugins no <a href=\"%s\" target=\"_blank\">Diretório do ClassicPress</a>."
 
 #: wp-admin/plugin-install.php:170
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific plugins from the Plugins Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">Instalar agora</a> | Plugin ClassicPress Directory Integration: instale plugins específicos para o ClassicPress pelo menu Plugins."
 
 #: wp-admin/plugins.php:48
 #: wp-admin/plugins.php:176
@@ -17603,18 +17637,18 @@ msgstr "A busca por plugins instalados irá procurar os termos no nome, descriç
 #: wp-admin/plugins.php:549
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to plugins that are built for ClassicPress. They will appear in the Plugins > Install CP Plugins screen."
-msgstr ""
+msgstr "Com o plugin <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a>, você tem acesso a plugins criados para o ClassicPress. Eles aparecerão na tela Plugins > Instalar plugins CP."
 
 #: wp-admin/plugins.php:550
 #: wp-admin/themes.php:157
 msgid "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
-msgstr ""
+msgstr "https://directory.classicpress.net/plugins/classicpress-directory-integration/"
 
 #. translators: %s: WordPress Plugin Directory URL.
 #: wp-admin/plugins.php:554
 #, php-format
 msgid "If you would like to see more plugins to choose from, click on the &#8220;Add New&#8221; button and you will be able to browse or search for additional plugins from the <a href=\"%s\">WordPress Plugin Directory</a>. Plugins in the WordPress Plugin Directory are designed and developed by third parties, and are compatible with the license WordPress uses. Oh, and they&#8217;re free!"
-msgstr ""
+msgstr "Se quiser ver mais plugins para escolher, clique no botão &#8220;Adicionar novo&#8221; e você poderá navegar ou pesquisar mais plugins no <a href=\"%s\">diretório de plugins do WordPress</a>. Os plugins do diretório de plugins do WordPress são criados e desenvolvidos por terceiros e são compatíveis com a licença usada pelo WordPress. Ah, e são gratuitos!"
 
 #: wp-admin/plugins.php:562
 msgid "Troubleshooting"
@@ -17628,7 +17662,7 @@ msgstr "Na maior parte das vezes, os plugins funcionam bem com o core do Classic
 #: wp-admin/plugins.php:567
 #, php-format
 msgid "If something goes wrong with a plugin and you cannot use ClassicPress, delete or rename that file in the %s directory and it will be automatically deactivated."
-msgstr ""
+msgstr "Se algo der errado com um plugin e você não conseguir usar o ClassicPress, exclua ou renomeie o arquivo dele no diretório %s e ele será desativado automaticamente."
 
 #: wp-admin/plugins.php:581
 msgid "Auto-updates can be enabled or disabled for each individual plugin. Plugins with auto-updates enabled will display the estimated date of the next auto-update. Auto-updates depends on the WP-Cron task scheduling system."
@@ -17636,17 +17670,17 @@ msgstr "As atualizações automáticas podem ser ativadas ou desativadas para ca
 
 #: wp-admin/plugins.php:582
 msgid "Auto-updates are only available for plugins recognized by WordPress.org or ClassicPress.net, or that include a compatible update system."
-msgstr ""
+msgstr "As atualizações automáticas só estão disponíveis para plugins reconhecidos pelo WordPress.org ou ClassicPress.net, ou que incluam um sistema de atualização compatível."
 
 #: wp-admin/plugins.php:583
 #: wp-admin/themes.php:197
 msgid "Please note: Third-party themes and plugins, or custom code, may override ClassicPress scheduling."
-msgstr ""
+msgstr "Observação: temas e plugins de terceiros, ou código personalizado, podem substituir o agendamento do ClassicPress."
 
 #: wp-admin/plugins.php:587
 #: wp-admin/themes.php:207
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/plugin-and-theme-auto-updates/\">Documentation on Auto-updates</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/plugin-and-theme-auto-updates/\">Documentação sobre atualizações automáticas</a>"
 
 #: wp-admin/plugins.php:606
 #: wp-admin/update-core.php:265
@@ -17807,7 +17841,7 @@ msgstr "Este modelo de texto ajudará você criar a página de política de priv
 
 #: wp-admin/privacy-policy-guide.php:77
 msgid "The template contains a suggestion of sections you most likely will need. Under each section heading you will find a short summary of what information you should provide, which will help you to get started. Some sections include suggested policy content, others will have to be completed with information from your theme and plugins."
-msgstr ""
+msgstr "O modelo contém uma sugestão das seções de que você provavelmente precisará. Abaixo do título de cada seção, você encontrará um breve resumo das informações que deve fornecer, o que ajudará você a começar. Algumas seções incluem sugestões de conteúdo para a política; outras precisarão ser completadas com informações do seu tema e plugins."
 
 #: wp-admin/privacy-policy-guide.php:78
 msgid "Please edit your privacy policy content, making sure to delete the summaries, and adding any information from your theme and plugins. Once you publish your policy page, remember to add it to your navigation menu."
@@ -17823,12 +17857,12 @@ msgstr "Políticas"
 
 #: wp-admin/privacy.php:47
 msgid "From time to time, your ClassicPress site may send anonymous data to ClassicPress.net. Some examples of the kinds of data that may be sent are the version of ClassicPress your site is running and a list of installed plugins and themes."
-msgstr ""
+msgstr "De tempos em tempos, seu site ClassicPress pode enviar dados anônimos ao ClassicPress.net. Alguns exemplos dos tipos de dados que podem ser enviados são a versão do ClassicPress que seu site está usando e uma lista dos plugins e temas instalados."
 
 #: wp-admin/privacy.php:49
 #, php-format
 msgid "We take privacy and transparency very seriously. To learn more about what data we collect, how we use it, and what precautions we take to ensure site owners&#8217; privacy, please see the <a href=\"%s\">ClassicPress Privacy Policy</a>."
-msgstr ""
+msgstr "Levamos a privacidade e a transparência muito a sério. Para saber mais sobre quais dados coletamos, como os usamos e quais precauções tomamos para garantir a privacidade dos donos de sites, consulte a <a href=\"%s\">Política de privacidade do ClassicPress</a>."
 
 #. translators: %s: Post title.
 #: wp-admin/revision.php:111
@@ -17842,7 +17876,7 @@ msgstr "&larr; Ir para o editor"
 
 #: wp-admin/revision.php:115
 msgid "Go to list of revisions &rarr;"
-msgstr ""
+msgstr "Ir para a lista de revisões &rarr;"
 
 #: wp-admin/revision.php:148
 msgid "This screen is used for managing your content revisions."
@@ -17870,19 +17904,19 @@ msgstr "Para restaurar uma revisão, <strong>clique em Restaurar esta revisão</
 
 #: wp-admin/revision.php:164
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/post-and-page-revisions/\">Revisions Management</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/post-and-page-revisions/\">Gerenciamento de revisões</a>"
 
 #: wp-admin/revision.php:190
 msgid "Current Revision by "
-msgstr ""
+msgstr "Revisão atual por "
 
 #: wp-admin/revision.php:211
 msgid "Earlier Revision"
-msgstr ""
+msgstr "Revisão anterior"
 
 #: wp-admin/revision.php:216
 msgid "Later Revision"
-msgstr ""
+msgstr "Revisão posterior"
 
 #: wp-admin/revision.php:228
 msgctxt "Button label for a previous revision"
@@ -17912,47 +17946,47 @@ msgstr "Ocorreu um erro. A comparação requisitada não pode ser carregada."
 
 #: wp-admin/revisions-list.php:16
 msgid "No post."
-msgstr ""
+msgstr "Nenhum post."
 
 #: wp-admin/revisions-list.php:20
 msgid "Sorry, you are not allowed to review these revisions."
-msgstr ""
+msgstr "Você não tem permissão para analisar estas revisões."
 
 #: wp-admin/revisions-list.php:35
 msgid "You cannot do this."
-msgstr ""
+msgstr "Você não pode fazer isso."
 
 #: wp-admin/revisions-list.php:42
 msgid "No revision ID."
-msgstr ""
+msgstr "Nenhum ID de revisão."
 
 #: wp-admin/revisions-list.php:51
 msgid "Incorrect revision ID."
-msgstr ""
+msgstr "ID de revisão incorreto."
 
 #: wp-admin/revisions-list.php:66
 msgid "Revisions List"
-msgstr ""
+msgstr "Lista de revisões"
 
 #: wp-admin/revisions-list.php:84
 msgid "This screen enables the deletion of unwanted content revisions. Note that, however many revisions you delete, the post itself will not be deleted."
-msgstr ""
+msgstr "Esta tela permite excluir revisões de conteúdo indesejadas. Observe que, independentemente de quantas revisões você excluir, o post em si não será excluído."
 
 #: wp-admin/revisions-list.php:85
 msgid "Revisions are saved copies of your post or page, which are periodically created as you update your content."
-msgstr ""
+msgstr "As revisões são cópias salvas do seu post ou página, criadas periodicamente conforme você atualiza o conteúdo."
 
 #: wp-admin/revisions-list.php:86
 msgid "From this screen you can review a revision by clicking on the corresponding View button."
-msgstr ""
+msgstr "Nesta tela, você pode analisar uma revisão clicando no botão Ver correspondente."
 
 #: wp-admin/revisions-list.php:87
 msgid "To delete a revision, click on the corresponding Delete link."
-msgstr ""
+msgstr "Para excluir uma revisão, clique no link Excluir correspondente."
 
 #: wp-admin/revisions-list.php:101
 msgid "You can also delete multiple revisions at once. Select the revisions you want to act on using the checkboxes, then select the delete action from the Bulk actions menu and click Apply."
-msgstr ""
+msgstr "Você também pode excluir várias revisões de uma vez. Selecione as revisões desejadas usando as caixas de seleção, escolha a ação de excluir no menu Ações em massa e clique em Aplicar."
 
 #: wp-admin/revisions-list.php:106
 msgid "<a href=\"https://wordpress.org/documentation/article/revisions/\">Revisions Management</a>"
@@ -17965,27 +17999,27 @@ msgstr "<a href=\"https://br.wordpress.org/documentation/article/revisions/\">Ge
 #, php-format
 msgid "%s revision permanently deleted."
 msgid_plural "%s revisions permanently deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s revisão excluída permanentemente."
+msgstr[1] "%s revisões excluídas permanentemente."
 
 #: wp-admin/revisions-list.php:175
 msgid "List of Revisions of "
-msgstr ""
+msgstr "Lista de revisões de "
 
 #: wp-admin/revisions-list.php:177
 msgid "&larr; Go to revisions"
-msgstr ""
+msgstr "&larr; Ir para as revisões"
 
 #: wp-admin/revisions-list.php:185
 #, php-format
 msgid "Revision ID %1$d successfully deleted."
-msgstr ""
+msgstr "Revisão de ID %1$d excluída com sucesso."
 
 #. translators: %s: wp-config-sample.php
 #: wp-admin/setup-config.php:52
 #, php-format
 msgid "Sorry, I need a %s file to work from. Please re-upload this file to your ClassicPress installation."
-msgstr ""
+msgstr "É necessário um arquivo %s para continuar. Envie este arquivo novamente para a sua instalação do ClassicPress."
 
 #. translators: 1: wp-config.php, 2: install.php
 #: wp-admin/setup-config.php:63
@@ -17997,7 +18031,7 @@ msgstr "O arquivo %1$s já existe. Se precisa redefinir algum item de configura�
 #: wp-admin/setup-config.php:76
 #, php-format
 msgid "The file %1$s already exists one level above your ClassicPress installation. If you need to reset any of the configuration items in this file, please delete it first. You may try <a href=\"%2$s\">installing now</a>."
-msgstr ""
+msgstr "O arquivo %1$s já existe um nível acima da sua instalação do ClassicPress. Se precisar redefinir algum dos itens de configuração deste arquivo, exclua-o primeiro. Você pode tentar <a href=\"%2$s\">instalar agora</a>."
 
 #: wp-admin/setup-config.php:111
 msgid "ClassicPress &rsaquo; Setup Configuration File"
@@ -18010,7 +18044,7 @@ msgstr "Antes de começar"
 
 #: wp-admin/setup-config.php:166
 msgid "Welcome to ClassicPress. Before getting started, you will need to know the following items."
-msgstr ""
+msgstr "Boas-vindas ao ClassicPress. Antes de começar, você precisará saber os seguintes itens."
 
 #: wp-admin/setup-config.php:170
 msgid "Database password"
@@ -18018,7 +18052,7 @@ msgstr "Senha do banco de dados"
 
 #: wp-admin/setup-config.php:172
 msgid "Table prefix (if you want to run more than one ClassicPress in a single database)"
-msgstr ""
+msgstr "Prefixo das tabelas (se você quiser executar mais de um ClassicPress em um mesmo banco de dados)"
 
 #. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:178
@@ -18040,7 +18074,7 @@ msgstr "Precisa de mais ajuda? <a href=\"%1$s\">Leia o artigo de suporte em %2$s
 
 #: wp-admin/setup-config.php:196
 msgid "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/editing-wp-config-php/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/editing-wp-config-php/"
 
 #: wp-admin/setup-config.php:201
 msgid "In all likelihood, these items were supplied to you by your web host. If you do not have this information, then you will need to contact them before you can continue. If you are ready&hellip;"
@@ -18065,7 +18099,7 @@ msgstr "Nome do banco de dados"
 
 #: wp-admin/setup-config.php:227
 msgid "The name of the database you want to use with ClassicPress."
-msgstr ""
+msgstr "O nome do banco de dados que você quer usar com o ClassicPress."
 
 #: wp-admin/setup-config.php:231
 msgctxt "example username"
@@ -18101,7 +18135,7 @@ msgstr "Prefixo da tabela"
 
 #: wp-admin/setup-config.php:252
 msgid "If you want to run multiple ClassicPress installations in a single database, change this."
-msgstr ""
+msgstr "Se você quiser executar várias instalações do ClassicPress em um único banco de dados, altere isto."
 
 #: wp-admin/setup-config.php:260
 msgid "Submit"
@@ -18160,13 +18194,13 @@ msgstr "Conexão com o banco de dados realizada com sucesso"
 
 #: wp-admin/setup-config.php:525
 msgid "All right, sparky! You&#8217;ve made it through this part of the installation. ClassicPress can now communicate with your database. If you are ready, time now to&hellip;"
-msgstr ""
+msgstr "Tudo certo! Você concluiu esta parte da instalação. O ClassicPress já consegue se comunicar com o seu banco de dados. Se estiver pronto, agora é hora de&hellip;"
 
 #. translators: 1: wp-config.php, 2: Documentation URL.
 #: wp-admin/setup-config.php:534
 #, php-format
 msgid "The %1$s file has been created with open permissions. See <a href=\"%2$s\">Working with wp-config.php file</a> for more information."
-msgstr ""
+msgstr "O arquivo %1$s foi criado com permissões abertas. Consulte <a href=\"%2$s\">Trabalhando com o arquivo wp-config.php</a> para mais informações."
 
 #: wp-admin/site-health-info.php:23
 #: wp-admin/site-health.php:226
@@ -18181,7 +18215,7 @@ msgstr "Informações de diagnóstico"
 #: wp-admin/site-health-info.php:47
 #, php-format
 msgid "This page can show you every detail about the configuration of your ClassicPress website. For any improvements that could be made, see the <a href=\"%s\">Site Health Status</a> page."
-msgstr ""
+msgstr "Esta página pode mostrar todos os detalhes da configuração do seu site ClassicPress. Para ver as melhorias que podem ser feitas, consulte a página <a href=\"%s\">Status do diagnóstico</a>."
 
 #: wp-admin/site-health-info.php:51
 msgid "If you want to export a handy list of all the information on this page, you can use the button below to copy it to the clipboard. You can then paste it in a text file and save it to your device, or paste it in an email exchange with a support engineer or theme/plugin developer for example."
@@ -18227,15 +18261,15 @@ msgstr "Esta tela permite obter um diagnóstico da condição do seu site e most
 
 #: wp-admin/site-health.php:83
 msgid "In the Status tab, you can see critical information about your ClassicPress configuration, along with anything else that requires your attention."
-msgstr ""
+msgstr "Na aba Status, você pode ver informações críticas sobre a configuração do seu ClassicPress, além de qualquer outra coisa que exija sua atenção."
 
 #: wp-admin/site-health.php:84
 msgid "In the Info tab, you will find all the details about the configuration of your ClassicPress site, server, and database. There is also an export feature that allows you to copy all of the information about your site to the clipboard, to help solve problems on your site when obtaining support."
-msgstr ""
+msgstr "Na aba Informação, você encontrará todos os detalhes sobre a configuração do seu site ClassicPress, do servidor e do banco de dados. Há também um recurso de exportação que permite copiar todas as informações do seu site para a área de transferência, o que ajuda a resolver problemas ao buscar suporte."
 
 #: wp-admin/site-health.php:90
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/site-health-screen/\">Documentation on Site Health tool</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/site-health-screen/\">Documentação sobre a ferramenta Diagnóstico</a>"
 
 #: wp-admin/site-health.php:101
 msgid "Site Health"
@@ -18264,7 +18298,7 @@ msgstr "Tudo está correndo bem aqui."
 
 #: wp-admin/site-health.php:254
 msgid "The site health check shows information about your ClassicPress configuration and items that may need your attention."
-msgstr ""
+msgstr "O diagnóstico do site mostra informações sobre a configuração do seu ClassicPress e itens que podem precisar da sua atenção."
 
 #. translators: %s: Number of critical issues found.
 #: wp-admin/site-health.php:260
@@ -18339,11 +18373,11 @@ msgstr "Ao atualizar para uma versão mais recente do mesmo tema, as alteraçõe
 #: wp-admin/theme-editor.php:413
 #: wp-admin/update-core.php:518
 msgid "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/creating-a-child-theme/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/creating-a-child-theme/"
 
 #: wp-admin/theme-editor.php:52
 msgid "<a href=\"https://developer.wordpress.org/themes/classic-themes/\">Documentation on Theme Development</a>"
-msgstr ""
+msgstr "<a href=\"https://developer.wordpress.org/themes/classic-themes/\">Documentação sobre o desenvolvimento de temas</a>"
 
 #: wp-admin/theme-editor.php:231
 msgid "Did you know?"
@@ -18379,7 +18413,7 @@ msgstr "Este é um arquivo em seu tema ascendente atual."
 
 #: wp-admin/theme-editor.php:404
 msgid "You appear to be making direct edits to your theme in the ClassicPress dashboard. It is not recommended! Editing your theme directly could break your site and your changes may be lost in future updates."
-msgstr ""
+msgstr "Parece que você está editando seu tema diretamente no painel do ClassicPress. Isso não é recomendado! Editar seu tema diretamente pode quebrar seu site, e suas alterações podem ser perdidas em atualizações futuras."
 
 #. translators: %s: Link to documentation on child themes.
 #: wp-admin/theme-editor.php:412
@@ -18435,7 +18469,7 @@ msgstr "Visualizando e instalando"
 #: wp-admin/theme-install.php:112
 #: wp-admin/themes.php:212
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/using-themes/\">Documentation on Using Themes</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/using-themes/\">Documentação sobre o uso de temas</a>"
 
 #: wp-admin/theme-install.php:157
 #: wp-admin/theme-install.php:159
@@ -18446,12 +18480,12 @@ msgstr "Enviar tema"
 #: wp-admin/theme-install.php:165
 #, php-format
 msgid "You can browse other themes in the <a href=\"%s\" target=\"_blank\">ClassicPress Directory</a>."
-msgstr ""
+msgstr "Você pode navegar por outros temas no <a href=\"%s\" target=\"_blank\">Diretório do ClassicPress</a>."
 
 #: wp-admin/theme-install.php:177
 #, php-format
 msgid "<a href=\"%1$s\">Install now</a> | ClassicPress Directory Integration plugin: install ClassicPress specific themes from the Appearance Menu."
-msgstr ""
+msgstr "<a href=\"%1$s\">Instalar agora</a> | Plugin ClassicPress Directory Integration: instale temas específicos para o ClassicPress pelo menu Aparência."
 
 #: wp-admin/theme-install.php:184
 msgid "The Theme Installer screen requires JavaScript."
@@ -18473,7 +18507,7 @@ msgstr "Procurar temas"
 
 #: wp-admin/theme-install.php:214
 msgid "Search Themes..."
-msgstr ""
+msgstr "Procurar temas..."
 
 #: wp-admin/theme-install.php:220
 #: wp-admin/theme-install.php:242
@@ -18562,7 +18596,7 @@ msgstr "Instalar temas em Multisite apenas pode ser feito na seção Administra�
 #: wp-admin/themes.php:156
 #, php-format
 msgid "With the <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a> plugin you get access to themes that are built for ClassicPress. They will appear in the Appearance > Install CP Themes screen."
-msgstr ""
+msgstr "Com o plugin <a href=\"%s\"><strong>ClassicPress Directory Integration</strong></a>, você tem acesso a temas criados para o ClassicPress. Eles aparecerão na tela Aparência > Instalar temas CP."
 
 #. translators: %s: https://wordpress.org/themes
 #: wp-admin/themes.php:161
@@ -18741,7 +18775,7 @@ msgstr "O link Conversor de Categorias e Tags nesta tela irá levá-lo para a te
 
 #: wp-admin/tools.php:56
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/tools-screen/\">Documentation on Tools</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/tools-screen/\">Documentação sobre as ferramentas</a>"
 
 #. translators: %s: URL to Import screen.
 #: wp-admin/tools.php:78
@@ -18780,25 +18814,25 @@ msgstr "Reinstalar agora"
 #: wp-admin/update-core.php:81
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requer o PHP na versão %3$s ou superior e o MySQL na versão %4$s ou superior. Você está usando o PHP na versão %5$s e o MySQL na versão %6$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required PHP version number, 4: Current PHP version number
 #: wp-admin/update-core.php:84
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requer o PHP na versão %3$s ou superior. Você está usando a versão %4$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number
 #: wp-admin/update-core.php:87
 #, php-format
 msgid "You cannot update because <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> requer o MySQL na versão %3$s ou superior. Você está usando a versão %4$s."
 
 #. translators: 1: ClassicPress version number, 2: ClassicPress version number including locale if necessary
 #: wp-admin/update-core.php:89
 #, php-format
 msgid "You can update to <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a> automatically:"
-msgstr ""
+msgstr "Você pode atualizar automaticamente para o <a href=\"https://www.classicpress.net/version/%1$s\">ClassicPress %2$s</a>:"
 
 #: wp-admin/update-core.php:134
 #: wp-admin/update-core.php:153
@@ -18811,19 +18845,19 @@ msgstr "Esconder atualizações escondidas"
 
 #: wp-admin/update-core.php:177
 msgid "You are running a development version of ClassicPress."
-msgstr ""
+msgstr "Você está usando uma versão de desenvolvimento do ClassicPress."
 
 #: wp-admin/update-core.php:180
 msgid "Development versions of ClassicPress do not receive automatic updates."
-msgstr ""
+msgstr "As versões de desenvolvimento do ClassicPress não recebem atualizações automáticas."
 
 #: wp-admin/update-core.php:184
 msgid "Unable to determine whether a ClassicPress update is available."
-msgstr ""
+msgstr "Não foi possível determinar se há uma atualização do ClassicPress disponível."
 
 #: wp-admin/update-core.php:187
 msgid "You may be running a customized build of ClassicPress, or your server may be having internet connectivity problems."
-msgstr ""
+msgstr "Você pode estar usando uma versão personalizada do ClassicPress, ou seu servidor pode estar com problemas de conexão com a internet."
 
 #: wp-admin/update-core.php:192
 msgid "You have the latest version of ClassicPress."
@@ -18831,12 +18865,12 @@ msgstr "Você possui a última versão do ClassicPress."
 
 #: wp-admin/update-core.php:201
 msgid "Future security updates should be applied automatically."
-msgstr ""
+msgstr "As futuras atualizações de segurança deverão ser aplicadas automaticamente."
 
 #: wp-admin/update-core.php:209
 #, php-format
 msgid "<strong>Important:</strong> before updating, please <a href=\"%1$s\">back up your database and files</a>. For help with updates, visit the <a href=\"%2$s\">Updating ClassicPress</a> documentation page."
-msgstr ""
+msgstr "<strong>Importante:</strong> antes de atualizar, <a href=\"%1$s\">faça backup do seu banco de dados e arquivos</a>. Para obter ajuda com atualizações, visite a página da documentação <a href=\"%2$s\">Atualizando o ClassicPress</a>."
 
 #: wp-admin/update-core.php:216
 msgid "An updated version of ClassicPress is available."
@@ -18874,33 +18908,33 @@ msgstr "Os seguintes plugins possuem novas versões disponíveis. Marque os que 
 #: wp-admin/update-core.php:389
 #, php-format
 msgid "Compatible with ClassicPress %1$s (according to its author)."
-msgstr ""
+msgstr "Compatível com o ClassicPress %1$s (segundo o autor)."
 
 #: wp-admin/update-core.php:365
 #: wp-admin/update-core.php:391
 #, php-format
 msgid "Potentially compatible with ClassicPress %1$s."
-msgstr ""
+msgstr "Potencialmente compatível com o ClassicPress %1$s."
 
 #: wp-admin/update-core.php:369
 #: wp-admin/update-core.php:395
 #, php-format
 msgid "Expected compatibility with ClassicPress %1$s: Unknown."
-msgstr ""
+msgstr "Compatibilidade esperada com o ClassicPress %1$s: desconhecida."
 
 #: wp-admin/update-core.php:371
 #: wp-admin/update-core.php:397
 msgid "More info."
-msgstr ""
+msgstr "Mais informações."
 
 #: wp-admin/update-core.php:404
 msgid "This update doesn&#8217;t work with your version of PHP."
-msgstr ""
+msgstr "Esta atualização não funciona com a sua versão do PHP."
 
 #: wp-admin/update-core.php:407
 #, php-format
 msgid "<a href=\"%s\">Learn more about updating PHP.</a>"
-msgstr ""
+msgstr "<a href=\"%s\">Saiba mais sobre como atualizar o PHP.</a>"
 
 #. translators: %s: Plugin version.
 #: wp-admin/update-core.php:432
@@ -18939,11 +18973,11 @@ msgstr "Atualizar temas"
 
 #: wp-admin/update-core.php:551
 msgid "This update does not work with your versions of ClassicPress and PHP."
-msgstr ""
+msgstr "Esta atualização não funciona com as suas versões do ClassicPress e do PHP."
 
 #: wp-admin/update-core.php:591
 msgid "This update does not work with your version of ClassicPress."
-msgstr ""
+msgstr "Esta atualização não funciona com a sua versão do ClassicPress."
 
 #: wp-admin/update-core.php:600
 msgid "This update does not work with your version of PHP."
@@ -18964,21 +18998,21 @@ msgstr "Atualizar ClassicPress"
 
 #: wp-admin/update-core.php:774
 msgid "It's possible that an update started, but the server encountered a temporary issue and could not continue."
-msgstr ""
+msgstr "É possível que uma atualização tenha começado, mas o servidor encontrou um problema temporário e não conseguiu continuar."
 
 #: wp-admin/update-core.php:779
 msgid "Or, you may have clicked the update button multiple times."
-msgstr ""
+msgstr "Ou você pode ter clicado no botão de atualizar várias vezes."
 
 #: wp-admin/update-core.php:784
 msgid "Please wait <strong>15 minutes</strong> and try again."
-msgstr ""
+msgstr "Aguarde <strong>15 minutos</strong> e tente novamente."
 
 #. translators: URL to support forum
 #: wp-admin/update-core.php:791
 #, php-format
 msgid "If you see this message after waiting 15 minutes and trying the update again, please make a post on our <a href=\"%s\">support forum</a>."
-msgstr ""
+msgstr "Se você ainda vir esta mensagem depois de esperar 15 minutos e tentar a atualização novamente, crie um tópico em nosso <a href=\"%s\">fórum de suporte</a>."
 
 #: wp-admin/update-core.php:799
 msgid "Installation Failed"
@@ -19019,11 +19053,11 @@ msgstr "Como atualizar"
 
 #: wp-admin/update-core.php:887
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/dashboard-updates-screen/\">Documentation on Updating ClassicPress</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/dashboard-updates-screen/\">Documentação sobre a atualização do ClassicPress</a>"
 
 #: wp-admin/update-core.php:900
 msgid "Here you can find information about updates, set auto-updates and see what plugins or themes need updating."
-msgstr ""
+msgstr "Aqui você encontra informações sobre atualizações, pode configurar atualizações automáticas e ver quais plugins ou temas precisam ser atualizados."
 
 #: wp-admin/update-core.php:906
 msgid "Please select one or more themes to update."
@@ -19109,25 +19143,25 @@ msgstr "Nenhuma atualização necessária"
 
 #: wp-admin/upgrade.php:74
 msgid "Your ClassicPress database is already up to date!"
-msgstr ""
+msgstr "Seu banco de dados do ClassicPress já está atualizado!"
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Minimum required MySQL version number, 5: Current PHP version number, 6: Current MySQL version number.
 #: wp-admin/upgrade.php:100
 #, php-format
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher and MySQL version %4$s or higher. You are running PHP version %5$s and MySQL version %6$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"%1$s\">ClassicPress %2$s</a> requer o PHP na versão %3$s ou superior e o MySQL na versão %4$s ou superior. Você está usando o PHP na versão %5$s e o MySQL na versão %6$s."
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required PHP version number, 4: Current PHP version number.
 #: wp-admin/upgrade.php:111
 #, php-format
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires PHP version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"%1$s\">ClassicPress %2$s</a> requer o PHP na versão %3$s ou superior. Você está usando a versão %4$s."
 
 #. translators: 1: URL to WordPress release notes, 2: WordPress version number, 3: Minimum required MySQL version number, 4: Current MySQL version number.
 #: wp-admin/upgrade.php:120
 #, php-format
 msgid "You cannot update because <a href=\"%1$s\">ClassicPress %2$s</a> requires MySQL version %3$s or higher. You are running version %4$s."
-msgstr ""
+msgstr "Não é possível atualizar porque o <a href=\"%1$s\">ClassicPress %2$s</a> requer o MySQL na versão %3$s ou superior. Você está usando a versão %4$s."
 
 #: wp-admin/upgrade.php:140
 msgid "Database Update Required"
@@ -19135,7 +19169,7 @@ msgstr "Necessária a atualização do banco de dados"
 
 #: wp-admin/upgrade.php:141
 msgid "ClassicPress has been updated! Next and final step is to update your database to the newest version."
-msgstr ""
+msgstr "O ClassicPress foi atualizado! A próxima e última etapa é atualizar seu banco de dados para a versão mais recente."
 
 #: wp-admin/upgrade.php:142
 msgid "The database update process may take a little while, so please be patient."
@@ -19231,7 +19265,7 @@ msgstr "Você pode visualizar a sua mídia em grade ou em lista com colunas. Voc
 
 #: wp-admin/upload.php:136
 msgid "To delete media items, click the <strong>Bulk select</strong> button at the top of the screen. Select any items you wish to delete, then click the <strong>Delete permanently</strong> button. Clicking the <strong>Cancel</strong> button takes you back to viewing your media."
-msgstr ""
+msgstr "Para excluir itens de mídia, clique no botão <strong>Seleção em massa</strong> no topo da tela. Selecione os itens que deseja excluir e clique no botão <strong>Excluir permanentemente</strong>. O botão <strong>Cancelar</strong> leva você de volta à visualização da sua mídia."
 
 #: wp-admin/upload.php:143
 msgid "Attachment Details"
@@ -19243,7 +19277,7 @@ msgstr "Ao clicar em um item uma janela de Detalhes do Anexo será exibida, perm
 
 #: wp-admin/upload.php:146
 msgid "Use the arrow buttons at the top of the dialog, the left and right arrow keys on your keyboard, or swipe left and right on a touch device to navigate between media items."
-msgstr ""
+msgstr "Use os botões de seta no topo da janela, as setas para a esquerda e para a direita do teclado ou deslize para a esquerda e para a direita em um dispositivo de toque para navegar entre os itens de mídia."
 
 #: wp-admin/upload.php:147
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
@@ -19251,7 +19285,7 @@ msgstr "Você também pode excluir itens individualmente e acessar a tela de edi
 
 #: wp-admin/upload.php:153
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/media-library-screen-grid-view/\">Documentation on Media Library</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/media-library-screen-grid-view/\">Documentação sobre a biblioteca de mídia</a>"
 
 #: wp-admin/upload.php:253
 msgid "Close uploader"
@@ -19269,7 +19303,7 @@ msgstr "Filtrar mídia"
 
 #: wp-admin/upload.php:337
 msgid "Media items navigation"
-msgstr ""
+msgstr "Navegação dos itens de mídia"
 
 #. translators: %s: Number of media items showing
 #: wp-admin/upload.php:343
@@ -19289,7 +19323,7 @@ msgstr "Desmarcar"
 #: wp-admin/upload.php:503
 #, php-format
 msgid "Showing %s of %s media items"
-msgstr ""
+msgstr "Mostrando %s de %s itens de mídia"
 
 #: wp-admin/upload.php:508
 msgid "No media items found."
@@ -19315,7 +19349,7 @@ msgstr "Pré-visualização de anexo"
 
 #: wp-admin/upload.php:549
 msgid "Media Navigation"
-msgstr ""
+msgstr "Navegação da mídia"
 
 #: wp-admin/upload.php:580
 msgid "Uploaded on:"
@@ -19438,7 +19472,7 @@ msgstr "Lembre-se de clicar no botão Atualizar perfil quando tiver terminado."
 
 #: wp-admin/user-edit.php:77
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-profile-screen/\">Documentation on User Profiles</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-profile-screen/\">Documentação sobre os perfis de usuário</a>"
 
 #: wp-admin/user-edit.php:103
 #: wp-admin/user-edit.php:135
@@ -19553,7 +19587,7 @@ msgstr "Exibir o nome publicamente como"
 
 #: wp-admin/user-edit.php:576
 msgid "User Taxonomies"
-msgstr ""
+msgstr "Taxonomias de usuário"
 
 #: wp-admin/user-edit.php:623
 msgid "Contact Info"
@@ -19598,7 +19632,7 @@ msgstr "Foto do perfil"
 #: wp-admin/user-edit.php:746
 #, php-format
 msgid "<a href=\"%s\" rel=\"noreferrer\">You can change your profile picture on Gravatar</a>."
-msgstr ""
+msgstr "<a href=\"%s\" rel=\"noreferrer\">Você pode alterar sua foto de perfil no Gravatar</a>."
 
 #: wp-admin/user-edit.php:747
 msgid "https://en.gravatar.com/"
@@ -19705,7 +19739,7 @@ msgstr "Obrigatório para criar uma senha de aplicação, mas não para atualiza
 
 #: wp-admin/user-edit.php:950
 msgid "Add New Application Password"
-msgstr ""
+msgstr "Adicionar nova senha de aplicativo"
 
 #: wp-admin/user-edit.php:955
 msgid "Your website appears to use Basic Authentication, which is not currently compatible with Application Passwords."
@@ -19719,7 +19753,7 @@ msgstr "O recurso de senhas de aplicação requer HTTPS, que não está habilita
 #: wp-admin/user-edit.php:977
 #, php-format
 msgid "If this is a development website you can <a href=\"%s\" target=\"_blank\">set the environment type accordingly</a> to enable application passwords."
-msgstr ""
+msgstr "Se este for um site de desenvolvimento, você pode <a href=\"%s\" target=\"_blank\">definir o tipo de ambiente adequado</a> para ativar as senhas da aplicação."
 
 #: wp-admin/user-edit.php:978
 msgid "https://developer.wordpress.org/apis/wp-config-php/#wp-environment-type"
@@ -19838,7 +19872,7 @@ msgstr "Os administradores possuem acesso a todos os recursos de administração
 
 #: wp-admin/user-new.php:301
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-add-new-screen/\">Documentation on Adding New Users</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-add-new-screen/\">Documentação sobre a adição de novos usuários</a>"
 
 #: wp-admin/user-new.php:336
 msgid "Invitation email sent to new user. A confirmation link must be clicked before their account is created."
@@ -19983,11 +20017,11 @@ msgstr "<strong>Enviar redefinição de senha</strong> envia ao usuário um e-ma
 
 #: wp-admin/users.php:82
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-screen/\">Documentation on Managing Users</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/users-screen/\">Documentação sobre o gerenciamento de usuários</a>"
 
 #: wp-admin/users.php:83
 msgid "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/roles-and-capabilities/\">Descriptions of Roles and Capabilities</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/advanced-classicpress-guides/roles-and-capabilities/\">Descrições de funções e permissões</a>"
 
 #: wp-admin/users.php:89
 msgid "Filter users list"
@@ -20206,7 +20240,7 @@ msgstr "Quando trocar temas, sempre há alguma variação no número e configura
 
 #: wp-admin/widgets-form.php:55
 msgid "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/widgets-screen/\">Documentation on Widgets</a>"
-msgstr ""
+msgstr "<a href=\"https://docs.classicpress.net/user-guides/using-classicpress/widgets-screen/\">Documentação sobre widgets</a>"
 
 #: wp-admin/widgets-form.php:75
 msgid "Inactive Sidebar (not used)"
@@ -20354,7 +20388,7 @@ msgstr "O URL do arquivo foi copiado para à área de transferência"
 
 #: wp-admin/js/customize-controls.js:1205
 msgid "The preview URL has been copied to your clipboard"
-msgstr ""
+msgstr "O URL de visualização foi copiado para a área de transferência"
 
 #: wp-admin/js/edit-comments.js:365
 #: wp-admin/js/edit-comments.js:1012
@@ -20391,7 +20425,7 @@ msgstr "Remover &#8220;%s&#8221; da edição em massa"
 #: wp-admin/js/inline-edit-post.js:396
 #: wp-admin/js/media.js:688
 msgid "Item removed."
-msgstr ""
+msgstr "Item removido."
 
 #: wp-admin/js/inline-edit-post.js:406
 #: wp-admin/js/media.js:700
@@ -20542,7 +20576,7 @@ msgstr "O texto de política sugerido foi copiado para a área de transferência
 
 #: wp-admin/js/set-post-thumbnail.js:11
 msgid "Saving…"
-msgstr ""
+msgstr "Salvando…"
 
 #: wp-admin/js/set-post-thumbnail.js:16
 msgid "Use as featured image"
@@ -20558,7 +20592,7 @@ msgstr "Bom"
 
 #: wp-admin/js/site-health.js:181
 msgid "All site health tests have finished running. Your site is looking good, and the results are now available on the page."
-msgstr ""
+msgstr "Todos os testes de diagnóstico do site foram concluídos. Seu site está em boa forma, e os resultados já estão disponíveis na página."
 
 #: wp-admin/js/site-health.js:185
 msgid "Should be improved"
@@ -20566,7 +20600,7 @@ msgstr "Deve ser melhorado"
 
 #: wp-admin/js/site-health.js:186
 msgid "All site health tests have finished running. There are items that should be addressed, and the results are now available on the page."
-msgstr ""
+msgstr "Todos os testes de diagnóstico do site foram concluídos. Há itens que devem ser corrigidos, e os resultados já estão disponíveis na página."
 
 #: wp-admin/js/site-health.js:211
 msgid "Unavailable"
@@ -20579,11 +20613,11 @@ msgstr "Não há detalhes disponíveis"
 
 #: wp-admin/js/site-health.js:311
 msgid "Please wait..."
-msgstr ""
+msgstr "Aguarde..."
 
 #: wp-admin/js/site-health.js:329
 msgid "All site health tests have finished running."
-msgstr ""
+msgstr "Todos os testes de diagnóstico do site foram concluídos."
 
 #: wp-admin/js/tags-box.js:170
 msgid "Remove term:"

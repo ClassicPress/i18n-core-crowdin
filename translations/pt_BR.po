@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File-ID: 53\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-11-27 12:46\n"
+"PO-Revision-Date: 2026-11-27 18:52\n"
 
 #: wp-activate.php:30
 msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
@@ -662,7 +662,7 @@ msgstr "Novo título de página"
 
 #: wp-includes/class-wp-customize-control.php:693
 msgid "New page title..."
-msgstr ""
+msgstr "Título da nova página..."
 
 #: wp-includes/class-wp-customize-control.php:696
 #: wp-includes/class-wp-customize-control.php:697
@@ -672,11 +672,11 @@ msgstr "Adicionar"
 
 #: wp-includes/class-wp-customize-control.php:696
 msgid "Saving ..."
-msgstr ""
+msgstr "Salvando..."
 
 #: wp-includes/class-wp-customize-control.php:703
 msgid "Please enter a page title"
-msgstr ""
+msgstr "Digite um título para a página"
 
 #: wp-includes/class-wp-customize-manager.php:470
 #: wp-includes/class-wp-xmlrpc-server.php:4036
@@ -807,7 +807,7 @@ msgstr "Sem permissão para assumir o controle."
 
 #: wp-includes/class-wp-customize-manager.php:3833
 msgid "You must be logged in to access the Customizer lock."
-msgstr ""
+msgstr "Você precisa estar conectado para acessar o bloqueio do Personalizador."
 
 #. translators: 1: Panel ID, 2: Link to 'customize_loaded_components' filter reference.
 #: wp-includes/class-wp-customize-manager.php:4156
@@ -1214,7 +1214,7 @@ msgstr "Se seu tema tem múltiplos menus, dar nomes claros a eles ajudará a ger
 #: wp-includes/class-wp-customize-nav-menus.php:528
 #: wp-includes/class-wp-customize-nav-menus.php:1219
 msgid "Add to menu:"
-msgstr ""
+msgstr "Adicionar ao menu:"
 
 #: wp-includes/class-wp-customize-nav-menus.php:529
 msgid "Menu item added"
@@ -1305,19 +1305,19 @@ msgstr "Fechar modo de reorganização"
 
 #: wp-includes/class-wp-customize-nav-menus.php:553
 msgid "Nonce check failed. Please refresh the page."
-msgstr ""
+msgstr "Falha na verificação do nonce. Atualize a página."
 
 #: wp-includes/class-wp-customize-nav-menus.php:554
 msgid "The server rejected the request."
-msgstr ""
+msgstr "O servidor rejeitou a solicitação."
 
 #: wp-includes/class-wp-customize-nav-menus.php:555
 msgid "Unexpected server response: "
-msgstr ""
+msgstr "Resposta inesperada do servidor: "
 
 #: wp-includes/class-wp-customize-nav-menus.php:556
 msgid "Failed to save advanced menu settings:"
-msgstr ""
+msgstr "Falha ao salvar as configurações avançadas do menu:"
 
 #: wp-includes/class-wp-customize-nav-menus.php:573
 msgid "Move up one"
@@ -1474,7 +1474,7 @@ msgstr "Limpar resultados"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1193
 msgid "Please enter a title"
-msgstr ""
+msgstr "Digite um título"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1275
 msgid "Custom Links"
@@ -1514,7 +1514,7 @@ msgstr "Adicionar ao menu"
 
 #: wp-includes/class-wp-customize-nav-menus.php:1319
 msgid "Please enter some link text"
-msgstr ""
+msgstr "Digite o texto do link"
 
 #. translators: %s: The site/panel title in the Customizer.
 #: wp-includes/class-wp-customize-panel.php:345
@@ -3377,144 +3377,144 @@ msgstr "Incorporar manipulador"
 #: wp-includes/class-wp-oembed.php:235
 #, php-format
 msgid "The oEmbed provider data returned by the %1$s filter at key %2$s is malformed. The providers array must be a mapping of provider URL patterns to a tuple array consisting of a provider endpoint URL string at index 0 and an optional boolean regex flag at index 1."
-msgstr ""
+msgstr "Os dados do provedor oEmbed retornados pelo filtro %1$s na chave %2$s estão malformados. A matriz de provedores deve mapear padrões de URL de provedores para uma matriz com o URL do endpoint do provedor (string) no índice 0 e um sinalizador booleano opcional de expressão regular no índice 1."
 
 #: wp-includes/class-wp-phpmailer.php:41
 msgid "SMTP Error: Could not authenticate."
-msgstr ""
+msgstr "Erro de SMTP: não foi possível autenticar."
 
 #. translators: 1: mail.add_x_header. 2: php.ini
 #: wp-includes/class-wp-phpmailer.php:44
 #, php-format
 msgid "Your version of PHP is affected by a bug that may result in corrupted messages. To fix it, switch to sending using SMTP, disable the %1$s option in your %2$s, or switch to MacOS or Linux, or upgrade your PHP version."
-msgstr ""
+msgstr "Sua versão do PHP é afetada por um bug que pode resultar em mensagens corrompidas. Para corrigi-lo, passe a enviar via SMTP, desative a opção %1$s no seu %2$s, mude para macOS ou Linux, ou atualize sua versão do PHP."
 
 #: wp-includes/class-wp-phpmailer.php:48
 msgid "SMTP Error: Could not connect to SMTP host."
-msgstr ""
+msgstr "Erro de SMTP: não foi possível conectar ao servidor SMTP."
 
 #: wp-includes/class-wp-phpmailer.php:49
 msgid "SMTP Error: data not accepted."
-msgstr ""
+msgstr "Erro de SMTP: dados não aceitos."
 
 #: wp-includes/class-wp-phpmailer.php:50
 msgid "Message body empty"
-msgstr ""
+msgstr "Corpo da mensagem vazio"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:52
 msgid "Unknown encoding: "
-msgstr ""
+msgstr "Codificação desconhecida: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:54
 msgid "Could not execute: "
-msgstr ""
+msgstr "Não foi possível executar: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:56
 msgid "Extension missing: "
-msgstr ""
+msgstr "Extensão ausente: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:58
 msgid "Could not access file: "
-msgstr ""
+msgstr "Não foi possível acessar o arquivo: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:60
 msgid "File Error: Could not open file: "
-msgstr ""
+msgstr "Erro de arquivo: não foi possível abrir o arquivo: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:62
 msgid "The following From address failed: "
-msgstr ""
+msgstr "O seguinte endereço de remetente falhou: "
 
 #: wp-includes/class-wp-phpmailer.php:63
 msgid "Could not instantiate mail function."
-msgstr ""
+msgstr "Não foi possível instanciar a função de e-mail."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:65
 msgid "Invalid address: "
-msgstr ""
+msgstr "Endereço inválido: "
 
 #: wp-includes/class-wp-phpmailer.php:66
 msgid "Invalid header name or value"
-msgstr ""
+msgstr "Nome ou valor de cabeçalho inválido"
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:68
 msgid "Invalid hostentry: "
-msgstr ""
+msgstr "Entrada de host inválida: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:70
 msgid "Invalid host: "
-msgstr ""
+msgstr "Host inválido: "
 
 #. translators: There is a space at the beginning.
 #: wp-includes/class-wp-phpmailer.php:72
 msgid " mailer is not supported."
-msgstr ""
+msgstr " não é um mailer compatível."
 
 #: wp-includes/class-wp-phpmailer.php:73
 msgid "You must provide at least one recipient email address."
-msgstr ""
+msgstr "Você precisa informar pelo menos um endereço de e-mail de destinatário."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:75
 msgid "SMTP Error: The following recipients failed: "
-msgstr ""
+msgstr "Erro de SMTP: os seguintes destinatários falharam: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:77
 msgid "Signing Error: "
-msgstr ""
+msgstr "Erro de assinatura: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:79
 msgid "SMTP code: "
-msgstr ""
+msgstr "Código SMTP: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:81
 msgid "Additional SMTP info: "
-msgstr ""
+msgstr "Informações adicionais do SMTP: "
 
 #: wp-includes/class-wp-phpmailer.php:82
 msgid "SMTP connect() failed."
-msgstr ""
+msgstr "Falha no connect() do SMTP."
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:84
 msgid "Detail: "
-msgstr ""
+msgstr "Detalhe: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:86
 msgid "SMTP server error: "
-msgstr ""
+msgstr "Erro do servidor SMTP: "
 
 #. translators: There is a space after the colon.
 #: wp-includes/class-wp-phpmailer.php:88
 msgid "Cannot set or reset variable: "
-msgstr ""
+msgstr "Não foi possível definir ou redefinir a variável: "
 
 #: wp-includes/class-wp-phpmailer.php:89
 msgid "Server does not support SMTPUTF8 needed to send to Unicode addresses"
-msgstr ""
+msgstr "O servidor não é compatível com SMTPUTF8, necessário para enviar para endereços Unicode"
 
 #: wp-includes/class-wp-phpmailer.php:90
 msgid "Using simplified address parser is not recommended. Install the PHP IMAP extension for full RFC822 parsing."
-msgstr ""
+msgstr "O uso do analisador de endereços simplificado não é recomendado. Instale a extensão IMAP do PHP para uma análise completa conforme a RFC822."
 
 #. translators: %s: $useimap
 #: wp-includes/class-wp-phpmailer.php:92
 #, php-format
 msgid "Argument %s is deprecated"
-msgstr ""
+msgstr "O argumento %s está obsoleto"
 
 #: wp-includes/class-wp-post-type.php:800
 msgctxt "post type general name"
@@ -3849,7 +3849,17 @@ msgid "Howdy!\n\n"
 "When seeking help with this issue, you may be asked for some of the following information:\n"
 "###DEBUG###\n\n"
 "###DETAILS###"
-msgstr ""
+msgstr "Olá!\n\n"
+"O ClassicPress tem um recurso integrado que detecta quando um plugin ou tema causa um erro fatal em seu site e notifica você com este e-mail automático.\n"
+"###CAUSE###\n"
+"Primeiro, visite seu site (###SITEURL###) e verifique se há algum problema visível. Em seguida, visite a página onde o erro foi detectado (###PAGEURL###) e verifique se há algum problema visível.\n\n"
+"###SUPPORT###\n\n"
+"Se o seu site parecer quebrado e você não conseguir acessar o painel normalmente, o ClassicPress agora tem um \"modo de recuperação\" especial. Ele permite que você acesse o painel com segurança e investigue mais a fundo.\n\n"
+"###LINK###\n\n"
+"Para manter seu site seguro, este link expirará em ###EXPIRES###. Mas não se preocupe: um novo link será enviado por e-mail se o erro ocorrer novamente depois que ele expirar.\n\n"
+"Ao buscar ajuda para este problema, podem ser solicitadas algumas das seguintes informações:\n"
+"###DEBUG###\n\n"
+"###DETAILS###"
 
 #. translators: %s: Site title.
 #: wp-includes/class-wp-recovery-mode-email-service.php:200
@@ -4495,7 +4505,7 @@ msgstr "Sem permissão para fixar posts."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1467
 msgid "Sorry, this post type is not supported over XML-RPC."
-msgstr ""
+msgstr "Este tipo de post não é compatível com XML-RPC."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1474
 #: wp-includes/class-wp-xmlrpc-server.php:1777
@@ -5213,11 +5223,11 @@ msgstr "Temas nesta lista podem ter problemas."
 
 #: wp-includes/classicpress/class-cp-settings.php:96
 msgid "Failed to delete the file: "
-msgstr ""
+msgstr "Falha ao excluir o arquivo: "
 
 #: wp-includes/classicpress/class-cp-settings.php:111
 msgid "Failed to copy object-cache.php to wp-content folder."
-msgstr ""
+msgstr "Falha ao copiar o object-cache.php para a pasta wp-content."
 
 #. Translators: %1$s is the plugin name.
 #. Translators: %1$s is the theme name.
@@ -5635,7 +5645,7 @@ msgstr "Selecionar Imagem"
 #: wp-includes/customize/class-wp-customize-background-image-control.php:112
 #: wp-includes/customize/class-wp-customize-background-image-control.php:136
 msgid "Change Image"
-msgstr ""
+msgstr "Alterar imagem"
 
 #: wp-includes/customize/class-wp-customize-background-position-control.php:39
 msgid "Top Left"
@@ -5655,7 +5665,7 @@ msgstr "Em baixo à direita"
 
 #: wp-includes/customize/class-wp-customize-color-control.php:116
 msgid "Custom Color Hue"
-msgstr ""
+msgstr "Matiz de cor personalizada"
 
 #: wp-includes/customize/class-wp-customize-custom-css-setting.php:167
 msgid "Markup is not allowed in CSS."
@@ -5844,7 +5854,7 @@ msgstr "Remover item do menu: %1$s (%2$s)"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:104
 msgid "Menu Item Settings"
-msgstr ""
+msgstr "Configurações do item de menu"
 
 #: wp-includes/customize/class-wp-customize-nav-menu-item-control.php:127
 msgid "Navigation Label"
@@ -5906,11 +5916,11 @@ msgstr "Render parcial deve exibir conteúdo ou retornar o conteúdo como string
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:179
 msgid "Shift-click to edit this menu."
-msgstr ""
+msgstr "Shift + clique para editar este menu."
 
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:181
 msgid "Shift-click to edit the site title."
-msgstr ""
+msgstr "Shift + clique para editar o título do site."
 
 #. translators: %s: document.write()
 #: wp-includes/customize/class-wp-customize-selective-refresh.php:184
@@ -5975,22 +5985,22 @@ msgstr "Visualização do tema: %s"
 #: wp-includes/customize/class-wp-customize-theme-control.php:190
 #, php-format
 msgid "Screenshot of theme: %s"
-msgstr ""
+msgstr "Captura de tela do tema: %s"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:239
 msgid "Incompatible Theme"
-msgstr ""
+msgstr "Tema incompatível"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:246
 msgid "This theme doesn't support ClassicPress."
-msgstr ""
+msgstr "Este tema não é compatível com o ClassicPress."
 
 #. translators: %s: Theme name.
 #: wp-includes/customize/class-wp-customize-theme-control.php:267
 #, php-format
 msgctxt "theme"
 msgid "Live preview theme %s"
-msgstr ""
+msgstr "Visualizar o tema %s ao vivo"
 
 #: wp-includes/customize/class-wp-customize-theme-control.php:273
 #: wp-includes/customize/class-wp-customize-theme-control.php:284
@@ -6264,7 +6274,7 @@ msgstr "Utilize o filtro %s no lugar."
 #: wp-includes/feed.php:861
 #, php-format
 msgid "Error fetching feed %1$s: %2$s"
-msgstr ""
+msgstr "Erro ao buscar o feed %1$s: %2$s"
 
 #. translators: Opening curly double quote.
 #: wp-includes/formatting.php:84
@@ -6339,7 +6349,7 @@ msgstr "d&#8217;água"
 msgid "%s second"
 msgid_plural "%s seconds"
 msgstr[0] "%s segundo"
-msgstr[1] ""
+msgstr[1] "%s segundos"
 
 #. translators: Time difference between two dates, in minutes (min=minute). %s: Number of minutes.
 #: wp-includes/formatting.php:3890
@@ -6812,7 +6822,7 @@ msgstr "Não passe tags %1$s para %2$s."
 
 #: wp-includes/functions.wp-scripts.php:185
 msgid "Use the `$args` parameter instead."
-msgstr ""
+msgstr "Use o parâmetro `$args`."
 
 #. translators: 1: Script name, 2: wp_enqueue_scripts
 #: wp-includes/functions.wp-scripts.php:332
@@ -9467,7 +9477,7 @@ msgstr "A API REST %1$s deve ser um array de arrays. Valor não array detectado 
 
 #: wp-includes/rest-api.php:363
 msgid "The REST route parameter must be a string."
-msgstr ""
+msgstr "O parâmetro de rota da REST precisa ser uma string."
 
 #. translators: 1: Function name, 2: WordPress version number, 3: New function name.
 #: wp-includes/rest-api.php:630
@@ -12031,15 +12041,15 @@ msgstr "Recortar imagem"
 
 #: wp-includes/script-loader.php:626
 msgid "Close crop dialog"
-msgstr ""
+msgstr "Fechar a janela de recorte"
 
 #: wp-includes/script-loader.php:627
 msgid "Image to crop"
-msgstr ""
+msgstr "Imagem para recortar"
 
 #: wp-includes/script-loader.php:628
 msgid "You can skip cropping if you do not need to adjust the image."
-msgstr ""
+msgstr "Você pode pular o recorte se não precisar ajustar a imagem."
 
 #: wp-includes/script-loader.php:629
 msgid "Skip Cropping"
@@ -12047,7 +12057,7 @@ msgstr "Pular recorte"
 
 #: wp-includes/script-loader.php:630
 msgid "Saving"
-msgstr ""
+msgstr "Salvando"
 
 #. translators: Number of results found when using jQuery UI Autocomplete.
 #: wp-includes/script-loader.php:705
@@ -12204,7 +12214,7 @@ msgstr "Arraste e solte seus arquivos ou <span class=\"filepond--label-action\">
 
 #: wp-includes/script-loader.php:810
 msgid "Drag & Drop your zip file or <span class=\"filepond--label-action\">Browse</span>"
-msgstr ""
+msgstr "Arraste e solte seu arquivo zip ou <span class=\"filepond--label-action\">procure</span>"
 
 #: wp-includes/script-loader.php:811
 msgid "Field contains invalid files"
@@ -12639,7 +12649,7 @@ msgstr "Rascunho salvo"
 
 #: wp-includes/script-loader.php:1094
 msgid "Page could not be created"
-msgstr ""
+msgstr "Não foi possível criar a página"
 
 #: wp-includes/script-loader.php:1095
 msgid "Updating"
@@ -12647,7 +12657,7 @@ msgstr "Atualizando"
 
 #: wp-includes/script-loader.php:1096
 msgid "Customizing:"
-msgstr ""
+msgstr "Personalizando:"
 
 #: wp-includes/script-loader.php:1097
 msgctxt "customizer changeset action/button label"
@@ -12784,11 +12794,11 @@ msgstr "Tema ativo"
 
 #: wp-includes/script-loader.php:1166
 msgid "Current:"
-msgstr ""
+msgstr "Atual:"
 
 #: wp-includes/script-loader.php:1167
 msgid "Currently set to:"
-msgstr ""
+msgstr "Definido atualmente como:"
 
 #: wp-includes/script-loader.php:1169
 #: wp-includes/script-loader.php:1403
@@ -12830,7 +12840,7 @@ msgstr "Dispensar este aviso."
 
 #: wp-includes/script-loader.php:1218
 msgid "Tag successfully deleted."
-msgstr ""
+msgstr "Tag excluída com sucesso."
 
 #: wp-includes/script-loader.php:1272
 msgid "Add New Theme"
@@ -12883,7 +12893,7 @@ msgstr "Selecione um ou mais recursos do tema para filtrar"
 
 #: wp-includes/script-loader.php:1290
 msgid "Version"
-msgstr ""
+msgstr "Versão"
 
 #: wp-includes/script-loader.php:1291
 msgid "Installing..."
@@ -12899,7 +12909,7 @@ msgstr "Instalado"
 
 #: wp-includes/script-loader.php:1295
 msgid "ratings"
-msgstr ""
+msgstr "avaliações"
 
 #: wp-includes/script-loader.php:1296
 msgid "Cannot Activate"
@@ -15065,7 +15075,7 @@ msgstr "Editar mídia"
 msgid "Media Widget (%d)"
 msgid_plural "Media Widget (%d)"
 msgstr[0] "Widget de mídia (%d)"
-msgstr[1] ""
+msgstr[1] "Widgets de mídia (%d)"
 
 #: wp-includes/widgets/class-wp-widget-media.php:464
 msgid "Media Widget"
@@ -15213,43 +15223,43 @@ msgstr "Texto"
 
 #: wp-includes/widgets/class-wp-widget-text.php:472
 msgid "Cancel gallery"
-msgstr ""
+msgstr "Cancelar galeria"
 
 #: wp-includes/widgets/class-wp-widget-text.php:473
 msgid "Cancel audio playlist"
-msgstr ""
+msgstr "Cancelar lista de reprodução de áudio"
 
 #: wp-includes/widgets/class-wp-widget-text.php:474
 msgid "Cancel video playlist"
-msgstr ""
+msgstr "Cancelar lista de reprodução de vídeo"
 
 #: wp-includes/widgets/class-wp-widget-text.php:496
 msgid "item selected"
-msgstr ""
+msgstr "item selecionado"
 
 #: wp-includes/widgets/class-wp-widget-text.php:497
 msgid "items selected"
-msgstr ""
+msgstr "itens selecionados"
 
 #: wp-includes/widgets/class-wp-widget-text.php:500
 msgid "Wrong URL"
-msgstr ""
+msgstr "URL incorreto"
 
 #: wp-includes/widgets/class-wp-widget-text.php:502
 msgid "Unsupported file type"
-msgstr ""
+msgstr "Tipo de arquivo não suportado"
 
 #: wp-includes/widgets/class-wp-widget-text.php:511
 msgid "New filename"
-msgstr ""
+msgstr "Novo nome de arquivo"
 
 #: wp-includes/widgets/class-wp-widget-text.php:512
 msgid "Invalid type"
-msgstr ""
+msgstr "Tipo inválido"
 
 #: wp-includes/widgets/class-wp-widget-text.php:513
 msgid "Check types"
-msgstr ""
+msgstr "Verificar tipos"
 
 #: wp-includes/widgets/class-wp-widget-text.php:612
 msgid "This widget may contain code that may work better in the &#8220;Custom HTML&#8221; widget. How about trying that widget instead?"
@@ -15333,7 +15343,7 @@ msgstr "Verifique se o <strong>e-mail de administração</strong> deste site con
 #. translators: URL to the WordPress help section about admin email.
 #: wp-login.php:656
 msgid "https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/#administration-email-address"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/using-classicpress/settings-general-screen/#administration-email-address"
 
 #: wp-login.php:667
 msgid "Why is this important?"
@@ -15482,7 +15492,7 @@ msgstr "<strong>Erro:</strong> os cookies estão bloqueados devido a um resultad
 #: wp-login.php:1316
 #: wp-login.php:1327
 msgid "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/cookies/"
-msgstr ""
+msgstr "https://docs.classicpress.net/user-guides/advanced-classicpress-guides/cookies/"
 
 #. translators: %s: Browser cookie documentation URL.
 #: wp-login.php:1326
